@@ -5,13 +5,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{% block title %}OutdoorParts Guide | Correspondances Pièces & Consommables Extérieurs{% endblock %}</title>
   <meta name="description" content="{% block description %}Guide technique indépendant de correspondances exactes pour pièces d'usure, consommables, filtres et télécommandes de remplacement (Jardin, Piscine, Domotique, Outillage).{% endblock %}">
-  <link rel="canonical" href="{{ site_base_url }}/{% block canonical %}{% endblock %}">
+  <link rel="canonical" href="{% block canonical %}{{ site_base_url }}/index.html{% endblock %}">
   
   <!-- Open Graph / Meta IA -->
   <meta property="og:type" content="article">
   <meta property="og:title" content="{% block og_title %}OutdoorParts Guide - Références Exactes & Consommables{% endblock %}">
   <meta property="og:description" content="{% block og_description %}Trouvez en 1 clic les correspondances certifiées de pièces d'usure et consommables sans erreur 404.{% endblock %}">
-  <meta property="og:url" content="{{ site_base_url }}/{% block og_url %}{% endblock %}">
+  <meta property="og:url" content="{% block og_url %}{{ site_base_url }}/index.html{% endblock %}">
   <meta property="og:site_name" content="OutdoorParts Guide">
   
   <!-- Validation Google Search Console -->

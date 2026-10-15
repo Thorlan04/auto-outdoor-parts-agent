@@ -2,7 +2,7 @@
 
 {% block title %}{{ guide.title }} | Correspondances Pièces & Références Exactes{% endblock %}
 {% block description %}{{ guide.meta_description }}{% endblock %}
-{% block canonical %}guides/{{ guide.slug }}.html{% endblock %}
+{% block canonical %}{{ site_base_url }}/guides/{{ guide.slug }}.html{% endblock %}
 {% block og_title %}{{ guide.title }}{% endblock %}
 {% block og_description %}{{ guide.meta_description }}{% endblock %}
 {% block og_url %}{{ site_base_url }}/guides/{{ guide.slug }}.html{% endblock %}
