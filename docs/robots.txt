@@ -21,4 +21,4 @@ Allow: /
 User-agent: Applebot-Extended
 Allow: /
 
-Sitemap: https://alexandre-martin.github.io/auto-outdoor-parts-agent/sitemap.xml
+Sitemap: https://Thorlan04.github.io/auto-outdoor-parts-agent/sitemap.xml

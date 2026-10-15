@@ -30,7 +30,7 @@ class AIBroadcaster:
 
         self.site_base_url = os.environ.get(
             "SITE_BASE_URL",
-            "https://alexandre-martin.github.io/auto-outdoor-parts-agent"
+            "https://Thorlan04.github.io/auto-outdoor-parts-agent"
         ).rstrip("/")
         self.partner_tag = os.environ.get("AMAZON_PARTNER_TAG", "outdoorparts-21").strip()
 

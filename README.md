@@ -3,8 +3,8 @@
 > *Independent exact-match technical directory for wearable parts, consumables, filters, and replacement remote controls (2020–2026).*
 
 [![Autopilot Workflow](https://github.com/alexandre-martin/auto-outdoor-parts-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/alexandre-martin/auto-outdoor-parts-agent/actions)
-[![LLMs Standard](https://img.shields.io/badge/LLMs.txt-Compliant-brightgreen.svg)](https://alexandre-martin.github.io/auto-outdoor-parts-agent/llms.txt)
-[![Zero 404 Links](https://img.shields.io/badge/Amazon%20Search-Zero%20404-orange.svg)](https://alexandre-martin.github.io/auto-outdoor-parts-agent/)
+[![LLMs Standard](https://img.shields.io/badge/LLMs.txt-Compliant-brightgreen.svg)](https://Thorlan04.github.io/auto-outdoor-parts-agent/llms.txt)
+[![Zero 404 Links](https://img.shields.io/badge/Amazon%20Search-Zero%20404-orange.svg)](https://Thorlan04.github.io/auto-outdoor-parts-agent/)
 [![Micro-Enterprise BNC](https://img.shields.io/badge/Tax%20Compliance-Micro--BNC%205HQ-blue.svg)](file:///compta_impots/livre_des_recettes_officiel.csv)
 
 ---
@@ -26,26 +26,28 @@
 ## 🤖 Endpoints & Standards pour Agents IA (GEO)
 
 Les agents autonomes (ChatGPT Search, Perplexity, Claude, Bing Copilot) peuvent ingérer le catalogue directement via :
-- **Fichier condensé LLMs :** [`https://alexandre-martin.github.io/auto-outdoor-parts-agent/llms.txt`](https://alexandre-martin.github.io/auto-outdoor-parts-agent/llms.txt)
-- **Fichier d'ingestion complet :** [`https://alexandre-martin.github.io/auto-outdoor-parts-agent/llms-full.txt`](https://alexandre-martin.github.io/auto-outdoor-parts-agent/llms-full.txt)
-- **API REST JSON Open Data :** [`https://alexandre-martin.github.io/auto-outdoor-parts-agent/api/v1/catalog.json`](https://alexandre-martin.github.io/auto-outdoor-parts-agent/api/v1/catalog.json)
-- **Spécification OpenAPI 3.0 :** [`https://alexandre-martin.github.io/auto-outdoor-parts-agent/.well-known/openapi.json`](https://alexandre-martin.github.io/auto-outdoor-parts-agent/.well-known/openapi.json)
-- **Flux RSS :** [`https://alexandre-martin.github.io/auto-outdoor-parts-agent/feed.xml`](https://alexandre-martin.github.io/auto-outdoor-parts-agent/feed.xml)
+- **Fichier condensé LLMs :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/llms.txt`](https://Thorlan04.github.io/auto-outdoor-parts-agent/llms.txt)
+- **Fichier d'ingestion complet :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/llms-full.txt`](https://Thorlan04.github.io/auto-outdoor-parts-agent/llms-full.txt)
+- **API REST JSON Open Data :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/catalog.json`](https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/catalog.json)
+- **Spécification OpenAPI 3.0 :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json`](https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json)
+- **Flux RSS :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/feed.xml`](https://Thorlan04.github.io/auto-outdoor-parts-agent/feed.xml)
 
 ---
 
-## 📋 Répertoire Technique des Modèles Référencés (8 modèles &middot; 28 pièces)
+## 📋 Répertoire Technique des Modèles Référencés (10 modèles &middot; 33 pièces)
 
 | Marque | Modèle d'Équipement | Secteur | Réf. OEM / Cotes Clés | Recherche Sécurisée Amazon |
 |:---|:---|:---|:---|:---|
-| **Maytronics (Dolphin)** | [Dolphin E20 / E10 / S200](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM 9991467-ASSY / 50 microns` | [Trouver sur Amazon](https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=outdoorparts-21) |
-| **Intex** | [PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html) | `Piscine, Spa & Robots Nettoyeurs` | `Intex 29001E / H 7.3cm x D 10.8cm` | [Trouver sur Amazon](https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=outdoorparts-21) |
-| **Zodiac** | [TornaX RT 3200 / OT 3200 / RT 2100](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM R0762900 / 100 microns rigide` | [Trouver sur Amazon](https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=outdoorparts-21) |
-| **Bestway** | [Lay-Z-Spa Miami / Paris / Hawaii AirJet](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html) | `Piscine, Spa & Robots Nettoyeurs` | `Bestway 58323 / H 8.0cm x D 10.6cm` | [Trouver sur Amazon](https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=outdoorparts-21) |
-| **Kärcher** | [K5 Power Control / Full Control / Premium](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/karcher-k5-power-control-nettoyeur-hp.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 6.396-429.0 / Raccords Quick Connect jaunes` | [Trouver sur Amazon](https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=outdoorparts-21) |
-| **Kärcher** | [Kärcher WD3 / WD3 S V-17/4/20 / Premium](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 6.414-552.0 / Avec vis de verrouillage` | [Trouver sur Amazon](https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=outdoorparts-21) |
-| **Stihl** | [Stihl MS 170 / MS 180 / MS 171](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/stihl-ms-170-tronconneuse-thermique.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `Stihl 3610-000-0044 / Picco Micro Mini 3 (PMM3)` | [Trouver sur Amazon](https://www.amazon.fr/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=outdoorparts-21) |
-| **Husqvarna / Gardena** | [Automower 305 / 310 / 405X / Gardena Sileno](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 595 08 44-01 / Épaisseur 0.75mm / Vis revêtues frein filet` | [Trouver sur Amazon](https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=outdoorparts-21) |
+| **Maytronics (Dolphin)** | [Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM 9991467-ASSY / 50 microns` | [Trouver sur Amazon](https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=outdoorparts-21) |
+| **Intex** | [PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html) | `Piscine, Spa & Robots Nettoyeurs` | `Intex 29001E / H 7.3cm x D 10.8cm` | [Trouver sur Amazon](https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=outdoorparts-21) |
+| **Zodiac** | [TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM R0762900 / 100 microns rigide` | [Trouver sur Amazon](https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=outdoorparts-21) |
+| **Bestway** | [Lay-Z-Spa Miami / Paris / Hawaii AirJet](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html) | `Piscine, Spa & Robots Nettoyeurs` | `Bestway 58323 / H 8.0cm x D 10.6cm` | [Trouver sur Amazon](https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=outdoorparts-21) |
+| **Kärcher** | [K5 Power Control / Full Control / Premium](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k5-power-control-nettoyeur-hp.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 6.396-429.0 / Raccords Quick Connect jaunes` | [Trouver sur Amazon](https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=outdoorparts-21) |
+| **Kärcher** | [Kärcher WD3 / WD3 S V-17/4/20 / Premium](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 6.414-552.0 / Avec vis de verrouillage` | [Trouver sur Amazon](https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=outdoorparts-21) |
+| **Stihl** | [Stihl MS 170 / MS 180 / MS 171](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-ms-170-tronconneuse-thermique.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `Stihl 3610-000-0044 / Picco Micro Mini 3 (PMM3)` | [Trouver sur Amazon](https://www.amazon.fr/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=outdoorparts-21) |
+| **Husqvarna / Gardena** | [Automower 305 / 310 / 405X / Gardena Sileno](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 595 08 44-01 / Épaisseur 0.75mm / Vis revêtues frein filet` | [Trouver sur Amazon](https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=outdoorparts-21) |
+| **Somfy** | [Keypop 2 RTS / Keytis 4 RTS / io](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/somfy-keypop-keytis-rts-io-telecommande.html) | `Domotique Portail, Garage & Énergie de Secours` | `Fréquence 433.42 MHz RTS / Compatible moteurs Axovia, SGS, Elixo` | [Trouver sur Amazon](https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=outdoorparts-21) |
+| **Came** | [TOP 432EE / TOP 432NA / TOP 432EV](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/came-top-432ee-telecommande-portail.html) | `Domotique Portail, Garage & Énergie de Secours` | `OEM 001TOP-432EE / 433.92 MHz Code Fixe` | [Trouver sur Amazon](https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=outdoorparts-21) |
 
 ---
 
@@ -118,4 +120,4 @@ python src/compta_manager.py
 - **Protection de la vie privée (RGPD) :** Site statique 100% exempté de bandeau cookies CNIL (zéro cookie tiers, zéro pistage publicitaire).
 - **Marques citées :** Citées uniquement à des fins d'information et d'indication de compatibilité technique (Article L. 713-6 du Code de la Propriété Intellectuelle).
 
-*Dernière synchronisation automatique : 2026-10-15 19:46 UTC*
+*Dernière synchronisation automatique : 2026-10-15 19:53 UTC*

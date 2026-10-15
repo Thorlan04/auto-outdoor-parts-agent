@@ -824,7 +824,7 @@ class AgentEngine:
 
         # Chargement de la configuration environnement
         self.partner_tag = os.environ.get("AMAZON_PARTNER_TAG", "outdoorparts-21").strip()
-        self.site_base_url = os.environ.get("SITE_BASE_URL", "https://alexandre-martin.github.io/auto-outdoor-parts-agent").rstrip("/")
+        self.site_base_url = os.environ.get("SITE_BASE_URL", "https://Thorlan04.github.io/auto-outdoor-parts-agent").rstrip("/")
         self.editor_name = os.environ.get("EDITOR_NAME", "Alexandre Martin")
         self.editor_siret = os.environ.get("EDITOR_SIRET", "91234567800012")
         self.editor_address = os.environ.get("EDITOR_ADDRESS", "12 rue de la Paix, 75002 Paris, France")

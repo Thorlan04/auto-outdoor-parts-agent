@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-15T19:46:42.530699+00:00",
-  "site_base_url": "https://alexandre-martin.github.io/auto-outdoor-parts-agent",
+  "updated_at": "2026-10-15T19:53:34.264286+00:00",
+  "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "outdoorparts-21",
-  "total_models": 8,
-  "total_parts": 28,
+  "total_models": 10,
+  "total_parts": 33,
   "models": [
     {
       "slug": "dolphin-e20-maytronics-robot-piscine",
@@ -560,6 +560,120 @@
         {
           "question": "Pourquoi les lames du robot tondeuse doivent-elles pivoter librement ?",
           "answer": "La rotation libre permet à la lame de s'escamoter en cas de contact avec une pomme de pin ou un caillou, évitant de tordre le plateau ou d'éjecter un éclat métallique."
+        }
+      ],
+      "date_published": "2026-10-15",
+      "date_modified": "2026-10-15",
+      "date_modified_fr": "15/10/2026"
+    },
+    {
+      "slug": "somfy-keypop-keytis-rts-io-telecommande",
+      "category_id": "domotique-energie",
+      "category_name": "Domotique Portail, Garage & Énergie de Secours",
+      "brand": "Somfy",
+      "model_name": "Keypop 2 RTS / Keytis 4 RTS / io",
+      "years_range": "2020-2026",
+      "title": "Télécommandes Somfy Keypop & Keytis : Piles CR2430 & Procédures",
+      "summary": "Correspondances exactes télécommandes Somfy 433.42 MHz (RTS) et 868 MHz (io) : piles bouton CR2430, boîtiers et appairage officiel.",
+      "meta_description": "Télécommandes compatibles Somfy Keypop 2 RTS et Keytis, piles lithium CR2430 et CR2032. Fréquences certifiées 433.42 MHz sans erreur 404.",
+      "parts": [
+        {
+          "name": "Télécommande 2 Canaux Compatible Somfy RTS (433.42 MHz)",
+          "tag": "Émetteur de Remplacement",
+          "oem_or_dimension": "Fréquence 433.42 MHz RTS / Compatible moteurs Axovia, SGS, Elixo",
+          "wear_symptom": "Boutons enfoncés, portée radio tombée à moins de 2 mètres, boîtier cassé",
+          "replacement_interval": "Remplacement en cas de perte ou défaillance",
+          "technical_detail": "Protocole radio RTS propriétaire Somfy, coque renforcée avec anneau porte-clés.",
+          "search_query": "telecommande compatible somfy rts 433.42 mhz keypop",
+          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=outdoorparts-21"
+        },
+        {
+          "name": "Piles Bouton Lithium CR2430 3V Haute Capacité (Lot de 5)",
+          "tag": "Alimentation Émetteur",
+          "oem_or_dimension": "CR2430 / Tension 3 Volts / Capacité 300mAh",
+          "wear_symptom": "Voyant LED faible ou clignotement saccadé à l'appui",
+          "replacement_interval": "Tous les 2 ans",
+          "technical_detail": "Plage de température étendue (-20°C à +60°C) pour fonctionnement hivernal garanti.",
+          "search_query": "pile cr2430 3v lithium somfy",
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=outdoorparts-21"
+        },
+        {
+          "name": "Piles Bouton Lithium CR2032 3V (Pour modèles Keypop récents)",
+          "tag": "Alimentation Keypop 2",
+          "oem_or_dimension": "CR2032 / Diamètre 20mm x Épaisseur 3.2mm",
+          "wear_symptom": "Non-réponse du portail",
+          "replacement_interval": "Tous les 2 ans",
+          "technical_detail": "Technologie lithium dioxyde de manganèse à faible autodécharge.",
+          "search_query": "pile cr2032 3v energizer",
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=outdoorparts-21"
+        }
+      ],
+      "procedure_steps": [
+        {
+          "title": "Identification du protocole radio (RTS vs io)",
+          "description": "Vérifiez l'étiquette au dos de l'ancienne télécommande : 'RTS' (433.42 MHz, LED rouge) ou 'io' (868.95 MHz, LED verte). Les deux fréquences ne sont pas interchangeables."
+        },
+        {
+          "title": "Procédure d'appairage depuis une télécommande existante (Sans ouvrir le moteur)",
+          "description": "Prenez une télécommande déjà en service. Appuyez sur son bouton caché 'PROG' au dos jusqu'à ce que le portail fasse un bref va-et-vient. Puis appuyez immédiatement sur le bouton de la nouvelle télécommande : le portail confirme par un second mouvement."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Peut-on appairer une nouvelle télécommande Somfy sans toucher au boîtier du moteur ?",
+          "answer": "Oui, la fonction 'Prog' radio permet de cloner l'autorisation depuis une télécommande en fonctionnement en moins de 10 secondes."
+        }
+      ],
+      "date_published": "2026-10-15",
+      "date_modified": "2026-10-15",
+      "date_modified_fr": "15/10/2026"
+    },
+    {
+      "slug": "came-top-432ee-telecommande-portail",
+      "category_id": "domotique-energie",
+      "category_name": "Domotique Portail, Garage & Énergie de Secours",
+      "brand": "Came",
+      "model_name": "TOP 432EE / TOP 432NA / TOP 432EV",
+      "years_range": "2020-2026",
+      "title": "Came TOP 432EE : Télécommandes 433.92 MHz, Piles CR2016 & Clonage",
+      "summary": "Correspondances officielles télécommandes Came TOP 432EE / 432NA : fréquence 433.92 MHz code fixe, piles CR2016 et méthode d'auto-apprentissage.",
+      "meta_description": "Télécommandes d'origine et compatibles Came TOP 432EE 433.92 MHz, piles CR2016. Procédure de clonage direct sans toucher au moteur.",
+      "parts": [
+        {
+          "name": "Télécommande 2 Canaux 433.92 MHz Came TOP 432EE",
+          "tag": "Émetteur Référence",
+          "oem_or_dimension": "OEM 001TOP-432EE / 433.92 MHz Code Fixe",
+          "wear_symptom": "Boîtier fissuré, touches usées, perte de portée",
+          "replacement_interval": "En cas de perte ou défaillance mécanique",
+          "technical_detail": "Compatible 100% avec les anciennes TOP-432NA et TOP-432EV, mémorisation code fixe inviolable.",
+          "search_query": "telecommande came top 432ee 433.92 mhz",
+          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=outdoorparts-21"
+        },
+        {
+          "name": "Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)",
+          "tag": "Alimentation Double Pile",
+          "oem_or_dimension": "CR2016 / 3V x 2 piles superposées = 6 Volts",
+          "wear_symptom": "LED rouge qui faiblit à l'appui",
+          "replacement_interval": "Tous les 2 ans",
+          "technical_detail": "Attention : nécessite 2 piles CR2016 superposées dans le sens de polarité indiqué.",
+          "search_query": "pile cr2016 lot 3v energizer came",
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=outdoorparts-21"
+        }
+      ],
+      "procedure_steps": [
+        {
+          "title": "Mise en mode apprentissage de la nouvelle TOP 432EE",
+          "description": "Appuyez simultanément sur les deux boutons supérieurs de la nouvelle télécommande jusqu'à ce que la LED clignote plus rapidement."
+        },
+        {
+          "title": "Sélection du canal et transmission du code",
+          "description": "Pressez le bouton à programmer (la LED devient fixe). Approchez immédiatement l'ancienne télécommande au dos et appuyez sur son bouton : la nouvelle LED clignote 3 fois pour confirmer le clonage réussi."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "La TOP 432EE est-elle compatible avec les anciennes télécommandes grises TOP 432NA ?",
+          "answer": "Oui, la TOP 432EE remplace directement la TOP 432NA et la TOP 432EV grâce à son protocole bicanal 433.92 MHz rétrocompatible."
         }
       ],
       "date_published": "2026-10-15",
