@@ -17,6 +17,12 @@ from datetime import datetime, timezone
 from typing import Dict, List, Any, Optional
 import requests
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 
 class AIBroadcaster:
     """Diffuseur multicanal vers les moteurs et agents IA."""

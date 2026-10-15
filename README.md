@@ -120,4 +120,4 @@ python src/compta_manager.py
 - **Protection de la vie privée (RGPD) :** Site statique 100% exempté de bandeau cookies CNIL (zéro cookie tiers, zéro pistage publicitaire).
 - **Marques citées :** Citées uniquement à des fins d'information et d'indication de compatibilité technique (Article L. 713-6 du Code de la Propriété Intellectuelle).
 
-*Dernière synchronisation automatique : 2026-10-15 19:53 UTC*
+*Dernière synchronisation automatique : 2026-10-15 20:00 UTC*

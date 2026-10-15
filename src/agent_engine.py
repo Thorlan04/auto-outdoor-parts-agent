@@ -18,6 +18,12 @@ from datetime import datetime, timezone
 from typing import Dict, List, Any, Optional
 from jinja2 import Environment, FileSystemLoader
 
+try:
+    from dotenv import load_dotenv
+    load_dotenv()
+except ImportError:
+    pass
+
 # Tentative d'importation du nouveau SDK google-genai
 try:
     from google import genai
