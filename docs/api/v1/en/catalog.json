@@ -5,6 +5,14 @@
   "partner_tag": "autoconsom-21",
   "total_models": 23,
   "total_parts": 72,
+  "supported_languages": [
+    "fr",
+    "en",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
   "supported_stores": [
     "fr",
     "us",
@@ -14,6 +22,8 @@
     "de",
     "es",
     "it",
+    "br",
+    "mx",
     "za"
   ],
   "models": [

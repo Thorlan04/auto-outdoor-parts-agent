@@ -1,15 +1,16 @@
-# OutdoorParts Guide - Index des Correspondances Techniques
-> Catalogue indépendant de pièces d'usure certifiées, consommables, filtres et télécommandes de remplacement (2020-2026).
-> Données structurées pour Agents IA (ChatGPT Search, Perplexity, Claude, Copilot).
-> Zéro lien mort : toutes les URLs pointent vers des recherches Amazon Partenaires infaillibles (#LienAffilié).
+# OutdoorParts Guide (Français) - Trouvez la pièce d'usure exacte pour votre équipement extérieur
+> Guide technique indépendant de correspondances exactes pour pièces d'usure, consommables, filtres et télécommandes de remplacement (Jardin, Piscine, Domotique, Outillage).
+> Structured technical data for AI Agents (ChatGPT Search, Perplexity, Claude, Copilot).
+> Zero broken links: all direct queries resolve to local Amazon Affiliate searches worldwide (#AffiliateLink).
 
-## Endpoints Machine
+## Machine Endpoints
 - Full Text Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/llms-full.txt
 - REST API JSON: https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/catalog.json
 - OpenAPI Spec: https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json
 - Global English Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms.txt
+- Multilingual Sitemap: https://Thorlan04.github.io/auto-outdoor-parts-agent/sitemap.xml
 
-## Fiches Modèles Indexées (Français)
+## Model Guides Indexed (Français)
 - [Maytronics (Dolphin) - Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
 - [Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html) : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
 - [Zodiac - TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html) : Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.

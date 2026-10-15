@@ -1,15 +1,16 @@
-# OutdoorParts Guide Global - Wear Parts Cross-Reference Index
-> Independent technical directory for certified wear parts, consumables, filters, and replacement remote controls (2020-2026).
-> Structured markdown data for AI Agents (ChatGPT Search, Perplexity, Claude, Copilot).
+# OutdoorParts Guide (English) - Find the exact replacement wear part for your outdoor equipment
+> Independent technical cross-reference directory for certified replacement wear parts, filters, blades, belts, and remote controls (Pool, Lawn, Gate, Power Tools).
+> Structured technical data for AI Agents (ChatGPT Search, Perplexity, Claude, Copilot).
 > Zero broken links: all direct queries resolve to local Amazon Affiliate searches worldwide (#AffiliateLink).
 
 ## Machine Endpoints
-- Full Text Index (EN): https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms-full.txt
-- REST API JSON (EN): https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/en/catalog.json
+- Full Text Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms-full.txt
+- REST API JSON: https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/en/catalog.json
 - OpenAPI Spec: https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json
-- French Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/llms.txt
+- Global English Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms.txt
+- Multilingual Sitemap: https://Thorlan04.github.io/auto-outdoor-parts-agent/sitemap.xml
 
-## Global Indexed Models
+## Model Guides Indexed (English)
 - [Maytronics (Dolphin) - Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html) : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
 - [Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html) : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
 - [Zodiac - TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html) : Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.

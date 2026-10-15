@@ -1,4 +1,4 @@
-# OutdoorParts Guide Global - Full Ingestion Knowledge Base
+# OutdoorParts Guide (English) - Full Knowledge Base
 Version: 1.0.0 | Updated: 2026-10-15
 Base URL: https://Thorlan04.github.io/auto-outdoor-parts-agent/en/
 
@@ -9,7 +9,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20
 YEARS : 2020-2026
 SUMMARY : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Panier Filtrant Ultra-Fin 50 microns (Panneaux Printemps)
   OEM REF / SPECS : OEM 9991467-ASSY / 50 microns
   WEAR & INTERVAL : Déchirure du maillage, colmatage persistant, eau trouble (1 à 2 saisons selon turbidité de l'eau)
@@ -49,7 +49,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-pures
 YEARS : 2020-2026
 SUMMARY : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Cartouches de Filtration Type S1 (Lot Haute Densité)
   OEM REF / SPECS : Intex 29001E / H 7.3cm x D 10.8cm
   WEAR & INTERVAL : Débit d'eau réduit, code erreur E90, cartouche saturée (Toutes les 2 à 3 semaines en saison)
@@ -89,7 +89,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-torn
 YEARS : 2020-2026
 SUMMARY : Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Bac Filtrant Débris Fins 100 microns
   OEM REF / SPECS : OEM R0762900 / 100 microns rigide
   WEAR & INTERVAL : Perte d'aspiration, tamis fendu, particules rejetées dans l'eau (Tous les 2 ans)
@@ -121,7 +121,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay
 YEARS : 2020-2026
 SUMMARY : Pièces de remplacement certifiées Bestway Lay-Z-Spa : cartouches VI (58323), turbine à axe céramique et joints de vanne.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Cartouches de Filtration Type VI (58323)
   OEM REF / SPECS : Bestway 58323 / H 8.0cm x D 10.6cm
   WEAR & INTERVAL : Erreur E02 (débit d'eau insuffisant), encrassement (Toutes les 2 semaines)
@@ -153,7 +153,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k5-
 YEARS : 2020-2026
 SUMMARY : Correspondances exactes des pièces d'usure Kärcher K5 : flexible 10m 180 bar, lance rotabuse DB 145 et kit joints toriques.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Flexible Haute Pression 10m Quick Connect (180 bar)
   OEM REF / SPECS : OEM 6.396-429.0 / Raccords Quick Connect jaunes
   WEAR & INTERVAL : Frottement abrasif, hernie, fuite sous pression au raccord (Tous les 3 à 5 ans)
@@ -193,7 +193,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3
 YEARS : 2020-2026
 SUMMARY : Consommables certifiés pour aspirateur Kärcher WD3 : cartouche filtrante 6.414-552.0, sacs intissés 3 couches et brosses combinées.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Filtre Cartouche Cylindrique Lavable Eau & Poussière
   OEM REF / SPECS : OEM 6.414-552.0 / Avec vis de verrouillage
   WEAR & INTERVAL : Colmatage, odeur de poussière, surchauffe moteur, débit d'aspiration faible (Nettoyage régulier, remplacement tous les 12 mois)
@@ -225,7 +225,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-ms-17
 YEARS : 2020-2026
 SUMMARY : Correspondances exactes consommables Stihl MS 170 : chaîne Picco Micro 3 (44 maillons), guide Rollomatic E 30cm et bougie d'allumage.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Chaîne de Tronçonneuse 3/8" P - Jauge 1.1mm (44 Maillons)
   OEM REF / SPECS : Stihl 3610-000-0044 / Picco Micro Mini 3 (PMM3)
   WEAR & INTERVAL : Sciure en poussière fine, chaîne qui fume, déviation de coupe (Affûtage régulier, remplacement après 4 à 5 affûtages)
@@ -265,7 +265,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/husqvarna-a
 YEARS : 2020-2026
 SUMMARY : Correspondances consommables robot tondeuse Husqvarna & Gardena : lames carbure endurance 0.75mm, connecteurs étanches 3M et fil périphérique.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Lames Carbure Titane Endurance 0.75mm avec Vis Inox (Lot de 30)
   OEM REF / SPECS : OEM 595 08 44-01 / Épaisseur 0.75mm / Vis revêtues frein filet
   WEAR & INTERVAL : Herbe jaunie aux pointes (effilochée et non tranchée nette) (Toutes les 4 à 6 semaines en saison active)
@@ -297,7 +297,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/somfy-keypo
 YEARS : 2020-2026
 SUMMARY : Correspondances exactes télécommandes Somfy 433.42 MHz (RTS) et 868 MHz (io) : piles bouton CR2430, boîtiers et appairage officiel.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Télécommande 2 Canaux Compatible Somfy RTS (433.42 MHz)
   OEM REF / SPECS : Fréquence 433.42 MHz RTS / Compatible moteurs Axovia, SGS, Elixo
   WEAR & INTERVAL : Boutons enfoncés, portée radio tombée à moins de 2 mètres, boîtier cassé (Remplacement en cas de perte ou défaillance)
@@ -329,7 +329,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/came-top-43
 YEARS : 2020-2026
 SUMMARY : Correspondances officielles télécommandes Came TOP 432EE / 432NA : fréquence 433.92 MHz code fixe, piles CR2016 et méthode d'auto-apprentissage.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Télécommande 2 Canaux 433.92 MHz Came TOP 432EE
   OEM REF / SPECS : OEM 001TOP-432EE / 433.92 MHz Code Fixe
   WEAR & INTERVAL : Boîtier fissuré, touches usées, perte de portée (En cas de perte ou défaillance mécanique)
@@ -353,7 +353,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/apc-back-up
 YEARS : 2020-2026
 SUMMARY : Correspondances exactes des cartouches de batterie plomb étanches pour onduleurs APC et automatismes de secours : 12V 7.2Ah et 12V 9Ah cosses Faston F2.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Batterie Plomb Étanche AGM 12V 7.2Ah / 7.5Ah (Cosses Faston F2)
   OEM REF / SPECS : 12V 7.2Ah / Dimensions 151 x 65 x 94 mm / Bornes F2 (6.35mm)
   WEAR & INTERVAL : Bip continu de l'onduleur, coupure instantanée en cas de coupure de courant (Tous les 3 à 5 ans)
@@ -377,7 +377,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo1
 YEARS : 2020-2026
 SUMMARY : Correspondances consommables pour ponceuse Makita DBO180Z : plateau auto-agrippant 125mm 8 trous (743081-8), sac à poussière et disques abrasifs.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 3 Vis)
   OEM REF / SPECS : Makita 743081-8 / Diamètre 125mm / 8 trous d'aspiration
   WEAR & INTERVAL : Disques abrasifs qui s'envolent pendant le ponçage (crochets velcro brûlés) (Dès perte d'adhérence du velcro)
@@ -409,7 +409,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bosch-profe
 YEARS : 2020-2026
 SUMMARY : Correspondances d'usure Bosch Professional : plateau de ponçage 125mm 8 trous (2608000349), cartouche microfiltre et balais de charbon.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Plateau de Ponçage Mi-Dur 125mm Auto-Agrippant (8 Trous)
   OEM REF / SPECS : Bosch 2608000349 / Diamètre 125mm / Dureté moyenne
   WEAR & INTERVAL : Disques qui se décollent, bord du plateau ébréché (Dès altération de la surface velcro)
@@ -433,7 +433,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-gta-2
 YEARS : 2020-2026
 SUMMARY : Correspondances exactes Stihl GTA 26 : chaîne 71PM3 (28 maillons), guide Rollomatic Light 10cm et batterie AS 2.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Chaîne 1/4" Picco Micro 3 (71 PM3 - 28 Maillons)
   OEM REF / SPECS : Stihl 3670-000-0028 / Pas 1/4" P / Jauge 1.1mm
   WEAR & INTERVAL : Dents émoussées, coupe lente, batterie qui se décharge trop vite (Affûtage régulier, renouvellement après 3 à 4 affûtages)
@@ -465,7 +465,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-
 YEARS : 2020-2026
 SUMMARY : Consommables et pièces d'usure certifiés Kärcher K4 : flexible 8m Quick Connect, lance Vario Power VP 145 et joints toriques.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Flexible Haute Pression 8m Quick Connect (130-160 bar)
   OEM REF / SPECS : OEM 6.396-525.0 / Raccord rapide jaune deux côtés
   WEAR & INTERVAL : Gaine extérieure râpée sur le béton, fuite au raccord pistolet (Tous les 3 à 4 ans)
@@ -497,7 +497,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/nice-flo2re
 YEARS : 2020-2026
 SUMMARY : Correspondances officielles télécommandes de portail Nice Era Flor FLO2RE : rolling code sécurisé 433.92 MHz, piles bouton CR2032 et programmation radio.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Télécommande 2 Canaux Nice Era Flor FLO2RE (433.92 MHz)
   OEM REF / SPECS : Nice FLO2RE / 433.92 MHz Rolling Code / Boîtier noir touches rondes
   WEAR & INTERVAL : Portée réduite à moins de 3 mètres, bouton poussoir fendu (En cas de défaillance mécanique ou perte)
@@ -521,7 +521,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bft-mitto-b
 YEARS : 2020-2026
 SUMMARY : Correspondances télécommandes BFT Mitto : protocole Rolling Code 433.92 MHz, alimentation pile 12V 23A et procédure de programmation à distance.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Télécommande 2 Boutons BFT Mitto B RCB02 R1 (433.92 MHz)
   OEM REF / SPECS : BFT D111904 / 433.92 MHz Rolling Code
   WEAR & INTERVAL : Portée dégradée, coque ouverte ou boutons écrasés (En cas de remplacement ou télécommande supplémentaire)
@@ -545,7 +545,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dewalt-dcw2
 YEARS : 2020-2026
 SUMMARY : Correspondances officielles DeWalt DCW210N : plateau de ponçage auto-agrippant 125mm (N329079), sac récepteur AirLock et batteries 18V XR.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 4 Vis)
   OEM REF / SPECS : DeWalt OEM N329079 / Diamètre 125mm 8 trous
   WEAR & INTERVAL : Disques abrasifs qui glissent ou ne collent plus au support (Dès lissage des micro-crochets velcro)
@@ -577,7 +577,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/einhell-pow
 YEARS : 2020-2026
 SUMMARY : Correspondances officielles écosystème Einhell 18V Power X-Change : batteries lithium 4.0Ah et 5.2Ah Plus, chargeurs rapides Boost et patins de ponceuse.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Batterie 18V 4.0Ah Li-Ion Power X-Change (Indicateur LED 3 Niveaux)
   OEM REF / SPECS : Einhell 4511396 / 18V 4000mAh / Cellules haute puissance
   WEAR & INTERVAL : Autonomie réduite, surchauffe lors de travaux intensifs (Tous les 3 à 5 ans)
@@ -609,7 +609,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/chamberlain
 YEARS : 2020-2026
 SUMMARY : Correspondances certifiées télécommandes porte de garage Security+ 2.0 (315MHz/390MHz) : pile lithium CR2032, clip visière pare-soleil et clavier sans fil 877MAX.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Télécommande 3 Boutons Visière 893MAX / 953EV (Security+ 2.0)
   OEM REF / SPECS : OEM 893MAX / 953EV / Multi-Fréquences 310/315/390 MHz
   WEAR & INTERVAL : Portée réduite à moins de 2 mètres, boutons micro-switch usés (Tous les 5 ans ou en cas de perte)
@@ -649,7 +649,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/polaris-280
 YEARS : 2020-2026
 SUMMARY : Correspondances certifiées pour robot surpresseur Polaris 280 : pneus de traction MaxTrax C10, sac de filtration zippé K13, brosses d'embout de balayage 9-100-3105 et roulements à billes inox C60.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Pneu de Traction Caoutchouc Blanc MaxTrax (Lot de 3)
   OEM REF / SPECS : OEM Polaris C10 / C-10 / Diamètre standard 18cm
   WEAR & INTERVAL : Pneus lisses, patinage sur le fond, robot qui tourne en rond (Toutes les 1 à 2 saisons)
@@ -689,7 +689,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/milwaukee-m
 YEARS : 2020-2026
 SUMMARY : Correspondances certifiées gamme sans fil Milwaukee M18 Fuel : batteries haute capacité REDLITHIUM XC5.0 (48-11-1850), chargeur rapide double tension M12-18FC et crochets de ceinture 42-70-2653.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Batterie 18V 5.0Ah REDLITHIUM XC Li-Ion (Indicateur 4 LED)
   OEM REF / SPECS : OEM 48-11-1850 / M18 B5 / 18V 90Wh Lithium-Ion
   WEAR & INTERVAL : Perte d'autonomie sous forte charge, voyant clignotant rouge au chargeur (Tous les 3 à 5 ans)
@@ -729,7 +729,7 @@ URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/hayward-poo
 YEARS : 2020-2026
 SUMMARY : Correspondances officielles robot hydraulique Hayward PoolVac XL / Navigator Pro : patins de friction pour liner et béton AXV414P/AXV417WHP, ailettes latérales souples AXV055P et cône adaptateur skimmer AXV099P.
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :
+CROSS-REFERENCE PARTS & AMAZON STORES :
 - PART : Kit 4 Patins de Friction Semelle Blancs Spécial Liner (Clipsables)
   OEM REF / SPECS : OEM Hayward AXV414P / AXV417WHP / Élastomère blanc
   WEAR & INTERVAL : Témoins d'usure affleurants, robot qui adhère mal ou ralentit dans les pentes (Chaque saison ou dès disparition du relief)

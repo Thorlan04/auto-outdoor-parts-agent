@@ -3,7 +3,7 @@
   "info": {
     "title": "OutdoorParts Guide API Global",
     "version": "1.0.0",
-    "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs avec liens multi-stores Amazon."
+    "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs dans 6 langues (FR, EN, ES, DE, IT, PT) avec liens multi-stores Amazon."
   },
   "servers": [
     {
@@ -13,7 +13,7 @@
   "paths": {
     "/api/v1/catalog.json": {
       "get": {
-        "summary": "Obtenir l'intégralité du catalogue des correspondances (FR/Global)",
+        "summary": "Catalogue global des correspondances",
         "operationId": "getCatalog",
         "responses": {
           "200": {
@@ -31,18 +31,55 @@
     },
     "/api/v1/en/catalog.json": {
       "get": {
-        "summary": "Get full cross-reference catalog (English / Multi-country Amazon stores)",
+        "summary": "English cross-reference catalog",
         "operationId": "getCatalogEn",
         "responses": {
           "200": {
-            "description": "Full catalog with worldwide Amazon store search URLs",
-            "content": {
-              "application/json": {
-                "schema": {
-                  "type": "object"
-                }
-              }
-            }
+            "description": "Full English catalog"
+          }
+        }
+      }
+    },
+    "/api/v1/es/catalog.json": {
+      "get": {
+        "summary": "Catálogo de piezas de repuesto (Español)",
+        "operationId": "getCatalogEs",
+        "responses": {
+          "200": {
+            "description": "Catálogo completo en español"
+          }
+        }
+      }
+    },
+    "/api/v1/de/catalog.json": {
+      "get": {
+        "summary": "Ersatzteile & Verschleißteile Katalog (Deutsch)",
+        "operationId": "getCatalogDe",
+        "responses": {
+          "200": {
+            "description": "Vollständiger Katalog auf Deutsch"
+          }
+        }
+      }
+    },
+    "/api/v1/it/catalog.json": {
+      "get": {
+        "summary": "Catalogo parti di ricambio (Italiano)",
+        "operationId": "getCatalogIt",
+        "responses": {
+          "200": {
+            "description": "Catalogo completo in italiano"
+          }
+        }
+      }
+    },
+    "/api/v1/pt/catalog.json": {
+      "get": {
+        "summary": "Catálogo de peças de reposição (Português)",
+        "operationId": "getCatalogPt",
+        "responses": {
+          "200": {
+            "description": "Catálogo completo em português"
           }
         }
       }

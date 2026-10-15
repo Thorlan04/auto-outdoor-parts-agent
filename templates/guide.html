@@ -1,15 +1,19 @@
 {% extends "base.html" %}
 
-{% block title %}{{ guide.title }} | {% if lang == 'en' %}Exact Replacement Parts & Specs{% else %}Correspondances Pièces & Références Exactes{% endif %}{% endblock %}
+{% block title %}{{ guide.title }} | {{ t.meta_title }}{% endblock %}
 {% block description %}{{ guide.meta_description }}{% endblock %}
-{% block canonical %}{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html{% endblock %}
+{% block canonical %}{{ site_base_url }}/{{ lang_subpath }}guides/{{ guide.slug }}.html{% endblock %}
 {% block href_fr %}{{ site_base_url }}/guides/{{ guide.slug }}.html{% endblock %}
 {% block href_en %}{{ site_base_url }}/en/guides/{{ guide.slug }}.html{% endblock %}
+{% block href_es %}{{ site_base_url }}/es/guides/{{ guide.slug }}.html{% endblock %}
+{% block href_de %}{{ site_base_url }}/de/guides/{{ guide.slug }}.html{% endblock %}
+{% block href_it %}{{ site_base_url }}/it/guides/{{ guide.slug }}.html{% endblock %}
+{% block href_pt %}{{ site_base_url }}/pt/guides/{{ guide.slug }}.html{% endblock %}
 {% block href_default %}{{ site_base_url }}/en/guides/{{ guide.slug }}.html{% endblock %}
 
 {% block og_title %}{{ guide.title }}{% endblock %}
 {% block og_description %}{{ guide.meta_description }}{% endblock %}
-{% block og_url %}{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html{% endblock %}
+{% block og_url %}{{ site_base_url }}/{{ lang_subpath }}guides/{{ guide.slug }}.html{% endblock %}
 
 {% block extra_head %}
 <!-- Données structurées Schema.org pour GEO / IA (ChatGPT Search, Perplexity, Google) -->
@@ -19,11 +23,11 @@
   "@graph": [
     {
       "@type": "TechArticle",
-      "@id": "{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html#article",
+      "@id": "{{ site_base_url }}/{{ lang_subpath }}guides/{{ guide.slug }}.html#article",
       "headline": {{ guide.title | tojson }},
       "description": {{ guide.meta_description | tojson }},
-      "inLanguage": "{% if lang == 'en' %}en-US{% else %}fr-FR{% endif %}",
-      "mainEntityOfPage": "{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html",
+      "inLanguage": "{{ lang_locale or 'fr-FR' }}",
+      "mainEntityOfPage": "{{ site_base_url }}/{{ lang_subpath }}guides/{{ guide.slug }}.html",
       "datePublished": "{{ guide.date_published }}",
       "dateModified": "{{ guide.date_modified }}",
       "author": {
@@ -43,20 +47,20 @@
         {
           "@type": "ListItem",
           "position": 1,
-          "name": "{% if lang == 'en' %}Home{% else %}Accueil{% endif %}",
-          "item": "{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html"
+          "name": {{ t.nav_home | tojson }},
+          "item": "{{ site_base_url }}/{{ lang_subpath }}index.html"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": {{ guide.category_name | tojson }},
-          "item": "{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html#{{ guide.category_id }}"
+          "item": "{{ site_base_url }}/{{ lang_subpath }}index.html#{{ guide.category_id }}"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": {{ guide.model_name | tojson }},
-          "item": "{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html"
+          "item": "{{ site_base_url }}/{{ lang_subpath }}guides/{{ guide.slug }}.html"
         }
       ]
     }
@@ -277,9 +281,9 @@
   <!-- En-tête de la fiche technique -->
   <header class="guide-header">
     <nav class="breadcrumbs" aria-label="Breadcrumb">
-      <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html">{% if lang == 'en' %}Home{% else %}Accueil{% endif %}</a>
+      <a href="{{ site_base_url }}/{{ lang_subpath }}index.html">{{ t.nav_home }}</a>
       <span>&rsaquo;</span>
-      <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html#{{ guide.category_id }}">{{ guide.category_name }}</a>
+      <a href="{{ site_base_url }}/{{ lang_subpath }}index.html#{{ guide.category_id }}">{{ guide.category_name }}</a>
       <span>&rsaquo;</span>
       <span>{{ guide.model_name }}</span>
     </nav>
@@ -287,11 +291,13 @@
     <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:0.5rem; margin-bottom:0.75rem;">
       <span class="category-pill">{{ guide.category_name }}</span>
       <div style="font-size:0.78rem; font-weight:700;">
-        {% if lang == 'en' %}
-        Language: <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none;">🇫🇷 Lire en Français</a>
-        {% else %}
-        Langue : <a href="{{ site_base_url }}/en/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none;">🌐 Read in English (US/UK/AU)</a>
-        {% endif %}
+        Language: 
+        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇫🇷 FR</a>
+        <a href="{{ site_base_url }}/en/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🌐 EN</a>
+        <a href="{{ site_base_url }}/es/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇪🇸 ES</a>
+        <a href="{{ site_base_url }}/de/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇩🇪 DE</a>
+        <a href="{{ site_base_url }}/it/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇮🇹 IT</a>
+        <a href="{{ site_base_url }}/pt/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none;">🇧🇷 PT</a>
       </div>
     </div>
 
@@ -302,32 +308,32 @@
     <div class="tech-specs-card">
       <h3>
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
-        {% if lang == 'en' %}Manufacturer Specs & Verified Compatibility{% else %}Fiche d'identification constructeur & Compatibilité{% endif %}
+        {{ t.guide_table_title }}
       </h3>
       <div class="specs-grid">
         <div class="spec-item">
-          <div class="spec-label">{% if lang == 'en' %}Brand / Manufacturer{% else %}Marque / Fabricant{% endif %}</div>
+          <div class="spec-label">{{ t.guide_brand }}</div>
           <div class="spec-value">{{ guide.brand }}</div>
         </div>
         <div class="spec-item">
-          <div class="spec-label">{% if lang == 'en' %}Model(s) / Series{% else %}Modèle(s) / Séries{% endif %}</div>
+          <div class="spec-label">{{ t.guide_model }}</div>
           <div class="spec-value">{{ guide.model_name }}</div>
         </div>
         <div class="spec-item">
-          <div class="spec-label">{% if lang == 'en' %}Years Covered{% else %}Millésimes Couverts{% endif %}</div>
+          <div class="spec-label">{{ t.guide_years }}</div>
           <div class="spec-value">{{ guide.years_range }}</div>
         </div>
         <div class="spec-item">
-          <div class="spec-label">{% if lang == 'en' %}Servicing Hazard{% else %}Niveau d'intervention{% endif %}</div>
-          <div class="spec-value" style="color: var(--success);">{% if lang == 'en' %}100% External (Safe){% else %}100% Externe (Sécurisé){% endif %}</div>
+          <div class="spec-label">{{ t.guide_hazard }}</div>
+          <div class="spec-value" style="color: var(--success);">{{ t.guide_safe }}</div>
         </div>
       </div>
     </div>
 
     <div class="guide-meta">
-      <div>📅 {% if lang == 'en' %}Updated{% else %}Mis à jour{% endif %} : <time datetime="{{ guide.date_modified }}">{{ guide.date_modified }}</time></div>
-      <div>🛡️ {% if lang == 'en' %}Safety standard: No high-voltage servicing{% else %}Protocole de sécurité : Conforme directive machines & zéro démontage HT{% endif %}</div>
-      <div>🔗 {% if lang == 'en' %}Amazon Search: Zero 404 guarantee (#AffiliateLink){% else %}Vérification Amazon : Requête sans 404 (#LienAffilié){% endif %}</div>
+      <div>📅 {{ t.guide_updated }} : <time datetime="{{ guide.date_modified }}">{{ guide.date_modified }}</time></div>
+      <div>🛡️ {{ t.guide_safe }}</div>
+      <div>🔗 Zero 404 Amazon Guarantee (#AffiliateLink)</div>
     </div>
   </header>
 
@@ -335,24 +341,20 @@
   <section class="content-section" id="tableau-pieces">
     <h2>
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
-      {% if lang == 'en' %}Exact Wear Parts & Consumables Cross-Reference Table{% else %}Tableau de Correspondance des Pièces d'Usure & Consommables{% endif %}
+      {{ t.guide_table_title }}
     </h2>
     <p style="color: #475569; margin-bottom: 1rem; font-size: 0.95rem;">
-      {% if lang == 'en' %}
-      All parts below match OEM engineering specifications. Direct search links query local Amazon stores worldwide without broken ASINs or out-of-stock 404 errors.
-      {% else %}
-      Toutes les pièces ci-dessous correspondent aux spécifications d'origine. Les liens redirigent directement vers les résultats certifiés sur Amazon pour éviter toute erreur de modèle ou rupture d'inventaire.
-      {% endif %}
+      {{ t.guide_table_desc }}
     </p>
 
     <div class="table-container">
       <table>
         <thead>
           <tr>
-            <th>{% if lang == 'en' %}Part / Consumable Name{% else %}Type de Pièce / Consommable{% endif %}</th>
-            <th>{% if lang == 'en' %}OEM Part # / Exact Specs{% else %}Référence OEM / Cotes Exactes{% endif %}</th>
-            <th>{% if lang == 'en' %}Wear Symptoms & Interval{% else %}Symptôme d'usure & Fréquence{% endif %}</th>
-            <th>{% if lang == 'en' %}Instant Amazon Search (Global Stores){% else %}Recherche Infaillible Amazon (Multi-Pays){% endif %}</th>
+            <th>{{ t.th_part }}</th>
+            <th>{{ t.th_specs }}</th>
+            <th>{{ t.th_wear }}</th>
+            <th>{{ t.th_amazon }}</th>
           </tr>
         </thead>
         <tbody>
@@ -372,26 +374,29 @@
             </td>
             <td>
               <div style="font-size: 0.85rem; color: #334155;">{{ part.wear_symptom }}</div>
-              <small style="color: #64748b;">🔄 {% if lang == 'en' %}Interval{% else %}Rythme{% endif %} : {{ part.replacement_interval }}</small>
+              <small style="color: #64748b;">🔄 {{ part.replacement_interval }}</small>
             </td>
             <td>
               <div>
-                <a href="{% if lang == 'en' %}{{ part.affiliate_url_us }}{% else %}{{ part.affiliate_url }}{% endif %}" class="btn-amazon" rel="nofollow sponsored" target="_blank" title="Search {{ part.name }} on Amazon">
+                {% set target_url = part.affiliate_url_es if lang == 'es' else (part.affiliate_url_de if lang == 'de' else (part.affiliate_url_it if lang == 'it' else (part.affiliate_url_br if lang == 'pt' else (part.affiliate_url if lang == 'fr' else part.affiliate_url_us)))) %}
+                <a href="{{ target_url }}" class="btn-amazon" rel="nofollow sponsored" target="_blank" title="Search {{ part.name }} on Amazon">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
-                  {% if lang == 'en' %}View on Amazon (US / Global){% else %}Voir sur Amazon.fr{% endif %}
+                  {{ t.view_amazon }}
                 </a>
               </div>
               <!-- Boutons de routage mondial multi-stores -->
               <div class="store-flags-row">
-                <span class="store-flags-label">{% if lang == 'en' %}Stores:{% else %}Pays :{% endif %}</span>
+                <span class="store-flags-label">{{ t.stores_label }}</span>
                 <a href="{{ part.affiliate_url_us }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon USA & Global">🇺🇸 US</a>
                 <a href="{{ part.affiliate_url_ca }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Canada">🇨🇦 CA</a>
                 <a href="{{ part.affiliate_url_uk }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon UK">🇬🇧 UK</a>
                 <a href="{{ part.affiliate_url_au }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Australia">🇦🇺 AU</a>
                 <a href="{{ part.affiliate_url_de }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Germany">🇩🇪 DE</a>
                 <a href="{{ part.affiliate_url }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon France">🇫🇷 FR</a>
-                <a href="{{ part.affiliate_url_es }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Spain">🇪🇸 ES</a>
+                <a href="{{ part.affiliate_url_es }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Spain & LatAm">🇪🇸 ES</a>
                 <a href="{{ part.affiliate_url_it }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Italy">🇮🇹 IT</a>
+                {% if part.affiliate_url_br %}<a href="{{ part.affiliate_url_br }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Brazil">🇧🇷 BR</a>{% endif %}
+                {% if part.affiliate_url_mx %}<a href="{{ part.affiliate_url_mx }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Mexico">🇲🇽 MX</a>{% endif %}
               </div>
             </td>
           </tr>
@@ -406,7 +411,7 @@
   <section class="content-section" id="procedure">
     <h2>
       <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
-      {% if lang == 'en' %}Step-by-Step Procedure (100% Zero High-Voltage Hazard){% else %}Procédure Pas-à-Pas (100% Sans Démontage Haute Tension){% endif %}
+      {{ t.procedure_title }}
     </h2>
     <div class="procedure-list">
       {% for step in guide.procedure_steps %}

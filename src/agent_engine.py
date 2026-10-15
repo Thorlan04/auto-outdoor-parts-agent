@@ -32,30 +32,24 @@ try:
 except ImportError:
     HAS_GENAI_SDK = False
 
-
-AMAZON_DOMAINS = {
-    "fr": "www.amazon.fr",
-    "us": "www.amazon.com",
-    "ca": "www.amazon.ca",
-    "uk": "www.amazon.co.uk",
-    "au": "www.amazon.com.au",
-    "de": "www.amazon.de",
-    "es": "www.amazon.es",
-    "it": "www.amazon.it",
-    "za": "www.amazon.co.za",
-}
-
-
-def build_affiliate_url(search_query: str, partner_tag: str, store: str = "fr") -> str:
-    """
-    Construit une URL de recherche Amazon Partenaires 100% infaillible (zéro erreur 404).
-    N'utilise JAMAIS d'ASIN en dur pour éviter les ruptures de stock.
-    Supporte les déclinaisons multi-stores mondiales (FR, US, CA, UK, AU, DE, ES, IT, ZA).
-    """
-    domain = AMAZON_DOMAINS.get(store.lower(), "www.amazon.fr")
-    clean_query = " ".join(search_query.strip().split())
-    encoded_query = urllib.parse.quote_plus(clean_query)
-    return f"https://{domain}/s?k={encoded_query}&tag={partner_tag}"
+try:
+    from src.i18n import (
+        SUPPORTED_LANGUAGES,
+        AMAZON_DOMAINS,
+        UI_TRANSLATIONS,
+        get_translations,
+        build_affiliate_url,
+        build_store_urls
+    )
+except ImportError:
+    from i18n import (
+        SUPPORTED_LANGUAGES,
+        AMAZON_DOMAINS,
+        UI_TRANSLATIONS,
+        get_translations,
+        build_affiliate_url,
+        build_store_urls
+    )
 
 
 # Base de connaissances techniques exhaustive des modèles 2020-2026
@@ -1437,10 +1431,32 @@ class AgentEngine:
         self.api_dir = os.path.join(self.docs_dir, "api", "v1")
         self.well_known_dir = os.path.join(self.docs_dir, ".well-known")
 
-        # Répertoires dédiés à l'international (anglais / stores mondiaux)
-        self.docs_en_dir = os.path.join(self.docs_dir, "en")
-        self.guides_en_dir = os.path.join(self.docs_en_dir, "guides")
-        self.api_en_dir = os.path.join(self.docs_dir, "api", "v1", "en")
+        # Répertoires dédiés aux langues supportées (fr, en, es, de, it, pt)
+        self.lang_dirs = {}
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            sub = lang_meta["subpath"].rstrip("/")
+            if sub:
+                docs_lang = os.path.join(self.docs_dir, sub)
+                guides_lang = os.path.join(docs_lang, "guides")
+                api_lang = os.path.join(self.docs_dir, "api", "v1", sub)
+            else:
+                docs_lang = self.docs_dir
+                guides_lang = self.guides_dir
+                api_lang = self.api_dir
+
+            self.lang_dirs[lang_code] = {
+                "docs": docs_lang,
+                "guides": guides_lang,
+                "api": api_lang
+            }
+            os.makedirs(docs_lang, exist_ok=True)
+            os.makedirs(guides_lang, exist_ok=True)
+            os.makedirs(api_lang, exist_ok=True)
+
+        # Rétro-compatibilité en_dir
+        self.docs_en_dir = self.lang_dirs["en"]["docs"]
+        self.guides_en_dir = self.lang_dirs["en"]["guides"]
+        self.api_en_dir = self.lang_dirs["en"]["api"]
 
         # Chargement de la configuration environnement
         self.partner_tag = os.environ.get("AMAZON_PARTNER_TAG", "outdoorparts-21").strip()
@@ -1457,8 +1473,8 @@ class AgentEngine:
             autoescape=True
         )
 
-        # Préparation des répertoires
-        for d in [self.guides_dir, self.api_dir, self.well_known_dir, self.docs_en_dir, self.guides_en_dir, self.api_en_dir]:
+        # Préparation des répertoires de base
+        for d in [self.guides_dir, self.api_dir, self.well_known_dir]:
             os.makedirs(d, exist_ok=True)
 
         self.state = self._load_state()
@@ -1607,51 +1623,46 @@ Format JSON attendu :
             part["affiliate_url_de"] = build_affiliate_url(query, self.partner_tag, store="de")
             part["affiliate_url_es"] = build_affiliate_url(query, self.partner_tag, store="es")
             part["affiliate_url_it"] = build_affiliate_url(query, self.partner_tag, store="it")
+            part["affiliate_url_br"] = build_affiliate_url(query, self.partner_tag, store="br")
+            part["affiliate_url_mx"] = build_affiliate_url(query, self.partner_tag, store="mx")
             part["affiliate_url_za"] = build_affiliate_url(query, self.partner_tag, store="za")
+            part["store_urls"] = build_store_urls(query, self.partner_tag)
 
         return guide
 
     def render_and_save_guide(self, guide: Dict[str, Any]) -> str:
-        """Génère le fichier HTML du guide dans docs/guides/{slug}.html (FR) et docs/en/guides/{slug}.html (EN)."""
+        """Génère le fichier HTML du guide pour TOUTES les langues supportées (FR, EN, ES, DE, IT, PT)."""
         template = self.jinja_env.get_template("guide.html")
         current_year = datetime.now().year
+        first_path = ""
 
-        # 1. Version Française
-        html_output_fr = template.render(
-            guide=guide,
-            lang="fr",
-            site_base_url=self.site_base_url,
-            editor_name=self.editor_name,
-            editor_siret=self.editor_siret,
-            editor_address=self.editor_address,
-            editor_email=self.editor_email,
-            current_year=current_year
-        )
-        file_path_fr = os.path.join(self.guides_dir, f"{guide['slug']}.html")
-        with open(file_path_fr, "w", encoding="utf-8") as f:
-            f.write(html_output_fr)
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            t = get_translations(lang_code)
+            html_output = template.render(
+                guide=guide,
+                lang=lang_code,
+                lang_subpath=lang_meta["subpath"],
+                t=t,
+                site_base_url=self.site_base_url,
+                editor_name=self.editor_name,
+                editor_siret=self.editor_siret,
+                editor_address=self.editor_address,
+                editor_email=self.editor_email,
+                current_year=current_year
+            )
+            file_path = os.path.join(self.lang_dirs[lang_code]["guides"], f"{guide['slug']}.html")
+            with open(file_path, "w", encoding="utf-8") as f:
+                f.write(html_output)
+            if not first_path:
+                first_path = file_path
 
-        # 2. Version Anglaise Internationale (US / Global)
-        html_output_en = template.render(
-            guide=guide,
-            lang="en",
-            site_base_url=self.site_base_url,
-            editor_name=self.editor_name,
-            editor_siret=self.editor_siret,
-            editor_address=self.editor_address,
-            editor_email=self.editor_email,
-            current_year=current_year
-        )
-        file_path_en = os.path.join(self.guides_en_dir, f"{guide['slug']}.html")
-        with open(file_path_en, "w", encoding="utf-8") as f:
-            f.write(html_output_en)
-
-        return file_path_fr
+        return first_path
 
     def render_global_pages(self, all_guides: List[Dict[str, Any]]) -> None:
-        """Génère l'index d'accueil (FR et EN), mentions légales, sitemap bilingue, robots.txt, feeds RSS et endpoints IA."""
+        """Génère l'index d'accueil, mentions légales, sitemap multilingue, robots.txt, feeds RSS et endpoints IA pour les 6 langues."""
         current_year = datetime.now().year
         total_parts = sum(len(g.get("parts", [])) for g in all_guides)
+        now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
         # Regroupement par catégories
         categories = {
@@ -1666,40 +1677,33 @@ Format JSON attendu :
             "total_parts_indexed": total_parts
         }
 
-        # 1. Page d'Accueil Française docs/index.html
+        # 1. Pages d'Accueil pour toutes les langues (docs/index.html, docs/en/index.html, docs/es/index.html, etc.)
         index_tpl = self.jinja_env.get_template("index.html")
-        index_html_fr = index_tpl.render(
-            categories=categories,
-            stats=stats,
-            lang="fr",
-            site_base_url=self.site_base_url,
-            editor_name=self.editor_name,
-            editor_siret=self.editor_siret,
-            editor_address=self.editor_address,
-            editor_email=self.editor_email,
-            current_year=current_year
-        )
-        with open(os.path.join(self.docs_dir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(index_html_fr)
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            t = get_translations(lang_code)
+            index_html = index_tpl.render(
+                categories=categories,
+                stats=stats,
+                lang=lang_code,
+                lang_subpath=lang_meta["subpath"],
+                t=t,
+                site_base_url=self.site_base_url,
+                editor_name=self.editor_name,
+                editor_siret=self.editor_siret,
+                editor_address=self.editor_address,
+                editor_email=self.editor_email,
+                current_year=current_year
+            )
+            out_path = os.path.join(self.lang_dirs[lang_code]["docs"], "index.html")
+            with open(out_path, "w", encoding="utf-8") as f:
+                f.write(index_html)
 
-        # 2. Page d'Accueil Anglaise Internationale docs/en/index.html
-        index_html_en = index_tpl.render(
-            categories=categories,
-            stats=stats,
-            lang="en",
-            site_base_url=self.site_base_url,
-            editor_name=self.editor_name,
-            editor_siret=self.editor_siret,
-            editor_address=self.editor_address,
-            editor_email=self.editor_email,
-            current_year=current_year
-        )
-        with open(os.path.join(self.docs_en_dir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(index_html_en)
-
-        # 3. Page Mentions Légales docs/mentions-legales.html
+        # 2. Page Mentions Légales docs/mentions-legales.html
         mentions_tpl = self.jinja_env.get_template("mentions_legales.html")
         mentions_html = mentions_tpl.render(
+            lang="fr",
+            lang_subpath="",
+            t=get_translations("fr"),
             site_base_url=self.site_base_url,
             editor_name=self.editor_name,
             editor_siret=self.editor_siret,
@@ -1710,7 +1714,7 @@ Format JSON attendu :
         with open(os.path.join(self.docs_dir, "mentions-legales.html"), "w", encoding="utf-8") as f:
             f.write(mentions_html)
 
-        # 4. docs/robots.txt (Autorisation explicite de tous les crawlers IA)
+        # 3. docs/robots.txt (Autorisation explicite de tous les crawlers IA)
         robots_txt = f"""# Robots.txt - OutdoorParts Guide Global
 User-agent: *
 Allow: /
@@ -1739,63 +1743,56 @@ Sitemap: {self.site_base_url}/sitemap.xml
         with open(os.path.join(self.docs_dir, "robots.txt"), "w", encoding="utf-8") as f:
             f.write(robots_txt)
 
-        # 5. docs/sitemap.xml Multilingue avec balises alternate hreflang
-        now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
-        sitemap_urls = [
-            f"""  <url>
-    <loc>{self.site_base_url}/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/index.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/index.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/index.html"/>
+        # 4. docs/sitemap.xml Multilingue complet pour les 6 langues avec balises alternate hreflang
+        sitemap_urls = []
+
+        # Pages d'accueil (FR, EN, ES, DE, IT, PT)
+        home_links = [
+            f'    <xhtml:link rel="alternate" hreflang="{code}" href="{self.site_base_url}/{meta["subpath"]}index.html"/>'
+            for code, meta in SUPPORTED_LANGUAGES.items()
+        ]
+        home_links.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/index.html"/>')
+        home_links_block = "\n".join(home_links)
+
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            sitemap_urls.append(f"""  <url>
+    <loc>{self.site_base_url}/{lang_meta["subpath"]}index.html</loc>
+{home_links_block}
     <lastmod>{now_iso}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
-  </url>""",
-            f"""  <url>
-    <loc>{self.site_base_url}/en/index.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/index.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/index.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/index.html"/>
-    <lastmod>{now_iso}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>1.0</priority>
-  </url>""",
-            f"""  <url>
+  </url>""")
+
+        sitemap_urls.append(f"""  <url>
     <loc>{self.site_base_url}/mentions-legales.html</loc>
     <lastmod>{now_iso}</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.3</priority>
-  </url>""",
-            f"""  <url>
-    <loc>{self.site_base_url}/llms.txt</loc>
+  </url>""")
+
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            sitemap_urls.append(f"""  <url>
+    <loc>{self.site_base_url}/{lang_meta["subpath"]}llms.txt</loc>
     <lastmod>{now_iso}</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
-  </url>""",
-            f"""  <url>
-    <loc>{self.site_base_url}/en/llms.txt</loc>
-    <lastmod>{now_iso}</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>""",
-        ]
+  </url>""")
+
+        # Guides pour toutes les langues
         for g in all_guides:
             slug = g['slug']
             date_mod = g.get('date_modified', now_iso)
-            sitemap_urls.append(f"""  <url>
-    <loc>{self.site_base_url}/guides/{slug}.html</loc>
-    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/guides/{slug}.html"/>
-    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/guides/{slug}.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/guides/{slug}.html"/>
-    <lastmod>{date_mod}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>""")
-            sitemap_urls.append(f"""  <url>
-    <loc>{self.site_base_url}/en/guides/{slug}.html</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/guides/{slug}.html"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/guides/{slug}.html"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/guides/{slug}.html"/>
+            guide_links = [
+                f'    <xhtml:link rel="alternate" hreflang="{code}" href="{self.site_base_url}/{meta["subpath"]}guides/{slug}.html"/>'
+                for code, meta in SUPPORTED_LANGUAGES.items()
+            ]
+            guide_links.append(f'    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/guides/{slug}.html"/>')
+            guide_links_block = "\n".join(guide_links)
+
+            for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+                sitemap_urls.append(f"""  <url>
+    <loc>{self.site_base_url}/{lang_meta["subpath"]}guides/{slug}.html</loc>
+{guide_links_block}
     <lastmod>{date_mod}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1808,144 +1805,90 @@ Sitemap: {self.site_base_url}/sitemap.xml
         with open(os.path.join(self.docs_dir, "sitemap.xml"), "w", encoding="utf-8") as f:
             f.write(sitemap_xml)
 
-        # 6. docs/feed.xml (RSS 2.0 FR) et docs/en/feed.xml (RSS 2.0 EN)
-        rss_items_fr = []
-        rss_items_en = []
-        for g in all_guides[:20]:
-            rss_items_fr.append(f"""    <item>
-      <title><![CDATA[{g['title']}]]></title>
-      <link>{self.site_base_url}/guides/{g['slug']}.html</link>
-      <guid>{self.site_base_url}/guides/{g['slug']}.html</guid>
-      <description><![CDATA[{g['summary']}]]></description>
-      <category>{g['category_name']}</category>
-      <pubDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</pubDate>
-    </item>""")
-            rss_items_en.append(f"""    <item>
-      <title><![CDATA[{g['brand']} - {g['model_name']} Wear Parts & Cross References]]></title>
-      <link>{self.site_base_url}/en/guides/{g['slug']}.html</link>
-      <guid>{self.site_base_url}/en/guides/{g['slug']}.html</guid>
+        # 5. docs/{lang}/feed.xml (RSS 2.0 pour les 6 langues)
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            t = get_translations(lang_code)
+            sub = lang_meta["subpath"]
+            rss_items = []
+            for g in all_guides[:20]:
+                rss_items.append(f"""    <item>
+      <title><![CDATA[{g['brand']} - {g['model_name']}]]></title>
+      <link>{self.site_base_url}/{sub}guides/{g['slug']}.html</link>
+      <guid>{self.site_base_url}/{sub}guides/{g['slug']}.html</guid>
       <description><![CDATA[{g['summary']}]]></description>
       <category>{g['category_name']}</category>
       <pubDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</pubDate>
     </item>""")
 
-        feed_xml_fr = f"""<?xml version="1.0" encoding="UTF-8"?>
+            feed_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>OutdoorParts Guide - Flux Technique</title>
-    <link>{self.site_base_url}/</link>
-    <description>Correspondances exactes de pièces d'usure, filtres et télécommandes.</description>
-    <language>fr-fr</language>
+    <title>{t.get('og_title', 'OutdoorParts Guide')}</title>
+    <link>{self.site_base_url}/{sub}</link>
+    <description>{t.get('og_desc', 'Exact Wear Parts Cross Reference')}</description>
+    <language>{lang_meta['locale'].lower()}</language>
     <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
-{chr(10).join(rss_items_fr)}
+{chr(10).join(rss_items)}
   </channel>
 </rss>"""
-        with open(os.path.join(self.docs_dir, "feed.xml"), "w", encoding="utf-8") as f:
-            f.write(feed_xml_fr)
+            with open(os.path.join(self.lang_dirs[lang_code]["docs"], "feed.xml"), "w", encoding="utf-8") as f:
+                f.write(feed_xml)
 
-        feed_xml_en = f"""<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-  <channel>
-    <title>OutdoorParts Guide Global - Technical Feed</title>
-    <link>{self.site_base_url}/en/</link>
-    <description>Exact match cross references for wear parts, filters, batteries and garage remotes.</description>
-    <language>en-us</language>
-    <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
-{chr(10).join(rss_items_en)}
-  </channel>
-</rss>"""
-        with open(os.path.join(self.docs_en_dir, "feed.xml"), "w", encoding="utf-8") as f:
-            f.write(feed_xml_en)
-
-        # 7. Standard LLMs : docs/llms.txt (FR) et docs/en/llms.txt (EN)
-        llms_txt_fr = f"""# OutdoorParts Guide - Index des Correspondances Techniques
-> Catalogue indépendant de pièces d'usure certifiées, consommables, filtres et télécommandes de remplacement (2020-2026).
-> Données structurées pour Agents IA (ChatGPT Search, Perplexity, Claude, Copilot).
-> Zéro lien mort : toutes les URLs pointent vers des recherches Amazon Partenaires infaillibles (#LienAffilié).
-
-## Endpoints Machine
-- Full Text Index: {self.site_base_url}/llms-full.txt
-- REST API JSON: {self.site_base_url}/api/v1/catalog.json
-- OpenAPI Spec: {self.site_base_url}/.well-known/openapi.json
-- Global English Index: {self.site_base_url}/en/llms.txt
-
-## Fiches Modèles Indexées (Français)
-"""
-        for g in all_guides:
-            llms_txt_fr += f"- [{g['brand']} - {g['model_name']}]({self.site_base_url}/guides/{g['slug']}.html) : {g['summary']}\n"
-
-        with open(os.path.join(self.docs_dir, "llms.txt"), "w", encoding="utf-8") as f:
-            f.write(llms_txt_fr)
-
-        llms_txt_en = f"""# OutdoorParts Guide Global - Wear Parts Cross-Reference Index
-> Independent technical directory for certified wear parts, consumables, filters, and replacement remote controls (2020-2026).
-> Structured markdown data for AI Agents (ChatGPT Search, Perplexity, Claude, Copilot).
+        # 6. Standard LLMs : docs/{lang}/llms.txt et llms-full.txt pour chaque langue
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            t = get_translations(lang_code)
+            sub = lang_meta["subpath"]
+            
+            # llms.txt
+            llms_txt = f"""# OutdoorParts Guide ({lang_meta['name']}) - {t.get('hero_title', 'Exact Wear Parts Cross Reference')}
+> {t.get('meta_desc', 'Independent technical catalog.')}
+> Structured technical data for AI Agents (ChatGPT Search, Perplexity, Claude, Copilot).
 > Zero broken links: all direct queries resolve to local Amazon Affiliate searches worldwide (#AffiliateLink).
 
 ## Machine Endpoints
-- Full Text Index (EN): {self.site_base_url}/en/llms-full.txt
-- REST API JSON (EN): {self.site_base_url}/api/v1/en/catalog.json
+- Full Text Index: {self.site_base_url}/{sub}llms-full.txt
+- REST API JSON: {self.site_base_url}/api/v1/{sub}catalog.json
 - OpenAPI Spec: {self.site_base_url}/.well-known/openapi.json
-- French Index: {self.site_base_url}/llms.txt
+- Global English Index: {self.site_base_url}/en/llms.txt
+- Multilingual Sitemap: {self.site_base_url}/sitemap.xml
 
-## Global Indexed Models
+## Model Guides Indexed ({lang_meta['name']})
 """
-        for g in all_guides:
-            llms_txt_en += f"- [{g['brand']} - {g['model_name']}]({self.site_base_url}/en/guides/{g['slug']}.html) : {g['summary']}\n"
+            for g in all_guides:
+                llms_txt += f"- [{g['brand']} - {g['model_name']}]({self.site_base_url}/{sub}guides/{g['slug']}.html) : {g['summary']}\n"
 
-        with open(os.path.join(self.docs_en_dir, "llms.txt"), "w", encoding="utf-8") as f:
-            f.write(llms_txt_en)
+            with open(os.path.join(self.lang_dirs[lang_code]["docs"], "llms.txt"), "w", encoding="utf-8") as f:
+                f.write(llms_txt)
 
-        # 8. Standard LLMs : docs/llms-full.txt (FR) et docs/en/llms-full.txt (EN)
-        llms_full_parts_fr = [
-            f"# OutdoorParts Guide - Base Complète Ingestion IA\nVersion: 1.0.0 | Mis à jour: {now_iso}\nBase URL: {self.site_base_url}\n"
-        ]
-        llms_full_parts_en = [
-            f"# OutdoorParts Guide Global - Full Ingestion Knowledge Base\nVersion: 1.0.0 | Updated: {now_iso}\nBase URL: {self.site_base_url}/en/\n"
-        ]
-
-        for g in all_guides:
-            # FR
-            llms_full_parts_fr.append(f"""
-================================================================================
-MODÈLE : {g['brand']} - {g['model_name']} ({g['category_name']})
-URL : {self.site_base_url}/guides/{g['slug']}.html
-MILLÉSIMES : {g['years_range']}
-RÉSUMÉ : {g['summary']}
-
-TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
-            for p in g.get("parts", []):
-                llms_full_parts_fr.append(f"""- PIÈCE : {p['name']}
-  REF OEM / COTES : {p['oem_or_dimension']}
-  USURE & RYTHME : {p['wear_symptom']} ({p['replacement_interval']})
-  RECHERCHE AMAZON : {p['affiliate_url']}""")
-
-            # EN
-            llms_full_parts_en.append(f"""
+            # llms-full.txt
+            llms_full_parts = [
+                f"# OutdoorParts Guide ({lang_meta['name']}) - Full Knowledge Base\nVersion: 1.0.0 | Updated: {now_iso}\nBase URL: {self.site_base_url}/{sub}\n"
+            ]
+            for g in all_guides:
+                llms_full_parts.append(f"""
 ================================================================================
 MODEL : {g['brand']} - {g['model_name']} ({g['category_name']})
-URL : {self.site_base_url}/en/guides/{g['slug']}.html
+URL : {self.site_base_url}/{sub}guides/{g['slug']}.html
 YEARS : {g['years_range']}
 SUMMARY : {g['summary']}
 
-CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
-            for p in g.get("parts", []):
-                llms_full_parts_en.append(f"""- PART : {p['name']}
+CROSS-REFERENCE PARTS & AMAZON STORES :""")
+                for p in g.get("parts", []):
+                    primary_url = p.get(f"affiliate_url_{lang_meta['store']}", p.get("affiliate_url_us", p.get("affiliate_url")))
+                    llms_full_parts.append(f"""- PART : {p['name']}
   OEM REF / SPECS : {p['oem_or_dimension']}
   WEAR & INTERVAL : {p['wear_symptom']} ({p['replacement_interval']})
-  AMAZON US/GLOBAL : {p.get('affiliate_url_us', p['affiliate_url'])}
-  AMAZON UK : {p.get('affiliate_url_uk', p['affiliate_url'])}
-  AMAZON CA : {p.get('affiliate_url_ca', p['affiliate_url'])}
-  AMAZON AU : {p.get('affiliate_url_au', p['affiliate_url'])}
-  AMAZON DE : {p.get('affiliate_url_de', p['affiliate_url'])}""")
+  AMAZON ({lang_meta['store'].upper()}) : {primary_url}
+  AMAZON US : {p.get('affiliate_url_us')}
+  AMAZON DE : {p.get('affiliate_url_de')}
+  AMAZON ES : {p.get('affiliate_url_es')}
+  AMAZON IT : {p.get('affiliate_url_it')}
+  AMAZON BR : {p.get('affiliate_url_br', p.get('affiliate_url_es'))}""")
 
-        with open(os.path.join(self.docs_dir, "llms-full.txt"), "w", encoding="utf-8") as f:
-            f.write("\n".join(llms_full_parts_fr))
+            with open(os.path.join(self.lang_dirs[lang_code]["docs"], "llms-full.txt"), "w", encoding="utf-8") as f:
+                f.write("\n".join(llms_full_parts))
 
-        with open(os.path.join(self.docs_en_dir, "llms-full.txt"), "w", encoding="utf-8") as f:
-            f.write("\n".join(llms_full_parts_en))
-
-        # 9. docs/api/v1/catalog.json (FR) et docs/api/v1/en/catalog.json (EN)
+        # 7. docs/api/v1/{lang}/catalog.json pour chaque langue
         api_catalog = {
             "version": "1.0.0",
             "updated_at": datetime.now(timezone.utc).isoformat(),
@@ -1953,28 +1896,28 @@ CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
             "partner_tag": self.partner_tag,
             "total_models": len(all_guides),
             "total_parts": total_parts,
+            "supported_languages": list(SUPPORTED_LANGUAGES.keys()),
             "supported_stores": list(AMAZON_DOMAINS.keys()),
             "models": all_guides
         }
-        with open(os.path.join(self.api_dir, "catalog.json"), "w", encoding="utf-8") as f:
-            json.dump(api_catalog, f, indent=2, ensure_ascii=False)
+        for lang_code, lang_meta in SUPPORTED_LANGUAGES.items():
+            api_file = os.path.join(self.lang_dirs[lang_code]["api"], "catalog.json")
+            with open(api_file, "w", encoding="utf-8") as f:
+                json.dump(api_catalog, f, indent=2, ensure_ascii=False)
 
-        with open(os.path.join(self.api_en_dir, "catalog.json"), "w", encoding="utf-8") as f:
-            json.dump(api_catalog, f, indent=2, ensure_ascii=False)
-
-        # 10. docs/.well-known/openapi.json
+        # 8. docs/.well-known/openapi.json
         openapi_spec = {
             "openapi": "3.0.3",
             "info": {
                 "title": "OutdoorParts Guide API Global",
                 "version": "1.0.0",
-                "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs avec liens multi-stores Amazon."
+                "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs dans 6 langues (FR, EN, ES, DE, IT, PT) avec liens multi-stores Amazon."
             },
             "servers": [{"url": self.site_base_url}],
             "paths": {
                 "/api/v1/catalog.json": {
                     "get": {
-                        "summary": "Obtenir l'intégralité du catalogue des correspondances (FR/Global)",
+                        "summary": "Catalogue global des correspondances",
                         "operationId": "getCatalog",
                         "responses": {
                             "200": {
@@ -1986,14 +1929,37 @@ CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
                 },
                 "/api/v1/en/catalog.json": {
                     "get": {
-                        "summary": "Get full cross-reference catalog (English / Multi-country Amazon stores)",
+                        "summary": "English cross-reference catalog",
                         "operationId": "getCatalogEn",
-                        "responses": {
-                            "200": {
-                                "description": "Full catalog with worldwide Amazon store search URLs",
-                                "content": {"application/json": {"schema": {"type": "object"}}}
-                            }
-                        }
+                        "responses": {"200": {"description": "Full English catalog"}}
+                    }
+                },
+                "/api/v1/es/catalog.json": {
+                    "get": {
+                        "summary": "Catálogo de piezas de repuesto (Español)",
+                        "operationId": "getCatalogEs",
+                        "responses": {"200": {"description": "Catálogo completo en español"}}
+                    }
+                },
+                "/api/v1/de/catalog.json": {
+                    "get": {
+                        "summary": "Ersatzteile & Verschleißteile Katalog (Deutsch)",
+                        "operationId": "getCatalogDe",
+                        "responses": {"200": {"description": "Vollständiger Katalog auf Deutsch"}}
+                    }
+                },
+                "/api/v1/it/catalog.json": {
+                    "get": {
+                        "summary": "Catalogo parti di ricambio (Italiano)",
+                        "operationId": "getCatalogIt",
+                        "responses": {"200": {"description": "Catalogo completo in italiano"}}
+                    }
+                },
+                "/api/v1/pt/catalog.json": {
+                    "get": {
+                        "summary": "Catálogo de peças de reposição (Português)",
+                        "operationId": "getCatalogPt",
+                        "responses": {"200": {"description": "Catálogo completo em português"}}
                     }
                 },
                 "/llms.txt": {
@@ -2013,7 +1979,7 @@ CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
         with open(os.path.join(self.well_known_dir, "openapi.json"), "w", encoding="utf-8") as f:
             json.dump(openapi_spec, f, indent=2, ensure_ascii=False)
 
-        # 11. Fichier clé IndexNow pour validation
+        # 9. Fichier clé IndexNow pour validation
         indexnow_key = self.state.get("indexnow_key", "4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c")
         with open(os.path.join(self.docs_dir, f"{indexnow_key}.txt"), "w", encoding="utf-8") as f:
             f.write(indexnow_key)
@@ -2023,10 +1989,10 @@ CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
         Cycle d'exécution autonome :
         1. Compile tous les modèles de CANDIDATE_MODELS_POOL pour une couverture mondiale immédiate
         2. Traite et enrichit les fiches
-        3. Génère les déclinaisons FR et EN des guides et endpoints
+        3. Génère les déclinaisons dans les 6 langues (FR, EN, ES, DE, IT, PT) des guides et endpoints
         4. Met à jour catalog_state.json
         """
-        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Démarrage de l'agent OutdoorParts Global...")
+        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Démarrage de l'agent OutdoorParts Global (6 Langues)...")
         
         # Traitement et mise en mémoire de l'intégralité du pool
         active_guides_map: Dict[str, Dict[str, Any]] = {}
@@ -2047,11 +2013,11 @@ CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
 
         all_guides = list(active_guides_map.values())
 
-        # Rendu des pages HTML des guides (FR dans docs/guides/ et EN dans docs/en/guides/)
+        # Rendu des pages HTML des guides pour toutes les langues
         for g in all_guides:
             self.render_and_save_guide(g)
 
-        # Rendu des pages globales, endpoints et llms.txt (FR et EN)
+        # Rendu des pages globales, endpoints et llms.txt pour toutes les langues
         self.render_global_pages(all_guides)
 
         # Mise à jour de l'état
@@ -2062,7 +2028,8 @@ CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
         }
         self._save_state()
 
-        print(f"[OK] {len(all_guides)} guides FR + {len(all_guides)} guides EN générés ({len(all_guides)*2} pages) dans docs/.")
+        total_pages = len(all_guides) * len(SUPPORTED_LANGUAGES)
+        print(f"[OK] {len(all_guides)} modèles compilés en 6 langues ({total_pages} pages guides) dans docs/.")
         return newly_processed
 
 

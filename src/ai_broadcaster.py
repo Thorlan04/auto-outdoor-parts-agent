@@ -319,17 +319,27 @@ auto-outdoor-parts-agent/
         urls = [
             f"{self.site_base_url}/index.html",
             f"{self.site_base_url}/en/index.html",
+            f"{self.site_base_url}/es/index.html",
+            f"{self.site_base_url}/de/index.html",
+            f"{self.site_base_url}/it/index.html",
+            f"{self.site_base_url}/pt/index.html",
             f"{self.site_base_url}/llms.txt",
             f"{self.site_base_url}/en/llms.txt",
-            f"{self.site_base_url}/llms-full.txt",
-            f"{self.site_base_url}/en/llms-full.txt",
+            f"{self.site_base_url}/es/llms.txt",
+            f"{self.site_base_url}/de/llms.txt",
+            f"{self.site_base_url}/it/llms.txt",
+            f"{self.site_base_url}/pt/llms.txt",
             f"{self.site_base_url}/api/v1/catalog.json",
-            f"{self.site_base_url}/api/v1/en/catalog.json",
             f"{self.site_base_url}/sitemap.xml",
         ]
-        for g in guides[:15]:
-            urls.append(f"{self.site_base_url}/guides/{g['slug']}.html")
-            urls.append(f"{self.site_base_url}/en/guides/{g['slug']}.html")
+        for g in guides[:10]:
+            slug = g['slug']
+            urls.append(f"{self.site_base_url}/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/en/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/es/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/de/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/it/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/pt/guides/{slug}.html")
 
         payload = {
             "host": host,
