@@ -1,8 +1,8 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-15T20:07:05.599038+00:00",
+  "updated_at": "2026-10-15T20:08:00.192515+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
-  "partner_tag": "outdoorparts-21",
+  "partner_tag": "autoconsom-21",
   "total_models": 13,
   "total_parts": 40,
   "models": [
@@ -25,7 +25,7 @@
           "replacement_interval": "1 à 2 saisons selon turbidité de l'eau",
           "technical_detail": "Cadre rigide à 4 panneaux démontables sans outil, compatible panier standard Dolphin série E.",
           "search_query": "filtre ultra fin dolphin e20 50 microns",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21"
         },
         {
           "name": "Chenille d'Entraînement Crantée Haute Adhérence",
@@ -35,7 +35,7 @@
           "replacement_interval": "Tous les 2 à 3 ans",
           "technical_detail": "Élastomère résistant au chlore et sel, clipsable directement sur les roues dentées sans vis.",
           "search_query": "chenille dolphin e20 9985006",
-          "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21"
         },
         {
           "name": "Brosse Active PVC Lamelles Grise",
@@ -45,7 +45,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "PVC souple spécial liners et coques polyester, montage clipsable sur axe central.",
           "search_query": "brosse pvc active dolphin e20",
-          "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21"
         },
         {
           "name": "Clapet Anti-Retour Évacuation Panier",
@@ -55,7 +55,7 @@
           "replacement_interval": "Contrôle annuel",
           "technical_detail": "Volet souple en élastomère transparent évitant le refoulement des débris.",
           "search_query": "clapet anti retour dolphin e20",
-          "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -105,7 +105,7 @@
           "replacement_interval": "Toutes les 2 à 3 semaines en saison",
           "technical_detail": "Papier dacron plissé haute rétention, diamètre intérieur 4.3cm, rinçage bi-hebdomadaire.",
           "search_query": "cartouche type s1 intex purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21"
         },
         {
           "name": "Kit Joints Toriques Raccords Bloc Moteur",
@@ -115,7 +115,7 @@
           "replacement_interval": "Remplacement annuel ou à chaque remise en eau",
           "technical_detail": "EPDM de grade sanitaire traité anti-chlore et anti-brome, tolérance 45°C.",
           "search_query": "joint torique intex 11004 purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=joint+torique+intex+11004+purespa&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21"
         },
         {
           "name": "Bouchon de Vidange avec Raccord Tuyau Arrosage",
@@ -125,7 +125,7 @@
           "replacement_interval": "En cas de casse ou fissure",
           "technical_detail": "Permet d'évacuer l'eau du spa directement vers les égouts via un tuyau d'arrosage.",
           "search_query": "bouchon vidange intex purespa adaptateur",
-          "affiliate_url": "https://www.amazon.fr/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21"
         },
         {
           "name": "Diffuseur Flottant de Chlore / Brome Régulé",
@@ -135,7 +135,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Évite le contact direct des pastilles oxydantes avec le PVC du fond du spa.",
           "search_query": "diffuseur flottant brome spa intex 20g",
-          "affiliate_url": "https://www.amazon.fr/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -185,7 +185,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Bac rigide à poignée ergonomique pour extraction rapide par le dessus du robot.",
           "search_query": "filtre bac zodiac tornax rt3200 r0762900",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21"
         },
         {
           "name": "Chenille de Traction Crantée (Unité)",
@@ -195,7 +195,7 @@
           "replacement_interval": "Tous les 2 à 3 ans",
           "technical_detail": "Caoutchouc résistant aux UV et aux traitements au sel.",
           "search_query": "chenille zodiac tornax rt3200 r0763000",
-          "affiliate_url": "https://www.amazon.fr/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21"
         },
         {
           "name": "Brosse Avant à Lamelles Spéciale Liner / Carrelage",
@@ -205,7 +205,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Assemblage par clipsage sécurisé sur l'axe d'entraînement avant.",
           "search_query": "brosse zodiac tornax rt3200 r0762800",
-          "affiliate_url": "https://www.amazon.fr/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -247,7 +247,7 @@
           "replacement_interval": "Toutes les 2 semaines",
           "technical_detail": "Filtre en tissu plissé haute densité, trou central 5.2cm.",
           "search_query": "cartouche type vi bestway lay-z-spa 58323",
-          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21"
         },
         {
           "name": "Rotor de Pompe avec Axe en Céramique Inoxydable",
@@ -257,7 +257,7 @@
           "replacement_interval": "Tous les 2 à 4 ans",
           "technical_detail": "Axe en céramique technique inaltérable par le chlore et l'eau calcaire, aubes magnétiques néodyme.",
           "search_query": "rotor axe ceramique pompe bestway lay z spa e02",
-          "affiliate_url": "https://www.amazon.fr/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21"
         },
         {
           "name": "Lot Joints d'Étanchéité Raccords Entrée / Sortie",
@@ -267,7 +267,7 @@
           "replacement_interval": "Tous les ans",
           "technical_detail": "Silicone souple résistant aux températures jusqu'à 50°C.",
           "search_query": "joint etancheite raccord bestway lay z spa",
-          "affiliate_url": "https://www.amazon.fr/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -309,7 +309,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Tressage textile haute résistance, température max 60°C, raccord rapide quart de tour.",
           "search_query": "flexible karcher k5 10m quick connect",
-          "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21"
         },
         {
           "name": "Lance Rotabuse Décapante Dirt Blaster DB 145",
@@ -319,7 +319,7 @@
           "replacement_interval": "En cas d'usure de buse céramique",
           "technical_detail": "Buse en céramique trempée offrant un pouvoir décapant doublé par rapport au jet plat.",
           "search_query": "rotabuse karcher k5 db 145 2.643-244.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21"
         },
         {
           "name": "Kit de Joints Toriques de Rechange Haute Pression",
@@ -329,7 +329,7 @@
           "replacement_interval": "À remplacer dès apparition d'un suintement",
           "technical_detail": "Contient 10 joints toriques de différents diamètres pour lances, pistolets G 180 Q et flexibles.",
           "search_query": "kit joints toriques karcher 2.880-990.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21"
         },
         {
           "name": "Filtre à Eau Transparent Entrée d'Eau 3/4\"",
@@ -339,7 +339,7 @@
           "replacement_interval": "Contrôle avant chaque saison",
           "technical_detail": "Protège la pompe aluminium des grains de sable et particules rouillées du réseau d'eau.",
           "search_query": "filtre eau transparent karcher 4.730-059.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -389,7 +389,7 @@
           "replacement_interval": "Nettoyage régulier, remplacement tous les 12 mois",
           "technical_detail": "Permet d'aspirer indifféremment eau et poussières sans retirer le filtre cartouche.",
           "search_query": "filtre cartouche karcher wd3 6.414-552.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21"
         },
         {
           "name": "Sacs Filtrants Intissés Microfibres 3 Couches (Lot de 5)",
@@ -399,7 +399,7 @@
           "replacement_interval": "À saturation",
           "technical_detail": "Matériau non-tissé indéchirable retenant le plâtre et les cendres froides sans saturer la cuve.",
           "search_query": "sac intisse karcher wd3 2.863-314.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21"
         },
         {
           "name": "Buse Combinée Sol Eau et Poussière avec Clips Caoutchouc",
@@ -409,7 +409,7 @@
           "replacement_interval": "Tous les 3 ans",
           "technical_detail": "Double insert interchangeable : lamelles caoutchouc pour liquides et brosses pour poussières sèches.",
           "search_query": "buse sol karcher wd3 eau poussiere 35mm",
-          "affiliate_url": "https://www.amazon.fr/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -451,7 +451,7 @@
           "replacement_interval": "Affûtage régulier, remplacement après 4 à 5 affûtages",
           "technical_detail": "Pas 3/8\" Picco (9.32mm), jauge étroite 1.1mm (.043\"), 44 maillons entraîneurs pour guide de 30cm.",
           "search_query": "chaine stihl ms 170 3/8 1.1 44 maillons 3610-000-0044",
-          "affiliate_url": "https://www.amazon.fr/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21"
         },
         {
           "name": "Guide-Chaîne Rollomatic E Mini 30cm (12 pouces)",
@@ -461,7 +461,7 @@
           "replacement_interval": "Tous les 2 à 3 ans (retourner le guide à chaque changement de chaîne)",
           "technical_detail": "Pignon de renvoi trempé à 7 dents, acier au chrome-molybdène ultra-léger.",
           "search_query": "guide stihl 30cm 3005-000-3905 ms170",
-          "affiliate_url": "https://www.amazon.fr/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21"
         },
         {
           "name": "Bougie d'Allumage NGK BPMR7A / Bosch WSR6F",
@@ -471,7 +471,7 @@
           "replacement_interval": "Remplacement annuel ou toutes les 100 heures",
           "technical_detail": "Résistance intégrée antiparasite, culot court standard 2 temps tronçonneuse.",
           "search_query": "bougie ngk bpmr7a stihl ms 170",
-          "affiliate_url": "https://www.amazon.fr/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21"
         },
         {
           "name": "Filtre à Air en Feutre Synthétique Rechange",
@@ -481,7 +481,7 @@
           "replacement_interval": "Nettoyage hebdomadaire, changement chaque saison",
           "technical_detail": "Montage instantané clipsé derrière le capot quart de tour.",
           "search_query": "filtre a air stihl ms 170 1130-124-0800",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -523,7 +523,7 @@
           "replacement_interval": "Toutes les 4 à 6 semaines en saison active",
           "technical_detail": "Lames pivotantes double tranchant revêtues nitrure de titane, évitant la casse sur cailloux.",
           "search_query": "lames titane husqvarna automower 0.75mm",
-          "affiliate_url": "https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21"
         },
         {
           "name": "Connecteurs de Câble Étanches à Gel 3M Scotchlok 314",
@@ -533,7 +533,7 @@
           "replacement_interval": "À chaque coupure de câble accidentelle",
           "technical_detail": "Auto-dénudant par simple pression d'une pince plate, gel d'étanchéité anti-corrosion enterrable.",
           "search_query": "connecteurs 3m scotchlok 314 robot tondeuse",
-          "affiliate_url": "https://www.amazon.fr/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21"
         },
         {
           "name": "Bobine Câble Périphérique Cuivre Étamé Haute Conductivité (100m)",
@@ -543,7 +543,7 @@
           "replacement_interval": "En cas de modification du périmètre de tonte",
           "technical_detail": "Ame multibrins étamée pour une impédance minimale sur longues distances (>250m).",
           "search_query": "cable peripherique 2.7mm robot tondeuse husqvarna",
-          "affiliate_url": "https://www.amazon.fr/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -585,7 +585,7 @@
           "replacement_interval": "Remplacement en cas de perte ou défaillance",
           "technical_detail": "Protocole radio RTS propriétaire Somfy, coque renforcée avec anneau porte-clés.",
           "search_query": "telecommande compatible somfy rts 433.42 mhz keypop",
-          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21"
         },
         {
           "name": "Piles Bouton Lithium CR2430 3V Haute Capacité (Lot de 5)",
@@ -595,7 +595,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Plage de température étendue (-20°C à +60°C) pour fonctionnement hivernal garanti.",
           "search_query": "pile cr2430 3v lithium somfy",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21"
         },
         {
           "name": "Piles Bouton Lithium CR2032 3V (Pour modèles Keypop récents)",
@@ -605,7 +605,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Technologie lithium dioxyde de manganèse à faible autodécharge.",
           "search_query": "pile cr2032 3v energizer",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -647,7 +647,7 @@
           "replacement_interval": "En cas de perte ou défaillance mécanique",
           "technical_detail": "Compatible 100% avec les anciennes TOP-432NA et TOP-432EV, mémorisation code fixe inviolable.",
           "search_query": "telecommande came top 432ee 433.92 mhz",
-          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21"
         },
         {
           "name": "Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)",
@@ -657,7 +657,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Attention : nécessite 2 piles CR2016 superposées dans le sens de polarité indiqué.",
           "search_query": "pile cr2016 lot 3v energizer came",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -699,7 +699,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Technologie AGM sans entretien, étanche, gaz recombine, homologuée floating secours.",
           "search_query": "batterie 12v 7.2ah faston f2 onduleur apc",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21"
         },
         {
           "name": "Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)",
@@ -709,7 +709,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Offre 25% d'autonomie supplémentaire dans le même encombrement que la 7Ah.",
           "search_query": "batterie 12v 9ah faston f2 onduleur",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -751,7 +751,7 @@
           "replacement_interval": "Dès perte d'adhérence du velcro",
           "technical_detail": "Mousse polyuréthane semi-rigide haute résistance thermique, montage par 3 vis d'origine.",
           "search_query": "plateau ponceuse makita dbo180 125mm 743081-8",
-          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21"
         },
         {
           "name": "Sac Récepteur de Poussière avec Support Plastique",
@@ -761,7 +761,7 @@
           "replacement_interval": "En cas de déchirement",
           "technical_detail": "Tissu microfibre lavable évitant l'usage de sacs papier jetables.",
           "search_query": "sac poussiere makita dbo180 166078-4",
-          "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21"
         },
         {
           "name": "Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED",
@@ -771,7 +771,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Protection intégrée contre les surchauffes, surcharges et décharges profondes.",
           "search_query": "batterie 18v 5ah compatible makita bl1850b",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -813,7 +813,7 @@
           "replacement_interval": "Dès altération de la surface velcro",
           "technical_detail": "Fixation centrale par 4 vis torx/cruciformes, équilibrage dynamique anti-vibrations.",
           "search_query": "plateau ponceuse bosch gex 125-1 ae 2608000349",
-          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21"
         },
         {
           "name": "Boîtier Microfiltre Réutilisable avec Filtre Plissé",
@@ -823,7 +823,7 @@
           "replacement_interval": "Nettoyage par tapotement, renouvellement annuel",
           "technical_detail": "Boîtier plastique translucide permettant de surveiller le niveau de remplissage.",
           "search_query": "boitier microfiltre bosch gex 125 2605411225",
-          "affiliate_url": "https://www.amazon.fr/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
