@@ -34,7 +34,7 @@ Les agents autonomes (ChatGPT Search, Perplexity, Claude, Bing Copilot) peuvent 
 
 ---
 
-## 📋 Répertoire Technique des Modèles Référencés (10 modèles &middot; 33 pièces)
+## 📋 Répertoire Technique des Modèles Référencés (12 modèles &middot; 38 pièces)
 
 | Marque | Modèle d'Équipement | Secteur | Réf. OEM / Cotes Clés | Recherche Sécurisée Amazon |
 |:---|:---|:---|:---|:---|
@@ -48,6 +48,8 @@ Les agents autonomes (ChatGPT Search, Perplexity, Claude, Bing Copilot) peuvent 
 | **Husqvarna / Gardena** | [Automower 305 / 310 / 405X / Gardena Sileno](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html) | `Jardin Motorisé & Nettoyeurs Haute Pression` | `OEM 595 08 44-01 / Épaisseur 0.75mm / Vis revêtues frein filet` | [Trouver sur Amazon](https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=outdoorparts-21) |
 | **Somfy** | [Keypop 2 RTS / Keytis 4 RTS / io](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/somfy-keypop-keytis-rts-io-telecommande.html) | `Domotique Portail, Garage & Énergie de Secours` | `Fréquence 433.42 MHz RTS / Compatible moteurs Axovia, SGS, Elixo` | [Trouver sur Amazon](https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=outdoorparts-21) |
 | **Came** | [TOP 432EE / TOP 432NA / TOP 432EV](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/came-top-432ee-telecommande-portail.html) | `Domotique Portail, Garage & Énergie de Secours` | `OEM 001TOP-432EE / 433.92 MHz Code Fixe` | [Trouver sur Amazon](https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=outdoorparts-21) |
+| **APC (Schneider) / Eaton** | [Back-UPS ES / Pro / BX1400U / Ellipse ECO](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/apc-back-ups-batterie-plomb-etanche-12v.html) | `Domotique Portail, Garage & Énergie de Secours` | `12V 7.2Ah / Dimensions 151 x 65 x 94 mm / Bornes F2 (6.35mm)` | [Trouver sur Amazon](https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=outdoorparts-21) |
+| **Makita** | [Makita DBO180 / DBO180Z / BO5031 18V LXT](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/makita-dbo180z-ponceuse-excentrique-18v.html) | `Outillage Électroportatif` | `Makita 743081-8 / Diamètre 125mm / 8 trous d'aspiration` | [Trouver sur Amazon](https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=outdoorparts-21) |
 
 ---
 
@@ -120,4 +122,4 @@ python src/compta_manager.py
 - **Protection de la vie privée (RGPD) :** Site statique 100% exempté de bandeau cookies CNIL (zéro cookie tiers, zéro pistage publicitaire).
 - **Marques citées :** Citées uniquement à des fins d'information et d'indication de compatibilité technique (Article L. 713-6 du Code de la Propriété Intellectuelle).
 
-*Dernière synchronisation automatique : 2026-10-15 20:00 UTC*
+*Dernière synchronisation automatique : 2026-10-15 19:54 UTC*
