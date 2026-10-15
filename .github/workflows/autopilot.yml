@@ -53,14 +53,14 @@ jobs:
           EDITOR_ADDRESS: ${{ secrets.EDITOR_ADDRESS || '12 rue de la Paix, 75002 Paris, France' }}
           EDITOR_EMAIL: ${{ secrets.EDITOR_EMAIL || 'contact@outdoorparts-guide.fr' }}
         run: |
-          python src/agent_engine.py
+          python -m src.agent_engine
 
       - name: Diffusion Multicanale IA (Telegra.ph, README, IndexNow, Archive.org)
         env:
           AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG || 'outdoorparts-21' }}
           SITE_BASE_URL: ${{ secrets.SITE_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
         run: |
-          python src/ai_broadcaster.py
+          python -m src.ai_broadcaster
 
       - name: Mise à jour du Tableau de Bord Fiscal & Livre de Recettes
         run: |
