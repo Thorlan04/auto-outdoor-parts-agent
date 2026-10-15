@@ -19,7 +19,7 @@ permissions:
 
 concurrency:
   group: "autopilot"
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   run-agent:
@@ -29,6 +29,7 @@ jobs:
       - name: Récupération du code source
         uses: actions/checkout@v4
         with:
+          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
 
       - name: Configuration de Python 3.10
@@ -73,10 +74,13 @@ jobs:
           # Ajout des fichiers modifiés
           git add docs/ data/catalog_state.json README.md compta_impots/tableau_de_bord_fiscal.html
           
-          # Vérification s'il y a des changements avant de commiter
           if git diff --staged --quiet; then
             echo "Aucune modification à commiter pour ce cycle."
           else
             git commit -m "chore(autopilot): indexation 2 nouveaux modèles & mise à jour llms.txt [skip ci]"
-            git push origin main
+            
+            # Tentative de push avec rebase automatique en cas de commits concurrents
+            for i in 1 2 3; do
+              git pull --rebase -X ours origin main && git push origin main && break || sleep 5
+            done
           fi
