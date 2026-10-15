@@ -338,3 +338,139 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
   REF OEM / COTES : Format 23A / V23GA / MN21 / 12 Volts
   USURE & RYTHME : LED qui ne s'allume plus lors de la pression (Tous les 2 ans)
   RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
+
+================================================================================
+MODÈLE : DeWalt - DeWalt DCW210 / DCW210N / DCW210NT 18V XR (Outillage Électroportatif)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances officielles DeWalt DCW210N : plateau de ponçage auto-agrippant 125mm (N329079), sac récepteur AirLock et batteries 18V XR.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 4 Vis)
+  REF OEM / COTES : DeWalt OEM N329079 / Diamètre 125mm 8 trous
+  USURE & RYTHME : Disques abrasifs qui glissent ou ne collent plus au support (Dès lissage des micro-crochets velcro)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21
+- PIÈCE : Sac à Poussière Textile avec Raccord Rapide AirLock
+  REF OEM / COTES : DeWalt OEM N273733 / Système de verrouillage AirLock
+  USURE & RYTHME : Couture déchirée, ressort de collerette détendu (En cas d'usure de la toile filtrante)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21
+- PIÈCE : Batterie Compatible 18V 5.0Ah Li-Ion XR avec Jauge LED
+  REF OEM / COTES : Compatible DCB184 / 18V 5000mAh
+  USURE & RYTHME : Autonomie tombée à moins de 15 minutes (Tous les 3 à 5 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21
+
+================================================================================
+MODÈLE : Einhell - Système Power X-Change 18V (Ponceuses, Meuleuses, Tondeuses) (Outillage Électroportatif)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/einhell-power-x-change-18v-batteries.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances officielles écosystème Einhell 18V Power X-Change : batteries lithium 4.0Ah et 5.2Ah Plus, chargeurs rapides Boost et patins de ponceuse.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Batterie 18V 4.0Ah Li-Ion Power X-Change (Indicateur LED 3 Niveaux)
+  REF OEM / COTES : Einhell 4511396 / 18V 4000mAh / Cellules haute puissance
+  USURE & RYTHME : Autonomie réduite, surchauffe lors de travaux intensifs (Tous les 3 à 5 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21
+- PIÈCE : Batterie Haute Densité 18V 5.2Ah Plus Power X-Change
+  REF OEM / COTES : Einhell 4511437 / Technologie PLUS pour fortes charges
+  USURE & RYTHME : Besoin de puissance supérieure pour tondeuses ou meuleuses (Tous les 4 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21
+- PIÈCE : Chargeur Rapide Power-X-Boostcharger 6A
+  REF OEM / COTES : Einhell 4512064 / Courant de charge 6 Ampères
+  USURE & RYTHME : Ancien chargeur lent (plus de 2h de charge pour une 4Ah) (Équipement d'atelier longue durée)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21
+
+================================================================================
+MODÈLE : Chamberlain / LiftMaster - LiftMaster 893MAX / Chamberlain 953EV (Security+ 2.0) (Domotique Portail, Garage & Énergie de Secours)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/chamberlain-liftmaster-893max-remote.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances certifiées télécommandes porte de garage Security+ 2.0 (315MHz/390MHz) : pile lithium CR2032, clip visière pare-soleil et clavier sans fil 877MAX.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Télécommande 3 Boutons Visière 893MAX / 953EV (Security+ 2.0)
+  REF OEM / COTES : OEM 893MAX / 953EV / Multi-Fréquences 310/315/390 MHz
+  USURE & RYTHME : Portée réduite à moins de 2 mètres, boutons micro-switch usés (Tous les 5 ans ou en cas de perte)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21
+- PIÈCE : Pile Bouton Lithium 3V CR2032 Longue Durée (Lot Haute Fiabilité)
+  REF OEM / COTES : CR2032 / 3 Volts Lithium / Diamètre 20mm x 3.2mm
+  USURE & RYTHME : LED d'émission clignotante faible ou extinction totale à la pression (Tous les 2 ans préventif)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21
+- PIÈCE : Clip Pare-Soleil Métallique Ressort pour Télécommande Visière
+  REF OEM / COTES : OEM LiftMaster 029B0137 / Acier ressort galvanisé
+  USURE & RYTHME : Pince déformée, télécommande qui tombe du pare-soleil (En cas de déformation mécanique)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21
+- PIÈCE : Clavier Mural Extérieur Sans Fil à Code 877MAX / 878MAX
+  REF OEM / COTES : OEM 877MAX / Clavier rétroéclairé avec volet de protection
+  USURE & RYTHME : Touches membrane silicone fissurées par les UV, déprogrammation (5 à 8 ans selon exposition plein soleil)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21
+
+================================================================================
+MODÈLE : Polaris (Zodiac) - Polaris Vac-Sweep 280 / 380 Pressure Cleaner (Piscine, Spa & Robots Nettoyeurs)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/polaris-280-pressure-pool-cleaner.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances certifiées pour robot surpresseur Polaris 280 : pneus de traction MaxTrax C10, sac de filtration zippé K13, brosses d'embout de balayage 9-100-3105 et roulements à billes inox C60.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Pneu de Traction Caoutchouc Blanc MaxTrax (Lot de 3)
+  REF OEM / COTES : OEM Polaris C10 / C-10 / Diamètre standard 18cm
+  USURE & RYTHME : Pneus lisses, patinage sur le fond, robot qui tourne en rond (Toutes les 1 à 2 saisons)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21
+- PIÈCE : Sac de Filtration Tout-Usage à Fermeture Éclair (Double Couture)
+  REF OEM / COTES : OEM Polaris K13 / K-13 / Maille nylon haute ténacité
+  USURE & RYTHME : Fermeture velcro encrassée ou fermeture éclair bloquée, déchirure toile (Chaque saison en utilisation intensive)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21
+- PIÈCE : Mousses d'Éponge pour Embout de Tuyau Balayeur Arrière (Lot de 10)
+  REF OEM / COTES : OEM 9-100-3105 / Réf B5 / Mousse polyuréthane réticulée
+  USURE & RYTHME : Mousse déchiquetée ou disparue, tuyau plastique qui frotte directement sur le liner (Toutes les 4 à 8 semaines en saison)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21
+- PIÈCE : Roulements à Billes Inox pour Roues de Déplacement (Lot de 8)
+  REF OEM / COTES : OEM Polaris C60 / C-60 / Cage inox anti-corrosion
+  USURE & RYTHME : Roue grippée, résistance à la rotation, jeu latéral excessif (Tous les 2 à 3 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21
+
+================================================================================
+MODÈLE : Milwaukee - Milwaukee M18 REDLITHIUM XC5.0 / High Output (48-11-1850) (Outillage Électroportatif)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/milwaukee-m18-redlithium-battery-pack.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances certifiées gamme sans fil Milwaukee M18 Fuel : batteries haute capacité REDLITHIUM XC5.0 (48-11-1850), chargeur rapide double tension M12-18FC et crochets de ceinture 42-70-2653.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Batterie 18V 5.0Ah REDLITHIUM XC Li-Ion (Indicateur 4 LED)
+  REF OEM / COTES : OEM 48-11-1850 / M18 B5 / 18V 90Wh Lithium-Ion
+  USURE & RYTHME : Perte d'autonomie sous forte charge, voyant clignotant rouge au chargeur (Tous les 3 à 5 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21
+- PIÈCE : Chargeur Rapide Multi-Tension M12 - M18 (Double Baie)
+  REF OEM / COTES : OEM 48-59-1812 / M12-18FC / Courant progressif séquentiel
+  USURE & RYTHME : Cordon d'alimentation sectionné, surchauffe ou fusible de protection sauté (Matériel d'atelier pérenne)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21
+- PIÈCE : Crochet de Ceinture Inox avec Vis de Fixation (Lot de 2)
+  REF OEM / COTES : OEM 42-70-2653 / Acier inoxydable trempé
+  USURE & RYTHME : Crochet tordu ou vis de maintien perdue sur chantier (Remplacement immédiat en cas de déformation)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21
+- PIÈCE : Coque de Protection Caoutchouc Amortisseur pour Batterie M18 XC
+  REF OEM / COTES : OEM 49-16-2767 / Élastomère résistant aux huiles et solvants
+  USURE & RYTHME : Boîtier plastique fendu après une chute de hauteur (Accessoire préventif longue durée)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21
+
+================================================================================
+MODÈLE : Hayward - Hayward PoolVac XL / Navigator Pro Hydraulic Cleaner (Piscine, Spa & Robots Nettoyeurs)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/hayward-poolvac-xl-navigator-cleaner.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances officielles robot hydraulique Hayward PoolVac XL / Navigator Pro : patins de friction pour liner et béton AXV414P/AXV417WHP, ailettes latérales souples AXV055P et cône adaptateur skimmer AXV099P.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Kit 4 Patins de Friction Semelle Blancs Spécial Liner (Clipsables)
+  REF OEM / COTES : OEM Hayward AXV414P / AXV417WHP / Élastomère blanc
+  USURE & RYTHME : Témoins d'usure affleurants, robot qui adhère mal ou ralentit dans les pentes (Chaque saison ou dès disparition du relief)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21
+- PIÈCE : Paire d'Ailettes Latérales Souples Gauche et Droite avec Fentes
+  REF OEM / COTES : OEM Hayward AXV055P / Matériau santoprene flexible
+  USURE & RYTHME : Ailette fendue ou rigidifiée par les UV, déviation de trajectoire du robot (Tous les 2 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21
+- PIÈCE : Cône Adaptateur Universel d'Aspiration Skimmer / Prise Balai
+  REF OEM / COTES : OEM Hayward AXV099P / Diamètre étagé 38mm à 48mm
+  USURE & RYTHME : Caoutchouc durci ou craquelé créant une prise d'air désamorçant la pompe (Tous les 3 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21
+- PIÈCE : Couronne / Bague d'Engrenage Central de Turbine V-Flex
+  REF OEM / COTES : OEM AXV413P / Pignon téflon autolubrifiant
+  USURE & RYTHME : Turbine qui tourne sans entraîner les pattes d'avancement oscillantes (Tous les 3 à 4 ans)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21

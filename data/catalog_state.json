@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T20:34:04.996900+00:00",
+  "last_updated": "2026-10-15T20:51:29.786774+00:00",
   "telegra_ph_token": "b5fa29b2babee7ffd0369695ecd7b5c04ed03d9870cc4c578d7afb06ba87",
   "indexnow_key": "4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c",
   "processed_models": [
@@ -19,10 +19,16 @@
     "stihl-gta-26-scie-elagueuse-batterie",
     "karcher-k4-power-control-nettoyeur-hp",
     "nice-flo2re-era-flor-telecommande",
-    "bft-mitto-b-rcb02-telecommande-portail"
+    "bft-mitto-b-rcb02-telecommande-portail",
+    "dewalt-dcw210n-ponceuse-excentrique-18v",
+    "einhell-power-x-change-18v-batteries",
+    "chamberlain-liftmaster-893max-remote",
+    "polaris-280-pressure-pool-cleaner",
+    "milwaukee-m18-redlithium-battery-pack",
+    "hayward-poolvac-xl-navigator-cleaner"
   ],
   "stats": {
-    "total_guides": 17,
-    "total_parts_indexed": 50
+    "total_guides": 23,
+    "total_parts_indexed": 72
   }
 }
