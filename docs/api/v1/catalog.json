@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-15T19:54:33.709061+00:00",
+  "updated_at": "2026-10-15T20:04:09.609217+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
-  "partner_tag": "outdoorparts-21",
-  "total_models": 12,
-  "total_parts": 38,
+  "partner_tag": "autoconsom-21",
+  "total_models": 13,
+  "total_parts": 53,
   "models": [
     {
       "slug": "dolphin-e20-maytronics-robot-piscine",
@@ -25,7 +25,7 @@
           "replacement_interval": "1 à 2 saisons selon turbidité de l'eau",
           "technical_detail": "Cadre rigide à 4 panneaux démontables sans outil, compatible panier standard Dolphin série E.",
           "search_query": "filtre ultra fin dolphin e20 50 microns",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21"
         },
         {
           "name": "Chenille d'Entraînement Crantée Haute Adhérence",
@@ -35,7 +35,7 @@
           "replacement_interval": "Tous les 2 à 3 ans",
           "technical_detail": "Élastomère résistant au chlore et sel, clipsable directement sur les roues dentées sans vis.",
           "search_query": "chenille dolphin e20 9985006",
-          "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21"
         },
         {
           "name": "Brosse Active PVC Lamelles Grise",
@@ -45,7 +45,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "PVC souple spécial liners et coques polyester, montage clipsable sur axe central.",
           "search_query": "brosse pvc active dolphin e20",
-          "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21"
         },
         {
           "name": "Clapet Anti-Retour Évacuation Panier",
@@ -55,7 +55,7 @@
           "replacement_interval": "Contrôle annuel",
           "technical_detail": "Volet souple en élastomère transparent évitant le refoulement des débris.",
           "search_query": "clapet anti retour dolphin e20",
-          "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -94,72 +94,118 @@
       "model_name": "PureSpa Bulles & Jets (28426 / 28428 / 28440)",
       "years_range": "2020-2026",
       "title": "Intex PureSpa : Cartouches S1, Joints Toriques & Crépines Exactes",
-      "summary": "Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.",
-      "meta_description": "Filtres Type S1, joints toriques 11004 et bouchons pour spa gonflable Intex PureSpa. Correspondances exactes sans erreur 404.",
+      "summary": "Guide d'entretien expert pour votre PureSpa Intex Bulles & Jets, garantissant longévité, performance optimale et sécurité. Concentrez-vous sur les consommables et pièces d'usure externes pour une maintenance efficace et sans risque.",
+      "meta_description": "Maintenance experte pour votre spa gonflable Intex PureSpa Bulles & Jets (28426/28428/28440). Pièces d'usure, filtres, et procédures sûres pour une eau cristalline et un fonctionnement optimal.",
       "parts": [
         {
-          "name": "Cartouches de Filtration Type S1 (Lot Haute Densité)",
-          "tag": "Filtration Eau Pure",
-          "oem_or_dimension": "Intex 29001E / H 7.3cm x D 10.8cm",
-          "wear_symptom": "Débit d'eau réduit, code erreur E90, cartouche saturée",
-          "replacement_interval": "Toutes les 2 à 3 semaines en saison",
-          "technical_detail": "Papier dacron plissé haute rétention, diamètre intérieur 4.3cm, rinçage bi-hebdomadaire.",
-          "search_query": "cartouche type s1 intex purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=outdoorparts-21"
+          "name": "Cartouche filtrante Type S1",
+          "tag": "Filtration",
+          "oem_or_dimension": "Intex 29001 (Type S1)",
+          "wear_symptom": "Débit d'eau réduit, eau trouble, codes d'erreur de pompe (ex: E90, E91), encrassement visible.",
+          "replacement_interval": "Nettoyage hebdomadaire, remplacement toutes les 2 à 4 semaines selon l'usage.",
+          "technical_detail": "Élément filtrant en papier plissé pour retenir les impuretés et protéger la pompe et le réchauffeur.",
+          "search_query": "Filtre spa Intex S1 29001",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+spa+Intex+S1+29001&tag=autoconsom-21"
         },
         {
-          "name": "Kit Joints Toriques Raccords Bloc Moteur",
-          "tag": "Étanchéité Raccords",
-          "oem_or_dimension": "Intex OEM 11004 / 11005 / Diamètre 38mm",
-          "wear_symptom": "Goutte à goutte entre le spa et le bloc technique, perte de pression",
-          "replacement_interval": "Remplacement annuel ou à chaque remise en eau",
-          "technical_detail": "EPDM de grade sanitaire traité anti-chlore et anti-brome, tolérance 45°C.",
-          "search_query": "joint torique intex 11004 purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=joint+torique+intex+11004+purespa&tag=outdoorparts-21"
+          "name": "Bouchon de vidange et joint",
+          "tag": "Étanchéité",
+          "oem_or_dimension": "Intex (référence spécifique au modèle PureSpa)",
+          "wear_symptom": "Fuite d'eau au niveau de la vanne de vidange, difficulté à maintenir l'étanchéité.",
+          "replacement_interval": "Selon besoin, inspection annuelle.",
+          "technical_detail": "Assure l'étanchéité du point de vidange principal du spa. Le joint peut durcir ou se fissurer avec le temps.",
+          "search_query": "Bouchon vidange Intex PureSpa 28426",
+          "affiliate_url": "https://www.amazon.fr/s?k=Bouchon+vidange+Intex+PureSpa+28426&tag=autoconsom-21"
         },
         {
-          "name": "Bouchon de Vidange avec Raccord Tuyau Arrosage",
-          "tag": "Accessoire Vidange",
-          "oem_or_dimension": "Intex 10201 / Filetage standard 3/4\"",
-          "wear_symptom": "Fuite par la vanne de vidange inférieure ou filetage foiré",
-          "replacement_interval": "En cas de casse ou fissure",
-          "technical_detail": "Permet d'évacuer l'eau du spa directement vers les égouts via un tuyau d'arrosage.",
-          "search_query": "bouchon vidange intex purespa adaptateur",
-          "affiliate_url": "https://www.amazon.fr/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=outdoorparts-21"
+          "name": "Tuyau de gonflage avec adaptateur",
+          "tag": "Gonflage",
+          "oem_or_dimension": "Intex (référence spécifique au modèle PureSpa)",
+          "wear_symptom": "Spa ne gonfle pas correctement, fuite d'air lors du gonflage, tuyau percé ou adaptateur cassé.",
+          "replacement_interval": "Selon besoin.",
+          "technical_detail": "Permet le gonflage et le dégonflage rapide du spa via la pompe intégrée.",
+          "search_query": "Tuyau gonflage Intex PureSpa",
+          "affiliate_url": "https://www.amazon.fr/s?k=Tuyau+gonflage+Intex+PureSpa&tag=autoconsom-21"
         },
         {
-          "name": "Diffuseur Flottant de Chlore / Brome Régulé",
-          "tag": "Traitement Chimique",
-          "oem_or_dimension": "Intex 29044 / Galets 20g (1 pouce)",
-          "wear_symptom": "Pastilles dissoutes trop vite ou blocage de la bague de dosage",
-          "replacement_interval": "Tous les 2 ans",
-          "technical_detail": "Évite le contact direct des pastilles oxydantes avec le PVC du fond du spa.",
-          "search_query": "diffuseur flottant brome spa intex 20g",
-          "affiliate_url": "https://www.amazon.fr/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=outdoorparts-21"
+          "name": "Sangles et clips de couverture",
+          "tag": "Protection",
+          "oem_or_dimension": "Intex (référence spécifique au modèle PureSpa)",
+          "wear_symptom": "Clips cassés ou fragilisés, sangles effilochées ou déchirées, couverture mal fixée au spa.",
+          "replacement_interval": "Selon besoin, inspection annuelle (dégradation UV).",
+          "technical_detail": "Maintien sécurisé de la couverture thermique, réduisant la perte de chaleur et protégeant l'eau.",
+          "search_query": "Sangles couverture spa Intex PureSpa",
+          "affiliate_url": "https://www.amazon.fr/s?k=Sangles+couverture+spa+Intex+PureSpa&tag=autoconsom-21"
+        },
+        {
+          "name": "Kit de réparation liner",
+          "tag": "Réparation",
+          "oem_or_dimension": "Intex (référence spécifique pour liner PVC)",
+          "wear_symptom": "Petites fuites d'air ou d'eau sur le liner du spa (fond ou parois).",
+          "replacement_interval": "Selon besoin.",
+          "technical_detail": "Contient des patchs en PVC et de la colle spéciale pour colmater les perforations mineures du liner.",
+          "search_query": "Kit réparation liner spa Intex",
+          "affiliate_url": "https://www.amazon.fr/s?k=Kit+r%C3%A9paration+liner+spa+Intex&tag=autoconsom-21"
+        },
+        {
+          "name": "Télécommande radio (si incluse)",
+          "tag": "Contrôle",
+          "oem_or_dimension": "Intex (référence spécifique au modèle PureSpa)",
+          "wear_symptom": "Boutons ne répondent plus, portée réduite, écran illisible, dysfonctionnement général.",
+          "replacement_interval": "Piles annuellement, télécommande selon besoin.",
+          "technical_detail": "Permet le contrôle à distance des fonctions du spa (bulles, jets, chauffage, filtration).",
+          "search_query": "Télécommande Intex PureSpa 28426",
+          "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+Intex+PureSpa+28426&tag=autoconsom-21"
+        },
+        {
+          "name": "Grilles d'aspiration et de refoulement",
+          "tag": "Circulation",
+          "oem_or_dimension": "Intex (référence spécifique au modèle PureSpa)",
+          "wear_symptom": "Fissures, cassures, débris bloqués de manière permanente, mauvaise circulation de l'eau.",
+          "replacement_interval": "Selon besoin, inspection annuelle.",
+          "technical_detail": "Protège la pompe des gros débris et assure une bonne aspiration et un bon refoulement de l'eau.",
+          "search_query": "Grille aspiration refoulement Intex PureSpa",
+          "affiliate_url": "https://www.amazon.fr/s?k=Grille+aspiration+refoulement+Intex+PureSpa&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
         {
-          "title": "Mise en pause de la filtration",
-          "description": "Appuyez sur la touche 'Filter' du panneau tactile pour couper la pompe avant d'ouvrir le boîtier de cartouche."
+          "title": "Remplacement ou nettoyage de la cartouche filtrante",
+          "description": "Débranchez impérativement le spa de l'alimentation électrique. Dévissez le couvercle de la cartouche filtrante situé à l'intérieur du spa. Retirez l'ancienne cartouche. Rincez-la sous l'eau courante pour la nettoyer ou remplacez-la par une cartouche neuve. Revissez fermement le couvercle. Rebranchez le spa."
         },
         {
-          "title": "Insertion des bouchons obturateurs intérieurs",
-          "description": "Placez les capuchons noirs sur les buses intérieures pour éviter l'écoulement d'eau lors du dévissage des raccords externes."
+          "title": "Nettoyage de la ligne d'eau et des parois intérieures",
+          "description": "Débranchez le spa. Utilisez une éponge douce (non abrasive) et un nettoyant spécifique pour spa (sans chlore ni solvants agressifs) pour frotter délicatement la ligne d'eau et les parois intérieures. Rincez abondamment à l'eau claire pour éliminer tout résidu de produit avant de remplir ou de remettre en service."
         },
         {
-          "title": "Remplacement de la cartouche S1",
-          "description": "Dévissez le réceptacle de cartouche dans le bassin, insérez la cartouche neuve et revissez fermement à la main (sans outil)."
+          "title": "Vidange complète et nettoyage approfondi",
+          "description": "Débranchez le spa. Connectez un tuyau d'arrosage à la vanne de vidange externe et ouvrez le bouchon de vidange interne. Laissez l'eau s'écouler entièrement. Une fois vide, nettoyez l'intérieur du spa comme décrit précédemment. Séchez soigneusement le liner avec un chiffon doux avant de le ranger ou de le remplir à nouveau."
+        },
+        {
+          "title": "Réparation de petites fuites du liner",
+          "description": "Localisez précisément la fuite. Nettoyez et séchez minutieusement la zone autour de la fuite. Appliquez la colle du kit de réparation sur le patch et sur la zone à réparer. Appliquez fermement le patch sur la fuite et maintenez une pression constante pendant plusieurs minutes. Laissez sécher complètement selon les instructions du fabricant du kit avant de remettre le spa en eau."
+        },
+        {
+          "title": "Vérification et remplacement des sangles de couverture",
+          "description": "Inspectez visuellement toutes les sangles et les clips de la couverture pour détecter toute fissure, décoloration, effilochage ou signe de fragilité. Si des éléments sont endommagés, retirez les anciennes sangles (souvent fixées par des vis ou des rivets) et installez les nouvelles en suivant les instructions spécifiques du fabricant pour assurer une fixation sécurisée."
         }
       ],
       "faqs": [
         {
-          "question": "Que signifie le code erreur E90 sur Intex PureSpa ?",
-          "answer": "Le code E90 indique un défaut de débit d'eau. Dans 95% des cas, il s'agit d'une cartouche S1 encrassée ou d'une crépine obstruée par des cheveux ou résidus."
+          "question": "Mon spa affiche un code d'erreur 'E90' ou 'E91', quelle est la cause et comment y remédier ?",
+          "answer": "Ces codes indiquent généralement un problème de circulation d'eau, souvent dû à une cartouche filtrante encrassée. Débranchez le spa, retirez et nettoyez ou remplacez la cartouche filtrante. Vérifiez également que les grilles d'aspiration et de refoulement ne sont pas obstruées par des débris. Redémarrez ensuite le spa."
         },
         {
-          "question": "Peut-on laver une cartouche S1 au lave-linge ?",
-          "answer": "Non, la pression et les lessives détruisent la trame en dacron. Rincez-la au jet d'eau sous pression ou remplacez-la."
+          "question": "À quelle fréquence dois-je changer l'eau de mon spa gonflable ?",
+          "answer": "Il est recommandé de changer l'eau de votre spa toutes les 2 à 4 semaines. Cette fréquence peut varier en fonction de l'intensité d'utilisation, du nombre de baigneurs et de la rigueur de votre traitement de l'eau. Une bonne gestion des produits chimiques peut aider à prolonger la durée de vie de l'eau."
+        },
+        {
+          "question": "Comment puis-je prolonger la durée de vie du liner de mon spa ?",
+          "answer": "Pour prolonger la durée de vie du liner, évitez l'exposition directe et prolongée au soleil lorsque le spa est vide. Utilisez toujours des produits chimiques de traitement de l'eau adaptés et respectez scrupuleusement les dosages. Nettoyez régulièrement la ligne d'eau pour prévenir l'accumulation de dépôts et utilisez systématiquement la couverture de protection lorsque le spa n'est pas utilisé."
+        },
+        {
+          "question": "Ma télécommande ne fonctionne plus, est-ce un problème de batterie ?",
+          "answer": "Oui, la batterie est la première chose à vérifier. Ouvrez le compartiment à piles (généralement à l'arrière de la télécommande) et remplacez les piles par des neuves du type recommandé (souvent AAA ou CR2032). Si le problème persiste, assurez-vous qu'il n'y a pas d'obstacles physiques entre la télécommande et le récepteur du spa."
         }
       ],
       "date_published": "2026-10-15",
@@ -174,54 +220,84 @@
       "model_name": "TornaX RT 3200 / OT 3200 / RT 2100",
       "years_range": "2020-2026",
       "title": "Zodiac TornaX RT 3200 : Bac Filtrant, Chenilles & Brosse Lamelles",
-      "summary": "Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.",
-      "meta_description": "Pièces d'usure certifiées pour Zodiac TornaX RT 3200 et OT 3200. Filtres 100 microns et chenilles crantées sans erreur 404.",
+      "summary": "Optimisez la performance et la longévité de votre robot nettoyeur Zodiac TornaX RT/OT 3200 & RT 2100 grâce à ce guide expert des consommables et pièces d'usure essentielles.",
+      "meta_description": "Maintenance experte Zodiac TornaX RT/OT 3200, RT 2100 (2020-2026). Guide des pièces d'usure : filtres, chenilles, brosses. Procédures simples et sécurisées. Prolongez la vie de votre robot.",
       "parts": [
         {
-          "name": "Bac Filtrant Débris Fins 100 microns",
-          "tag": "Filtration Fine",
-          "oem_or_dimension": "OEM R0762900 / 100 microns rigide",
-          "wear_symptom": "Perte d'aspiration, tamis fendu, particules rejetées dans l'eau",
-          "replacement_interval": "Tous les 2 ans",
-          "technical_detail": "Bac rigide à poignée ergonomique pour extraction rapide par le dessus du robot.",
-          "search_query": "filtre bac zodiac tornax rt3200 r0762900",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=outdoorparts-21"
+          "name": "Panier filtrant (Filtre fin ou gros débris)",
+          "tag": "Filtration",
+          "oem_or_dimension": "Zodiac R0707300 (fin 60µ) / R0707400 (gros débris 100µ) / R0707500 (très fin 30µ)",
+          "wear_symptom": "Diminution de l'aspiration, eau trouble après nettoyage, débris non collectés, déchirures de la maille.",
+          "replacement_interval": "Selon l'usage et l'encrassement, vérifier et nettoyer après chaque cycle. Remplacer tous les 1-2 ans ou si endommagé.",
+          "technical_detail": "Panier rigide avec maille filtrante intégrée, facile d'accès par le dessus du robot. Différentes finesses de filtration disponibles.",
+          "search_query": "Panier filtrant Zodiac TornaX RT 3200",
+          "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
         },
         {
-          "name": "Chenille de Traction Crantée (Unité)",
-          "tag": "Motricité Parois",
-          "oem_or_dimension": "OEM R0763000 / Profil cranté Zodiac",
-          "wear_symptom": "Robot qui ne monte plus aux parois ou qui dérive sur le fond",
-          "replacement_interval": "Tous les 2 à 3 ans",
-          "technical_detail": "Caoutchouc résistant aux UV et aux traitements au sel.",
-          "search_query": "chenille zodiac tornax rt3200 r0763000",
-          "affiliate_url": "https://www.amazon.fr/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=outdoorparts-21"
+          "name": "Chenilles de traction (lot de 2)",
+          "tag": "Traction",
+          "oem_or_dimension": "Zodiac R0707600 (lot de 2)",
+          "wear_symptom": "Déplacement irrégulier du robot, patinage, marques sur le revêtement, chenilles craquelées, durcies ou détendues.",
+          "replacement_interval": "Tous les 2-3 ans ou dès apparition de signes d'usure importants (craquelures, perte d'adhérence).",
+          "technical_detail": "Bandes de caoutchouc crantées assurant l'adhérence et la propulsion sur le fond et les parois du bassin. Montage sans outil spécifique.",
+          "search_query": "Chenilles robot Zodiac TornaX RT 3200",
+          "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+robot+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
         },
         {
-          "name": "Brosse Avant à Lamelles Spéciale Liner / Carrelage",
-          "tag": "Frottement & Décollement",
-          "oem_or_dimension": "OEM R0762800 / Largeur utile 25cm",
-          "wear_symptom": "Lamelles arasées, algues non décollées sur les angles",
-          "replacement_interval": "Tous les 2 ans",
-          "technical_detail": "Assemblage par clipsage sécurisé sur l'axe d'entraînement avant.",
-          "search_query": "brosse zodiac tornax rt3200 r0762800",
-          "affiliate_url": "https://www.amazon.fr/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=outdoorparts-21"
+          "name": "Brosses de nettoyage (mousse ou PVC)",
+          "tag": "Nettoyage",
+          "oem_or_dimension": "Zodiac R0707700 (brosse mousse) / R0707800 (brosse PVC)",
+          "wear_symptom": "Efficacité de nettoyage réduite, algues ou dépôts persistants, brosses aplaties, déchirées ou durcies.",
+          "replacement_interval": "Tous les 1-2 ans ou si l'efficacité de brossage diminue visiblement. La mousse s'use plus vite que le PVC.",
+          "technical_detail": "Brosses rotatives situées à l'avant du robot, décollant les impuretés avant aspiration. Adaptées à différents revêtements (mousse pour liner, PVC pour carrelage).",
+          "search_query": "Brosse robot Zodiac TornaX RT 3200",
+          "affiliate_url": "https://www.amazon.fr/s?k=Brosse+robot+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
+        },
+        {
+          "name": "Télécommande radio (si modèle compatible)",
+          "tag": "Contrôle",
+          "oem_or_dimension": "Zodiac R0707900 (exemple de référence, vérifier compatibilité exacte du modèle)",
+          "wear_symptom": "Dysfonctionnement des commandes, portée réduite, boutons non réactifs, boîtier endommagé.",
+          "replacement_interval": "Selon besoin, si la télécommande est perdue, endommagée ou ne fonctionne plus (après vérification des piles).",
+          "technical_detail": "Boîtier étanche avec boutons de direction et de cycle, fonctionne sur piles standards (non incluses). Permet un pilotage manuel du robot.",
+          "search_query": "Télécommande Zodiac TornaX RT 3200",
+          "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
         {
-          "title": "Coupure de l'alimentation secteur",
-          "description": "Déconnectez le boîtier de commande Zodiac du réseau 230V avant de sortir le robot du bassin."
+          "title": "Nettoyage du Panier Filtrant",
+          "description": "Débranchez impérativement le robot de sa prise secteur. Ouvrez le capot supérieur du robot. Retirez le panier filtrant en le soulevant par sa poignée. Videz les débris et rincez le panier abondamment à l'eau claire (jet d'eau) pour éliminer toutes les fines particules. Assurez-vous que le panier est parfaitement propre avant de le remettre en place et de refermer le capot. Cette opération doit être effectuée après chaque cycle de nettoyage."
         },
         {
-          "title": "Extraction et rinçage du bac filtrant",
-          "description": "Soulevez le couvercle transparent, sortez le panier filtrant d'une main et nettoyez-le au jet d'eau tiède."
+          "title": "Remplacement des Chenilles de Traction",
+          "description": "Débranchez le robot de sa prise secteur. Retournez-le délicatement sur une surface propre et stable. Pour chaque chenille, localisez les axes des roues motrices. Dégagez la chenille usagée des roues en la faisant glisser hors de ses gorges. Nettoyez les gorges des roues si nécessaire pour retirer d'éventuels débris. Positionnez la nouvelle chenille en commençant par l'une des roues, puis étirez-la pour l'engager sur l'autre roue. Assurez-vous qu'elle est bien tendue et centrée sur les roues. Répétez l'opération pour l'autre chenille."
+        },
+        {
+          "title": "Remplacement des Brosses de Nettoyage",
+          "description": "Débranchez le robot de sa prise secteur. Retournez le robot. Les brosses sont généralement clipsées ou fixées par de petites vis non électriques, accessibles par l'extérieur. Dégagez les brosses usagées de leurs supports en suivant les instructions du manuel (souvent un simple déclipsage). Nettoyez les supports si besoin. Insérez les nouvelles brosses en vous assurant qu'elles sont correctement alignées et solidement fixées dans leurs logements. Vérifiez leur rotation libre avant de remettre le robot à l'endroit."
+        },
+        {
+          "title": "Vérification et Nettoyage du Câble Flottant",
+          "description": "Débranchez le robot de sa prise secteur. Déroulez entièrement le câble flottant sur une surface plane. Inspectez-le visuellement pour détecter d'éventuelles coupures, pincements, torsions excessives ou signes d'usure de l'isolant externe. Nettoyez le câble avec une éponge douce et de l'eau pour retirer les dépôts (algues, calcaire). Évitez de le laisser s'emmêler lors du rangement pour prévenir l'usure prématurée et assurer une bonne mobilité du robot dans le bassin."
         }
       ],
       "faqs": [
         {
-          "question": "Comment savoir si ma chenille Zodiac TornaX est à changer ?",
-          "answer": "Lorsque la chenille commence à se détendre ou si les crans intérieurs sont lisses, le robot patine sur les pentes du bassin."
+          "question": "Mon robot ne monte plus aux parois, que faire ?",
+          "answer": "Vérifiez l'état de propreté de votre panier filtrant : un filtre encrassé réduit drastiquement l'aspiration et donc la capacité du robot à adhérer aux parois. Inspectez également l'état de vos chenilles de traction : si elles sont usées, craquelées ou détendues, le robot perd son adhérence. Enfin, assurez-vous que la qualité de l'eau de votre piscine est équilibrée (pH, TAC) et que le niveau de chlore n'est pas trop élevé, ce qui peut rendre les parois glissantes."
+        },
+        {
+          "question": "Le robot se déplace lentement ou de manière erratique.",
+          "answer": "Plusieurs causes possibles pour un déplacement altéré : un filtre saturé qui entrave le flux d'eau, des chenilles usées ou mal positionnées qui réduisent la traction, ou des brosses encrassées qui freinent le mouvement. Nettoyez ou remplacez ces éléments. Vérifiez aussi que le câble flottant n'est pas emmêlé ou tordu, ce qui pourrait gêner la progression du robot et le faire dévier de sa trajectoire."
+        },
+        {
+          "question": "Comment prolonger la durée de vie de mon robot TornaX ?",
+          "answer": "Nettoyez systématiquement le panier filtrant après chaque cycle d'utilisation. Rincez le robot à l'eau claire après utilisation, surtout si l'eau de votre piscine est traitée au sel ou contient beaucoup de produits chimiques. Rangez le robot à l'abri du soleil direct, du gel et des intempéries. Vérifiez régulièrement l'état des chenilles et des brosses, et remplacez-les dès les premiers signes d'usure pour maintenir une performance optimale. Ne laissez pas le robot dans l'eau en permanence."
+        },
+        {
+          "question": "Puis-je utiliser des pièces non-OEM pour mon TornaX ?",
+          "answer": "Il est fortement recommandé d'utiliser des pièces d'origine Zodiac ou des pièces compatibles de qualité équivalente provenant de fournisseurs réputés. Les pièces non-OEM de mauvaise qualité peuvent altérer les performances de votre robot, réduire sa durée de vie et potentiellement annuler la garantie. Pour les filtres, les chenilles et les brosses, la précision des dimensions et la qualité des matériaux sont cruciales pour le bon fonctionnement et l'efficacité du nettoyage."
         }
       ],
       "date_published": "2026-10-15",
@@ -236,54 +312,126 @@
       "model_name": "Lay-Z-Spa Miami / Paris / Hawaii AirJet",
       "years_range": "2020-2026",
       "title": "Bestway Lay-Z-Spa : Cartouches Type VI, Rotor Céramique & Joints",
-      "summary": "Pièces de remplacement certifiées Bestway Lay-Z-Spa : cartouches VI (58323), turbine à axe céramique et joints de vanne.",
-      "meta_description": "Filtres Type VI, rotor de pompe et joints d'étanchéité pour spa Bestway Lay-Z-Spa. Guides et pièces compatibles sans erreur 404.",
+      "summary": "Optimisez la longévité et la performance de votre spa gonflable Lay-Z-Spa AirJet (2020-2026) grâce à notre guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance simple et sécurisée.",
+      "meta_description": "Guide expert pour l'entretien des Lay-Z-Spa Miami/Paris/Hawaii AirJet (2020-2026). Trouvez filtres, couvercles, flexibles et accessoires pour une maintenance facile et sécurisée.",
       "parts": [
         {
-          "name": "Cartouches de Filtration Type VI (58323)",
-          "tag": "Filtration Officielle",
-          "oem_or_dimension": "Bestway 58323 / H 8.0cm x D 10.6cm",
-          "wear_symptom": "Erreur E02 (débit d'eau insuffisant), encrassement",
-          "replacement_interval": "Toutes les 2 semaines",
-          "technical_detail": "Filtre en tissu plissé haute densité, trou central 5.2cm.",
-          "search_query": "cartouche type vi bestway lay-z-spa 58323",
-          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=outdoorparts-21"
+          "name": "Cartouche de filtration Type VI",
+          "tag": "Filtration",
+          "oem_or_dimension": "Bestway Type VI (58323)",
+          "wear_symptom": "Débit d'eau réduit, eau trouble, pompe bruyante, colmatage visible.",
+          "replacement_interval": "Nettoyage hebdomadaire, remplacement mensuel (ou toutes les 2-4 semaines selon usage).",
+          "technical_detail": "Cartouche plissée en papier/polyester pour retenir les impuretés fines et grossières de l'eau.",
+          "search_query": "Filtre Lay-Z-Spa Type VI Bestway 58323",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+Lay-Z-Spa+Type+VI+Bestway+58323&tag=autoconsom-21"
         },
         {
-          "name": "Rotor de Pompe avec Axe en Céramique Inoxydable",
-          "tag": "Turbine de Débit",
-          "oem_or_dimension": "OEM P05332 / P05333 / Axe céramique 65mm",
-          "wear_symptom": "Bruit de claquement, erreur E02 persistante avec filtre propre",
-          "replacement_interval": "Tous les 2 à 4 ans",
-          "technical_detail": "Axe en céramique technique inaltérable par le chlore et l'eau calcaire, aubes magnétiques néodyme.",
-          "search_query": "rotor axe ceramique pompe bestway lay z spa e02",
-          "affiliate_url": "https://www.amazon.fr/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=outdoorparts-21"
+          "name": "Couvercle de spa gonflable",
+          "tag": "Protection & Isolation",
+          "oem_or_dimension": "Spécifique au modèle (Miami, Paris, Hawaii) et au millésime",
+          "wear_symptom": "Fissures, déchirures, décoloration prononcée, perte d'isolation, accumulation d'eau sur le dessus.",
+          "replacement_interval": "Tous les 2-3 ans ou dès signes d'usure majeure compromettant l'isolation.",
+          "technical_detail": "Couverture isolante en PVC renforcé, protège de la saleté et aide à maintenir la température de l'eau.",
+          "search_query": "Couvercle Lay-Z-Spa Miami 2020",
+          "search_query_alt": "Couvercle Lay-Z-Spa Paris 2020",
+          "search_query_alt2": "Couvercle Lay-Z-Spa Hawaii 2020",
+          "affiliate_url": "https://www.amazon.fr/s?k=Couvercle+Lay-Z-Spa+Miami+2020&tag=autoconsom-21"
         },
         {
-          "name": "Lot Joints d'Étanchéité Raccords Entrée / Sortie",
-          "tag": "Étanchéité Raccords A/B/C",
-          "oem_or_dimension": "Joints toriques silicone P61755 / P6575",
-          "wear_symptom": "Suintement d'eau au niveau des raccords filetés du bloc",
-          "replacement_interval": "Tous les ans",
-          "technical_detail": "Silicone souple résistant aux températures jusqu'à 50°C.",
-          "search_query": "joint etancheite raccord bestway lay z spa",
-          "affiliate_url": "https://www.amazon.fr/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=outdoorparts-21"
+          "name": "Flexible de gonflage/dégonflage",
+          "tag": "Accessoire de gonflage",
+          "oem_or_dimension": "Bestway P6175",
+          "wear_symptom": "Fuites d'air, difficulté à gonfler/dégonfler, fissures visibles sur le tuyau ou les raccords.",
+          "replacement_interval": "Dès apparition de fuites ou de fissures compromettant l'étanchéité.",
+          "technical_detail": "Tuyau en PVC souple avec raccords spécifiques pour la pompe du spa, essentiel pour l'installation et le rangement.",
+          "search_query": "Flexible gonflage Lay-Z-Spa Bestway P6175",
+          "affiliate_url": "https://www.amazon.fr/s?k=Flexible+gonflage+Lay-Z-Spa+Bestway+P6175&tag=autoconsom-21"
+        },
+        {
+          "name": "Bouchon de vidange / Valve de vidange",
+          "tag": "Vidange",
+          "oem_or_dimension": "Bestway P6176 (bouchon), Bestway P6177 (valve)",
+          "wear_symptom": "Fuites d'eau au niveau de la valve, bouchon perdu, cassé ou ne se vissant plus correctement.",
+          "replacement_interval": "Dès perte ou dommage empêchant une vidange ou une étanchéité correcte.",
+          "technical_detail": "Bouchon à vis ou valve à clapet pour l'évacuation sécurisée de l'eau du bassin du spa.",
+          "search_query": "Bouchon vidange Lay-Z-Spa Bestway",
+          "search_query_alt": "Valve vidange Lay-Z-Spa Bestway",
+          "affiliate_url": "https://www.amazon.fr/s?k=Bouchon+vidange+Lay-Z-Spa+Bestway&tag=autoconsom-21"
+        },
+        {
+          "name": "Diffuseur de produits chimiques ChemConnect™",
+          "tag": "Traitement de l'eau",
+          "oem_or_dimension": "Bestway 58501",
+          "wear_symptom": "Cassé, ne flotte plus correctement, ne diffuse plus les pastilles de traitement, clips de fixation endommagés.",
+          "replacement_interval": "Dès dommage ou dysfonctionnement empêchant une diffusion efficace des produits.",
+          "technical_detail": "Flotteur distributeur de chlore/brome se fixant à la buse de refoulement pour une diffusion contrôlée des produits de traitement.",
+          "search_query": "Diffuseur ChemConnect Lay-Z-Spa Bestway 58501",
+          "affiliate_url": "https://www.amazon.fr/s?k=Diffuseur+ChemConnect+Lay-Z-Spa+Bestway+58501&tag=autoconsom-21"
+        },
+        {
+          "name": "Kit de réparation PVC (patchs)",
+          "tag": "Réparation",
+          "oem_or_dimension": "Bestway 62068",
+          "wear_symptom": "Petits trous, perforations ou déchirures mineures dans le liner du spa.",
+          "replacement_interval": "À utiliser dès qu'une fuite est détectée et localisée.",
+          "technical_detail": "Patchs adhésifs en PVC pour réparer les petites perforations et prolonger la durée de vie du liner gonflable.",
+          "search_query": "Kit réparation Lay-Z-Spa Bestway 62068",
+          "affiliate_url": "https://www.amazon.fr/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway+62068&tag=autoconsom-21"
+        },
+        {
+          "name": "Télécommande radio (si modèle équipé)",
+          "tag": "Contrôle",
+          "oem_or_dimension": "Pile CR2032 (pour la télécommande), Référence spécifique au modèle de télécommande (ex: Bestway P6178)",
+          "wear_symptom": "Ne répond plus, portée réduite, boutons défectueux, écran illisible (si écran).",
+          "replacement_interval": "Remplacement de la pile tous les 1-2 ans ou dès dysfonctionnement. Remplacement de la télécommande si la pile ne résout pas le problème.",
+          "technical_detail": "Télécommande sans fil pour contrôler les fonctions du spa (bulles, chauffage, filtration). Fonctionne avec une pile bouton.",
+          "search_query": "Télécommande Lay-Z-Spa Paris AirJet Bestway",
+          "search_query_alt": "Pile CR2032",
+          "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+Lay-Z-Spa+Paris+AirJet+Bestway&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
         {
-          "title": "Résolution de l'erreur E02 Bestway",
-          "description": "Éteignez le bloc, placez les bouchons obturateurs intérieurs, retirez la cartouche Type VI et inspectez les ailettes de la crépine."
+          "title": "Remplacement de la cartouche de filtration",
+          "description": "Assurez-vous que le spa est éteint et débranché. Dévissez le couvercle de la cartouche à l'intérieur du spa. Retirez l'ancienne cartouche et rincez-la si elle est encore utilisable, ou jetez-la. Insérez une nouvelle cartouche propre et revissez fermement le couvercle. Rebranchez le spa."
         },
         {
-          "title": "Nettoyage ou changement de cartouche",
-          "description": "Rincez abondamment ou insérez une cartouche Type VI neuve avant de redémarrer le cycle de chauffe."
+          "title": "Nettoyage et entretien du liner interne du spa",
+          "description": "Après avoir vidé le spa (via la valve de vidange), utilisez une éponge douce et un nettoyant non abrasif spécifique pour spa pour nettoyer les parois internes. Rincez abondamment à l'eau claire pour éliminer tout résidu de produit avant de remplir le spa."
+        },
+        {
+          "title": "Vérification et entretien du couvercle isolant",
+          "description": "Inspectez régulièrement le couvercle pour détecter fissures, déchirures ou signes de dégradation. Nettoyez-le avec de l'eau savonneuse douce et rincez. Appliquez un protecteur UV pour prolonger sa durée de vie et maintenir ses propriétés isolantes."
+        },
+        {
+          "title": "Vérification des raccords et flexibles de gonflage",
+          "description": "Inspectez visuellement le flexible de gonflage et tous les raccords pour détecter toute fissure, signe d'usure ou fuite d'air. Assurez-vous que tous les bouchons et valves sont bien en place et étanches pour éviter toute perte de pression."
+        },
+        {
+          "title": "Remplacement de la pile de la télécommande (si applicable)",
+          "description": "Ouvrez le compartiment à piles à l'arrière de la télécommande (généralement une petite vis ou un clip). Remplacez l'ancienne pile (souvent une CR2032) par une neuve en respectant la polarité indiquée. Refermez soigneusement le compartiment."
         }
       ],
       "faqs": [
         {
-          "question": "Pourquoi remplacer l'axe en plastique du rotor Bestway par un axe céramique ?",
-          "answer": "L'axe en plastique d'origine a tendance à s'user et vibrer sous l'effet de la chaleur et du calcaire, déclenchant l'erreur E02. L'axe céramique est inusable."
+          "question": "Mon spa perd de la pression d'air, que dois-je vérifier en premier ?",
+          "answer": "Vérifiez d'abord le flexible de gonflage pour des fissures ou des raccords desserrés. Ensuite, inspectez minutieusement le liner du spa pour des petits trous ou déchirures, souvent réparables avec un kit de patchs PVC. Assurez-vous que le bouchon de la valve de gonflage est bien fermé."
+        },
+        {
+          "question": "À quelle fréquence dois-je nettoyer ou remplacer le filtre de mon Lay-Z-Spa ?",
+          "answer": "Il est recommandé de rincer la cartouche de filtre à l'eau claire toutes les 1 à 2 semaines. Le remplacement par une neuve est préconisé toutes les 2 à 4 semaines, selon la fréquence d'utilisation du spa et la qualité de l'eau."
+        },
+        {
+          "question": "L'eau de mon spa reste trouble malgré la filtration, que faire ?",
+          "answer": "Assurez-vous que la cartouche de filtre est propre et non saturée. Vérifiez l'équilibre chimique de l'eau (pH, alcalinité, désinfectant) avec des bandelettes de test. Si le problème persiste, un traitement choc ou un floculant peut être nécessaire, en respectant scrupuleusement les dosages."
+        },
+        {
+          "question": "Comment prolonger la durée de vie de mon couvercle de spa ?",
+          "answer": "Nettoyez-le régulièrement avec de l'eau douce et un savon neutre. Évitez de le laisser exposé au soleil direct sans protection UV et ne posez pas d'objets lourds dessus. L'application d'un protecteur UV peut aider à prévenir la décoloration et le craquement du matériau."
+        },
+        {
+          "question": "Puis-je utiliser des produits de nettoyage ménagers pour mon spa ?",
+          "answer": "Non, utilisez uniquement des nettoyants doux et non abrasifs spécifiquement conçus pour les spas ou les piscines. Les produits ménagers peuvent endommager le PVC du liner, altérer l'équilibre chimique de l'eau ou laisser des résidus nocifs."
         }
       ],
       "date_published": "2026-10-15",
@@ -309,7 +457,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Tressage textile haute résistance, température max 60°C, raccord rapide quart de tour.",
           "search_query": "flexible karcher k5 10m quick connect",
-          "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21"
         },
         {
           "name": "Lance Rotabuse Décapante Dirt Blaster DB 145",
@@ -319,7 +467,7 @@
           "replacement_interval": "En cas d'usure de buse céramique",
           "technical_detail": "Buse en céramique trempée offrant un pouvoir décapant doublé par rapport au jet plat.",
           "search_query": "rotabuse karcher k5 db 145 2.643-244.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21"
         },
         {
           "name": "Kit de Joints Toriques de Rechange Haute Pression",
@@ -329,7 +477,7 @@
           "replacement_interval": "À remplacer dès apparition d'un suintement",
           "technical_detail": "Contient 10 joints toriques de différents diamètres pour lances, pistolets G 180 Q et flexibles.",
           "search_query": "kit joints toriques karcher 2.880-990.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21"
         },
         {
           "name": "Filtre à Eau Transparent Entrée d'Eau 3/4\"",
@@ -339,7 +487,7 @@
           "replacement_interval": "Contrôle avant chaque saison",
           "technical_detail": "Protège la pompe aluminium des grains de sable et particules rouillées du réseau d'eau.",
           "search_query": "filtre eau transparent karcher 4.730-059.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -378,54 +526,94 @@
       "model_name": "Kärcher WD3 / WD3 S V-17/4/20 / Premium",
       "years_range": "2020-2026",
       "title": "Kärcher WD3 : Filtres Cartouche Plissée, Sacs Microfibres & Buses",
-      "summary": "Consommables certifiés pour aspirateur Kärcher WD3 : cartouche filtrante 6.414-552.0, sacs intissés 3 couches et brosses combinées.",
-      "meta_description": "Filtres cartouches, sacs aspirateur microfibres et buses de sol pour Kärcher WD3 et WD3 Premium. Références OEM sans erreur 404.",
+      "summary": "Optimisez la performance et la longévité de votre aspirateur Kärcher WD3 grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance simple et efficace.",
+      "meta_description": "Guide complet pour l'entretien de votre Kärcher WD3 (2020-2026). Trouvez les filtres, sacs, flexibles et accessoires pour une performance optimale. Maintenance facile et sécurisée.",
       "parts": [
         {
-          "name": "Filtre Cartouche Cylindrique Lavable Eau & Poussière",
-          "tag": "Filtration Moteur",
-          "oem_or_dimension": "OEM 6.414-552.0 / Avec vis de verrouillage",
-          "wear_symptom": "Colmatage, odeur de poussière, surchauffe moteur, débit d'aspiration faible",
-          "replacement_interval": "Nettoyage régulier, remplacement tous les 12 mois",
-          "technical_detail": "Permet d'aspirer indifféremment eau et poussières sans retirer le filtre cartouche.",
-          "search_query": "filtre cartouche karcher wd3 6.414-552.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=outdoorparts-21"
+          "name": "Filtre cartouche plissé",
+          "tag": "Filtration",
+          "oem_or_dimension": "Kärcher 2.863-314.0 (compatible WD3, WD3 S, WD3 Premium)",
+          "wear_symptom": "Perte significative de puissance d'aspiration, odeur de poussière, filtre visiblement encrassé ou déchiré.",
+          "replacement_interval": "Tous les 6 à 12 mois en usage régulier, ou dès que la performance diminue.",
+          "technical_detail": "Filtre plissé en polyester, conçu pour l'aspiration sèche sans sac et pour l'aspiration humide sans nécessité de retirer le filtre.",
+          "search_query": "Filtre cartouche Kärcher WD3 2.863-314.0",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+cartouche+K%C3%A4rcher+WD3+2.863-314.0&tag=autoconsom-21"
         },
         {
-          "name": "Sacs Filtrants Intissés Microfibres 3 Couches (Lot de 5)",
-          "tag": "Collecte Poussière Fine",
-          "oem_or_dimension": "OEM 2.863-314.0 / Résistance au déchirement",
-          "wear_symptom": "Sac plein, perte de force d'aspiration",
-          "replacement_interval": "À saturation",
-          "technical_detail": "Matériau non-tissé indéchirable retenant le plâtre et les cendres froides sans saturer la cuve.",
-          "search_query": "sac intisse karcher wd3 2.863-314.0",
-          "affiliate_url": "https://www.amazon.fr/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=outdoorparts-21"
+          "name": "Sacs filtrants polaire (non tissé)",
+          "tag": "Consommable",
+          "oem_or_dimension": "Kärcher 2.863-314.0 (pack de sacs polaire) ou 2.863-006.0 (pack de sacs papier)",
+          "wear_symptom": "Sac plein, perte de puissance d'aspiration, risque de déchirure si trop rempli.",
+          "replacement_interval": "Dès que le sac est plein ou que la puissance d'aspiration diminue.",
+          "technical_detail": "Sacs en non-tissé (polaire) plus résistants et filtrants que les sacs papier, idéaux pour les poussières fines et humides. Les sacs papier sont plus économiques pour les gros débris secs.",
+          "search_query": "Sacs filtrants Kärcher WD3 polaire 2.863-314.0",
+          "affiliate_url": "https://www.amazon.fr/s?k=Sacs+filtrants+K%C3%A4rcher+WD3+polaire+2.863-314.0&tag=autoconsom-21"
         },
         {
-          "name": "Buse Combinée Sol Eau et Poussière avec Clips Caoutchouc",
-          "tag": "Accessoire Sol",
-          "oem_or_dimension": "OEM 2.863-000.0 / Diamètre 35mm",
-          "wear_symptom": "Bandes caoutchouc usées, roulettes bloquées",
-          "replacement_interval": "Tous les 3 ans",
-          "technical_detail": "Double insert interchangeable : lamelles caoutchouc pour liquides et brosses pour poussières sèches.",
-          "search_query": "buse sol karcher wd3 eau poussiere 35mm",
-          "affiliate_url": "https://www.amazon.fr/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=outdoorparts-21"
+          "name": "Flexible d'aspiration complet",
+          "tag": "Accessoire",
+          "oem_or_dimension": "Kärcher 2.863-001.0 (1.7m, Ø35mm) ou compatible",
+          "wear_symptom": "Fissures, perforations, perte d'étanchéité, réduction de la puissance d'aspiration, difficulté à manipuler.",
+          "replacement_interval": "Selon l'état d'usure, généralement tous les 2 à 5 ans en usage intensif.",
+          "technical_detail": "Flexible en plastique renforcé, diamètre standard de 35mm pour la plupart des accessoires Kärcher WD3. Vérifier la compatibilité du raccord côté appareil.",
+          "search_query": "Flexible aspiration Kärcher WD3 1.7m 35mm",
+          "affiliate_url": "https://www.amazon.fr/s?k=Flexible+aspiration+K%C3%A4rcher+WD3+1.7m+35mm&tag=autoconsom-21"
+        },
+        {
+          "name": "Buse de sol (suceur)",
+          "tag": "Accessoire",
+          "oem_or_dimension": "Kärcher 2.863-000.0 (buse sol clipsable) ou compatible Ø35mm",
+          "wear_symptom": "Brosses ou raclettes usées, fissures dans le corps de la buse, perte d'efficacité d'aspiration sur certaines surfaces.",
+          "replacement_interval": "Selon l'état d'usure, les raclettes peuvent être remplacées séparément si disponibles.",
+          "technical_detail": "Buse commutable pour aspiration sèche (brosses) et humide (raclettes), compatible avec les tubes d'extension de 35mm.",
+          "search_query": "Buse sol Kärcher WD3 35mm",
+          "affiliate_url": "https://www.amazon.fr/s?k=Buse+sol+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21"
+        },
+        {
+          "name": "Filtre mousse",
+          "tag": "Filtration",
+          "oem_or_dimension": "Kärcher 6.414-849.0 (pour aspiration humide)",
+          "wear_symptom": "Déchirure, encrassement excessif, odeur désagréable, perte de performance en aspiration humide.",
+          "replacement_interval": "Tous les 12 à 24 mois, ou dès qu'il est endommagé ou trop encrassé.",
+          "technical_detail": "Utilisé pour protéger le moteur lors de l'aspiration de liquides, en remplacement du filtre cartouche si celui-ci n'est pas adapté à l'humidité ou pour une protection supplémentaire.",
+          "search_query": "Filtre mousse Kärcher WD3 6.414-849.0",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+mousse+K%C3%A4rcher+WD3+6.414-849.0&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
         {
-          "title": "Débranchement secteur de l'aspirateur",
-          "description": "Débranchez la fiche électrique 230V avant de déverrouiller les clips latéraux de la tête moteur."
+          "title": "Remplacement du filtre cartouche plissé",
+          "description": "Débranchez l'appareil. Ouvrez les clips de verrouillage du couvercle moteur et retirez-le. Dévisser le capuchon de fixation du filtre cartouche (généralement une vis papillon) et retirez l'ancien filtre. Nettoyez le logement du filtre. Insérez le nouveau filtre cartouche et revissez le capuchon de fixation. Replacez le couvercle moteur et verrouillez les clips."
         },
         {
-          "title": "Verrouillage quart de tour du filtre",
-          "description": "Tournez le bouchon de fixation plastique d'un quart de tour vers la gauche pour libérer le filtre cartouche sans forcer sur la cage moteur."
+          "title": "Changement du sac filtrant",
+          "description": "Débranchez l'appareil. Ouvrez les clips de verrouillage du couvercle moteur et retirez-le. Retirez le sac filtrant plein en le tirant délicatement du raccord d'aspiration. Jetez le sac plein. Insérez un nouveau sac filtrant en veillant à ce que la collerette soit bien en place sur le raccord d'aspiration. Replacez le couvercle moteur et verrouillez les clips."
+        },
+        {
+          "title": "Nettoyage du flexible et des accessoires",
+          "description": "Débranchez l'appareil. Détachez le flexible d'aspiration et les accessoires (buses, tubes). Rincez-les à l'eau claire pour éliminer les débris et la saleté. Pour les saletés tenaces, utilisez une brosse douce et un peu de savon neutre. Laissez sécher complètement à l'air libre avant de les remonter sur l'appareil pour éviter la formation de moisissures ou d'odeurs."
+        },
+        {
+          "title": "Vérification et nettoyage du filtre mousse (pour aspiration humide)",
+          "description": "Débranchez l'appareil. Si vous utilisez un filtre mousse pour l'aspiration humide, retirez-le de son support. Rincez-le abondamment à l'eau tiède pour éliminer les résidus. Essorez-le délicatement et laissez-le sécher complètement à l'air libre avant de le remettre en place. Vérifiez l'absence de déchirures ou de dégradations."
         }
       ],
       "faqs": [
         {
-          "question": "Peut-on aspirer de l'eau avec le filtre cartouche monté sur Kärcher WD3 ?",
-          "answer": "Oui, le matériau filtrant spécifique est imputrescible. Veillez simplement à retirer le sac en papier ou microfibre lors de l'aspiration de liquides."
+          "question": "Puis-je utiliser mon Kärcher WD3 sans sac filtrant ?",
+          "answer": "Oui, le Kärcher WD3 est conçu pour fonctionner sans sac filtrant pour l'aspiration de liquides et de gros débris secs. Pour l'aspiration de poussières fines, l'utilisation du filtre cartouche est obligatoire. Pour une meilleure filtration et une protection accrue du moteur, l'utilisation de sacs filtrants est fortement recommandée pour les poussières sèches."
+        },
+        {
+          "question": "Comment savoir si mon filtre cartouche est encrassé ?",
+          "answer": "Un filtre cartouche encrassé se manifeste principalement par une diminution notable de la puissance d'aspiration de l'appareil, même avec un sac vide. Vous pouvez également observer de la poussière s'échappant de l'échappement d'air, ou le filtre lui-même peut paraître visiblement obstrué par la saleté."
+        },
+        {
+          "question": "Est-il nécessaire de changer le filtre mousse si j'utilise toujours le filtre cartouche ?",
+          "answer": "Le filtre mousse est principalement utilisé pour l'aspiration humide lorsque le filtre cartouche n'est pas installé ou pour une protection supplémentaire. Si vous utilisez le filtre cartouche pour l'aspiration humide (ce qu'il permet sur les modèles WD3), le filtre mousse n'est pas strictement nécessaire mais peut offrir une couche de protection supplémentaire au moteur. Il doit être nettoyé et vérifié régulièrement dans tous les cas."
+        },
+        {
+          "question": "Mon aspirateur Kärcher WD3 aspire mal, que dois-je vérifier en premier ?",
+          "answer": "Commencez par vérifier le niveau de remplissage du sac filtrant (s'il y en a un) et l'état du filtre cartouche. Ensuite, inspectez le flexible d'aspiration, les tubes et les buses pour détecter d'éventuels blocages ou fissures. Assurez-vous que toutes les connexions sont bien étanches. Un seau trop plein en mode aspiration humide peut aussi réduire la performance."
         }
       ],
       "date_published": "2026-10-15",
@@ -440,64 +628,122 @@
       "model_name": "Stihl MS 170 / MS 180 / MS 171",
       "years_range": "2020-2026",
       "title": "Stihl MS 170 : Chaînes 3/8\" P 1.1mm, Guide 30cm & Bougie",
-      "summary": "Correspondances exactes consommables Stihl MS 170 : chaîne Picco Micro 3 (44 maillons), guide Rollomatic E 30cm et bougie d'allumage.",
-      "meta_description": "Chaîne 3/8 P 1.1mm 44 maillons, guide 30cm et bougie NGK pour tronçonneuse Stihl MS 170. Cotes exactes sans erreur 404.",
+      "summary": "Optimisez la longévité et la performance de votre tronçonneuse Stihl MS 170, MS 180 ou MS 171 grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance sûre et efficace.",
+      "meta_description": "Guide expert pour l'entretien des tronçonneuses Stihl MS 170, MS 180, MS 171 (2020-2026). Pièces d'usure, filtres, chaînes, bougies. Maintenance sûre et efficace.",
       "parts": [
         {
-          "name": "Chaîne de Tronçonneuse 3/8\" P - Jauge 1.1mm (44 Maillons)",
-          "tag": "Coupe Nette",
-          "oem_or_dimension": "Stihl 3610-000-0044 / Picco Micro Mini 3 (PMM3)",
-          "wear_symptom": "Sciure en poussière fine, chaîne qui fume, déviation de coupe",
-          "replacement_interval": "Affûtage régulier, remplacement après 4 à 5 affûtages",
-          "technical_detail": "Pas 3/8\" Picco (9.32mm), jauge étroite 1.1mm (.043\"), 44 maillons entraîneurs pour guide de 30cm.",
-          "search_query": "chaine stihl ms 170 3/8 1.1 44 maillons 3610-000-0044",
-          "affiliate_url": "https://www.amazon.fr/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=outdoorparts-21"
+          "name": "Chaîne de tronçonneuse",
+          "tag": "Consommable",
+          "oem_or_dimension": "Ex: 3/8 P 1.1mm 44 maillons (pour guide 30cm) ou 3/8 P 1.3mm 50 maillons (pour guide 35cm). Vérifier le pas et la jauge de votre guide-chaîne.",
+          "wear_symptom": "Dents émoussées, coupe inefficace, vibrations excessives, sciure fine au lieu de copeaux, chaîne qui tire d'un côté.",
+          "replacement_interval": "Toutes les 10-15 heures d'utilisation ou dès les premiers signes d'usure/d'émoussement irréversible.",
+          "technical_detail": "Élément coupant principal. Doit être affûtée régulièrement avec une lime ronde de 4.0 mm pour le pas 3/8 P ou remplacée si trop usée ou endommagée.",
+          "search_query": "Chaîne Stihl MS 170 3/8 P 1.1mm 44 maillons",
+          "affiliate_url": "https://www.amazon.fr/s?k=Cha%C3%AEne+Stihl+MS+170+3%2F8+P+1.1mm+44+maillons&tag=autoconsom-21"
         },
         {
-          "name": "Guide-Chaîne Rollomatic E Mini 30cm (12 pouces)",
-          "tag": "Guide Anti-Rebond",
-          "oem_or_dimension": "Stihl 3005-000-3905 / Longueur 30cm",
-          "wear_symptom": "Bavures sur les rails, gorge élargie, chaîne qui flotte",
-          "replacement_interval": "Tous les 2 à 3 ans (retourner le guide à chaque changement de chaîne)",
-          "technical_detail": "Pignon de renvoi trempé à 7 dents, acier au chrome-molybdène ultra-léger.",
-          "search_query": "guide stihl 30cm 3005-000-3905 ms170",
-          "affiliate_url": "https://www.amazon.fr/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=outdoorparts-21"
+          "name": "Guide-chaîne",
+          "tag": "Pièce d'usure",
+          "oem_or_dimension": "Ex: 30 cm 3/8 P 1.1mm ou 35 cm 3/8 P 1.3mm. Référence Stihl spécifique (ex: 3005 000 4805).",
+          "wear_symptom": "Rainure élargie, bavures sur les bords, décoloration due à la surchauffe, chaîne qui 'saute' ou se bloque, usure inégale.",
+          "replacement_interval": "Tous les 2-3 remplacements de chaîne ou dès signes d'usure prononcée et irréversible.",
+          "technical_detail": "Supporte et guide la chaîne. Nécessite un nettoyage régulier de la rainure et un retournement périodique pour une usure uniforme.",
+          "search_query": "Guide-chaîne Stihl MS 180 35cm",
+          "affiliate_url": "https://www.amazon.fr/s?k=Guide-cha%C3%AEne+Stihl+MS+180+35cm&tag=autoconsom-21"
         },
         {
-          "name": "Bougie d'Allumage NGK BPMR7A / Bosch WSR6F",
-          "tag": "Allumage Fiable",
-          "oem_or_dimension": "NGK BPMR7A / Écartement 0.5mm / Filetage M14",
-          "wear_symptom": "Démarrage difficile à chaud, ratés d'allumage au ralenti",
-          "replacement_interval": "Remplacement annuel ou toutes les 100 heures",
-          "technical_detail": "Résistance intégrée antiparasite, culot court standard 2 temps tronçonneuse.",
-          "search_query": "bougie ngk bpmr7a stihl ms 170",
-          "affiliate_url": "https://www.amazon.fr/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=outdoorparts-21"
+          "name": "Bougie d'allumage",
+          "tag": "Pièce d'usure",
+          "oem_or_dimension": "NGK BPMR7A ou Bosch WSR6F (Stihl OEM 0000 400 7000).",
+          "wear_symptom": "Démarrage difficile, ratés du moteur, perte de puissance, consommation excessive de carburant, électrodes encrassées ou usées.",
+          "replacement_interval": "Toutes les 50 heures d'utilisation ou annuellement.",
+          "technical_detail": "Crée l'étincelle nécessaire à la combustion du mélange air/carburant. Vérifier l'écartement des électrodes (0.5 mm).",
+          "search_query": "Bougie NGK BPMR7A Stihl",
+          "affiliate_url": "https://www.amazon.fr/s?k=Bougie+NGK+BPMR7A+Stihl&tag=autoconsom-21"
         },
         {
-          "name": "Filtre à Air en Feutre Synthétique Rechange",
-          "tag": "Protection Moteur 2T",
-          "oem_or_dimension": "Stihl OEM 1130-124-0800",
-          "wear_symptom": "Perte de puissance à l'accélération, colmatage par la sciure",
-          "replacement_interval": "Nettoyage hebdomadaire, changement chaque saison",
-          "technical_detail": "Montage instantané clipsé derrière le capot quart de tour.",
-          "search_query": "filtre a air stihl ms 170 1130-124-0800",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=outdoorparts-21"
+          "name": "Filtre à air",
+          "tag": "Consommable",
+          "oem_or_dimension": "Stihl 1130 124 0800 (pour MS 170/180) ou 1139 120 1602 (pour MS 171).",
+          "wear_symptom": "Perte de puissance, moteur qui s'étouffe, surconsommation de carburant, saleté visible sur le filtre, démarrage difficile.",
+          "replacement_interval": "Nettoyage toutes les 10 heures, remplacement toutes les 50 heures ou annuellement.",
+          "technical_detail": "Protège le moteur des impuretés et assure un apport d'air propre. Un filtre encrassé réduit considérablement la performance du moteur.",
+          "search_query": "Filtre à air Stihl MS 180",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+%C3%A0+air+Stihl+MS+180&tag=autoconsom-21"
+        },
+        {
+          "name": "Filtre à carburant",
+          "tag": "Consommable",
+          "oem_or_dimension": "Stihl 0000 350 3504.",
+          "wear_symptom": "Moteur qui cale, démarrage difficile, perte de puissance, alimentation irrégulière en carburant, présence de débris dans le réservoir.",
+          "replacement_interval": "Annuellement ou toutes les 100 heures d'utilisation.",
+          "technical_detail": "Empêche les impuretés et particules du réservoir d'atteindre le carburateur, protégeant ainsi le système d'alimentation.",
+          "search_query": "Filtre à carburant Stihl tronçonneuse",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+%C3%A0+carburant+Stihl+tron%C3%A7onneuse&tag=autoconsom-21"
+        },
+        {
+          "name": "Corde de lanceur",
+          "tag": "Pièce d'usure",
+          "oem_or_dimension": "Diamètre 3.0 mm, longueur environ 100 cm. Vérifier les spécifications exactes de votre modèle.",
+          "wear_symptom": "Corde effilochée, cassée, ne se rétracte plus correctement dans le carter de lanceur.",
+          "replacement_interval": "Dès les premiers signes d'usure prononcée ou de rupture.",
+          "technical_detail": "Permet le démarrage manuel du moteur par traction. Sa résistance est cruciale pour un démarrage fiable.",
+          "search_query": "Corde lanceur Stihl MS 170",
+          "affiliate_url": "https://www.amazon.fr/s?k=Corde+lanceur+Stihl+MS+170&tag=autoconsom-21"
+        },
+        {
+          "name": "Pignon de chaîne (cloche d'embrayage)",
+          "tag": "Pièce d'usure",
+          "oem_or_dimension": "6 dents 3/8 P (Stihl OEM 1123 640 2003).",
+          "wear_symptom": "Usure visible des dents (en forme de crochet), chaîne qui saute, bruit anormal lors de la coupe, mauvaise transmission de puissance.",
+          "replacement_interval": "Tous les 2-3 remplacements de chaîne ou dès usure visible et significative des dents.",
+          "technical_detail": "Transmet la puissance du moteur à la chaîne via l'embrayage. Une usure excessive endommage prématurément la chaîne et le guide.",
+          "search_query": "Pignon Stihl MS 180 3/8 P",
+          "affiliate_url": "https://www.amazon.fr/s?k=Pignon+Stihl+MS+180+3%2F8+P&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
         {
-          "title": "Sécurité : Moteur coupé et frein de chaîne enclenché",
-          "description": "Placez le commutateur sur '0' (Stop), portez des gants anticoupure et poussez le protège-main vers l'avant pour bloquer le pignon."
+          "title": "Vérification et affûtage/remplacement de la chaîne",
+          "description": "Assurez-vous que le moteur est arrêté et froid. Portez des gants de protection. Vérifiez la tension de la chaîne (elle doit pouvoir être tirée le long du guide sans effort, mais ne pas pendre). Affûtez les gouges avec une lime ronde adaptée (4.0 mm pour 3/8 P) ou remplacez la chaîne si elle est trop usée ou endommagée. Desserrez les écrous du carter de chaîne, retirez l'ancienne, positionnez la nouvelle en respectant le sens de coupe, puis retendez et resserrez."
         },
         {
-          "title": "Montage et tension de la chaîne",
-          "description": "Engagez les 44 maillons dans la gorge du guide en orientant le tranchant des gouges vers l'avant. Ajustez la vis de tension jusqu'à ce que la chaîne affleure sans pendre sous le guide."
+          "title": "Nettoyage et retournement du guide-chaîne",
+          "description": "Moteur arrêté et froid. Retirez la chaîne et le guide. Nettoyez la rainure du guide avec un outil fin pour enlever la sciure et l'huile séchée. Vérifiez l'absence de bavures sur les bords et limez-les si nécessaire. Retournez le guide-chaîne pour assurer une usure uniforme des deux côtés. Remontez le tout en vous assurant que le trou de lubrification est dégagé."
+        },
+        {
+          "title": "Vérification et remplacement de la bougie d'allumage",
+          "description": "Moteur arrêté et froid. Débranchez le capuchon de la bougie. Utilisez une clé à bougie pour la dévisser. Examinez l'électrode : une couleur brun clair est normale, noire et grasse indique un mélange trop riche, blanche et sèche un mélange trop pauvre. Vérifiez l'écartement (0.5 mm). Remplacez si nécessaire par une bougie neuve, vissez à la main puis serrez modérément avec la clé. Rebranchez fermement le capuchon."
+        },
+        {
+          "title": "Nettoyage et remplacement du filtre à air",
+          "description": "Moteur arrêté et froid. Ouvrez le capot du filtre à air. Retirez le filtre. Nettoyez-le en le tapotant ou en le soufflant avec de l'air comprimé (de l'intérieur vers l'extérieur) si c'est un filtre en feutre/nylon. Si le filtre est en papier ou trop encrassé/endommagé, remplacez-le par un neuf. Remontez le filtre et refermez le capot en vous assurant d'une bonne étanchéité."
+        },
+        {
+          "title": "Remplacement du filtre à carburant",
+          "description": "Moteur arrêté et froid. Videz le réservoir de carburant. À l'aide d'un crochet fin ou d'une pince à bec long, retirez le filtre à carburant situé au bout du tuyau dans le réservoir. Installez le nouveau filtre en vous assurant qu'il est bien en place sur le tuyau. Remplissez le réservoir avec du mélange neuf et propre."
+        },
+        {
+          "title": "Vérification et remplacement du pignon de chaîne",
+          "description": "Moteur arrêté et froid. Retirez le carter de chaîne, la chaîne et le guide. Démontez l'embrayage (cela nécessite un outil spécifique pour bloquer le piston et dévisser l'embrayage dans le sens horaire). Une fois l'embrayage retiré, le pignon est accessible. Remplacez-le si les dents sont usées en forme de crochet. Remontez l'ensemble en sens inverse, en vous assurant du bon serrage de l'embrayage."
         }
       ],
       "faqs": [
         {
-          "question": "Quelle est la différence entre une chaîne 1.1mm et 1.3mm sur Stihl ?",
-          "answer": "La Stihl MS 170 d'origine utilise exclusivement la jauge ultra-fine 1.1mm (Picco Micro Mini 3). Monter une chaîne 1.3mm bloque dans le guide d'origine et endommage la machine."
+          "question": "Quelle est la bonne tension de chaîne pour ma Stihl MS 170/180/171 ?",
+          "answer": "La chaîne doit pouvoir être tirée le long du guide-chaîne sans effort excessif, mais ne doit pas pendre sous le guide. Une fois tendue, elle doit rester en contact avec le dessous du guide. Vérifiez toujours la tension à froid et ajustez-la après quelques minutes de travail, car la chaîne se dilate à chaud."
+        },
+        {
+          "question": "Quel mélange carburant/huile dois-je utiliser pour ma tronçonneuse Stihl ?",
+          "answer": "Utilisez un mélange de 2 temps à 2% (50:1) avec de l'essence sans plomb SP95 ou SP98 et une huile moteur 2 temps de qualité supérieure, spécifiquement conçue pour les moteurs Stihl ou équivalente. Ne jamais utiliser d'essence pure ou d'huile 4 temps, cela endommagerait gravement le moteur."
+        },
+        {
+          "question": "Ma tronçonneuse démarre difficilement, que dois-je vérifier en premier ?",
+          "answer": "Commencez par vérifier la bougie d'allumage (état, écartement, propreté), le filtre à air (encrassement) et le filtre à carburant (obstruction). Assurez-vous également que le mélange carburant est frais et correct. Si le problème persiste, cela pourrait indiquer un problème plus complexe nécessitant l'avis d'un professionnel."
+        },
+        {
+          "question": "À quelle fréquence dois-je affûter ma chaîne ?",
+          "answer": "Idéalement, affûtez votre chaîne après chaque plein de carburant ou dès que vous constatez que la coupe devient moins efficace, que la sciure est fine ou que la tronçonneuse tire d'un côté. Un affûtage régulier prolonge la durée de vie de la chaîne et améliore la sécurité et l'efficacité de la coupe."
         }
       ],
       "date_published": "2026-10-15",
@@ -523,7 +769,7 @@
           "replacement_interval": "Toutes les 4 à 6 semaines en saison active",
           "technical_detail": "Lames pivotantes double tranchant revêtues nitrure de titane, évitant la casse sur cailloux.",
           "search_query": "lames titane husqvarna automower 0.75mm",
-          "affiliate_url": "https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21"
         },
         {
           "name": "Connecteurs de Câble Étanches à Gel 3M Scotchlok 314",
@@ -533,7 +779,7 @@
           "replacement_interval": "À chaque coupure de câble accidentelle",
           "technical_detail": "Auto-dénudant par simple pression d'une pince plate, gel d'étanchéité anti-corrosion enterrable.",
           "search_query": "connecteurs 3m scotchlok 314 robot tondeuse",
-          "affiliate_url": "https://www.amazon.fr/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21"
         },
         {
           "name": "Bobine Câble Périphérique Cuivre Étamé Haute Conductivité (100m)",
@@ -543,7 +789,7 @@
           "replacement_interval": "En cas de modification du périmètre de tonte",
           "technical_detail": "Ame multibrins étamée pour une impédance minimale sur longues distances (>250m).",
           "search_query": "cable peripherique 2.7mm robot tondeuse husqvarna",
-          "affiliate_url": "https://www.amazon.fr/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -585,7 +831,7 @@
           "replacement_interval": "Remplacement en cas de perte ou défaillance",
           "technical_detail": "Protocole radio RTS propriétaire Somfy, coque renforcée avec anneau porte-clés.",
           "search_query": "telecommande compatible somfy rts 433.42 mhz keypop",
-          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21"
         },
         {
           "name": "Piles Bouton Lithium CR2430 3V Haute Capacité (Lot de 5)",
@@ -595,7 +841,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Plage de température étendue (-20°C à +60°C) pour fonctionnement hivernal garanti.",
           "search_query": "pile cr2430 3v lithium somfy",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21"
         },
         {
           "name": "Piles Bouton Lithium CR2032 3V (Pour modèles Keypop récents)",
@@ -605,7 +851,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Technologie lithium dioxyde de manganèse à faible autodécharge.",
           "search_query": "pile cr2032 3v energizer",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -647,7 +893,7 @@
           "replacement_interval": "En cas de perte ou défaillance mécanique",
           "technical_detail": "Compatible 100% avec les anciennes TOP-432NA et TOP-432EV, mémorisation code fixe inviolable.",
           "search_query": "telecommande came top 432ee 433.92 mhz",
-          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21"
         },
         {
           "name": "Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)",
@@ -657,7 +903,7 @@
           "replacement_interval": "Tous les 2 ans",
           "technical_detail": "Attention : nécessite 2 piles CR2016 superposées dans le sens de polarité indiqué.",
           "search_query": "pile cr2016 lot 3v energizer came",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -699,7 +945,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Technologie AGM sans entretien, étanche, gaz recombine, homologuée floating secours.",
           "search_query": "batterie 12v 7.2ah faston f2 onduleur apc",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21"
         },
         {
           "name": "Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)",
@@ -709,7 +955,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Offre 25% d'autonomie supplémentaire dans le même encombrement que la 7Ah.",
           "search_query": "batterie 12v 9ah faston f2 onduleur",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -751,7 +997,7 @@
           "replacement_interval": "Dès perte d'adhérence du velcro",
           "technical_detail": "Mousse polyuréthane semi-rigide haute résistance thermique, montage par 3 vis d'origine.",
           "search_query": "plateau ponceuse makita dbo180 125mm 743081-8",
-          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21"
         },
         {
           "name": "Sac Récepteur de Poussière avec Support Plastique",
@@ -761,7 +1007,7 @@
           "replacement_interval": "En cas de déchirement",
           "technical_detail": "Tissu microfibre lavable évitant l'usage de sacs papier jetables.",
           "search_query": "sac poussiere makita dbo180 166078-4",
-          "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21"
         },
         {
           "name": "Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED",
@@ -771,7 +1017,7 @@
           "replacement_interval": "Tous les 3 à 5 ans",
           "technical_detail": "Protection intégrée contre les surchauffes, surcharges et décharges profondes.",
           "search_query": "batterie 18v 5ah compatible makita bl1850b",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=outdoorparts-21"
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21"
         }
       ],
       "procedure_steps": [
@@ -788,6 +1034,58 @@
         {
           "question": "Pourquoi les disques abrasifs se détachent-ils de ma ponceuse Makita ?",
           "answer": "Une pression excessive ou un ponçage à sec prolongé fait fondre les micro-crochets en nylon du plateau velcro. Remplacer le plateau 743081-8 résout instantanément le problème."
+        }
+      ],
+      "date_published": "2026-10-15",
+      "date_modified": "2026-10-15",
+      "date_modified_fr": "15/10/2026"
+    },
+    {
+      "slug": "bosch-professional-gex-125-1-ae-ponceuse",
+      "category_id": "outillage",
+      "category_name": "Outillage Électroportatif",
+      "brand": "Bosch Professional",
+      "model_name": "GEX 125-1 AE / GEX 18V-125 Professional",
+      "years_range": "2020-2026",
+      "title": "Bosch GEX 125-1 AE : Plateau Mi-Dur 125mm, Filtre & Charbons",
+      "summary": "Correspondances d'usure Bosch Professional : plateau de ponçage 125mm 8 trous (2608000349), cartouche microfiltre et balais de charbon.",
+      "meta_description": "Plateau de rechange 125mm, boîtier microfiltre et balais de charbon pour ponceuse Bosch GEX 125-1 AE. Références vérifiées sans erreur 404.",
+      "parts": [
+        {
+          "name": "Plateau de Ponçage Mi-Dur 125mm Auto-Agrippant (8 Trous)",
+          "tag": "Plateau Usure",
+          "oem_or_dimension": "Bosch 2608000349 / Diamètre 125mm / Dureté moyenne",
+          "wear_symptom": "Disques qui se décollent, bord du plateau ébréché",
+          "replacement_interval": "Dès altération de la surface velcro",
+          "technical_detail": "Fixation centrale par 4 vis torx/cruciformes, équilibrage dynamique anti-vibrations.",
+          "search_query": "plateau ponceuse bosch gex 125-1 ae 2608000349",
+          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21"
+        },
+        {
+          "name": "Boîtier Microfiltre Réutilisable avec Filtre Plissé",
+          "tag": "Filtration Cyclonique",
+          "oem_or_dimension": "Bosch 2605411225 / Raccord aspiration Click & Clean",
+          "wear_symptom": "Filtre cartonné saturé, poussière recrachée",
+          "replacement_interval": "Nettoyage par tapotement, renouvellement annuel",
+          "technical_detail": "Boîtier plastique translucide permettant de surveiller le niveau de remplissage.",
+          "search_query": "boitier microfiltre bosch gex 125 2605411225",
+          "affiliate_url": "https://www.amazon.fr/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21"
+        }
+      ],
+      "procedure_steps": [
+        {
+          "title": "Déconnexion de l'alimentation électrique",
+          "description": "Débranchez la fiche 230V ou retirez la batterie ProCORE 18V."
+        },
+        {
+          "title": "Démontage des 4 vis de fixation du plateau",
+          "description": "Dévissez les 4 vis retenant le plateau à la turbine d'aspiration, retirez le patin défectueux et revissez le plateau neuf."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Existe-t-il plusieurs duretés de plateau pour Bosch GEX 125 ?",
+          "answer": "Oui, Bosch propose des plateaux souples (courbes et finitions fines) et des plateaux mi-durs (standards universels 2608000349)."
         }
       ],
       "date_published": "2026-10-15",
