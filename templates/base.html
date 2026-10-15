@@ -7,13 +7,15 @@
   <meta name="description" content="{% block description %}{{ t.meta_desc }}{% endblock %}">
   <link rel="canonical" href="{% block canonical %}{{ site_base_url }}/{{ lang_subpath }}index.html{% endblock %}">
 
-  <!-- Hreflang SEO International (6 Langues Majeures) -->
+  <!-- Hreflang SEO International (8 Langues : Europe, Amériques, Asie, Océanie, Afrique) -->
   <link rel="alternate" hreflang="fr" href="{% block href_fr %}{{ site_base_url }}/index.html{% endblock %}">
   <link rel="alternate" hreflang="en" href="{% block href_en %}{{ site_base_url }}/en/index.html{% endblock %}">
   <link rel="alternate" hreflang="es" href="{% block href_es %}{{ site_base_url }}/es/index.html{% endblock %}">
   <link rel="alternate" hreflang="de" href="{% block href_de %}{{ site_base_url }}/de/index.html{% endblock %}">
   <link rel="alternate" hreflang="it" href="{% block href_it %}{{ site_base_url }}/it/index.html{% endblock %}">
   <link rel="alternate" hreflang="pt" href="{% block href_pt %}{{ site_base_url }}/pt/index.html{% endblock %}">
+  <link rel="alternate" hreflang="ja" href="{% block href_ja %}{{ site_base_url }}/ja/index.html{% endblock %}">
+  <link rel="alternate" hreflang="zh" href="{% block href_zh %}{{ site_base_url }}/zh/index.html{% endblock %}">
   <link rel="alternate" hreflang="x-default" href="{% block href_default %}{{ site_base_url }}/en/index.html{% endblock %}">
 
   <!-- Open Graph / Meta IA -->
@@ -400,7 +402,7 @@
         <span class="tag">{{ t.site_tag }}</span>
       </a>
 
-      <!-- Sélecteur International 6 Langues -->
+      <!-- Sélecteur International 8 Langues (Europe, Amériques, Asie, Océanie) -->
       <div class="lang-switch" aria-label="Language selector">
         <a href="{{ site_base_url }}{% if guide %}/guides/{{ guide.slug }}.html{% else %}/index.html{% endif %}" class="{% if lang == 'fr' %}active{% endif %}" title="Français">🇫🇷 FR</a>
         <a href="{{ site_base_url }}/en/{% if guide %}guides/{{ guide.slug }}.html{% else %}index.html{% endif %}" class="{% if lang == 'en' %}active{% endif %}" title="English (USA, UK, AU, Global)">🌐 EN</a>
@@ -408,6 +410,8 @@
         <a href="{{ site_base_url }}/de/{% if guide %}guides/{{ guide.slug }}.html{% else %}index.html{% endif %}" class="{% if lang == 'de' %}active{% endif %}" title="Deutsch (Deutschland, Österreich, Schweiz)">🇩🇪 DE</a>
         <a href="{{ site_base_url }}/it/{% if guide %}guides/{{ guide.slug }}.html{% else %}index.html{% endif %}" class="{% if lang == 'it' %}active{% endif %}" title="Italiano">🇮🇹 IT</a>
         <a href="{{ site_base_url }}/pt/{% if guide %}guides/{{ guide.slug }}.html{% else %}index.html{% endif %}" class="{% if lang == 'pt' %}active{% endif %}" title="Português (Brasil, Portugal)">🇧🇷 PT</a>
+        <a href="{{ site_base_url }}/ja/{% if guide %}guides/{{ guide.slug }}.html{% else %}index.html{% endif %}" class="{% if lang == 'ja' %}active{% endif %}" title="日本語 (Japan)">🇯🇵 JA</a>
+        <a href="{{ site_base_url }}/zh/{% if guide %}guides/{{ guide.slug }}.html{% else %}index.html{% endif %}" class="{% if lang == 'zh' %}active{% endif %}" title="中文 (Global Chinese)">🇨🇳 中文</a>
       </div>
 
       <nav aria-label="Main Navigation">

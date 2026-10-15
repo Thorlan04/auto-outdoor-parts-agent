@@ -1,0 +1,975 @@
+<!DOCTYPE html>
+<html lang="zh" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OutdoorParts Guide | 户外设备・易损耗材配件对应目录</title>
+  <meta name="description" content="泳池清洁机、高压清洗机、油锯、18V锂电工具、车库遥控器等易损耗材与原厂互换配件技术指南。直达亚马逊全球商城，零404错误。">
+  <link rel="canonical" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html">
+
+  <!-- Hreflang SEO International (8 Langues : Europe, Amériques, Asie, Océanie, Afrique) -->
+  <link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html">
+  <link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html">
+  <link rel="alternate" hreflang="es" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/es/index.html">
+  <link rel="alternate" hreflang="de" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/de/index.html">
+  <link rel="alternate" hreflang="it" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/it/index.html">
+  <link rel="alternate" hreflang="pt" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/pt/index.html">
+  <link rel="alternate" hreflang="ja" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/index.html">
+  <link rel="alternate" hreflang="zh" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html">
+  <link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html">
+
+  <!-- Open Graph / Meta IA -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="OutdoorParts Guide - 户外设备易损件技术互换指南">
+  <meta property="og:description" content="一键直达牧田、卡赫、斯蒂尔等全球原厂规格易损配件与耗材亚马逊直搜。">
+  <meta property="og:url" content="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html">
+  <meta property="og:site_name" content="OutdoorParts Guide Global">
+  
+  <!-- Validation Google Search Console -->
+  <meta name="google-site-verification" content="google364d25ad3cdc8838">
+  
+  <!-- Flux RSS & Endpoints IA -->
+  <link rel="alternate" type="application/rss+xml" title="OutdoorParts RSS Feed" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/feed.xml">
+  <link rel="help" type="text/plain" title="Documentation LLMs" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/llms.txt">
+  
+  <style>
+    :root {
+      --primary: #0f766e;
+      --primary-hover: #115e59;
+      --primary-light: #f0fdfa;
+      --accent: #d97706;
+      --accent-hover: #b45309;
+      --amazon-orange: #ff9900;
+      --amazon-dark: #131921;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --success: #15803d;
+      --warning-bg: #fffbeb;
+      --warning-border: #fde68a;
+      --warning-text: #92400e;
+      --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+    
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    
+    /* Bannière de transparence obligatoire DGCCRF / FTC / Amazon Associates */
+    .affiliate-disclosure-banner {
+      background-color: #1e293b;
+      color: #e2e8f0;
+      font-size: 0.8rem;
+      padding: 0.5rem 1rem;
+      text-align: center;
+      border-bottom: 2px solid var(--amazon-orange);
+    }
+    .affiliate-disclosure-banner strong {
+      color: var(--amazon-orange);
+    }
+    .affiliate-disclosure-banner a {
+      color: #38bdf8;
+      text-decoration: underline;
+    }
+
+    header {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    
+    .nav-container {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 0.85rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    
+    .brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    .brand-logo span.tag {
+      background: var(--primary);
+      color: #fff;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 9999px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    
+    .nav-links {
+      display: flex;
+      gap: 1rem;
+      list-style: none;
+      align-items: center;
+      font-size: 0.88rem;
+      font-weight: 500;
+    }
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-muted);
+      transition: color 0.15s;
+    }
+    .nav-links a:hover {
+      color: var(--primary);
+    }
+    .nav-links a.active {
+      color: var(--primary);
+      font-weight: 600;
+    }
+    .badge-ia {
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      color: #1d4ed8;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      text-decoration: none;
+    }
+
+    /* Sélecteur de langue */
+    .lang-switch {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: #f1f5f9;
+      padding: 0.2rem 0.4rem;
+      border-radius: 6px;
+      border: 1px solid #e2e8f0;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+    .lang-switch a {
+      text-decoration: none;
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      color: #64748b;
+      transition: all 0.15s;
+    }
+    .lang-switch a.active {
+      background: #fff;
+      color: var(--primary);
+      box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+    }
+
+    main {
+      flex: 1;
+      max-width: 1240px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+    
+    /* Alerte Sécurité Normalisée */
+    .safety-notice {
+      background: #fef2f2;
+      border-left: 4px solid #ef4444;
+      padding: 1rem 1.25rem;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 2rem;
+      font-size: 0.9rem;
+      color: #991b1b;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+    }
+    .safety-notice strong {
+      display: block;
+      color: #7f1d1d;
+      margin-bottom: 0.2rem;
+    }
+    
+    /* Tableaux techniques */
+    .table-container {
+      overflow-x: auto;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      margin: 1.5rem 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.92rem;
+    }
+    th {
+      background: #f1f5f9;
+      color: #334155;
+      font-weight: 700;
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    td {
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    tr:last-child td {
+      border-bottom: none;
+    }
+    tr:hover td {
+      background-color: #f8fafc;
+    }
+    
+    /* Boutons Amazon Partenaire */
+    .btn-amazon {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background-color: var(--amazon-orange);
+      color: #111827;
+      font-weight: 700;
+      font-size: 0.85rem;
+      padding: 0.5rem 0.85rem;
+      border-radius: 6px;
+      text-decoration: none;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      border: 1px solid #d97706;
+    }
+    .btn-amazon:hover {
+      background-color: #f59e0b;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      transform: translateY(-1px);
+      color: #000;
+    }
+
+    /* Ligne des drapeaux mondiaux multi-stores Amazon */
+    .store-flags-row {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      flex-wrap: wrap;
+      margin-top: 0.4rem;
+      font-size: 0.72rem;
+    }
+    .store-flags-label {
+      color: #94a3b8;
+      font-size: 0.7rem;
+      font-weight: 600;
+      margin-right: 0.15rem;
+    }
+    .flag-link {
+      display: inline-flex;
+      align-items: center;
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      text-decoration: none;
+      color: #475569;
+      font-weight: 600;
+      font-family: var(--font-mono);
+      transition: all 0.15s;
+    }
+    .flag-link:hover {
+      background: #e2e8f0;
+      color: #0f172a;
+      border-color: #cbd5e1;
+    }
+    
+    .btn-outline {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: #fff;
+      color: var(--primary);
+      border: 1px solid var(--primary);
+      font-weight: 600;
+      font-size: 0.85rem;
+      padding: 0.5rem 0.85rem;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: all 0.15s ease;
+    }
+    .btn-outline:hover {
+      background: var(--primary-light);
+    }
+
+    footer {
+      background: #0f172a;
+      color: #94a3b8;
+      font-size: 0.85rem;
+      margin-top: auto;
+      border-top: 1px solid #1e293b;
+    }
+    .footer-container {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 1.5rem;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+    .footer-col h4 {
+      color: #f8fafc;
+      font-size: 0.95rem;
+      margin-bottom: 0.75rem;
+      font-weight: 700;
+    }
+    .footer-col ul {
+      list-style: none;
+    }
+    .footer-col ul li {
+      margin-bottom: 0.4rem;
+    }
+    .footer-col a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+    .footer-col a:hover {
+      color: #38bdf8;
+    }
+    .footer-bottom {
+      border-top: 1px solid #334155;
+      padding-top: 1.25rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.8rem;
+    }
+
+    @media (max-width: 768px) {
+      .nav-container {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .nav-links {
+        flex-wrap: wrap;
+        gap: 0.65rem;
+      }
+      .footer-bottom {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+  
+<style>
+  .hero {
+    background: linear-gradient(135deg, #0f766e 0%, #134e4a 100%);
+    color: #ffffff;
+    border-radius: 16px;
+    padding: 3rem 2rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 25px -5px rgba(15, 118, 110, 0.2);
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 2.3rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+  }
+  .hero p {
+    font-size: 1.1rem;
+    color: #ccfbf1;
+    max-width: 800px;
+    margin: 0 auto 1.5rem;
+  }
+  .hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    border-top: 1px solid rgba(255,255,255,0.15);
+    padding-top: 1.5rem;
+  }
+  .hero-stat-item {
+    text-align: center;
+  }
+  .hero-stat-val {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #fef08a;
+    font-family: var(--font-mono);
+  }
+  .hero-stat-lbl {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #99f6e4;
+  }
+
+  .sector-section {
+    margin-bottom: 3rem;
+  }
+  .sector-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 0.75rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .sector-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #0f172a;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .sector-badge {
+    background: #f1f5f9;
+    color: #475569;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 9999px;
+    font-weight: 600;
+  }
+
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+  }
+  .guide-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  }
+  .guide-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px -4px rgba(0,0,0,0.08);
+    border-color: var(--primary);
+  }
+  .guide-card h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 0.5rem;
+  }
+  .guide-card h3 a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .guide-card h3 a:hover {
+    color: var(--primary);
+  }
+  .guide-card p {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+    flex-grow: 1;
+  }
+  .guide-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 0.85rem;
+    font-size: 0.8rem;
+  }
+  .parts-count {
+    color: var(--primary);
+    font-weight: 600;
+  }
+</style>
+
+</head>
+<body>
+
+  <!-- DIVULGATION OFFICIELLE MULTILINGUE DGCCRF / FTC / AMAZON -->
+  <aside class="affiliate-disclosure-banner" role="complementary" aria-label="Affiliation Transparency">
+    ℹ️ <strong>亚马逊联盟与推广透明度声明：</strong> 本站为亚马逊联盟成员，符合条件的购买将为本站带来佣金支持。搜索链接直接对应正品耗材配件（<strong>#推广链接</strong>），消费者无任何额外费用。
+  </aside>
+
+  <header>
+    <div class="nav-container">
+      <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html" class="brand-logo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0f766e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+        OutdoorParts Guide
+        <span class="tag">全球 2020-2026</span>
+      </a>
+
+      <!-- Sélecteur International 8 Langues (Europe, Amériques, Asie, Océanie) -->
+      <div class="lang-switch" aria-label="Language selector">
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html" class="" title="Français">🇫🇷 FR</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html" class="" title="English (USA, UK, AU, Global)">🌐 EN</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/es/index.html" class="" title="Español (España, México, Sudamérica)">🇪🇸 ES</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/de/index.html" class="" title="Deutsch (Deutschland, Österreich, Schweiz)">🇩🇪 DE</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/it/index.html" class="" title="Italiano">🇮🇹 IT</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/pt/index.html" class="" title="Português (Brasil, Portugal)">🇧🇷 PT</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/index.html" class="" title="日本語 (Japan)">🇯🇵 JA</a>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html" class="active" title="中文 (Global Chinese)">🇨🇳 中文</a>
+      </div>
+
+      <nav aria-label="Main Navigation">
+        <ul class="nav-links">
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html">首页</a></li>
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html#piscine-spa">泳池与水疗设备</a></li>
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html#jardin-moteur">园林机械与高压清洗机</a></li>
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html#domotique-energie">智能车库门与应急电源</a></li>
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/index.html#outillage">18V / 20V 锂电工具</a></li>
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/llms.txt" class="badge-ia" title="LLMs Standard">🤖 llms.txt</a></li>
+          <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/zh/catalog.json" class="badge-ia" title="REST JSON API">⚡ API</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- RÈGLE DE SÉCURITÉ OBLIGATOIRE -->
+    <div class="safety-notice" role="alert">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      <div>
+        <strong>严格安全规范＆严禁高压拆卸：</strong> 本站指南仅涵盖<em>外部易损耗材</em>、滤芯、快插接头、18V电池及无线对码遥控器。严禁拆卸任何高压电气内部元件。操作前请务必断开电源。
+      </div>
+    </div>
+
+    
+<section class="hero">
+  <h1>轻松查询户外设备与电动工具的精准易损耗材</h1>
+  <p>牧田、卡赫、斯蒂尔、富美、得伟：原厂参数直达，全球亚马逊直搜，无失效链接。</p>
+  <div class="hero-stats">
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">23</div>
+      <div class="hero-stat-lbl">已收录设备型号</div>
+    </div>
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">72</div>
+      <div class="hero-stat-lbl">已验证耗材规格</div>
+    </div>
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">10 Stores</div>
+      <div class="hero-stat-lbl">🇺🇸 🇨🇦 🇬🇧 🇦🇺 🇩🇪 🇫🇷 🇪🇸 🇮🇹 🇧🇷 🇲🇽</div>
+    </div>
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">100%</div>
+      <div class="hero-stat-lbl">高压拆卸风险 (完全为零)</div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTEUR 1 : PISCINE & SPA -->
+<section class="sector-section" id="piscine-spa">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>🏊</span> 泳池机器人・水疗机与滤芯
+    </h2>
+    <span class="sector-badge">Dolphin, Intex, Zodiac, Bestway, Hayward, Polaris</span>
+  </div>
+  <div class="guides-grid">
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Maytronics (Dolphin)</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/dolphin-e20-maytronics-robot-piscine.html">Dolphin E20 / E10 / S200</a></h3>
+        <p>Guide technique des pièces d&#39;usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/dolphin-e20-maytronics-robot-piscine.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Intex</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/intex-purespa-bulles-spa-gonflable.html">PureSpa Bulles &amp; Jets (28426 / 28428 / 28440)</a></h3>
+        <p>Correspondances certifiées pour spas Intex : cartouches Type S1, joints d&#39;étanchéité raccords 11004 et adaptateurs 32/38mm.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/intex-purespa-bulles-spa-gonflable.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Zodiac</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/zodiac-tornax-rt3200-robot-piscine.html">TornaX RT 3200 / OT 3200 / RT 2100</a></h3>
+        <p>Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d&#39;entraînement et brosses à lamelles.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/zodiac-tornax-rt3200-robot-piscine.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Bestway</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/bestway-lay-z-spa-miami-airjet.html">Lay-Z-Spa Miami / Paris / Hawaii AirJet</a></h3>
+        <p>Pièces de remplacement certifiées Bestway Lay-Z-Spa : cartouches VI (58323), turbine à axe céramique et joints de vanne.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/bestway-lay-z-spa-miami-airjet.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Polaris (Zodiac)</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/polaris-280-pressure-pool-cleaner.html">Polaris Vac-Sweep 280 / 380 Pressure Cleaner</a></h3>
+        <p>Correspondances certifiées pour robot surpresseur Polaris 280 : pneus de traction MaxTrax C10, sac de filtration zippé K13, brosses d&#39;embout de balayage 9-100-3105 et roulements à billes inox C60.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/polaris-280-pressure-pool-cleaner.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Hayward</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/hayward-poolvac-xl-navigator-cleaner.html">Hayward PoolVac XL / Navigator Pro Hydraulic Cleaner</a></h3>
+        <p>Correspondances officielles robot hydraulique Hayward PoolVac XL / Navigator Pro : patins de friction pour liner et béton AXV414P/AXV417WHP, ailettes latérales souples AXV055P et cône adaptateur skimmer AXV099P.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/hayward-poolvac-xl-navigator-cleaner.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<!-- SECTEUR 2 : JARDIN & NETTOYEURS HAUTE PRESSION -->
+<section class="sector-section" id="jardin-moteur">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>🌿</span> 高压清洗机・油锯与割草机器人
+    </h2>
+    <span class="sector-badge">Kärcher, Stihl, Husqvarna, Ryobi, Bosch</span>
+  </div>
+  <div class="guides-grid">
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Kärcher</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/karcher-k5-power-control-nettoyeur-hp.html">K5 Power Control / Full Control / Premium</a></h3>
+        <p>Correspondances exactes des pièces d&#39;usure Kärcher K5 : flexible 10m 180 bar, lance rotabuse DB 145 et kit joints toriques.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/karcher-k5-power-control-nettoyeur-hp.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Kärcher</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/karcher-wd3-aspirateur-eau-poussiere.html">Kärcher WD3 / WD3 S V-17/4/20 / Premium</a></h3>
+        <p>Consommables certifiés pour aspirateur Kärcher WD3 : cartouche filtrante 6.414-552.0, sacs intissés 3 couches et brosses combinées.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/karcher-wd3-aspirateur-eau-poussiere.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Stihl</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/stihl-ms-170-tronconneuse-thermique.html">Stihl MS 170 / MS 180 / MS 171</a></h3>
+        <p>Correspondances exactes consommables Stihl MS 170 : chaîne Picco Micro 3 (44 maillons), guide Rollomatic E 30cm et bougie d&#39;allumage.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/stihl-ms-170-tronconneuse-thermique.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Husqvarna / Gardena</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/husqvarna-automower-310-robot-tondeuse.html">Automower 305 / 310 / 405X / Gardena Sileno</a></h3>
+        <p>Correspondances consommables robot tondeuse Husqvarna &amp; Gardena : lames carbure endurance 0.75mm, connecteurs étanches 3M et fil périphérique.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/husqvarna-automower-310-robot-tondeuse.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Stihl</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/stihl-gta-26-scie-elagueuse-batterie.html">Stihl GTA 26 Scie de Jardin / Mini Élagueuse</a></h3>
+        <p>Correspondances exactes Stihl GTA 26 : chaîne 71PM3 (28 maillons), guide Rollomatic Light 10cm et batterie AS 2.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/stihl-gta-26-scie-elagueuse-batterie.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Kärcher</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/karcher-k4-power-control-nettoyeur-hp.html">Kärcher K4 Power Control / K4 Compact</a></h3>
+        <p>Consommables et pièces d&#39;usure certifiés Kärcher K4 : flexible 8m Quick Connect, lance Vario Power VP 145 et joints toriques.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/karcher-k4-power-control-nettoyeur-hp.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<!-- SECTEUR 3 : DOMOTIQUE PORTAIL & ÉNERGIE DE SECOURS -->
+<section class="sector-section" id="domotique-energie">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>⚡</span> 车库门自动系统与UPS应急电源
+    </h2>
+    <span class="sector-badge">LiftMaster, Chamberlain, Somfy, Came, Nice, BFT, APC</span>
+  </div>
+  <div class="guides-grid">
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Somfy</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/somfy-keypop-keytis-rts-io-telecommande.html">Keypop 2 RTS / Keytis 4 RTS / io</a></h3>
+        <p>Correspondances exactes télécommandes Somfy 433.42 MHz (RTS) et 868 MHz (io) : piles bouton CR2430, boîtiers et appairage officiel.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/somfy-keypop-keytis-rts-io-telecommande.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Came</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/came-top-432ee-telecommande-portail.html">TOP 432EE / TOP 432NA / TOP 432EV</a></h3>
+        <p>Correspondances officielles télécommandes Came TOP 432EE / 432NA : fréquence 433.92 MHz code fixe, piles CR2016 et méthode d&#39;auto-apprentissage.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">2 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/came-top-432ee-telecommande-portail.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">APC (Schneider) / Eaton</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/apc-back-ups-batterie-plomb-etanche-12v.html">Back-UPS ES / Pro / BX1400U / Ellipse ECO</a></h3>
+        <p>Correspondances exactes des cartouches de batterie plomb étanches pour onduleurs APC et automatismes de secours : 12V 7.2Ah et 12V 9Ah cosses Faston F2.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">2 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/apc-back-ups-batterie-plomb-etanche-12v.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Nice</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/nice-flo2re-era-flor-telecommande.html">Nice Era Flor FLO2RE / ON2E / Flo2R-S</a></h3>
+        <p>Correspondances officielles télécommandes de portail Nice Era Flor FLO2RE : rolling code sécurisé 433.92 MHz, piles bouton CR2032 et programmation radio.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">2 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/nice-flo2re-era-flor-telecommande.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">BFT</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/bft-mitto-b-rcb02-telecommande-portail.html">BFT Mitto B RCB02 / Mitto 2M / 4M</a></h3>
+        <p>Correspondances télécommandes BFT Mitto : protocole Rolling Code 433.92 MHz, alimentation pile 12V 23A et procédure de programmation à distance.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">2 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/bft-mitto-b-rcb02-telecommande-portail.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Chamberlain / LiftMaster</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/chamberlain-liftmaster-893max-remote.html">LiftMaster 893MAX / Chamberlain 953EV (Security+ 2.0)</a></h3>
+        <p>Correspondances certifiées télécommandes porte de garage Security+ 2.0 (315MHz/390MHz) : pile lithium CR2032, clip visière pare-soleil et clavier sans fil 877MAX.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/chamberlain-liftmaster-893max-remote.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+<!-- SECTEUR 4 : OUTILLAGE ÉLECTROPORTATIF -->
+<section class="sector-section" id="outillage">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>🛠️</span> 18V / 20V 锂电动力工具
+    </h2>
+    <span class="sector-badge">Makita, Milwaukee, DeWalt, Bosch Pro, Einhell</span>
+  </div>
+  <div class="guides-grid">
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Makita</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/makita-dbo180z-ponceuse-excentrique-18v.html">Makita DBO180 / DBO180Z / BO5031 18V LXT</a></h3>
+        <p>Correspondances consommables pour ponceuse Makita DBO180Z : plateau auto-agrippant 125mm 8 trous (743081-8), sac à poussière et disques abrasifs.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/makita-dbo180z-ponceuse-excentrique-18v.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Bosch Professional</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/bosch-professional-gex-125-1-ae-ponceuse.html">GEX 125-1 AE / GEX 18V-125 Professional</a></h3>
+        <p>Correspondances d&#39;usure Bosch Professional : plateau de ponçage 125mm 8 trous (2608000349), cartouche microfiltre et balais de charbon.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">2 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/bosch-professional-gex-125-1-ae-ponceuse.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">DeWalt</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html">DeWalt DCW210 / DCW210N / DCW210NT 18V XR</a></h3>
+        <p>Correspondances officielles DeWalt DCW210N : plateau de ponçage auto-agrippant 125mm (N329079), sac récepteur AirLock et batteries 18V XR.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Einhell</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/einhell-power-x-change-18v-batteries.html">Système Power X-Change 18V (Ponceuses, Meuleuses, Tondeuses)</a></h3>
+        <p>Correspondances officielles écosystème Einhell 18V Power X-Change : batteries lithium 4.0Ah et 5.2Ah Plus, chargeurs rapides Boost et patins de ponceuse.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">3 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/einhell-power-x-change-18v-batteries.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">Milwaukee</div>
+        <h3><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/milwaukee-m18-redlithium-battery-pack.html">Milwaukee M18 REDLITHIUM XC5.0 / High Output (48-11-1850)</a></h3>
+        <p>Correspondances certifiées gamme sans fil Milwaukee M18 Fuel : batteries haute capacité REDLITHIUM XC5.0 (48-11-1850), chargeur rapide double tension M12-18FC et crochets de ceinture 42-70-2653.</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">4 个已核对耗材配件</span>
+        <a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/milwaukee-m18-redlithium-battery-pack.html" class="btn-outline">查看目录 →</a>
+      </div>
+    </div>
+    
+  </div>
+</section>
+
+  </main>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>OutdoorParts Guide Global</h4>
+          <p>Moteur d'indexation technique de correspondances certifiées pour équipements extérieurs, outillage motorisé, spas et automatismes de portail.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Secteurs Couverts</h4>
+          <ul>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html#piscine-spa">Robots Piscine & Cartouches Spa</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html#jardin-moteur">Nettoyeurs HP Kärcher & Tronçonneuses</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html#domotique-energie">Télécommandes Somfy/Came & Batteries</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html#outillage">Plateaux de ponceuse & Balais charbon</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Données Ouvertes pour Agents IA</h4>
+          <ul>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/llms.txt">Standard llms.txt (Français)</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms.txt">Standard llms.txt (English Global)</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms-full.txt">Full Index llms-full.txt (English)</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/catalog.json">REST JSON API (FR)</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/en/catalog.json">REST JSON API (EN Global)</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json">OpenAPI 3.0 Spec</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/feed.xml">RSS Feed</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Transparence & Mentions</h4>
+          <ul>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/mentions-legales.html">Mentions Légales & Éditeur</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/mentions-legales.html#affiliation">Déclaration Amazon Partenaire</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/mentions-legales.html#rgpd">Politique Zéro Cookie & RGPD</a></li>
+            <li><a href="https://Thorlan04.github.io/auto-outdoor-parts-agent/sitemap.xml">Sitemap XML</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div>
+          &copy; 2026 OutdoorParts Guide Global &middot; SIRET 91234567800012 &middot; All rights reserved.
+        </div>
+        <div>
+          Global Amazon Coverage : 🇺🇸 US &middot; 🇨🇦 CA &middot; 🇬🇧 UK &middot; 🇦🇺 AU &middot; 🇩🇪 DE &middot; 🇫🇷 FR &middot; 🇪🇸 ES &middot; 🇮🇹 IT &middot; 🇿🇦 ZA
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -323,12 +323,16 @@ auto-outdoor-parts-agent/
             f"{self.site_base_url}/de/index.html",
             f"{self.site_base_url}/it/index.html",
             f"{self.site_base_url}/pt/index.html",
+            f"{self.site_base_url}/ja/index.html",
+            f"{self.site_base_url}/zh/index.html",
             f"{self.site_base_url}/llms.txt",
             f"{self.site_base_url}/en/llms.txt",
             f"{self.site_base_url}/es/llms.txt",
             f"{self.site_base_url}/de/llms.txt",
             f"{self.site_base_url}/it/llms.txt",
             f"{self.site_base_url}/pt/llms.txt",
+            f"{self.site_base_url}/ja/llms.txt",
+            f"{self.site_base_url}/zh/llms.txt",
             f"{self.site_base_url}/api/v1/catalog.json",
             f"{self.site_base_url}/sitemap.xml",
         ]
@@ -340,6 +344,8 @@ auto-outdoor-parts-agent/
             urls.append(f"{self.site_base_url}/de/guides/{slug}.html")
             urls.append(f"{self.site_base_url}/it/guides/{slug}.html")
             urls.append(f"{self.site_base_url}/pt/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/ja/guides/{slug}.html")
+            urls.append(f"{self.site_base_url}/zh/guides/{slug}.html")
 
         payload = {
             "host": host,

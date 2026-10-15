@@ -66,9 +66,27 @@ SUPPORTED_LANGUAGES = {
         "name": "Português",
         "flag": "🇧🇷",
         "locale": "pt-BR",
-        "store": "es",
+        "store": "br",
         "subpath": "pt/",
         "market": "Brasil & Portugal"
+    },
+    "ja": {
+        "code": "ja",
+        "name": "日本語",
+        "flag": "🇯🇵",
+        "locale": "ja-JP",
+        "store": "jp",
+        "subpath": "ja/",
+        "market": "日本 (Japan)"
+    },
+    "zh": {
+        "code": "zh",
+        "name": "中文",
+        "flag": "🇨🇳",
+        "locale": "zh-CN",
+        "store": "sg",
+        "subpath": "zh/",
+        "market": "新加坡, 台湾, 香港, 全球华人"
     }
 }
 
@@ -84,6 +102,8 @@ AMAZON_DOMAINS = {
     "br": "www.amazon.com.br",
     "mx": "www.amazon.com.mx",
     "za": "www.amazon.co.za",
+    "jp": "www.amazon.co.jp",
+    "sg": "www.amazon.sg",
 }
 
 UI_TRANSLATIONS = {
@@ -404,6 +424,112 @@ UI_TRANSLATIONS = {
         "footer_api": "API REST JSON",
         "footer_llms": "Padrão LLMs (llms.txt)",
         "footer_rss": "Feed RSS"
+    },
+    "ja": {
+        "site_tag": "グローバル 2020-2026",
+        "meta_title": "OutdoorParts Guide | 屋外機器・消耗品・純正互換パーツ検索",
+        "meta_desc": "プール清掃機、高圧洗浄機、チェーンソー、電動工具(18V)、ガレージリモコンの消耗部品・互換パーツ完全技術ガイド。Amazon直結・リンク切れゼロ。",
+        "og_title": "OutdoorParts Guide - 消耗部品・純正互換技術カタログ",
+        "og_desc": "マキタ、ケルヒャー、スチール、ドルフィン等の純正消耗品・交換部品をAmazonで即時検索。",
+        "disclosure": "ℹ️ <strong>Amazonアソシエイト・適格販売者表記：</strong> 当サイトはAmazonアソシエイト・プログラムの参加者であり、適格販売により収入を得ています。正確な交換部品を直接検索します（<strong>#アフィリエイトリンク</strong>）。",
+        "safety_protocol": "<strong>安全手順遵守＆高電圧分解禁止：</strong> 当ガイドは外部消耗品、フィルター、替刃、18Vバッテリー、純正リモコン設定のみを扱います。高電圧電気回路の分解は固く禁止されています。",
+        "nav_home": "ホーム",
+        "nav_pool": "プール＆スパ",
+        "nav_garden": "ガーデン＆高圧洗浄機",
+        "nav_gate": "自動ゲート＆バックアップ電源",
+        "nav_tools": "18V 電動工具",
+        "hero_badge": "自律型技術パーツ適合エンジン",
+        "hero_title": "屋外設備・電動工具の正確な交換パーツを検索",
+        "hero_subtitle": "マキタ、ケルヒャー、スチール、ドルフィン、デウォルト：純正規格互換・Amazon直結検索・リンク切れゼロ。",
+        "search_placeholder": "型番・モデル検索 (例: マキタ DBO180, ケルヒャー K5, ドルフィン E20)...",
+        "stat_models": "登録モデル数",
+        "stat_parts": "検証済み消耗部品",
+        "stat_404": "リンク切れエラー (完全回避)",
+        "stat_safety": "高電圧分解ゼロ (完全安全)",
+        "cat_pool_title": "プールロボット・スパ＆フィルター",
+        "cat_pool_badge": "Dolphin, Intex, Zodiac, Bestway, Hayward, Polaris",
+        "cat_garden_title": "高圧洗浄機・チェーンソー＆芝刈機",
+        "cat_garden_badge": "Kärcher, Stihl, Husqvarna, Ryobi, Bosch",
+        "cat_gate_title": "ガレージ・ゲート自動化＆無停電電源",
+        "cat_gate_badge": "LiftMaster, Chamberlain, Somfy, Came, Nice, BFT, APC",
+        "cat_tools_title": "18V / 20V 充電式電動工具",
+        "cat_tools_badge": "Makita, Milwaukee, DeWalt, Bosch Pro, Einhell",
+        "parts_count": "点の互換部品を登録",
+        "btn_explore": "詳細を見る →",
+        "guide_brand": "メーカー / ブランド",
+        "guide_model": "対応モデル / シリーズ",
+        "guide_years": "対象年式",
+        "guide_hazard": "作業レベル",
+        "guide_safe": "100% 外部交換 (安全確認済み)",
+        "guide_updated": "最終更新",
+        "guide_table_title": "消耗品・交換パーツ適合表",
+        "guide_table_desc": "記載部品はすべてOEM仕様に完全適合。Amazon各国の在庫に直結し在庫切れや型番違いを防止します。",
+        "th_part": "部品名称 / 消耗品タイプ",
+        "th_specs": "純正OEM品番 / 正確寸法",
+        "th_wear": "摩耗の兆候＆交換推奨目安",
+        "th_amazon": "Amazon直結検索 (世界各ストア)",
+        "view_amazon": "Amazon.co.jpで探す",
+        "stores_label": "各ストア:",
+        "procedure_title": "交換手順ステップバイステップ (高電圧分解なし)",
+        "faq_title": "よくある質問＆メンテナンスの要点",
+        "footer_disclaimer": "独立系技術情報サイト。記載された商標は各所有者に帰属します。",
+        "footer_legal": "法的表示＆プライバシー",
+        "footer_api": "REST JSON API",
+        "footer_llms": "LLM標準形式 (llms.txt)",
+        "footer_rss": "RSSフィード"
+    },
+    "zh": {
+        "site_tag": "全球 2020-2026",
+        "meta_title": "OutdoorParts Guide | 户外设备・易损耗材配件对应目录",
+        "meta_desc": "泳池清洁机、高压清洗机、油锯、18V锂电工具、车库遥控器等易损耗材与原厂互换配件技术指南。直达亚马逊全球商城，零404错误。",
+        "og_title": "OutdoorParts Guide - 户外设备易损件技术互换指南",
+        "og_desc": "一键直达牧田、卡赫、斯蒂尔等全球原厂规格易损配件与耗材亚马逊直搜。",
+        "disclosure": "ℹ️ <strong>亚马逊联盟与推广透明度声明：</strong> 本站为亚马逊联盟成员，符合条件的购买将为本站带来佣金支持。搜索链接直接对应正品耗材配件（<strong>#推广链接</strong>），消费者无任何额外费用。",
+        "safety_protocol": "<strong>严格安全规范＆严禁高压拆卸：</strong> 本站指南仅涵盖<em>外部易损耗材</em>、滤芯、快插接头、18V电池及无线对码遥控器。严禁拆卸任何高压电气内部元件。操作前请务必断开电源。",
+        "nav_home": "首页",
+        "nav_pool": "泳池与水疗设备",
+        "nav_garden": "园林机械与高压清洗机",
+        "nav_gate": "智能车库门与应急电源",
+        "nav_tools": "18V / 20V 锂电工具",
+        "hero_badge": "自主运行技术互换匹配引擎",
+        "hero_title": "轻松查询户外设备与电动工具的精准易损耗材",
+        "hero_subtitle": "牧田、卡赫、斯蒂尔、富美、得伟：原厂参数直达，全球亚马逊直搜，无失效链接。",
+        "search_placeholder": "搜索设备型号 (例如: 牧田 DBO180, 卡赫 K5, MS 170)...",
+        "stat_models": "已收录设备型号",
+        "stat_parts": "已验证耗材规格",
+        "stat_404": "链接失效错误 (完全规避)",
+        "stat_safety": "高压拆卸风险 (完全为零)",
+        "cat_pool_title": "泳池机器人・水疗机与滤芯",
+        "cat_pool_badge": "Dolphin, Intex, Zodiac, Bestway, Hayward, Polaris",
+        "cat_garden_title": "高压清洗机・油锯与割草机器人",
+        "cat_garden_badge": "Kärcher, Stihl, Husqvarna, Ryobi, Bosch",
+        "cat_gate_title": "车库门自动系统与UPS应急电源",
+        "cat_gate_badge": "LiftMaster, Chamberlain, Somfy, Came, Nice, BFT, APC",
+        "cat_tools_title": "18V / 20V 锂电动力工具",
+        "cat_tools_badge": "Makita, Milwaukee, DeWalt, Bosch Pro, Einhell",
+        "parts_count": "个已核对耗材配件",
+        "btn_explore": "查看目录 →",
+        "guide_brand": "品牌 / 制造商",
+        "guide_model": "适用型号 / 系列",
+        "guide_years": "覆盖年份",
+        "guide_hazard": "操作安全级别",
+        "guide_safe": "100% 外部更换 (安全无风险)",
+        "guide_updated": "最后更新",
+        "guide_table_title": "原厂耗材与易损配件规格对应表",
+        "guide_table_desc": "以下所有部件均符合原厂OEM标准。直连亚马逊全球搜索，有效杜绝型号错误与断货问题。",
+        "th_part": "配件类型 / 耗材规格",
+        "th_specs": "原厂OEM代码 / 精准尺寸",
+        "th_wear": "磨损表现与建议更换周期",
+        "th_amazon": "亚马逊全球商城直达搜索",
+        "view_amazon": "前往亚马逊搜索",
+        "stores_label": "国家商城:",
+        "procedure_title": "分步更换指导 (100%免高压拆解)",
+        "faq_title": "常见问题与技术要点提示",
+        "footer_disclaimer": "独立第三方技术指南。文中提及的商标均为其各自持有者合法所有。",
+        "footer_legal": "法律声明与隐私政策",
+        "footer_api": "REST JSON API 接口",
+        "footer_llms": "大模型规范 (llms.txt)",
+        "footer_rss": "RSS 订阅源"
     }
 }
 
@@ -416,7 +542,7 @@ def get_translations(lang: str = "fr") -> Dict[str, str]:
 def build_affiliate_url(search_query: str, partner_tag: str, store: str = "fr") -> str:
     """
     Construit une URL de recherche Amazon Partenaires 100% infaillible (zéro erreur 404).
-    Supporte les déclinaisons multi-stores mondiales (FR, US, CA, UK, AU, DE, ES, IT, BR, MX, ZA).
+    Supporte les déclinaisons multi-stores mondiales (FR, US, CA, UK, AU, DE, ES, IT, BR, MX, ZA, JP, SG).
     """
     domain = AMAZON_DOMAINS.get(store.lower(), "www.amazon.fr")
     clean_query = " ".join(search_query.strip().split())
@@ -438,4 +564,6 @@ def build_store_urls(search_query: str, partner_tag: str) -> Dict[str, str]:
         "affiliate_url_br": build_affiliate_url(search_query, partner_tag, store="br"),
         "affiliate_url_mx": build_affiliate_url(search_query, partner_tag, store="mx"),
         "affiliate_url_za": build_affiliate_url(search_query, partner_tag, store="za"),
+        "affiliate_url_jp": build_affiliate_url(search_query, partner_tag, store="jp"),
+        "affiliate_url_sg": build_affiliate_url(search_query, partner_tag, store="sg"),
     }

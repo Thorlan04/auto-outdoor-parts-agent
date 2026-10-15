@@ -9,6 +9,8 @@
 {% block href_de %}{{ site_base_url }}/de/guides/{{ guide.slug }}.html{% endblock %}
 {% block href_it %}{{ site_base_url }}/it/guides/{{ guide.slug }}.html{% endblock %}
 {% block href_pt %}{{ site_base_url }}/pt/guides/{{ guide.slug }}.html{% endblock %}
+{% block href_ja %}{{ site_base_url }}/ja/guides/{{ guide.slug }}.html{% endblock %}
+{% block href_zh %}{{ site_base_url }}/zh/guides/{{ guide.slug }}.html{% endblock %}
 {% block href_default %}{{ site_base_url }}/en/guides/{{ guide.slug }}.html{% endblock %}
 
 {% block og_title %}{{ guide.title }}{% endblock %}
@@ -297,7 +299,9 @@
         <a href="{{ site_base_url }}/es/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇪🇸 ES</a>
         <a href="{{ site_base_url }}/de/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇩🇪 DE</a>
         <a href="{{ site_base_url }}/it/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇮🇹 IT</a>
-        <a href="{{ site_base_url }}/pt/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none;">🇧🇷 PT</a>
+        <a href="{{ site_base_url }}/pt/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇧🇷 PT</a>
+        <a href="{{ site_base_url }}/ja/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none; margin-right:0.3rem;">🇯🇵 JA</a>
+        <a href="{{ site_base_url }}/zh/guides/{{ guide.slug }}.html" style="color:var(--primary); text-decoration:none;">🇨🇳 中文</a>
       </div>
     </div>
 
@@ -378,7 +382,7 @@
             </td>
             <td>
               <div>
-                {% set target_url = part.affiliate_url_es if lang == 'es' else (part.affiliate_url_de if lang == 'de' else (part.affiliate_url_it if lang == 'it' else (part.affiliate_url_br if lang == 'pt' else (part.affiliate_url if lang == 'fr' else part.affiliate_url_us)))) %}
+                {% set target_url = part.affiliate_url_jp if lang == 'ja' else (part.affiliate_url_sg if lang == 'zh' else (part.affiliate_url_es if lang == 'es' else (part.affiliate_url_de if lang == 'de' else (part.affiliate_url_it if lang == 'it' else (part.affiliate_url_br if lang == 'pt' else (part.affiliate_url if lang == 'fr' else part.affiliate_url_us)))))) %}
                 <a href="{{ target_url }}" class="btn-amazon" rel="nofollow sponsored" target="_blank" title="Search {{ part.name }} on Amazon">
                   <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
                   {{ t.view_amazon }}
@@ -395,6 +399,8 @@
                 <a href="{{ part.affiliate_url }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon France">🇫🇷 FR</a>
                 <a href="{{ part.affiliate_url_es }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Spain & LatAm">🇪🇸 ES</a>
                 <a href="{{ part.affiliate_url_it }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Italy">🇮🇹 IT</a>
+                {% if part.affiliate_url_jp %}<a href="{{ part.affiliate_url_jp }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Japan">🇯🇵 JP</a>{% endif %}
+                {% if part.affiliate_url_sg %}<a href="{{ part.affiliate_url_sg }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Singapore / Asia">🇸🇬 SG</a>{% endif %}
                 {% if part.affiliate_url_br %}<a href="{{ part.affiliate_url_br }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Brazil">🇧🇷 BR</a>{% endif %}
                 {% if part.affiliate_url_mx %}<a href="{{ part.affiliate_url_mx }}" class="flag-link" target="_blank" rel="nofollow sponsored" title="Amazon Mexico">🇲🇽 MX</a>{% endif %}
               </div>

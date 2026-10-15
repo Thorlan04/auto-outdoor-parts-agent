@@ -1626,6 +1626,8 @@ Format JSON attendu :
             part["affiliate_url_br"] = build_affiliate_url(query, self.partner_tag, store="br")
             part["affiliate_url_mx"] = build_affiliate_url(query, self.partner_tag, store="mx")
             part["affiliate_url_za"] = build_affiliate_url(query, self.partner_tag, store="za")
+            part["affiliate_url_jp"] = build_affiliate_url(query, self.partner_tag, store="jp")
+            part["affiliate_url_sg"] = build_affiliate_url(query, self.partner_tag, store="sg")
             part["store_urls"] = build_store_urls(query, self.partner_tag)
 
         return guide
@@ -1911,7 +1913,7 @@ CROSS-REFERENCE PARTS & AMAZON STORES :""")
             "info": {
                 "title": "OutdoorParts Guide API Global",
                 "version": "1.0.0",
-                "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs dans 6 langues (FR, EN, ES, DE, IT, PT) avec liens multi-stores Amazon."
+                "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs dans 8 langues (FR, EN, ES, DE, IT, PT, JA, ZH) avec liens multi-stores Amazon."
             },
             "servers": [{"url": self.site_base_url}],
             "paths": {
@@ -1962,6 +1964,20 @@ CROSS-REFERENCE PARTS & AMAZON STORES :""")
                         "responses": {"200": {"description": "Catálogo completo em português"}}
                     }
                 },
+                "/api/v1/ja/catalog.json": {
+                    "get": {
+                        "summary": "交換パーツ・消耗品カタログ (日本語 / Amazon.co.jp)",
+                        "operationId": "getCatalogJa",
+                        "responses": {"200": {"description": "日本語版完全パーツカタログ"}}
+                    }
+                },
+                "/api/v1/zh/catalog.json": {
+                    "get": {
+                        "summary": "户外设备易损件技术互换目录 (中文 / 全球华人)",
+                        "operationId": "getCatalogZh",
+                        "responses": {"200": {"description": "中文版耗材对应目录"}}
+                    }
+                },
                 "/llms.txt": {
                     "get": {
                         "summary": "Fichier llms.txt standard (FR)",
@@ -1972,6 +1988,18 @@ CROSS-REFERENCE PARTS & AMAZON STORES :""")
                     "get": {
                         "summary": "Standard llms.txt file (EN Global)",
                         "responses": {"200": {"description": "Concise markdown documentation for LLMs"}}
+                    }
+                },
+                "/ja/llms.txt": {
+                    "get": {
+                        "summary": "Standard llms.txt file (JA Japan)",
+                        "responses": {"200": {"description": "Concise markdown documentation for LLMs in Japanese"}}
+                    }
+                },
+                "/zh/llms.txt": {
+                    "get": {
+                        "summary": "Standard llms.txt file (ZH Chinese)",
+                        "responses": {"200": {"description": "Concise markdown documentation for LLMs in Chinese"}}
                     }
                 }
             }
