@@ -941,14 +941,22 @@ Format JSON attendu :
     }}
   ]
 }}"""
-            response = client.models.generate_content(
-                model="gemini-2.5-flash",
-                contents=prompt,
-                config=types.GenerateContentConfig(
-                    response_mime_type="application/json",
-                    temperature=0.2
-                )
-            )
+            response = None
+            for model_name in ["gemini-2.5-flash", "gemini-2.0-flash", "gemini-1.5-flash"]:
+                try:
+                    response = client.models.generate_content(
+                        model=model_name,
+                        contents=prompt,
+                        config=types.GenerateContentConfig(
+                            response_mime_type="application/json",
+                            temperature=0.2
+                        )
+                    )
+                    if response and response.text:
+                        break
+                except Exception as model_err:
+                    continue
+
             if response and response.text:
                 enriched_json = json.loads(response.text)
                 merged = dict(model_candidate)
@@ -962,7 +970,7 @@ Format JSON attendu :
                     merged["faqs"] = enriched_json["faqs"]
                 return merged
         except Exception as e:
-            print(f"[NOTE] Génération Gemini 2.5 non disponible ({e}), utilisation des spécifications constructeur validées.")
+            print(f"[NOTE] Génération Gemini non disponible ({e}), utilisation des spécifications constructeur validées.")
 
         return model_candidate
 
