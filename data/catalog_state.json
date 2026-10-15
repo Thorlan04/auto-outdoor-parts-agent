@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T20:08:00.195299+00:00",
+  "last_updated": "2026-10-15T20:33:11.687786+00:00",
   "telegra_ph_token": "b5fa29b2babee7ffd0369695ecd7b5c04ed03d9870cc4c578d7afb06ba87",
   "indexnow_key": "4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c",
   "processed_models": [
@@ -15,10 +15,12 @@
     "came-top-432ee-telecommande-portail",
     "apc-back-ups-batterie-plomb-etanche-12v",
     "makita-dbo180z-ponceuse-excentrique-18v",
-    "bosch-professional-gex-125-1-ae-ponceuse"
+    "bosch-professional-gex-125-1-ae-ponceuse",
+    "stihl-gta-26-scie-elagueuse-batterie",
+    "karcher-k4-power-control-nettoyeur-hp"
   ],
   "stats": {
-    "total_guides": 13,
-    "total_parts_indexed": 40
+    "total_guides": 15,
+    "total_parts_indexed": 46
   }
 }

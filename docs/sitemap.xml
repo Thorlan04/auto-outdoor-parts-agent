@@ -96,4 +96,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-gta-26-scie-elagueuse-batterie.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k4-power-control-nettoyeur-hp.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

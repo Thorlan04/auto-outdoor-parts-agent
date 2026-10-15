@@ -812,6 +812,308 @@ CANDIDATE_MODELS_POOL = [
                 "answer": "Oui, Bosch propose des plateaux souples (courbes et finitions fines) et des plateaux mi-durs (standards universels 2608000349)."
             }
         ]
+    },
+    {
+        "slug": "stihl-gta-26-scie-elagueuse-batterie",
+        "category_id": "jardin-moteur",
+        "category_name": "Jardin Motorisé & Nettoyeurs Haute Pression",
+        "brand": "Stihl",
+        "model_name": "Stihl GTA 26 Scie de Jardin / Mini Élagueuse",
+        "years_range": "2020-2026",
+        "title": "Stihl GTA 26 : Chaîne 1/4\" Picco Micro 3 28 Maillons & Guide 10cm",
+        "summary": "Correspondances exactes Stihl GTA 26 : chaîne 71PM3 (28 maillons), guide Rollomatic Light 10cm et batterie AS 2.",
+        "meta_description": "Chaîne 1/4 Picco 28 maillons 71PM3, guide 10cm et huile bio pour élagueuse à batterie Stihl GTA 26. Pièces certifiées sans 404.",
+        "parts": [
+            {
+                "name": "Chaîne 1/4\" Picco Micro 3 (71 PM3 - 28 Maillons)",
+                "tag": "Chaîne Tronçonneuse Rechange",
+                "oem_or_dimension": "Stihl 3670-000-0028 / Pas 1/4\" P / Jauge 1.1mm",
+                "wear_symptom": "Dents émoussées, coupe lente, batterie qui se décharge trop vite",
+                "replacement_interval": "Affûtage régulier, renouvellement après 3 à 4 affûtages",
+                "technical_detail": "Micro-chaîne spécifique ultra-fine 1.1mm conçue pour minimiser la consommation électrique de la batterie 10.8V.",
+                "search_query": "chaine stihl gta 26 71pm3 28 maillons 3670-000-0028"
+            },
+            {
+                "name": "Guide-Chaîne Rollomatic Light 10cm (4 pouces)",
+                "tag": "Guide Ultra-Léger",
+                "oem_or_dimension": "Stihl 3007-003-0102 / Longueur de coupe 10 cm",
+                "wear_symptom": "Fente du guide usée, déviation lors de la coupe de branches",
+                "replacement_interval": "Tous les 2 ans selon usage",
+                "technical_detail": "Acier allié trempé avec gorge usinée 1.1mm pour un guidage parfait sans à-coups.",
+                "search_query": "guide stihl gta 26 10cm 3007-003-0102"
+            },
+            {
+                "name": "Huile Adhésive Bio pour Chaîne et Guide Multioil Bio (50ml)",
+                "tag": "Lubrification Chaîne",
+                "oem_or_dimension": "Stihl 0782-516-8500 / Flacon doseur 50 ml",
+                "wear_symptom": "Échauffement du guide, traces noires sur le bois",
+                "replacement_interval": "À appliquer manuellement avant chaque séance de coupe",
+                "technical_detail": "Huile d'origine végétale 100% biodégradable évitant le gommage des maillons.",
+                "search_query": "huile chaine stihl multioil bio gta 26"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Retrait impératif de la batterie AS 2",
+                "description": "Pressez les deux loquets de la batterie AS 2 et retirez-la du manche avant toute manipulation de la chaîne."
+            },
+            {
+                "title": "Changement de la chaîne sans outil",
+                "description": "Desserrez l'écrou papillon noir du capot de pignon, retirez le guide, placez la chaîne neuve avec les gouges orientées vers l'avant et resserrez à la main."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Pourquoi la chaîne de la Stihl GTA 26 doit-elle être lubrifiée à la main ?",
+                "answer": "La GTA 26 ne possède pas de pompe à huile automatique pour rester ultra-légère. Déposez quelques gouttes de Multioil Bio directement sur la rainure du guide avant chaque utilisation."
+            }
+        ]
+    },
+    {
+        "slug": "karcher-k4-power-control-nettoyeur-hp",
+        "category_id": "jardin-moteur",
+        "category_name": "Jardin Motorisé & Nettoyeurs Haute Pression",
+        "brand": "Kärcher",
+        "model_name": "Kärcher K4 Power Control / K4 Compact",
+        "years_range": "2020-2026",
+        "title": "Kärcher K4 Power Control : Flexibles 8m Quick Connect & Lance Vario Power",
+        "summary": "Consommables et pièces d'usure certifiés Kärcher K4 : flexible 8m Quick Connect, lance Vario Power VP 145 et joints toriques.",
+        "meta_description": "Flexible haute pression 8m, lance Vario Power et joints de rechange pour nettoyeur Kärcher K4. Références vérifiées sans erreur 404.",
+        "parts": [
+            {
+                "name": "Flexible Haute Pression 8m Quick Connect (130-160 bar)",
+                "tag": "Flexible Remplacement",
+                "oem_or_dimension": "OEM 6.396-525.0 / Raccord rapide jaune deux côtés",
+                "wear_symptom": "Gaine extérieure râpée sur le béton, fuite au raccord pistolet",
+                "replacement_interval": "Tous les 3 à 4 ans",
+                "technical_detail": "Rayon de courbure souple anti-vrille, tolérance 160 bar et 60°C.",
+                "search_query": "flexible karcher k4 8m quick connect 6.396-525.0"
+            },
+            {
+                "name": "Lance Vario Power Jet Réglable VP 145",
+                "tag": "Lance Polyvalente",
+                "oem_or_dimension": "OEM 2.642-725.0 / Réglage continu Soft/Medium/Hard",
+                "wear_symptom": "Bague rotative bloquée par le calcaire, jet qui ne monte plus en pression",
+                "replacement_interval": "En cas d'entartrage interne",
+                "technical_detail": "Permet de passer du jet basse pression (application détergent) au jet haute pression d'un simple geste.",
+                "search_query": "lance vario power karcher k4 vp 145"
+            },
+            {
+                "name": "Buse Débouche-Canalisations et Gouttières 15m",
+                "tag": "Accessoire Débouchage",
+                "oem_or_dimension": "OEM 2.637-767.0 / 3 jets rétro-propulseurs",
+                "wear_symptom": "Buses obstruées par le calcaire ou flexible pincé",
+                "replacement_interval": "Accessoire longue durée",
+                "technical_detail": "Avance automatiquement dans les tuyaux PVC grâce à ses 3 jets orientés vers l'arrière.",
+                "search_query": "kit debouche canalisation karcher 15m 2.637-767.0"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Purge d'air initiale avant allumage",
+                "description": "Raccordez l'eau, ouvrez le robinet à fond et pressez la gâchette du pistolet sans allumer l'interrupteur électrique jusqu'à obtenir un écoulement continu sans bulles d'air."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Le flexible du Kärcher K4 est-il identique à celui du K5 ?",
+                "answer": "Les deux utilisent le raccord Quick Connect jaune. Le flexible du K4 mesure 8m (130 bar) alors que celui du K5 mesure 10m (180 bar). Les deux sont interchangeables."
+            }
+        ]
+    },
+    {
+        "slug": "nice-flo2re-era-flor-telecommande",
+        "category_id": "domotique-energie",
+        "category_name": "Domotique Portail, Garage & Énergie de Secours",
+        "brand": "Nice",
+        "model_name": "Nice Era Flor FLO2RE / ON2E / Flo2R-S",
+        "years_range": "2020-2026",
+        "title": "Télécommande Nice FLO2RE : Fréquence 433.92 MHz Rolling Code & Piles CR2032",
+        "summary": "Correspondances officielles télécommandes de portail Nice Era Flor FLO2RE : rolling code sécurisé 433.92 MHz, piles bouton CR2032 et programmation radio.",
+        "meta_description": "Télécommandes Nice FLO2RE Era Flor 433.92 MHz Rolling Code, piles CR2032. Procédure d'enregistrement par voie radio sans ouvrir le coffret moteur.",
+        "parts": [
+            {
+                "name": "Télécommande 2 Canaux Nice Era Flor FLO2RE (433.92 MHz)",
+                "tag": "Émetteur Rolling Code",
+                "oem_or_dimension": "Nice FLO2RE / 433.92 MHz Rolling Code / Boîtier noir touches rondes",
+                "wear_symptom": "Portée réduite à moins de 3 mètres, bouton poussoir fendu",
+                "replacement_interval": "En cas de défaillance mécanique ou perte",
+                "technical_detail": "Cryptage 52 bits rolling code inviolable, compatible récepteurs OXI, OX2, SMXI, FLOX2R.",
+                "search_query": "telecommande nice era flor flo2re 433.92 mhz"
+            },
+            {
+                "name": "Pile Bouton Lithium CR2032 3V Longue Durée",
+                "tag": "Alimentation Émetteur",
+                "oem_or_dimension": "CR2032 / Tension 3V / Diamètre 20mm",
+                "wear_symptom": "Clignotement hésitant de la diode LED à l'appui",
+                "replacement_interval": "Tous les 2 ans",
+                "technical_detail": "Technologie lithium haute pureté pour fonctionnement par températures négatives.",
+                "search_query": "pile cr2032 energizer 3v lot"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Programmation par voie radio (Sans toucher au moteur)",
+                "description": "Placez-vous à 2 mètres du portail. Appuyez 5 secondes sur la touche de la NOUVELLE télécommande. Puis appuyez 3 fois brièvement sur l'ANCIENNE télécommande (en attendant 1 seconde entre chaque appui). Enfin, appuyez une dernière fois sur la nouvelle télécommande pour enregistrer le code."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Quelle est la différence entre Nice Flo (touches bleues) et Nice Flor-S (touches noires) ?",
+                "answer": "La série Flo utilise des micro-interrupteurs (DIP switchs) à code fixe. La série Flor (FLO2RE) utilise le rolling code sécurisé. Elles ne sont pas compatibles entre elles."
+            }
+        ]
+    },
+    {
+        "slug": "bft-mitto-b-rcb02-telecommande-portail",
+        "category_id": "domotique-energie",
+        "category_name": "Domotique Portail, Garage & Énergie de Secours",
+        "brand": "BFT",
+        "model_name": "BFT Mitto B RCB02 / Mitto 2M / 4M",
+        "years_range": "2020-2026",
+        "title": "Télécommandes BFT Mitto B RCB02 : Fréquence 433.92 MHz & Piles 12V",
+        "summary": "Correspondances télécommandes BFT Mitto : protocole Rolling Code 433.92 MHz, alimentation pile 12V 23A et procédure de programmation à distance.",
+        "meta_description": "Télécommandes BFT Mitto B RCB02 433.92 MHz Rolling Code, piles 12V type 23A. Procédure d'appairage radio sans contact direct carte électronique.",
+        "parts": [
+            {
+                "name": "Télécommande 2 Boutons BFT Mitto B RCB02 R1 (433.92 MHz)",
+                "tag": "Émetteur Portes & Portails",
+                "oem_or_dimension": "BFT D111904 / 433.92 MHz Rolling Code",
+                "wear_symptom": "Portée dégradée, coque ouverte ou boutons écrasés",
+                "replacement_interval": "En cas de remplacement ou télécommande supplémentaire",
+                "technical_detail": "Protocole BFT Clonix avec système de codage à saut de fréquence sécurisé.",
+                "search_query": "telecommande bft mitto b rcb02 433.92 mhz"
+            },
+            {
+                "name": "Pile Alcaline Cylindrique 12V Type 23A (Lot de 5)",
+                "tag": "Alimentation Haute Tension",
+                "oem_or_dimension": "Format 23A / V23GA / MN21 / 12 Volts",
+                "wear_symptom": "LED qui ne s'allume plus lors de la pression",
+                "replacement_interval": "Tous les 2 ans",
+                "technical_detail": "Assure la puissance radio nécessaire pour une portée maximale jusqu'à 50 mètres.",
+                "search_query": "pile 12v 23a energizer v23ga"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Procédure d'enregistrement par appui simultané",
+                "description": "À côté du récepteur, appuyez simultanément sur les 2 boutons supérieurs de la télécommande en service jusqu'à allumage fixe de sa LED, puis appuyez sur la touche programmée. Appuyez ensuite sur les 2 boutons de la nouvelle télécommande puis sur la touche choisie pour valider."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Comment savoir si ma télécommande BFT utilise une pile 12V 23A ou une pile bouton ?",
+                "answer": "Les modèles BFT Mitto 2M utilisent une petite pile cylindrique 12V (23A). Les modèles récents extra-plats Mitto B RCB utilisent une pile bouton CR2032. Vérifiez le compartiment arrière."
+            }
+        ]
+    },
+    {
+        "slug": "dewalt-dcw210n-ponceuse-excentrique-18v",
+        "category_id": "outillage",
+        "category_name": "Outillage Électroportatif",
+        "brand": "DeWalt",
+        "model_name": "DeWalt DCW210 / DCW210N / DCW210NT 18V XR",
+        "years_range": "2020-2026",
+        "title": "DeWalt DCW210N : Plateaux 125mm 8 Trous, Sac AirLock & Batteries",
+        "summary": "Correspondances officielles DeWalt DCW210N : plateau de ponçage auto-agrippant 125mm (N329079), sac récepteur AirLock et batteries 18V XR.",
+        "meta_description": "Plateau de rechange velcro 125mm 8 trous, sac AirLock et batteries compatibles pour ponceuse DeWalt DCW210N 18V. Pièces sans erreur 404.",
+        "parts": [
+            {
+                "name": "Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 4 Vis)",
+                "tag": "Plateau Usure Remplacement",
+                "oem_or_dimension": "DeWalt OEM N329079 / Diamètre 125mm 8 trous",
+                "wear_symptom": "Disques abrasifs qui glissent ou ne collent plus au support",
+                "replacement_interval": "Dès lissage des micro-crochets velcro",
+                "technical_detail": "Fixation sécurisée par 4 vis torx, équilibrage anti-vibrations pour moteur Brushless sans balais.",
+                "search_query": "plateau ponceuse dewalt dcw210n 125mm n329079"
+            },
+            {
+                "name": "Sac à Poussière Textile avec Raccord Rapide AirLock",
+                "tag": "Collecte Poussière",
+                "oem_or_dimension": "DeWalt OEM N273733 / Système de verrouillage AirLock",
+                "wear_symptom": "Couture déchirée, ressort de collerette détendu",
+                "replacement_interval": "En cas d'usure de la toile filtrante",
+                "technical_detail": "Se clipse d'un quart de tour sur la sortie d'aspiration arrière.",
+                "search_query": "sac poussiere dewalt dcw210 airlock n273733"
+            },
+            {
+                "name": "Batterie Compatible 18V 5.0Ah Li-Ion XR avec Jauge LED",
+                "tag": "Autonomie Sans Fil",
+                "oem_or_dimension": "Compatible DCB184 / 18V 5000mAh",
+                "wear_symptom": "Autonomie tombée à moins de 15 minutes",
+                "replacement_interval": "Tous les 3 à 5 ans",
+                "technical_detail": "Cellules lithium haute performance sans effet mémoire avec affichage de charge par LED.",
+                "search_query": "batterie dewalt 18v 5ah dcb184 compatible"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Sécurité : Déconnexion de la batterie XR",
+                "description": "Appuyez sur le loquet de déverrouillage jaune et extrayez la batterie 18V avant d'intervenir sur le patin."
+            },
+            {
+                "title": "Changement du plateau velcro en 3 minutes",
+                "description": "Retirez les 4 vis à l'aide d'un embout Torx T20. Positionnez le nouveau plateau N329079 en alignant les trous d'aspiration avec la turbine et serrez fermement."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Peut-on adapter un aspirateur d'atelier sur la ponceuse DeWalt DCW210N ?",
+                "answer": "Oui, la sortie arrière intègre le système standard DeWalt AirLock qui permet de brancher directement les tuyaux d'aspirateur sans adaptateur supplémentaire."
+            }
+        ]
+    },
+    {
+        "slug": "einhell-power-x-change-18v-batteries",
+        "category_id": "outillage",
+        "category_name": "Outillage Électroportatif",
+        "brand": "Einhell",
+        "model_name": "Système Power X-Change 18V (Ponceuses, Meuleuses, Tondeuses)",
+        "years_range": "2020-2026",
+        "title": "Einhell Power X-Change : Batteries 18V 4.0Ah / 5.2Ah Plus & Chargeurs",
+        "summary": "Correspondances officielles écosystème Einhell 18V Power X-Change : batteries lithium 4.0Ah et 5.2Ah Plus, chargeurs rapides Boost et patins de ponceuse.",
+        "meta_description": "Batteries 18V 4.0Ah et 5.2Ah Plus, chargeurs rapides pour gamme Einhell Power X-Change. Références certifiées sans erreur 404.",
+        "parts": [
+            {
+                "name": "Batterie 18V 4.0Ah Li-Ion Power X-Change (Indicateur LED 3 Niveaux)",
+                "tag": "Batterie Universelle",
+                "oem_or_dimension": "Einhell 4511396 / 18V 4000mAh / Cellules haute puissance",
+                "wear_symptom": "Autonomie réduite, surchauffe lors de travaux intensifs",
+                "replacement_interval": "Tous les 3 à 5 ans",
+                "technical_detail": "Système ABS (Active Battery Management) avec microprocesseur de surveillance des cellules.",
+                "search_query": "batterie einhell 18v 4ah power x change 4511396"
+            },
+            {
+                "name": "Batterie Haute Densité 18V 5.2Ah Plus Power X-Change",
+                "tag": "Autonomie Maximale",
+                "oem_or_dimension": "Einhell 4511437 / Technologie PLUS pour fortes charges",
+                "wear_symptom": "Besoin de puissance supérieure pour tondeuses ou meuleuses",
+                "replacement_interval": "Tous les 4 ans",
+                "technical_detail": "Fournit jusqu'à 1260W de puissance crête sans chute de tension.",
+                "search_query": "batterie einhell 18v 5.2ah plus power x change 4511437"
+            },
+            {
+                "name": "Chargeur Rapide Power-X-Boostcharger 6A",
+                "tag": "Charge Ultra-Rapide",
+                "oem_or_dimension": "Einhell 4512064 / Courant de charge 6 Ampères",
+                "wear_symptom": "Ancien chargeur lent (plus de 2h de charge pour une 4Ah)",
+                "replacement_interval": "Équipement d'atelier longue durée",
+                "technical_detail": "Recharge une batterie 4.0Ah en seulement 35 minutes en mode Boost.",
+                "search_query": "chargeur rapide einhell power x boostcharger 6a"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Recommandation de stockage hivernal",
+                "description": "Stockez vos batteries Power X-Change dans un endroit sec à une température comprise entre 10°C et 20°C avec une charge résiduelle de 50% à 80% (2 diodes allumées)."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Une batterie Einhell Power X-Change est-elle compatible avec tous les outils 18V de la marque ?",
+                "answer": "Oui, 100% des outils Einhell portant le logo Power X-Change (jardin, bricolage, nettoyage) partagent exactement les mêmes batteries et chargeurs."
+            }
+        ]
     }
 ]
 
