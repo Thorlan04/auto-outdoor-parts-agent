@@ -78,4 +78,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/apc-back-ups-batterie-plomb-etanche-12v.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/makita-dbo180z-ponceuse-excentrique-18v.html</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

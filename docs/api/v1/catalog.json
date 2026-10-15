@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-15T19:53:34.264286+00:00",
+  "updated_at": "2026-10-15T19:54:33.709061+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "outdoorparts-21",
-  "total_models": 10,
-  "total_parts": 33,
+  "total_models": 12,
+  "total_parts": 38,
   "models": [
     {
       "slug": "dolphin-e20-maytronics-robot-piscine",
@@ -674,6 +674,120 @@
         {
           "question": "La TOP 432EE est-elle compatible avec les anciennes télécommandes grises TOP 432NA ?",
           "answer": "Oui, la TOP 432EE remplace directement la TOP 432NA et la TOP 432EV grâce à son protocole bicanal 433.92 MHz rétrocompatible."
+        }
+      ],
+      "date_published": "2026-10-15",
+      "date_modified": "2026-10-15",
+      "date_modified_fr": "15/10/2026"
+    },
+    {
+      "slug": "apc-back-ups-batterie-plomb-etanche-12v",
+      "category_id": "domotique-energie",
+      "category_name": "Domotique Portail, Garage & Énergie de Secours",
+      "brand": "APC (Schneider) / Eaton",
+      "model_name": "Back-UPS ES / Pro / BX1400U / Ellipse ECO",
+      "years_range": "2020-2026",
+      "title": "Onduleurs APC & Centrales Alarme : Batteries Plomb AGM 12V 7Ah / 9Ah",
+      "summary": "Correspondances exactes des cartouches de batterie plomb étanches pour onduleurs APC et automatismes de secours : 12V 7.2Ah et 12V 9Ah cosses Faston F2.",
+      "meta_description": "Batteries plomb étanche 12V 7.2Ah et 12V 9Ah pour onduleurs APC Back-UPS, Eaton et centrales alarme. Cosses Faston F2 6.35mm sans erreur 404.",
+      "parts": [
+        {
+          "name": "Batterie Plomb Étanche AGM 12V 7.2Ah / 7.5Ah (Cosses Faston F2)",
+          "tag": "Énergie Onduleur Secours",
+          "oem_or_dimension": "12V 7.2Ah / Dimensions 151 x 65 x 94 mm / Bornes F2 (6.35mm)",
+          "wear_symptom": "Bip continu de l'onduleur, coupure instantanée en cas de coupure de courant",
+          "replacement_interval": "Tous les 3 à 5 ans",
+          "technical_detail": "Technologie AGM sans entretien, étanche, gaz recombine, homologuée floating secours.",
+          "search_query": "batterie 12v 7.2ah faston f2 onduleur apc",
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=outdoorparts-21"
+        },
+        {
+          "name": "Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)",
+          "tag": "Autonomie Prolongée",
+          "oem_or_dimension": "12V 9Ah / Dimensions identiques standard 151 x 65 x 94 mm / Cosses F2",
+          "wear_symptom": "Perte d'autonomie progressive sur onduleurs 1400VA (BX1400U)",
+          "replacement_interval": "Tous les 3 à 5 ans",
+          "technical_detail": "Offre 25% d'autonomie supplémentaire dans le même encombrement que la 7Ah.",
+          "search_query": "batterie 12v 9ah faston f2 onduleur",
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=outdoorparts-21"
+        }
+      ],
+      "procedure_steps": [
+        {
+          "title": "Mise hors tension et débranchement de la prise secteur",
+          "description": "Éteignez l'onduleur avec son bouton marche/arrêt et débranchez le cordon 230V de la prise murale."
+        },
+        {
+          "title": "Remplacement sécurisé de la cartouche de batterie",
+          "description": "Ouvrez la trappe inférieure sous l'onduleur. Déconnectez d'abord la cosse NOIRE (-), puis la cosse ROUGE (+). Insérez la batterie neuve et reconnectez Rouge (+) puis Noir (-). Une petite étincelle au rebranchement est normale (charge des condensateurs)."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Quelle est la différence entre cosses Faston F1 et Faston F2 ?",
+          "answer": "La borne F1 mesure 4.75mm de large, tandis que la borne F2 mesure 6.35mm. Les onduleurs APC et Eaton utilisent quasi-exclusivement des bornes larges F2."
+        }
+      ],
+      "date_published": "2026-10-15",
+      "date_modified": "2026-10-15",
+      "date_modified_fr": "15/10/2026"
+    },
+    {
+      "slug": "makita-dbo180z-ponceuse-excentrique-18v",
+      "category_id": "outillage",
+      "category_name": "Outillage Électroportatif",
+      "brand": "Makita",
+      "model_name": "Makita DBO180 / DBO180Z / BO5031 18V LXT",
+      "years_range": "2020-2026",
+      "title": "Makita DBO180Z : Plateau Velcro 125mm 8 Trous, Sac & Batteries",
+      "summary": "Correspondances consommables pour ponceuse Makita DBO180Z : plateau auto-agrippant 125mm 8 trous (743081-8), sac à poussière et disques abrasifs.",
+      "meta_description": "Plateau de ponçage velcro 125mm 8 trous, sac réutilisable et batteries compatibles pour ponceuse Makita DBO180Z 18V. Zéro 404.",
+      "parts": [
+        {
+          "name": "Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 3 Vis)",
+          "tag": "Plateau Auto-Agrippant",
+          "oem_or_dimension": "Makita 743081-8 / Diamètre 125mm / 8 trous d'aspiration",
+          "wear_symptom": "Disques abrasifs qui s'envolent pendant le ponçage (crochets velcro brûlés)",
+          "replacement_interval": "Dès perte d'adhérence du velcro",
+          "technical_detail": "Mousse polyuréthane semi-rigide haute résistance thermique, montage par 3 vis d'origine.",
+          "search_query": "plateau ponceuse makita dbo180 125mm 743081-8",
+          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=outdoorparts-21"
+        },
+        {
+          "name": "Sac Récepteur de Poussière avec Support Plastique",
+          "tag": "Aspiration Autonome",
+          "oem_or_dimension": "Makita 166078-4 / Verrouillage baïonnette",
+          "wear_symptom": "Sac papier troué, poussière rejetée dans l'air",
+          "replacement_interval": "En cas de déchirement",
+          "technical_detail": "Tissu microfibre lavable évitant l'usage de sacs papier jetables.",
+          "search_query": "sac poussiere makita dbo180 166078-4",
+          "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=outdoorparts-21"
+        },
+        {
+          "name": "Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED",
+          "tag": "Autonomie Atelier",
+          "oem_or_dimension": "Compatible BL1850B / 18V 5000mAh",
+          "wear_symptom": "Perte rapide de charge, outil qui coupe sous charge",
+          "replacement_interval": "Tous les 3 à 5 ans",
+          "technical_detail": "Protection intégrée contre les surchauffes, surcharges et décharges profondes.",
+          "search_query": "batterie 18v 5ah compatible makita bl1850b",
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=outdoorparts-21"
+        }
+      ],
+      "procedure_steps": [
+        {
+          "title": "Retrait obligatoire de la batterie 18V",
+          "description": "Glissez le bouton rouge pour éjecter la batterie 18V avant de retourner la ponceuse sur votre établi."
+        },
+        {
+          "title": "Remplacement du plateau velcro en 2 minutes",
+          "description": "Dévissez les 3 vis cruciformes situées dans les creux du plateau usé. Positionnez le nouveau plateau en alignant les trous d'aspiration et resserrez modérément sans forcer."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Pourquoi les disques abrasifs se détachent-ils de ma ponceuse Makita ?",
+          "answer": "Une pression excessive ou un ponçage à sec prolongé fait fondre les micro-crochets en nylon du plateau velcro. Remplacer le plateau 743081-8 résout instantanément le problème."
         }
       ],
       "date_published": "2026-10-15",
