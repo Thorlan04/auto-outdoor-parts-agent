@@ -1,11 +1,15 @@
 {% extends "base.html" %}
 
-{% block title %}OutdoorParts Guide | Base Technique de Correspondances de Pièces d'Usure (2020-2026){% endblock %}
-{% block description %}Catalogue technique de correspondances certifiées de consommables, filtres, lames, courroies et télécommandes pour l'extérieur, la piscine et l'outillage.{% endblock %}
-{% block canonical %}{{ site_base_url }}/index.html{% endblock %}
-{% block og_title %}OutdoorParts Guide - Références Exactes de Consommables Extérieurs{% endblock %}
-{% block og_description %}Trouvez en 1 clic les correspondances certifiées sans erreur 404 pour Kärcher, Dolphin, Intex, Somfy, Came, Makita, Stihl, Husqvarna.{% endblock %}
-{% block og_url %}{{ site_base_url }}/index.html{% endblock %}
+{% block title %}{% if lang == 'en' %}OutdoorParts Guide | Certified Wear Parts & Remote Controls Directory (2020-2026){% else %}OutdoorParts Guide | Base Technique de Correspondances de Pièces d'Usure (2020-2026){% endif %}{% endblock %}
+{% block description %}{% if lang == 'en' %}Technical cross-reference directory for replacement consumables, filters, blades, belts, and remote controls for pool, garden, garage, and power tools.{% else %}Catalogue technique de correspondances certifiées de consommables, filtres, lames, courroies et télécommandes pour l'extérieur, la piscine et l'outillage.{% endif %}{% endblock %}
+{% block canonical %}{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html{% endblock %}
+{% block href_fr %}{{ site_base_url }}/index.html{% endblock %}
+{% block href_en %}{{ site_base_url }}/en/index.html{% endblock %}
+{% block href_default %}{{ site_base_url }}/en/index.html{% endblock %}
+
+{% block og_title %}{% if lang == 'en' %}OutdoorParts Guide Global - Exact Replacement Specs & Consumables{% else %}OutdoorParts Guide - Références Exactes de Consommables Extérieurs{% endif %}{% endblock %}
+{% block og_description %}{% if lang == 'en' %}1-click verified Amazon searches without 404 errors for Kärcher, Dolphin, Intex, Chamberlain, Somfy, Came, Makita, DeWalt, Stihl, Husqvarna.{% else %}Trouvez en 1 clic les correspondances certifiées sans erreur 404 pour Kärcher, Dolphin, Intex, Somfy, Came, Makita, Stihl, Husqvarna.{% endif %}{% endblock %}
+{% block og_url %}{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html{% endblock %}
 
 {% block extra_head %}
 <style>
@@ -142,24 +146,24 @@
 
 {% block content %}
 <section class="hero">
-  <h1>Catalogue Technique de Correspondances Exactes</h1>
-  <p>Consommables certifiés, pièces d'usure plug-and-play, filtres de rechange et télécommandes de remplacement (2020-2026). Zéro lien mort, zéro erreur 404.</p>
+  <h1>{% if lang == 'en' %}Exact Wear Parts & Consumables Cross-Reference Catalog{% else %}Catalogue Technique de Correspondances Exactes{% endif %}</h1>
+  <p>{% if lang == 'en' %}Certified consumables, plug-and-play wear parts, replacement filters, and remote controls (2020-2026). Zero broken links, zero 404 errors across global Amazon stores.{% else %}Consommables certifiés, pièces d'usure plug-and-play, filtres de rechange et télécommandes de remplacement (2020-2026). Zéro lien mort, zéro erreur 404.{% endif %}</p>
   <div class="hero-stats">
     <div class="hero-stat-item">
       <div class="hero-stat-val">{{ stats.total_guides }}</div>
-      <div class="hero-stat-lbl">Guides Modèles</div>
+      <div class="hero-stat-lbl">{% if lang == 'en' %}Model Guides{% else %}Guides Modèles{% endif %}</div>
     </div>
     <div class="hero-stat-item">
       <div class="hero-stat-val">{{ stats.total_parts_indexed }}</div>
-      <div class="hero-stat-lbl">Références Validées</div>
+      <div class="hero-stat-lbl">{% if lang == 'en' %}Indexed Specs{% else %}Références Validées{% endif %}</div>
     </div>
     <div class="hero-stat-item">
-      <div class="hero-stat-val">4 / 4</div>
-      <div class="hero-stat-lbl">Secteurs Spécialisés</div>
+      <div class="hero-stat-val">8 Stores</div>
+      <div class="hero-stat-lbl">🇺🇸 🇨🇦 🇬🇧 🇦🇺 🇩🇪 🇫🇷 🇪🇸 🇮🇹</div>
     </div>
     <div class="hero-stat-item">
       <div class="hero-stat-val">100%</div>
-      <div class="hero-stat-lbl">Zéro Démontage HT</div>
+      <div class="hero-stat-lbl">{% if lang == 'en' %}Zero HV Hazard{% else %}Zéro Démontage HT{% endif %}</div>
     </div>
   </div>
 </section>
@@ -168,25 +172,25 @@
 <section class="sector-section" id="piscine-spa">
   <div class="sector-header">
     <h2 class="sector-title">
-      <span>🏊</span> Piscine, Spa & Robots Nettoyeurs
+      <span>🏊</span> {% if lang == 'en' %}Pool, Spa & Robotic Cleaners{% else %}Piscine, Spa & Robots Nettoyeurs{% endif %}
     </h2>
-    <span class="sector-badge">Dolphin, Intex, Zodiac, Bestway</span>
+    <span class="sector-badge">Dolphin, Intex, Zodiac, Bestway, Hayward, Polaris</span>
   </div>
   <div class="guides-grid">
     {% for guide in categories.piscine_spa %}
     <div class="guide-card">
       <div>
         <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
-        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <h3><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
         <p>{{ guide.summary }}</p>
       </div>
       <div class="guide-card-footer">
-        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
-        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+        <span class="parts-count">{{ guide.parts|length }} {% if lang == 'en' %}parts indexed{% else %}pièces référencées{% endif %}</span>
+        <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html" class="btn-outline">{% if lang == 'en' %}Explore &rarr;{% else %}Consulter &rarr;{% endif %}</a>
       </div>
     </div>
     {% else %}
-    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Catalog compiling...</p>
     {% endfor %}
   </div>
 </section>
@@ -195,25 +199,25 @@
 <section class="sector-section" id="jardin-moteur">
   <div class="sector-header">
     <h2 class="sector-title">
-      <span>🌿</span> Jardin Motorisé & Nettoyeurs Haute Pression
+      <span>🌿</span> {% if lang == 'en' %}Lawn Machinery & Pressure Washers{% else %}Jardin Motorisé & Nettoyeurs Haute Pression{% endif %}
     </h2>
-    <span class="sector-badge">Kärcher, Stihl, Husqvarna, Ryobi</span>
+    <span class="sector-badge">Kärcher, Stihl, Husqvarna, Ryobi, Bosch</span>
   </div>
   <div class="guides-grid">
     {% for guide in categories.jardin_moteur %}
     <div class="guide-card">
       <div>
         <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
-        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <h3><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
         <p>{{ guide.summary }}</p>
       </div>
       <div class="guide-card-footer">
-        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
-        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+        <span class="parts-count">{{ guide.parts|length }} {% if lang == 'en' %}parts indexed{% else %}pièces référencées{% endif %}</span>
+        <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html" class="btn-outline">{% if lang == 'en' %}Explore &rarr;{% else %}Consulter &rarr;{% endif %}</a>
       </div>
     </div>
     {% else %}
-    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Catalog compiling...</p>
     {% endfor %}
   </div>
 </section>
@@ -222,25 +226,25 @@
 <section class="sector-section" id="domotique-energie">
   <div class="sector-header">
     <h2 class="sector-title">
-      <span>⚡</span> Domotique Portail, Garage & Énergie de Secours
+      <span>⚡</span> {% if lang == 'en' %}Gate, Garage Automation & Backup Power{% else %}Domotique Portail, Garage & Énergie de Secours{% endif %}
     </h2>
-    <span class="sector-badge">Somfy, Came, Nice, APC, Eaton</span>
+    <span class="sector-badge">Chamberlain, LiftMaster, Somfy, Came, Nice, BFT, APC, Eaton</span>
   </div>
   <div class="guides-grid">
     {% for guide in categories.domotique_energie %}
     <div class="guide-card">
       <div>
         <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
-        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <h3><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
         <p>{{ guide.summary }}</p>
       </div>
       <div class="guide-card-footer">
-        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
-        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+        <span class="parts-count">{{ guide.parts|length }} {% if lang == 'en' %}parts indexed{% else %}pièces référencées{% endif %}</span>
+        <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html" class="btn-outline">{% if lang == 'en' %}Explore &rarr;{% else %}Consulter &rarr;{% endif %}</a>
       </div>
     </div>
     {% else %}
-    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Catalog compiling...</p>
     {% endfor %}
   </div>
 </section>
@@ -249,25 +253,25 @@
 <section class="sector-section" id="outillage">
   <div class="sector-header">
     <h2 class="sector-title">
-      <span>🛠️</span> Outillage Électroportatif 18V
+      <span>🛠️</span> {% if lang == 'en' %}18V / 20V Cordless Power Tools{% else %}Outillage Électroportatif 18V{% endif %}
     </h2>
-    <span class="sector-badge">Makita, Bosch Pro, DeWalt, Einhell</span>
+    <span class="sector-badge">Milwaukee, DeWalt, Makita, Bosch Pro, Einhell</span>
   </div>
   <div class="guides-grid">
     {% for guide in categories.outillage %}
     <div class="guide-card">
       <div>
         <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
-        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <h3><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
         <p>{{ guide.summary }}</p>
       </div>
       <div class="guide-card-footer">
-        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
-        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+        <span class="parts-count">{{ guide.parts|length }} {% if lang == 'en' %}parts indexed{% else %}pièces référencées{% endif %}</span>
+        <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}guides/{{ guide.slug }}.html" class="btn-outline">{% if lang == 'en' %}Explore &rarr;{% else %}Consulter &rarr;{% endif %}</a>
       </div>
     </div>
     {% else %}
-    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Catalog compiling...</p>
     {% endfor %}
   </div>
 </section>

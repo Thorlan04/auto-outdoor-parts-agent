@@ -172,18 +172,23 @@ class AIBroadcaster:
     # 2. README.md GITHUB (Index Bilingue FR/EN pour Crawlers IA sur GitHub)
     # --------------------------------------------------------------------------
     def update_github_readme(self, guides: List[Dict[str, Any]]) -> str:
-        """Génère un README.md racine complet, bilingue FR/EN avec tableau de liens."""
+        """Génère un README.md racine complet, bilingue FR/EN avec tableau de liens mondiaux."""
         now_utc = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
         total_parts = sum(len(g.get("parts", [])) for g in guides)
 
         # Construction du tableau markdown des modèles
         rows_fr = []
+        rows_en = []
         for g in guides:
-            top_part = g["parts"][0] if g.get("parts") else {"name": "Consommable", "oem_or_dimension": "Standard", "affiliate_url": f"{self.site_base_url}/"}
+            top_part = g["parts"][0] if g.get("parts") else {"name": "Consommable", "oem_or_dimension": "Standard", "affiliate_url": f"{self.site_base_url}/", "affiliate_url_us": f"{self.site_base_url}/"}
             rows_fr.append(
-                f"| **{g['brand']}** | [{g['model_name']}]({self.site_base_url}/guides/{g['slug']}.html) | `{g['category_name']}` | `{top_part['oem_or_dimension']}` | [Trouver sur Amazon]({top_part['affiliate_url']}) |"
+                f"| **{g['brand']}** | [{g['model_name']}]({self.site_base_url}/guides/{g['slug']}.html) | `{g['category_name']}` | `{top_part['oem_or_dimension']}` | [Amazon.fr]({top_part['affiliate_url']}) &middot; [Amazon US/Global]({top_part.get('affiliate_url_us', top_part['affiliate_url'])}) |"
+            )
+            rows_en.append(
+                f"| **{g['brand']}** | [{g['model_name']}]({self.site_base_url}/en/guides/{g['slug']}.html) | `{g['category_name']}` | `{top_part['oem_or_dimension']}` | [Search on Amazon US/Global]({top_part.get('affiliate_url_us', top_part['affiliate_url'])}) |"
             )
         table_md_fr = "\n".join(rows_fr)
+        table_md_en = "\n".join(rows_en)
 
         readme_content = f"""# OutdoorParts Guide 🚜⚡
 > **Autonomous Generative Engine Optimized (GEO) Catalog & Micro-Enterprise Affiliate Platform**  
@@ -191,26 +196,45 @@ class AIBroadcaster:
 
 [![Autopilot Workflow](https://github.com/alexandre-martin/auto-outdoor-parts-agent/actions/workflows/autopilot.yml/badge.svg)](https://github.com/alexandre-martin/auto-outdoor-parts-agent/actions)
 [![LLMs Standard](https://img.shields.io/badge/LLMs.txt-Compliant-brightgreen.svg)]({self.site_base_url}/llms.txt)
+[![Global Stores](https://img.shields.io/badge/Amazon%20Stores-US%20%7C%20CA%20%7C%20UK%20%7C%20AU%20%7C%20DE%20%7C%20FR%20%7C%20ES%20%7C%20IT-orange.svg)]({self.site_base_url}/en/index.html)
 [![Zero 404 Links](https://img.shields.io/badge/Amazon%20Search-Zero%20404-orange.svg)]({self.site_base_url}/)
 [![Micro-Enterprise BNC](https://img.shields.io/badge/Tax%20Compliance-Micro--BNC%205HQ-blue.svg)](file:///compta_impots/livre_des_recettes_officiel.csv)
 
 ---
 
+## 🌐 English Presentation (Global / US / CA / UK / AU / LatAm)
+
+**OutdoorParts Guide Global** is an autonomous platform targeting high-value replacement consumables across North America, Europe, Australia/Oceania, Latin America, and Africa. Every guide is optimized for Generative Search (ChatGPT Search, Perplexity, Claude, Copilot) with direct query routing to local Amazon country stores (`amazon.com`, `amazon.ca`, `amazon.co.uk`, `amazon.com.au`, `amazon.de`, `amazon.fr`, `amazon.es`, `amazon.it`, `amazon.co.za`).
+
+### 🤖 Machine-Readable Endpoints (GEO & AI Agents)
+- **English LLMs Index :** [`{self.site_base_url}/en/llms.txt`]({self.site_base_url}/en/llms.txt)
+- **Full Text LLMs Knowledge Base :** [`{self.site_base_url}/en/llms-full.txt`]({self.site_base_url}/en/llms-full.txt)
+- **REST Open Data API (EN) :** [`{self.site_base_url}/api/v1/en/catalog.json`]({self.site_base_url}/api/v1/en/catalog.json)
+- **OpenAPI 3.0 Spec :** [`{self.site_base_url}/.well-known/openapi.json`]({self.site_base_url}/.well-known/openapi.json)
+- **English RSS Feed :** [`{self.site_base_url}/en/feed.xml`]({self.site_base_url}/en/feed.xml)
+
+### 📋 Global Technical Directory ({len(guides)} models &middot; {total_parts} indexed parts)
+| Brand | Equipment Model | Category | Key OEM Specs | Worldwide Amazon Search |
+|:---|:---|:---|:---|:---|
+{table_md_en}
+
+---
+
 ## 🇫🇷 Présentation en Français
 
-**OutdoorParts Guide** est un système 100% autonome exécuté toutes les 6 heures par GitHub Actions. Il sélectionne chirurgicalement les équipements d'extérieur à fort panier moyen (2020–2026) et génère des tables de correspondances techniques sans aucune erreur 404, monétisées via le programme Amazon Partenaires (`#LienAffilié`).
+**OutdoorParts Guide** est un système 100% autonome exécuté toutes les 6 heures par GitHub Actions. Il sélectionne chirurgicalement les équipements d'extérieur à fort panier moyen (2020–2026) et génère des tables de correspondances techniques sans aucune erreur 404, monétisées via le programme Amazon Partenaires mondial (`#LienAffilié`).
 
 ### 🎯 Les 4 Secteurs Ciblés
-1. **Piscine, Spa & Robots Nettoyeurs :** Maytronics Dolphin (E10/E20/S200), Zodiac TornaX, Intex PureSpa Bulles (Cartouches Type S1, joints 11004), Bestway Lay-Z-Spa (Type VI, rotor céramique).
+1. **Piscine, Spa & Robots Nettoyeurs :** Maytronics Dolphin (E10/E20/S200), Zodiac TornaX, Polaris 280/380, Hayward Navigator/PoolVac XL, Intex PureSpa Bulles (Cartouches S1, joints 11004), Bestway Lay-Z-Spa (Type VI).
 2. **Jardin Motorisé & Nettoyeurs Haute Pression :** Kärcher (K2 à K7 Quick Connect, aspirateurs WD3/WD4/WD5), tronçonneuses Stihl MS 170 (chaînes 3/8\" P 1.1mm 44 maillons, bougie BPMR7A), robots Husqvarna Automower (lames titane 0.75mm, connecteurs gel 314).
-3. **Domotique Portail, Garage & Énergie :** Télécommandes Somfy (Keypop/Keytis 433.42 MHz / 868 MHz), Came (TOP 432EE 433.92 MHz), Nice Flo2RE, BFT Mitto, et batteries plomb étanches AGM 12V 7Ah / 9Ah cosses Faston F2 pour onduleurs APC/Eaton.
-4. **Outillage Électroportatif 18V :** Ponceuses excentriques 125mm 8 trous Makita DBO180Z, Bosch GEX 125-1 AE, DeWalt XR et plateaux velcro de rechange.
+3. **Domotique Portail, Garage & Énergie :** LiftMaster 893MAX / Chamberlain 953EV, Somfy (Keypop/Keytis), Came (TOP 432EE), Nice Flo2RE, BFT Mitto, et batteries plomb étanches AGM 12V 7Ah / 9Ah cosses Faston F2 pour onduleurs APC/Eaton.
+4. **Outillage Électroportatif 18V :** Milwaukee M18 REDLITHIUM XC5.0, ponceuses excentriques 125mm 8 trous Makita DBO180Z, Bosch GEX 125-1 AE, DeWalt XR et écosystème Einhell Power X-Change.
 
 ⚠️ **Consigne de sécurité stricte :** Aucun démontage électrique haute tension. Guides limités exclusivement aux consommables d'usure externes, filtres, accessoires plug-and-play et appairages radio officiels.
 
 ---
 
-## 🤖 Endpoints & Standards pour Agents IA (GEO)
+## 🤖 Endpoints & Standards pour Agents IA (GEO - Français)
 
 Les agents autonomes (ChatGPT Search, Perplexity, Claude, Bing Copilot) peuvent ingérer le catalogue directement via :
 - **Fichier condensé LLMs :** [`{self.site_base_url}/llms.txt`]({self.site_base_url}/llms.txt)
@@ -221,9 +245,8 @@ Les agents autonomes (ChatGPT Search, Perplexity, Claude, Bing Copilot) peuvent 
 
 ---
 
-## 📋 Répertoire Technique des Modèles Référencés ({len(guides)} modèles &middot; {total_parts} pièces)
-
-| Marque | Modèle d'Équipement | Secteur | Réf. OEM / Cotes Clés | Recherche Sécurisée Amazon |
+## 📋 Répertoire Technique (France & International)
+| Marque | Modèle d'Équipement | Secteur | Réf. OEM / Cotes Clés | Recherche Sécurisée Multi-Pays |
 |:---|:---|:---|:---|:---|
 {table_md_fr}
 
@@ -254,49 +277,24 @@ auto-outdoor-parts-agent/
 ├── data/
 │   └── catalog_state.json     # Mémoire d'indexation, tokens Telegra.ph et IndexNow
 ├── docs/                      # Racine publique GitHub Pages
-│   ├── api/v1/catalog.json
+│   ├── en/                    # Déclinaison anglaise / internationale
+│   │   ├── guides/*.html      # Guides en anglais avec boutons multi-stores
+│   │   ├── index.html         # Accueil en anglais
+│   │   ├── llms.txt & llms-full.txt
+│   │   └── feed.xml
+│   ├── api/v1/
+│   │   ├── catalog.json       # API REST catalogue (FR/Global)
+│   │   └── en/catalog.json    # API REST catalogue (EN)
 │   ├── .well-known/openapi.json
-│   ├── guides/*.html
-│   ├── index.html
+│   ├── guides/*.html          # Guides en français
+│   ├── index.html             # Accueil en français
 │   ├── mentions-legales.html
 │   ├── llms.txt & llms-full.txt
 │   ├── robots.txt & sitemap.xml & feed.xml
 │   └── 4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c.txt (IndexNow key)
 ├── src/
-│   ├── agent_engine.py        # Moteur Gemini 2.5 Flash & génération Jinja2
-│   ├── ai_broadcaster.py      # Mégaphone Telegra.ph, README, IndexNow, Archive.org
-│   └── compta_manager.py      # Calculateur fiscal BNC/BIC & livre de recettes
-├── templates/                 # Gabarits HTML Jinja2 épurés (zéro cookie)
-├── requirements.txt
-└── GUIDE_INSTALLATION_ET_IMPOTS.md
+├── templates/
 ```
-
-### Installation Locale & Exécution
-```bash
-# 1. Cloner et installer les dépendances
-git clone https://github.com/votre-compte/auto-outdoor-parts-agent.git
-cd auto-outdoor-parts-agent
-pip install -r requirements.txt
-
-# 2. Configurer votre .env
-cp .env.example .env
-
-# 3. Exécuter un cycle d'indexation
-python src/agent_engine.py
-
-# 4. Diffuser vers IndexNow & Telegra.ph
-python src/ai_broadcaster.py
-
-# 5. Mettre à jour le tableau de bord fiscal
-python src/compta_manager.py
-```
-
----
-
-## ⚖️ Mentions Légales & Transparence
-- **Transparence Partenaire Amazon :** En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises. Liens sans surcoût pour le visiteur.
-- **Protection de la vie privée (RGPD) :** Site statique 100% exempté de bandeau cookies CNIL (zéro cookie tiers, zéro pistage publicitaire).
-- **Marques citées :** Citées uniquement à des fins d'information et d'indication de compatibilité technique (Article L. 713-6 du Code de la Propriété Intellectuelle).
 
 *Dernière synchronisation automatique : {now_utc}*
 """
@@ -309,7 +307,7 @@ python src/compta_manager.py
     # 3. INDEXNOW PING (Bing, ChatGPT Search, Copilot, Qwant, DuckDuckGo)
     # --------------------------------------------------------------------------
     def ping_indexnow(self, guides: List[Dict[str, Any]]) -> bool:
-        """Envoie un ping instantané à l'API IndexNow avec la liste des URLs."""
+        """Envoie un ping instantané à l'API IndexNow avec la liste des URLs (FR et EN)."""
         key = self.state.get("indexnow_key", "4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c")
         parsed = urllib.parse.urlparse(self.site_base_url)
         host = parsed.netloc
@@ -320,12 +318,18 @@ python src/compta_manager.py
 
         urls = [
             f"{self.site_base_url}/index.html",
+            f"{self.site_base_url}/en/index.html",
             f"{self.site_base_url}/llms.txt",
+            f"{self.site_base_url}/en/llms.txt",
             f"{self.site_base_url}/llms-full.txt",
+            f"{self.site_base_url}/en/llms-full.txt",
             f"{self.site_base_url}/api/v1/catalog.json",
+            f"{self.site_base_url}/api/v1/en/catalog.json",
+            f"{self.site_base_url}/sitemap.xml",
         ]
-        for g in guides[:10]:
+        for g in guides[:15]:
             urls.append(f"{self.site_base_url}/guides/{g['slug']}.html")
+            urls.append(f"{self.site_base_url}/en/guides/{g['slug']}.html")
 
         payload = {
             "host": host,

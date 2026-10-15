@@ -1,25 +1,31 @@
 <!DOCTYPE html>
-<html lang="fr" class="h-full">
+<html lang="{{ lang or 'fr' }}" class="h-full">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{% block title %}OutdoorParts Guide | Correspondances Pièces & Consommables Extérieurs{% endblock %}</title>
-  <meta name="description" content="{% block description %}Guide technique indépendant de correspondances exactes pour pièces d'usure, consommables, filtres et télécommandes de remplacement (Jardin, Piscine, Domotique, Outillage).{% endblock %}">
-  <link rel="canonical" href="{% block canonical %}{{ site_base_url }}/index.html{% endblock %}">
-  
+  <title>{% block title %}{% if lang == 'en' %}OutdoorParts Guide | Exact Wear Parts & Remote Controls Matches{% else %}OutdoorParts Guide | Correspondances Pièces & Consommables Extérieurs{% endif %}{% endblock %}</title>
+  <meta name="description" content="{% block description %}{% if lang == 'en' %}Independent technical cross-reference directory for certified replacement wear parts, filters, blades, belts, and remote controls (Pool, Lawn, Gate, Power Tools).{% else %}Guide technique indépendant de correspondances exactes pour pièces d'usure, consommables, filtres et télécommandes de remplacement (Jardin, Piscine, Domotique, Outillage).{% endif %}{% endblock %}">
+  <link rel="canonical" href="{% block canonical %}{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html{% endblock %}">
+
+  <!-- Hreflang SEO International -->
+  <link rel="alternate" hreflang="fr" href="{% block href_fr %}{{ site_base_url }}/index.html{% endblock %}">
+  <link rel="alternate" hreflang="en" href="{% block href_en %}{{ site_base_url }}/en/index.html{% endblock %}">
+  <link rel="alternate" hreflang="x-default" href="{% block href_default %}{{ site_base_url }}/en/index.html{% endblock %}">
+
   <!-- Open Graph / Meta IA -->
   <meta property="og:type" content="article">
-  <meta property="og:title" content="{% block og_title %}OutdoorParts Guide - Références Exactes & Consommables{% endblock %}">
-  <meta property="og:description" content="{% block og_description %}Trouvez en 1 clic les correspondances certifiées de pièces d'usure et consommables sans erreur 404.{% endblock %}">
-  <meta property="og:url" content="{% block og_url %}{{ site_base_url }}/index.html{% endblock %}">
-  <meta property="og:site_name" content="OutdoorParts Guide">
+  <meta property="og:title" content="{% block og_title %}{% if lang == 'en' %}OutdoorParts Guide - Exact Wear Parts & Cross References{% else %}OutdoorParts Guide - Références Exactes & Consommables{% endif %}{% endblock %}">
+  <meta property="og:description" content="{% block og_description %}{% if lang == 'en' %}Zero 404 links: find certified compatible replacement parts, blades, filters, and remotes with 1-click verified Amazon searches.{% else %}Trouvez en 1 clic les correspondances certifiées de pièces d'usure et consommables sans erreur 404.{% endif %}{% endblock %}">
+  <meta property="og:url" content="{% block og_url %}{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html{% endblock %}">
+  <meta property="og:site_name" content="OutdoorParts Guide Global">
   
   <!-- Validation Google Search Console -->
   <meta name="google-site-verification" content="google364d25ad3cdc8838">
   
   <!-- Flux RSS & Endpoints IA -->
   <link rel="alternate" type="application/rss+xml" title="OutdoorParts RSS Feed" href="{{ site_base_url }}/feed.xml">
-  <link rel="help" type="text/plain" title="Documentation LLMs" href="{{ site_base_url }}/llms.txt">
+  <link rel="help" type="text/plain" title="Documentation LLMs (FR)" href="{{ site_base_url }}/llms.txt">
+  <link rel="help" type="text/plain" title="Documentation LLMs (EN Global)" href="{{ site_base_url }}/en/llms.txt">
   
   <style>
     :root {
@@ -59,7 +65,7 @@
       min-height: 100vh;
     }
     
-    /* Bannière de transparence obligatoire DGCCRF / Amazon Partenaire */
+    /* Bannière de transparence obligatoire DGCCRF / FTC / Amazon Associates */
     .affiliate-disclosure-banner {
       background-color: #1e293b;
       color: #e2e8f0;
@@ -86,7 +92,7 @@
     }
     
     .nav-container {
-      max-width: 1200px;
+      max-width: 1240px;
       margin: 0 auto;
       padding: 0.85rem 1.5rem;
       display: flex;
@@ -118,10 +124,10 @@
     
     .nav-links {
       display: flex;
-      gap: 1.25rem;
+      gap: 1rem;
       list-style: none;
       align-items: center;
-      font-size: 0.9rem;
+      font-size: 0.88rem;
       font-weight: 500;
     }
     .nav-links a {
@@ -147,9 +153,34 @@
       text-decoration: none;
     }
 
+    /* Sélecteur de langue */
+    .lang-switch {
+      display: flex;
+      align-items: center;
+      gap: 0.35rem;
+      background: #f1f5f9;
+      padding: 0.2rem 0.4rem;
+      border-radius: 6px;
+      border: 1px solid #e2e8f0;
+      font-size: 0.75rem;
+      font-weight: 700;
+    }
+    .lang-switch a {
+      text-decoration: none;
+      padding: 0.15rem 0.4rem;
+      border-radius: 4px;
+      color: #64748b;
+      transition: all 0.15s;
+    }
+    .lang-switch a.active {
+      background: #fff;
+      color: var(--primary);
+      box-shadow: 0 1px 2px rgba(0,0,0,0.08);
+    }
+
     main {
       flex: 1;
-      max-width: 1200px;
+      max-width: 1240px;
       width: 100%;
       margin: 0 auto;
       padding: 2rem 1.5rem;
@@ -232,6 +263,40 @@
       transform: translateY(-1px);
       color: #000;
     }
+
+    /* Ligne des drapeaux mondiaux multi-stores Amazon */
+    .store-flags-row {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      flex-wrap: wrap;
+      margin-top: 0.4rem;
+      font-size: 0.72rem;
+    }
+    .store-flags-label {
+      color: #94a3b8;
+      font-size: 0.7rem;
+      font-weight: 600;
+      margin-right: 0.15rem;
+    }
+    .flag-link {
+      display: inline-flex;
+      align-items: center;
+      background: #f1f5f9;
+      border: 1px solid #e2e8f0;
+      padding: 0.1rem 0.35rem;
+      border-radius: 4px;
+      text-decoration: none;
+      color: #475569;
+      font-weight: 600;
+      font-family: var(--font-mono);
+      transition: all 0.15s;
+    }
+    .flag-link:hover {
+      background: #e2e8f0;
+      color: #0f172a;
+      border-color: #cbd5e1;
+    }
     
     .btn-outline {
       display: inline-flex;
@@ -259,7 +324,7 @@
       border-top: 1px solid #1e293b;
     }
     .footer-container {
-      max-width: 1200px;
+      max-width: 1240px;
       margin: 0 auto;
       padding: 2.5rem 1.5rem 1.5rem;
     }
@@ -300,7 +365,6 @@
       font-size: 0.8rem;
     }
 
-    /* Responsive */
     @media (max-width: 768px) {
       .nav-container {
         flex-direction: column;
@@ -308,7 +372,7 @@
       }
       .nav-links {
         flex-wrap: wrap;
-        gap: 0.75rem;
+        gap: 0.65rem;
       }
       .footer-bottom {
         flex-direction: column;
@@ -320,20 +384,40 @@
 </head>
 <body>
 
-  <!-- DIVULGATION OFFICIELLE DGCCRF / PROGRAMME AMAZON PARTENAIRES -->
-  <aside class="affiliate-disclosure-banner" role="complementary" aria-label="Transparence d'affiliation">
-    ℹ️ <strong>Transparence légale :</strong> En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises. Nos liens de recherche ciblent exclusivement les pièces d'usure compatibles testées (<strong>#LienAffilié</strong>). Zéro surcoût pour vous.
+  <!-- DIVULGATION OFFICIELLE MULTILINGUE DGCCRF / FTC / AMAZON -->
+  <aside class="affiliate-disclosure-banner" role="complementary" aria-label="Affiliation Transparency">
+    {% if lang == 'en' %}
+    ℹ️ <strong>Legal Transparency (FTC & Amazon Associates):</strong> As an Amazon Associate, this site earns from qualifying purchases. Direct searches target verified replacement wear parts (<strong>#AffiliateLink</strong>). Zero extra cost to you.
+    {% else %}
+    ℹ️ <strong>Transparence légale (DGCCRF & Amazon Partenaires) :</strong> En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises. Nos liens ciblent exclusivement les pièces d'usure compatibles testées (<strong>#LienAffilié</strong>). Zéro surcoût pour vous.
+    {% endif %}
   </aside>
 
   <header>
     <div class="nav-container">
-      <a href="{{ site_base_url }}/index.html" class="brand-logo">
+      <a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html" class="brand-logo">
         <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0f766e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
         OutdoorParts Guide
-        <span class="tag">Catalogue 2020-2026</span>
+        <span class="tag">Global 2020-2026</span>
       </a>
-      <nav aria-label="Navigation principale">
+
+      <!-- Sélecteur International FR / EN -->
+      <div class="lang-switch" aria-label="Language selector">
+        <a href="{{ site_base_url }}/index.html" class="{% if lang != 'en' %}active{% endif %}">🇫🇷 FR</a>
+        <a href="{{ site_base_url }}/en/index.html" class="{% if lang == 'en' %}active{% endif %}">🌐 EN (US/UK/AU)</a>
+      </div>
+
+      <nav aria-label="Main Navigation">
         <ul class="nav-links">
+          {% if lang == 'en' %}
+          <li><a href="{{ site_base_url }}/en/index.html">Home</a></li>
+          <li><a href="{{ site_base_url }}/en/index.html#piscine-spa">Pool & Spa</a></li>
+          <li><a href="{{ site_base_url }}/en/index.html#jardin-moteur">Lawn & Pressure</a></li>
+          <li><a href="{{ site_base_url }}/en/index.html#domotique-energie">Gate & Power</a></li>
+          <li><a href="{{ site_base_url }}/en/index.html#outillage">18V Tools</a></li>
+          <li><a href="{{ site_base_url }}/en/llms.txt" class="badge-ia" title="LLMs Standard">🤖 llms.txt</a></li>
+          <li><a href="{{ site_base_url }}/api/v1/en/catalog.json" class="badge-ia" title="REST JSON API">⚡ API</a></li>
+          {% else %}
           <li><a href="{{ site_base_url }}/index.html">Accueil</a></li>
           <li><a href="{{ site_base_url }}/index.html#piscine-spa">Piscine & Spa</a></li>
           <li><a href="{{ site_base_url }}/index.html#jardin-moteur">Jardin & Kärcher</a></li>
@@ -341,6 +425,7 @@
           <li><a href="{{ site_base_url }}/index.html#outillage">Outillage 18V</a></li>
           <li><a href="{{ site_base_url }}/llms.txt" class="badge-ia" title="Format Standard LLMs">🤖 llms.txt</a></li>
           <li><a href="{{ site_base_url }}/api/v1/catalog.json" class="badge-ia" title="Catalogue API JSON">⚡ API</a></li>
+          {% endif %}
         </ul>
       </nav>
     </div>
@@ -351,8 +436,13 @@
     <div class="safety-notice" role="alert">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
       <div>
+        {% if lang == 'en' %}
+        <strong>Strict Safety Protocol & OEM Standards:</strong>
+        Our guides exclusively cover <em>external wear consumables</em>, filters, plug-and-play fittings, and official radio remote pairing procedures. High-voltage electrical disassembly or structural engine modification is strictly forbidden. Always disconnect power before servicing.
+        {% else %}
         <strong>Consigne de sécurité stricte & Conformité constructeur :</strong>
         Nos fiches traitent exclusivement des <em>consommables d'usure externes</em>, filtres, adaptateurs plug-and-play et procédures d'appairage radio officielles. Tout démontage haute tension ou modification structurelle de moteur est formellement proscrit. Débranchez toujours vos appareils avant toute intervention.
+        {% endif %}
       </div>
     </div>
 
@@ -363,44 +453,46 @@
     <div class="footer-container">
       <div class="footer-grid">
         <div class="footer-col">
-          <h4>OutdoorParts Guide</h4>
-          <p>Moteur d'indexation technique de correspondances certifiées pour équipements extérieurs, outillage motorisé, spas et automatismes de portail.</p>
+          <h4>OutdoorParts Guide Global</h4>
+          <p>{% if lang == 'en' %}Independent technical cross-reference engine for outdoor equipment, pool robots, remote controls and cordless tools.{% else %}Moteur d'indexation technique de correspondances certifiées pour équipements extérieurs, outillage motorisé, spas et automatismes de portail.{% endif %}</p>
         </div>
         <div class="footer-col">
-          <h4>Secteurs Couverts</h4>
+          <h4>{% if lang == 'en' %}Target Sectors{% else %}Secteurs Couverts{% endif %}</h4>
           <ul>
-            <li><a href="{{ site_base_url }}/index.html#piscine-spa">Robots Piscine & Cartouches Spa</a></li>
-            <li><a href="{{ site_base_url }}/index.html#jardin-moteur">Nettoyeurs HP Kärcher & Tronçonneuses</a></li>
-            <li><a href="{{ site_base_url }}/index.html#domotique-energie">Télécommandes Somfy/Came & Batteries</a></li>
-            <li><a href="{{ site_base_url }}/index.html#outillage">Plateaux de ponceuse & Balais charbon</a></li>
+            <li><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html#piscine-spa">{% if lang == 'en' %}Pool Cleaners & Spa Cartridges{% else %}Robots Piscine & Cartouches Spa{% endif %}</a></li>
+            <li><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html#jardin-moteur">{% if lang == 'en' %}Pressure Washers & Chainsaws{% else %}Nettoyeurs HP Kärcher & Tronçonneuses{% endif %}</a></li>
+            <li><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html#domotique-energie">{% if lang == 'en' %}Garage Remotes & UPS Batteries{% else %}Télécommandes Somfy/Came & Batteries{% endif %}</a></li>
+            <li><a href="{{ site_base_url }}/{% if lang == 'en' %}en/{% endif %}index.html#outillage">{% if lang == 'en' %}18V Sander Pads & Carbon Brushes{% else %}Plateaux de ponceuse & Balais charbon{% endif %}</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4>Données Ouvertes pour Agents IA</h4>
+          <h4>{% if lang == 'en' %}Open Data for AI Agents{% else %}Données Ouvertes pour Agents IA{% endif %}</h4>
           <ul>
-            <li><a href="{{ site_base_url }}/llms.txt">Standard llms.txt (GEO IA)</a></li>
-            <li><a href="{{ site_base_url }}/llms-full.txt">Index Complet llms-full.txt</a></li>
-            <li><a href="{{ site_base_url }}/api/v1/catalog.json">API JSON REST Catalogue</a></li>
-            <li><a href="{{ site_base_url }}/.well-known/openapi.json">Spécification OpenAPI 3.0</a></li>
-            <li><a href="{{ site_base_url }}/feed.xml">Flux RSS des Nouveautés</a></li>
+            <li><a href="{{ site_base_url }}/llms.txt">Standard llms.txt (Français)</a></li>
+            <li><a href="{{ site_base_url }}/en/llms.txt">Standard llms.txt (English Global)</a></li>
+            <li><a href="{{ site_base_url }}/en/llms-full.txt">Full Index llms-full.txt (English)</a></li>
+            <li><a href="{{ site_base_url }}/api/v1/catalog.json">REST JSON API (FR)</a></li>
+            <li><a href="{{ site_base_url }}/api/v1/en/catalog.json">REST JSON API (EN Global)</a></li>
+            <li><a href="{{ site_base_url }}/.well-known/openapi.json">OpenAPI 3.0 Spec</a></li>
+            <li><a href="{{ site_base_url }}/feed.xml">RSS Feed</a></li>
           </ul>
         </div>
         <div class="footer-col">
-          <h4>Transparence & Mentions</h4>
+          <h4>{% if lang == 'en' %}Compliance & Transparency{% else %}Transparence & Mentions{% endif %}</h4>
           <ul>
-            <li><a href="{{ site_base_url }}/mentions-legales.html">Mentions Légales & Éditeur</a></li>
-            <li><a href="{{ site_base_url }}/mentions-legales.html#affiliation">Déclaration Amazon Partenaire</a></li>
-            <li><a href="{{ site_base_url }}/mentions-legales.html#rgpd">Politique Zéro Cookie & RGPD</a></li>
-            <li><a href="{{ site_base_url }}/sitemap.xml">Plan du site (sitemap.xml)</a></li>
+            <li><a href="{{ site_base_url }}/mentions-legales.html">{% if lang == 'en' %}Legal Notice & Publisher{% else %}Mentions Légales & Éditeur{% endif %}</a></li>
+            <li><a href="{{ site_base_url }}/mentions-legales.html#affiliation">{% if lang == 'en' %}Amazon Associates Disclosure{% else %}Déclaration Amazon Partenaire{% endif %}</a></li>
+            <li><a href="{{ site_base_url }}/mentions-legales.html#rgpd">{% if lang == 'en' %}Privacy Policy (Zero Cookies){% else %}Politique Zéro Cookie & RGPD{% endif %}</a></li>
+            <li><a href="{{ site_base_url }}/sitemap.xml">Sitemap XML</a></li>
           </ul>
         </div>
       </div>
       <div class="footer-bottom">
         <div>
-          &copy; {{ current_year }} OutdoorParts Guide &middot; Micro-Entreprise SIRET {{ editor_siret }} &middot; Tous droits réservés.
+          &copy; {{ current_year }} OutdoorParts Guide Global &middot; SIRET {{ editor_siret }} &middot; All rights reserved.
         </div>
         <div>
-          Indexation instantanée : <a href="{{ site_base_url }}/llms.txt">IndexNow & GEO Compatible</a>
+          Global Amazon Coverage : 🇺🇸 US &middot; 🇨🇦 CA &middot; 🇬🇧 UK &middot; 🇦🇺 AU &middot; 🇩🇪 DE &middot; 🇫🇷 FR &middot; 🇪🇸 ES &middot; 🇮🇹 IT &middot; 🇿🇦 ZA
         </div>
       </div>
     </div>

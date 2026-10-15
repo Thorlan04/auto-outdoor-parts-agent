@@ -33,14 +33,29 @@ except ImportError:
     HAS_GENAI_SDK = False
 
 
-def build_affiliate_url(search_query: str, partner_tag: str) -> str:
+AMAZON_DOMAINS = {
+    "fr": "www.amazon.fr",
+    "us": "www.amazon.com",
+    "ca": "www.amazon.ca",
+    "uk": "www.amazon.co.uk",
+    "au": "www.amazon.com.au",
+    "de": "www.amazon.de",
+    "es": "www.amazon.es",
+    "it": "www.amazon.it",
+    "za": "www.amazon.co.za",
+}
+
+
+def build_affiliate_url(search_query: str, partner_tag: str, store: str = "fr") -> str:
     """
     Construit une URL de recherche Amazon Partenaires 100% infaillible (zéro erreur 404).
     N'utilise JAMAIS d'ASIN en dur pour éviter les ruptures de stock.
+    Supporte les déclinaisons multi-stores mondiales (FR, US, CA, UK, AU, DE, ES, IT, ZA).
     """
+    domain = AMAZON_DOMAINS.get(store.lower(), "www.amazon.fr")
     clean_query = " ".join(search_query.strip().split())
     encoded_query = urllib.parse.quote_plus(clean_query)
-    return f"https://www.amazon.fr/s?k={encoded_query}&tag={partner_tag}"
+    return f"https://{domain}/s?k={encoded_query}&tag={partner_tag}"
 
 
 # Base de connaissances techniques exhaustive des modèles 2020-2026
@@ -1114,6 +1129,298 @@ CANDIDATE_MODELS_POOL = [
                 "answer": "Oui, 100% des outils Einhell portant le logo Power X-Change (jardin, bricolage, nettoyage) partagent exactement les mêmes batteries et chargeurs."
             }
         ]
+    },
+    {
+        "slug": "chamberlain-liftmaster-893max-remote",
+        "category_id": "domotique-energie",
+        "category_name": "Domotique Portail, Garage & Énergie de Secours",
+        "brand": "Chamberlain / LiftMaster",
+        "model_name": "LiftMaster 893MAX / Chamberlain 953EV (Security+ 2.0)",
+        "years_range": "2020-2026",
+        "title": "LiftMaster 893MAX & Chamberlain 953EV : Pile CR2032, Clip Pare-Soleil & Télécommandes",
+        "summary": "Correspondances certifiées télécommandes porte de garage Security+ 2.0 (315MHz/390MHz) : pile lithium CR2032, clip visière pare-soleil et clavier sans fil 877MAX.",
+        "meta_description": "Télécommande porte de garage LiftMaster 893MAX, Chamberlain 953EV. Pile CR2032, clip pare-soleil, programmation Security+ 2.0 sans erreur 404.",
+        "parts": [
+            {
+                "name": "Télécommande 3 Boutons Visière 893MAX / 953EV (Security+ 2.0)",
+                "tag": "Émetteur Radio Fréquence",
+                "oem_or_dimension": "OEM 893MAX / 953EV / Multi-Fréquences 310/315/390 MHz",
+                "wear_symptom": "Portée réduite à moins de 2 mètres, boutons micro-switch usés",
+                "replacement_interval": "Tous les 5 ans ou en cas de perte",
+                "technical_detail": "Compatible moteurs à bouton d'apprentissage Jaune, Violet, Rouge/Orange et Vert (1993 à 2026).",
+                "search_query": "liftmaster 893max remote 3 button visor"
+            },
+            {
+                "name": "Pile Bouton Lithium 3V CR2032 Longue Durée (Lot Haute Fiabilité)",
+                "tag": "Alimentation Émetteur",
+                "oem_or_dimension": "CR2032 / 3 Volts Lithium / Diamètre 20mm x 3.2mm",
+                "wear_symptom": "LED d'émission clignotante faible ou extinction totale à la pression",
+                "replacement_interval": "Tous les 2 ans préventif",
+                "technical_detail": "Cellule lithium dioxyde de manganèse résistant aux chocs thermiques en habitacle auto (-20°C à +60°C).",
+                "search_query": "cr2032 lithium battery 3v pack"
+            },
+            {
+                "name": "Clip Pare-Soleil Métallique Ressort pour Télécommande Visière",
+                "tag": "Fixation Habitacle",
+                "oem_or_dimension": "OEM LiftMaster 029B0137 / Acier ressort galvanisé",
+                "wear_symptom": "Pince déformée, télécommande qui tombe du pare-soleil",
+                "replacement_interval": "En cas de déformation mécanique",
+                "technical_detail": "Se glisse dans la gorge dorsale de la télécommande sans outil.",
+                "search_query": "liftmaster visor clip 893max"
+            },
+            {
+                "name": "Clavier Mural Extérieur Sans Fil à Code 877MAX / 878MAX",
+                "tag": "Accès Sans Clé",
+                "oem_or_dimension": "OEM 877MAX / Clavier rétroéclairé avec volet de protection",
+                "wear_symptom": "Touches membrane silicone fissurées par les UV, déprogrammation",
+                "replacement_interval": "5 à 8 ans selon exposition plein soleil",
+                "technical_detail": "Fonctionne sur pile 9V 6LR61, étanchéité IP55 extérieure, fermeture automatique 1 touche.",
+                "search_query": "liftmaster 877max wireless keypad"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Sécurité : Accès sécurisé au moteur de garage",
+                "description": "Utilisez un escabeau stable pour accéder au bloc moteur fixé au plafond. Ne touchez jamais aux câbles de torsion ni aux ressorts latéraux sous tension."
+            },
+            {
+                "title": "Identification de la couleur du bouton Learn",
+                "description": "Repérez la couleur du bouton de programmation à l'arrière du moteur (Jaune Security+ 2.0, Violet 315MHz, Rouge/Orange 390MHz ou Vert)."
+            },
+            {
+                "title": "Programmation radio 100% sans fil",
+                "description": "Pressez le bouton Learn du moteur (la LED témoin s'allume), puis appuyez fermement sur la touche souhaitée de la télécommande 893MAX dans les 30 secondes. L'ampoule du moteur clignote deux fois pour confirmer la synchronisation."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "La télécommande 893MAX est-elle compatible avec les anciens moteurs LiftMaster / Chamberlain ?",
+                "answer": "Oui, grâce à son sélecteur de protocole interne, elle est rétrocompatible avec tous les récepteurs Chamberlain, LiftMaster et Craftsman fabriqués depuis 1993 équipés d'un bouton Learn coloré."
+            },
+            {
+                "question": "Comment changer la pile CR2032 d'une télécommande 893MAX sans casser le boîtier ?",
+                "answer": "Insérez une lame fine de tournevis plat ou une pièce de monnaie dans la fente située sur le côté inférieur droit du boîtier et faites levier avec douceur pour déclipser les deux coques."
+            }
+        ]
+    },
+    {
+        "slug": "polaris-280-pressure-pool-cleaner",
+        "category_id": "piscine-spa",
+        "category_name": "Piscine, Spa & Robots Nettoyeurs",
+        "brand": "Polaris (Zodiac)",
+        "model_name": "Polaris Vac-Sweep 280 / 380 Pressure Cleaner",
+        "years_range": "2020-2026",
+        "title": "Polaris 280 & 380 : Pneus Caoutchouc C10, Sac Zippé K13 & Tuyau Balayeur",
+        "summary": "Correspondances certifiées pour robot surpresseur Polaris 280 : pneus de traction MaxTrax C10, sac de filtration zippé K13, brosses d'embout de balayage 9-100-3105 et roulements à billes inox C60.",
+        "meta_description": "Pièces d'usure Polaris 280 : pneus C10, sac fermeture éclair K13, mousse tuyau balayeur 9-100-3105 et roulements de roue C60. Liens multi-pays sans 404.",
+        "parts": [
+            {
+                "name": "Pneu de Traction Caoutchouc Blanc MaxTrax (Lot de 3)",
+                "tag": "Traction & Adhérence",
+                "oem_or_dimension": "OEM Polaris C10 / C-10 / Diamètre standard 18cm",
+                "wear_symptom": "Pneus lisses, patinage sur le fond, robot qui tourne en rond",
+                "replacement_interval": "Toutes les 1 à 2 saisons",
+                "technical_detail": "Caoutchouc blanc non tachant haute adhérence pour liner, PVC armé, béton et coque.",
+                "search_query": "polaris 280 tires c10 pack"
+            },
+            {
+                "name": "Sac de Filtration Tout-Usage à Fermeture Éclair (Double Couture)",
+                "tag": "Collecte Débris & Feuilles",
+                "oem_or_dimension": "OEM Polaris K13 / K-13 / Maille nylon haute ténacité",
+                "wear_symptom": "Fermeture velcro encrassée ou fermeture éclair bloquée, déchirure toile",
+                "replacement_interval": "Chaque saison en utilisation intensive",
+                "technical_detail": "Fixation clipsable 1/4 tour sur le col du robot, zip anticorrosion lavable à grande eau.",
+                "search_query": "polaris 280 zippered all purpose bag k13"
+            },
+            {
+                "name": "Mousses d'Éponge pour Embout de Tuyau Balayeur Arrière (Lot de 10)",
+                "tag": "Balayage & Agitation",
+                "oem_or_dimension": "OEM 9-100-3105 / Réf B5 / Mousse polyuréthane réticulée",
+                "wear_symptom": "Mousse déchiquetée ou disparue, tuyau plastique qui frotte directement sur le liner",
+                "replacement_interval": "Toutes les 4 à 8 semaines en saison",
+                "technical_detail": "Protège le revêtement de piscine des frottements et soulève les particules fines vers la bonde de fond.",
+                "search_query": "polaris tail scrubbers 9-100-3105 b5 pack"
+            },
+            {
+                "name": "Roulements à Billes Inox pour Roues de Déplacement (Lot de 8)",
+                "tag": "Roulement & Motricité",
+                "oem_or_dimension": "OEM Polaris C60 / C-60 / Cage inox anti-corrosion",
+                "wear_symptom": "Roue grippée, résistance à la rotation, jeu latéral excessif",
+                "replacement_interval": "Tous les 2 à 3 ans",
+                "technical_detail": "Billes en acier inoxydable grade 316 résistant au traitement au sel et chlore stabilisé.",
+                "search_query": "polaris 280 wheel ball bearing c60 pack"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Mise hors pression de la pompe de surpression",
+                "description": "Coupez l'alimentation du surpresseur au disjoncteur du tableau électrique avant de débrancher la prise murale du Polaris."
+            },
+            {
+                "title": "Remplacement sans outil des pneus C10",
+                "description": "Plongez les pneus neufs dans un seau d'eau tiède pendant 2 minutes pour assouplir le caoutchouc, puis tendez-les manuellement sur les jantes des roues motrices."
+            },
+            {
+                "title": "Contrôle du débit d'agitation du fouet arrière",
+                "description": "Glissez une brosse mousse neuve 9-100-3105 sur l'extrémité du tuyau balayeur et serrez la bague plastique pour éviter son éjection."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Faut-il préférer le sac à fermeture éclair K13 ou le sac d'origine à velcro pour Polaris 280 ?",
+                "answer": "Le sac à fermeture éclair K13 est nettement supérieur dans le temps : le velcro s'encrasse rapidement avec les aiguilles de pin et le calcaire, tandis que le zip se vide d'un geste sans forcer."
+            },
+            {
+                "question": "Pourquoi mon Polaris 280 flotte-t-il sur le côté ou se renverse-t-il ?",
+                "answer": "Vérifiez le flotteur de tête (OEM A40) situé sur le tuyau d'arrivée d'eau : s'il est gorgé d'eau, le robot perd son équilibre vertical. Remplacez le flotteur s'il n'est plus étanche."
+            }
+        ]
+    },
+    {
+        "slug": "milwaukee-m18-redlithium-battery-pack",
+        "category_id": "outillage",
+        "category_name": "Outillage Électroportatif",
+        "brand": "Milwaukee",
+        "model_name": "Milwaukee M18 REDLITHIUM XC5.0 / High Output (48-11-1850)",
+        "years_range": "2020-2026",
+        "title": "Milwaukee M18 REDLITHIUM : Batteries 5.0Ah XC, Chargeur M12-M18 & Clips Ceinture",
+        "summary": "Correspondances certifiées gamme sans fil Milwaukee M18 Fuel : batteries haute capacité REDLITHIUM XC5.0 (48-11-1850), chargeur rapide double tension M12-18FC et crochets de ceinture 42-70-2653.",
+        "meta_description": "Batteries Milwaukee M18 5.0Ah, chargeur rapide multi-tensions M12-M18 et clips de fixation ceinture. Références certifiées monde entier sans 404.",
+        "parts": [
+            {
+                "name": "Batterie 18V 5.0Ah REDLITHIUM XC Li-Ion (Indicateur 4 LED)",
+                "tag": "Autonomie Sans Fil",
+                "oem_or_dimension": "OEM 48-11-1850 / M18 B5 / 18V 90Wh Lithium-Ion",
+                "wear_symptom": "Perte d'autonomie sous forte charge, voyant clignotant rouge au chargeur",
+                "replacement_interval": "Tous les 3 à 5 ans",
+                "technical_detail": "Électronique intelligente REDLINK PLUS protégeant contre les surcharges thermiques et la décharge profonde.",
+                "search_query": "milwaukee m18 battery 5.0ah 48-11-1850"
+            },
+            {
+                "name": "Chargeur Rapide Multi-Tension M12 - M18 (Double Baie)",
+                "tag": "Station de Recharge Rapide",
+                "oem_or_dimension": "OEM 48-59-1812 / M12-18FC / Courant progressif séquentiel",
+                "wear_symptom": "Cordon d'alimentation sectionné, surchauffe ou fusible de protection sauté",
+                "replacement_interval": "Matériel d'atelier pérenne",
+                "technical_detail": "Recharge une batterie M18 5.0Ah en seulement 59 minutes et gère les accus M12 et M18 sur une seule prise.",
+                "search_query": "milwaukee rapid charger m12 m18 48-59-1812"
+            },
+            {
+                "name": "Crochet de Ceinture Inox avec Vis de Fixation (Lot de 2)",
+                "tag": "Transport & Fixation",
+                "oem_or_dimension": "OEM 42-70-2653 / Acier inoxydable trempé",
+                "wear_symptom": "Crochet tordu ou vis de maintien perdue sur chantier",
+                "replacement_interval": "Remplacement immédiat en cas de déformation",
+                "technical_detail": "Se visse réversiblement à gauche ou à droite sur l'embase de toute visseuse/perceuse Milwaukee M18.",
+                "search_query": "milwaukee belt clip 42-70-2653 m18 pack"
+            },
+            {
+                "name": "Coque de Protection Caoutchouc Amortisseur pour Batterie M18 XC",
+                "tag": "Protection Chocs Atelier",
+                "oem_or_dimension": "OEM 49-16-2767 / Élastomère résistant aux huiles et solvants",
+                "wear_symptom": "Boîtier plastique fendu après une chute de hauteur",
+                "replacement_interval": "Accessoire préventif longue durée",
+                "technical_detail": "Absorbe les chocs sur béton et préserve les nervures d'encliquetage de la batterie.",
+                "search_query": "milwaukee protective boot m18 battery 49-16-2767"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Sécurité : Retrait de la batterie avant manipulation",
+                "description": "Pressez simultanément les deux verrous latéraux rouges et faites coulisser le bloc hors de l'outil avant d'inspecter les contacts métalliques."
+            },
+            {
+                "title": "Nettoyage des glissières et connecteurs",
+                "description": "Utilisez une soufflette à air sec ou un chiffon microfibre propre sans solvant pour éliminer les poussières de plâtre ou de bois accumulées dans les glissières."
+            },
+            {
+                "title": "Procédure de charge optimale",
+                "description": "Encliquetez fermement la batterie sur le chargeur jusqu'au clic mécanique. Le voyant rouge fixe indique la charge normale, le voyant vert signale la pleine autonomie 100%."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Une batterie Milwaukee M18 XC5.0 fonctionne-t-elle avec les chargeurs standards plus anciens ?",
+                "answer": "Oui, toutes les batteries M18 REDLITHIUM sont 100% rétrocompatibles avec tous les chargeurs Milwaukee M18 (M12-18C, M12-18FC et superchargeurs)."
+            },
+            {
+                "question": "Que signifie le clignotement rouge/vert alterné sur le chargeur Milwaukee ?",
+                "answer": "Cela indique un accu endommagé ou trop chaud/froid. Laissez la batterie revenir à température ambiante (15°C à 25°C) pendant 20 minutes avant de réinsérer."
+            }
+        ]
+    },
+    {
+        "slug": "hayward-poolvac-xl-navigator-cleaner",
+        "category_id": "piscine-spa",
+        "category_name": "Piscine, Spa & Robots Nettoyeurs",
+        "brand": "Hayward",
+        "model_name": "Hayward PoolVac XL / Navigator Pro Hydraulic Cleaner",
+        "years_range": "2020-2026",
+        "title": "Hayward PoolVac XL & Navigator : Patins Semelle AXV417WHP, Ailettes & Cônes",
+        "summary": "Correspondances officielles robot hydraulique Hayward PoolVac XL / Navigator Pro : patins de friction pour liner et béton AXV414P/AXV417WHP, ailettes latérales souples AXV055P et cône adaptateur skimmer AXV099P.",
+        "meta_description": "Patins semelle Hayward AXV417WHP, ailettes latérales AXV055P et cône d'aspiration pour robots Hayward Navigator et PoolVac XL. Pièces sans erreur 404.",
+        "parts": [
+            {
+                "name": "Kit 4 Patins de Friction Semelle Blancs Spécial Liner (Clipsables)",
+                "tag": "Friction & Protection Revêtement",
+                "oem_or_dimension": "OEM Hayward AXV414P / AXV417WHP / Élastomère blanc",
+                "wear_symptom": "Témoins d'usure affleurants, robot qui adhère mal ou ralentit dans les pentes",
+                "replacement_interval": "Chaque saison ou dès disparition du relief",
+                "technical_detail": "Fixation directe sans vis sur la semelle inférieure, rainurage spécifique pour glisse optimale.",
+                "search_query": "hayward pool vac shoes axv414p axv417whp 4 pack"
+            },
+            {
+                "name": "Paire d'Ailettes Latérales Souples Gauche et Droite avec Fentes",
+                "tag": "Guidage & Équilibre Hydraulique",
+                "oem_or_dimension": "OEM Hayward AXV055P / Matériau santoprene flexible",
+                "wear_symptom": "Ailette fendue ou rigidifiée par les UV, déviation de trajectoire du robot",
+                "replacement_interval": "Tous les 2 ans",
+                "technical_detail": "Maintient l'effet de sol par effet venturi pour canaliser le flux d'eau vers la turbine interne.",
+                "search_query": "hayward wings kit axv055p poolvac"
+            },
+            {
+                "name": "Cône Adaptateur Universel d'Aspiration Skimmer / Prise Balai",
+                "tag": "Connexion Hydraulique",
+                "oem_or_dimension": "OEM Hayward AXV099P / Diamètre étagé 38mm à 48mm",
+                "wear_symptom": "Caoutchouc durci ou craquelé créant une prise d'air désamorçant la pompe",
+                "replacement_interval": "Tous les 3 ans",
+                "technical_detail": "Assure l'étanchéité conique immédiate dans le regard du skimmer ou sur la prise balai.",
+                "search_query": "hayward cone adapter axv099p skimmer vac"
+            },
+            {
+                "name": "Couronne / Bague d'Engrenage Central de Turbine V-Flex",
+                "tag": "Transmission Hydraulique",
+                "oem_or_dimension": "OEM AXV413P / Pignon téflon autolubrifiant",
+                "wear_symptom": "Turbine qui tourne sans entraîner les pattes d'avancement oscillantes",
+                "replacement_interval": "Tous les 3 à 4 ans",
+                "technical_detail": "Pignon interne résistant aux sables fins et micro-débris sans nécessiter de graisse.",
+                "search_query": "hayward poolvac pod kit axv413p gear"
+            }
+        ],
+        "procedure_steps": [
+            {
+                "title": "Arrêt de la pompe de filtration",
+                "description": "Coupez la filtration au coffret technique avant de déconnecter le tuyau flottant de la prise balai."
+            },
+            {
+                "title": "Changement en 60 secondes des 4 patins AXV414P",
+                "description": "Posez le robot à l'envers sur une surface propre. Déclipsez les 4 patins usés à l'aide d'un petit tournevis plat, puis encliquetez les nouveaux patins jusqu'au claquement audible."
+            },
+            {
+                "title": "Vérification du sens des ailettes latérales",
+                "description": "Positionnez les ailettes gauche et droite en respectant le repère gravé (L pour Left, R pour Right) et clipsez les chevilles de verrouillage souples."
+            }
+        ],
+        "faqs": [
+            {
+                "question": "Quelle est la différence entre les patins blancs et les patins céramique/liège sur Hayward Navigator ?",
+                "answer": "Les patins blancs (AXV414P / AXV417WHP) sont conçus pour les liners vinyle et coques polyester pour éviter toute rayure. Les patins en liège ou céramique (AXV414CA) sont strictement réservés aux piscines en béton peint ou carrelage."
+            },
+            {
+                "question": "Mon Hayward PoolVac avance très lentement, que vérifier en premier ?",
+                "answer": "Vérifiez que le panier de préfiltre de pompe et le filtre à sable/cartouche sont propres. Nettoyez également le cône d'aspiration pour éliminer les feuilles qui réduiraient le débit."
+            }
+        ]
     }
 ]
 
@@ -1129,6 +1436,11 @@ class AgentEngine:
         self.guides_dir = os.path.join(self.docs_dir, "guides")
         self.api_dir = os.path.join(self.docs_dir, "api", "v1")
         self.well_known_dir = os.path.join(self.docs_dir, ".well-known")
+
+        # Répertoires dédiés à l'international (anglais / stores mondiaux)
+        self.docs_en_dir = os.path.join(self.docs_dir, "en")
+        self.guides_en_dir = os.path.join(self.docs_en_dir, "guides")
+        self.api_en_dir = os.path.join(self.docs_dir, "api", "v1", "en")
 
         # Chargement de la configuration environnement
         self.partner_tag = os.environ.get("AMAZON_PARTNER_TAG", "outdoorparts-21").strip()
@@ -1146,7 +1458,7 @@ class AgentEngine:
         )
 
         # Préparation des répertoires
-        for d in [self.guides_dir, self.api_dir, self.well_known_dir]:
+        for d in [self.guides_dir, self.api_dir, self.well_known_dir, self.docs_en_dir, self.guides_en_dir, self.api_en_dir]:
             os.makedirs(d, exist_ok=True)
 
         self.state = self._load_state()
@@ -1277,39 +1589,67 @@ Format JSON attendu :
         return model_candidate
 
     def process_model(self, candidate: Dict[str, Any]) -> Dict[str, Any]:
-        """Traite et injecte les URLs d'affiliation Amazon infaillibles pour chaque pièce."""
+        """Traite et injecte les URLs d'affiliation Amazon infaillibles multi-stores pour chaque pièce."""
         guide = self.enrich_with_gemini(candidate)
         now_dt = datetime.now(timezone.utc)
         guide["date_published"] = now_dt.strftime("%Y-%m-%d")
         guide["date_modified"] = now_dt.strftime("%Y-%m-%d")
         guide["date_modified_fr"] = now_dt.strftime("%d/%m/%Y")
 
-        # Injection des liens partenaires Amazon infaillibles
+        # Injection des liens partenaires Amazon infaillibles multi-stores mondiaux
         for part in guide.get("parts", []):
             query = part.get("search_query") or f"{guide['brand']} {guide['model_name']} {part['name']}"
-            part["affiliate_url"] = build_affiliate_url(query, self.partner_tag)
+            part["affiliate_url"] = build_affiliate_url(query, self.partner_tag, store="fr")
+            part["affiliate_url_us"] = build_affiliate_url(query, self.partner_tag, store="us")
+            part["affiliate_url_ca"] = build_affiliate_url(query, self.partner_tag, store="ca")
+            part["affiliate_url_uk"] = build_affiliate_url(query, self.partner_tag, store="uk")
+            part["affiliate_url_au"] = build_affiliate_url(query, self.partner_tag, store="au")
+            part["affiliate_url_de"] = build_affiliate_url(query, self.partner_tag, store="de")
+            part["affiliate_url_es"] = build_affiliate_url(query, self.partner_tag, store="es")
+            part["affiliate_url_it"] = build_affiliate_url(query, self.partner_tag, store="it")
+            part["affiliate_url_za"] = build_affiliate_url(query, self.partner_tag, store="za")
 
         return guide
 
     def render_and_save_guide(self, guide: Dict[str, Any]) -> str:
-        """Génère le fichier HTML du guide dans docs/guides/{slug}.html."""
+        """Génère le fichier HTML du guide dans docs/guides/{slug}.html (FR) et docs/en/guides/{slug}.html (EN)."""
         template = self.jinja_env.get_template("guide.html")
-        html_output = template.render(
+        current_year = datetime.now().year
+
+        # 1. Version Française
+        html_output_fr = template.render(
             guide=guide,
+            lang="fr",
             site_base_url=self.site_base_url,
             editor_name=self.editor_name,
             editor_siret=self.editor_siret,
             editor_address=self.editor_address,
             editor_email=self.editor_email,
-            current_year=datetime.now().year
+            current_year=current_year
         )
-        file_path = os.path.join(self.guides_dir, f"{guide['slug']}.html")
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(html_output)
-        return file_path
+        file_path_fr = os.path.join(self.guides_dir, f"{guide['slug']}.html")
+        with open(file_path_fr, "w", encoding="utf-8") as f:
+            f.write(html_output_fr)
+
+        # 2. Version Anglaise Internationale (US / Global)
+        html_output_en = template.render(
+            guide=guide,
+            lang="en",
+            site_base_url=self.site_base_url,
+            editor_name=self.editor_name,
+            editor_siret=self.editor_siret,
+            editor_address=self.editor_address,
+            editor_email=self.editor_email,
+            current_year=current_year
+        )
+        file_path_en = os.path.join(self.guides_en_dir, f"{guide['slug']}.html")
+        with open(file_path_en, "w", encoding="utf-8") as f:
+            f.write(html_output_en)
+
+        return file_path_fr
 
     def render_global_pages(self, all_guides: List[Dict[str, Any]]) -> None:
-        """Génère l'index d'accueil, mentions légales, sitemap, robots.txt, feed.xml et les endpoints IA."""
+        """Génère l'index d'accueil (FR et EN), mentions légales, sitemap bilingue, robots.txt, feeds RSS et endpoints IA."""
         current_year = datetime.now().year
         total_parts = sum(len(g.get("parts", [])) for g in all_guides)
 
@@ -1326,11 +1666,12 @@ Format JSON attendu :
             "total_parts_indexed": total_parts
         }
 
-        # 1. Page d'Accueil docs/index.html
+        # 1. Page d'Accueil Française docs/index.html
         index_tpl = self.jinja_env.get_template("index.html")
-        index_html = index_tpl.render(
+        index_html_fr = index_tpl.render(
             categories=categories,
             stats=stats,
+            lang="fr",
             site_base_url=self.site_base_url,
             editor_name=self.editor_name,
             editor_siret=self.editor_siret,
@@ -1339,9 +1680,24 @@ Format JSON attendu :
             current_year=current_year
         )
         with open(os.path.join(self.docs_dir, "index.html"), "w", encoding="utf-8") as f:
-            f.write(index_html)
+            f.write(index_html_fr)
 
-        # 2. Page Mentions Légales docs/mentions-legales.html
+        # 2. Page d'Accueil Anglaise Internationale docs/en/index.html
+        index_html_en = index_tpl.render(
+            categories=categories,
+            stats=stats,
+            lang="en",
+            site_base_url=self.site_base_url,
+            editor_name=self.editor_name,
+            editor_siret=self.editor_siret,
+            editor_address=self.editor_address,
+            editor_email=self.editor_email,
+            current_year=current_year
+        )
+        with open(os.path.join(self.docs_en_dir, "index.html"), "w", encoding="utf-8") as f:
+            f.write(index_html_en)
+
+        # 3. Page Mentions Légales docs/mentions-legales.html
         mentions_tpl = self.jinja_env.get_template("mentions_legales.html")
         mentions_html = mentions_tpl.render(
             site_base_url=self.site_base_url,
@@ -1354,8 +1710,8 @@ Format JSON attendu :
         with open(os.path.join(self.docs_dir, "mentions-legales.html"), "w", encoding="utf-8") as f:
             f.write(mentions_html)
 
-        # 3. docs/robots.txt (Autorisation explicite de tous les crawlers IA)
-        robots_txt = f"""# Robots.txt - OutdoorParts Guide
+        # 4. docs/robots.txt (Autorisation explicite de tous les crawlers IA)
+        robots_txt = f"""# Robots.txt - OutdoorParts Guide Global
 User-agent: *
 Allow: /
 
@@ -1383,11 +1739,23 @@ Sitemap: {self.site_base_url}/sitemap.xml
         with open(os.path.join(self.docs_dir, "robots.txt"), "w", encoding="utf-8") as f:
             f.write(robots_txt)
 
-        # 4. docs/sitemap.xml
+        # 5. docs/sitemap.xml Multilingue avec balises alternate hreflang
         now_iso = datetime.now(timezone.utc).strftime("%Y-%m-%d")
         sitemap_urls = [
             f"""  <url>
     <loc>{self.site_base_url}/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/index.html"/>
+    <lastmod>{now_iso}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>""",
+            f"""  <url>
+    <loc>{self.site_base_url}/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/index.html"/>
     <lastmod>{now_iso}</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -1404,26 +1772,47 @@ Sitemap: {self.site_base_url}/sitemap.xml
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>""",
+            f"""  <url>
+    <loc>{self.site_base_url}/en/llms.txt</loc>
+    <lastmod>{now_iso}</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>""",
         ]
         for g in all_guides:
+            slug = g['slug']
+            date_mod = g.get('date_modified', now_iso)
             sitemap_urls.append(f"""  <url>
-    <loc>{self.site_base_url}/guides/{g['slug']}.html</loc>
-    <lastmod>{g.get('date_modified', now_iso)}</lastmod>
+    <loc>{self.site_base_url}/guides/{slug}.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/guides/{slug}.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/guides/{slug}.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/guides/{slug}.html"/>
+    <lastmod>{date_mod}</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>""")
+            sitemap_urls.append(f"""  <url>
+    <loc>{self.site_base_url}/en/guides/{slug}.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="{self.site_base_url}/en/guides/{slug}.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="{self.site_base_url}/guides/{slug}.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="{self.site_base_url}/en/guides/{slug}.html"/>
+    <lastmod>{date_mod}</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>""")
 
         sitemap_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 {chr(10).join(sitemap_urls)}
 </urlset>"""
         with open(os.path.join(self.docs_dir, "sitemap.xml"), "w", encoding="utf-8") as f:
             f.write(sitemap_xml)
 
-        # 5. docs/feed.xml (RSS 2.0)
-        rss_items = []
+        # 6. docs/feed.xml (RSS 2.0 FR) et docs/en/feed.xml (RSS 2.0 EN)
+        rss_items_fr = []
+        rss_items_en = []
         for g in all_guides[:20]:
-            rss_items.append(f"""    <item>
+            rss_items_fr.append(f"""    <item>
       <title><![CDATA[{g['title']}]]></title>
       <link>{self.site_base_url}/guides/{g['slug']}.html</link>
       <guid>{self.site_base_url}/guides/{g['slug']}.html</guid>
@@ -1431,8 +1820,16 @@ Sitemap: {self.site_base_url}/sitemap.xml
       <category>{g['category_name']}</category>
       <pubDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</pubDate>
     </item>""")
+            rss_items_en.append(f"""    <item>
+      <title><![CDATA[{g['brand']} - {g['model_name']} Wear Parts & Cross References]]></title>
+      <link>{self.site_base_url}/en/guides/{g['slug']}.html</link>
+      <guid>{self.site_base_url}/en/guides/{g['slug']}.html</guid>
+      <description><![CDATA[{g['summary']}]]></description>
+      <category>{g['category_name']}</category>
+      <pubDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</pubDate>
+    </item>""")
 
-        feed_xml = f"""<?xml version="1.0" encoding="UTF-8"?>
+        feed_xml_fr = f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
     <title>OutdoorParts Guide - Flux Technique</title>
@@ -1440,14 +1837,28 @@ Sitemap: {self.site_base_url}/sitemap.xml
     <description>Correspondances exactes de pièces d'usure, filtres et télécommandes.</description>
     <language>fr-fr</language>
     <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
-{chr(10).join(rss_items)}
+{chr(10).join(rss_items_fr)}
   </channel>
 </rss>"""
         with open(os.path.join(self.docs_dir, "feed.xml"), "w", encoding="utf-8") as f:
-            f.write(feed_xml)
+            f.write(feed_xml_fr)
 
-        # 6. Standard LLMs : docs/llms.txt
-        llms_txt = f"""# OutdoorParts Guide - Index des Correspondances Techniques
+        feed_xml_en = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>OutdoorParts Guide Global - Technical Feed</title>
+    <link>{self.site_base_url}/en/</link>
+    <description>Exact match cross references for wear parts, filters, batteries and garage remotes.</description>
+    <language>en-us</language>
+    <lastBuildDate>{datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S +0000")}</lastBuildDate>
+{chr(10).join(rss_items_en)}
+  </channel>
+</rss>"""
+        with open(os.path.join(self.docs_en_dir, "feed.xml"), "w", encoding="utf-8") as f:
+            f.write(feed_xml_en)
+
+        # 7. Standard LLMs : docs/llms.txt (FR) et docs/en/llms.txt (EN)
+        llms_txt_fr = f"""# OutdoorParts Guide - Index des Correspondances Techniques
 > Catalogue indépendant de pièces d'usure certifiées, consommables, filtres et télécommandes de remplacement (2020-2026).
 > Données structurées pour Agents IA (ChatGPT Search, Perplexity, Claude, Copilot).
 > Zéro lien mort : toutes les URLs pointent vers des recherches Amazon Partenaires infaillibles (#LienAffilié).
@@ -1456,21 +1867,46 @@ Sitemap: {self.site_base_url}/sitemap.xml
 - Full Text Index: {self.site_base_url}/llms-full.txt
 - REST API JSON: {self.site_base_url}/api/v1/catalog.json
 - OpenAPI Spec: {self.site_base_url}/.well-known/openapi.json
+- Global English Index: {self.site_base_url}/en/llms.txt
 
-## Fiches Modèles Indexées
+## Fiches Modèles Indexées (Français)
 """
         for g in all_guides:
-            llms_txt += f"- [{g['brand']} - {g['model_name']}]({self.site_base_url}/guides/{g['slug']}.html) : {g['summary']}\n"
+            llms_txt_fr += f"- [{g['brand']} - {g['model_name']}]({self.site_base_url}/guides/{g['slug']}.html) : {g['summary']}\n"
 
         with open(os.path.join(self.docs_dir, "llms.txt"), "w", encoding="utf-8") as f:
-            f.write(llms_txt)
+            f.write(llms_txt_fr)
 
-        # 7. Standard LLMs : docs/llms-full.txt (Dépôt complet pour contexte immédiat)
-        llms_full_parts = [
+        llms_txt_en = f"""# OutdoorParts Guide Global - Wear Parts Cross-Reference Index
+> Independent technical directory for certified wear parts, consumables, filters, and replacement remote controls (2020-2026).
+> Structured markdown data for AI Agents (ChatGPT Search, Perplexity, Claude, Copilot).
+> Zero broken links: all direct queries resolve to local Amazon Affiliate searches worldwide (#AffiliateLink).
+
+## Machine Endpoints
+- Full Text Index (EN): {self.site_base_url}/en/llms-full.txt
+- REST API JSON (EN): {self.site_base_url}/api/v1/en/catalog.json
+- OpenAPI Spec: {self.site_base_url}/.well-known/openapi.json
+- French Index: {self.site_base_url}/llms.txt
+
+## Global Indexed Models
+"""
+        for g in all_guides:
+            llms_txt_en += f"- [{g['brand']} - {g['model_name']}]({self.site_base_url}/en/guides/{g['slug']}.html) : {g['summary']}\n"
+
+        with open(os.path.join(self.docs_en_dir, "llms.txt"), "w", encoding="utf-8") as f:
+            f.write(llms_txt_en)
+
+        # 8. Standard LLMs : docs/llms-full.txt (FR) et docs/en/llms-full.txt (EN)
+        llms_full_parts_fr = [
             f"# OutdoorParts Guide - Base Complète Ingestion IA\nVersion: 1.0.0 | Mis à jour: {now_iso}\nBase URL: {self.site_base_url}\n"
         ]
+        llms_full_parts_en = [
+            f"# OutdoorParts Guide Global - Full Ingestion Knowledge Base\nVersion: 1.0.0 | Updated: {now_iso}\nBase URL: {self.site_base_url}/en/\n"
+        ]
+
         for g in all_guides:
-            llms_full_parts.append(f"""
+            # FR
+            llms_full_parts_fr.append(f"""
 ================================================================================
 MODÈLE : {g['brand']} - {g['model_name']} ({g['category_name']})
 URL : {self.site_base_url}/guides/{g['slug']}.html
@@ -1479,15 +1915,37 @@ RÉSUMÉ : {g['summary']}
 
 TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
             for p in g.get("parts", []):
-                llms_full_parts.append(f"""- PIÈCE : {p['name']}
+                llms_full_parts_fr.append(f"""- PIÈCE : {p['name']}
   REF OEM / COTES : {p['oem_or_dimension']}
   USURE & RYTHME : {p['wear_symptom']} ({p['replacement_interval']})
   RECHERCHE AMAZON : {p['affiliate_url']}""")
 
-        with open(os.path.join(self.docs_dir, "llms-full.txt"), "w", encoding="utf-8") as f:
-            f.write("\n".join(llms_full_parts))
+            # EN
+            llms_full_parts_en.append(f"""
+================================================================================
+MODEL : {g['brand']} - {g['model_name']} ({g['category_name']})
+URL : {self.site_base_url}/en/guides/{g['slug']}.html
+YEARS : {g['years_range']}
+SUMMARY : {g['summary']}
 
-        # 8. docs/api/v1/catalog.json
+CROSS-REFERENCE PARTS & AMAZON GLOBAL STORES :""")
+            for p in g.get("parts", []):
+                llms_full_parts_en.append(f"""- PART : {p['name']}
+  OEM REF / SPECS : {p['oem_or_dimension']}
+  WEAR & INTERVAL : {p['wear_symptom']} ({p['replacement_interval']})
+  AMAZON US/GLOBAL : {p.get('affiliate_url_us', p['affiliate_url'])}
+  AMAZON UK : {p.get('affiliate_url_uk', p['affiliate_url'])}
+  AMAZON CA : {p.get('affiliate_url_ca', p['affiliate_url'])}
+  AMAZON AU : {p.get('affiliate_url_au', p['affiliate_url'])}
+  AMAZON DE : {p.get('affiliate_url_de', p['affiliate_url'])}""")
+
+        with open(os.path.join(self.docs_dir, "llms-full.txt"), "w", encoding="utf-8") as f:
+            f.write("\n".join(llms_full_parts_fr))
+
+        with open(os.path.join(self.docs_en_dir, "llms-full.txt"), "w", encoding="utf-8") as f:
+            f.write("\n".join(llms_full_parts_en))
+
+        # 9. docs/api/v1/catalog.json (FR) et docs/api/v1/en/catalog.json (EN)
         api_catalog = {
             "version": "1.0.0",
             "updated_at": datetime.now(timezone.utc).isoformat(),
@@ -1495,28 +1953,44 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
             "partner_tag": self.partner_tag,
             "total_models": len(all_guides),
             "total_parts": total_parts,
+            "supported_stores": list(AMAZON_DOMAINS.keys()),
             "models": all_guides
         }
         with open(os.path.join(self.api_dir, "catalog.json"), "w", encoding="utf-8") as f:
             json.dump(api_catalog, f, indent=2, ensure_ascii=False)
 
-        # 9. docs/.well-known/openapi.json
+        with open(os.path.join(self.api_en_dir, "catalog.json"), "w", encoding="utf-8") as f:
+            json.dump(api_catalog, f, indent=2, ensure_ascii=False)
+
+        # 10. docs/.well-known/openapi.json
         openapi_spec = {
             "openapi": "3.0.3",
             "info": {
-                "title": "OutdoorParts Guide API",
+                "title": "OutdoorParts Guide API Global",
                 "version": "1.0.0",
-                "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs."
+                "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs avec liens multi-stores Amazon."
             },
             "servers": [{"url": self.site_base_url}],
             "paths": {
                 "/api/v1/catalog.json": {
                     "get": {
-                        "summary": "Obtenir l'intégralité du catalogue des correspondances",
+                        "summary": "Obtenir l'intégralité du catalogue des correspondances (FR/Global)",
                         "operationId": "getCatalog",
                         "responses": {
                             "200": {
-                                "description": "Catalogue complet avec liens de recherche Amazon",
+                                "description": "Catalogue complet avec liens de recherche Amazon multi-stores",
+                                "content": {"application/json": {"schema": {"type": "object"}}}
+                            }
+                        }
+                    }
+                },
+                "/api/v1/en/catalog.json": {
+                    "get": {
+                        "summary": "Get full cross-reference catalog (English / Multi-country Amazon stores)",
+                        "operationId": "getCatalogEn",
+                        "responses": {
+                            "200": {
+                                "description": "Full catalog with worldwide Amazon store search URLs",
                                 "content": {"application/json": {"schema": {"type": "object"}}}
                             }
                         }
@@ -1524,8 +1998,14 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
                 },
                 "/llms.txt": {
                     "get": {
-                        "summary": "Fichier llms.txt standard pour modèles de langage",
+                        "summary": "Fichier llms.txt standard (FR)",
                         "responses": {"200": {"description": "Documentation markdown concise"}}
+                    }
+                },
+                "/en/llms.txt": {
+                    "get": {
+                        "summary": "Standard llms.txt file (EN Global)",
+                        "responses": {"200": {"description": "Concise markdown documentation for LLMs"}}
                     }
                 }
             }
@@ -1533,7 +2013,7 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
         with open(os.path.join(self.well_known_dir, "openapi.json"), "w", encoding="utf-8") as f:
             json.dump(openapi_spec, f, indent=2, ensure_ascii=False)
 
-        # 10. Fichier clé IndexNow pour validation
+        # 11. Fichier clé IndexNow pour validation
         indexnow_key = self.state.get("indexnow_key", "4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c")
         with open(os.path.join(self.docs_dir, f"{indexnow_key}.txt"), "w", encoding="utf-8") as f:
             f.write(indexnow_key)
@@ -1541,51 +2021,37 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
     def run_autopilot(self) -> List[Dict[str, Any]]:
         """
         Cycle d'exécution autonome :
-        1. Sélectionne 2 modèles cibles
+        1. Compile tous les modèles de CANDIDATE_MODELS_POOL pour une couverture mondiale immédiate
         2. Traite et enrichit les fiches
-        3. Met à jour l'ensemble du catalogue et les pages statiques
+        3. Génère les déclinaisons FR et EN des guides et endpoints
         4. Met à jour catalog_state.json
         """
-        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Démarrage de l'agent OutdoorParts...")
-        selected_candidates = self.select_next_models(count=2)
-        print(f"Modèles sélectionnés pour cette exécution ({len(selected_candidates)}) :")
-        for m in selected_candidates:
-            print(f" - [{m['category_name']}] {m['model_name']} ({m['slug']})")
-
-        # Chargement de la liste actuelle des guides déjà compilés ou existants
+        print(f"[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Démarrage de l'agent OutdoorParts Global...")
+        
+        # Traitement et mise en mémoire de l'intégralité du pool
         active_guides_map: Dict[str, Dict[str, Any]] = {}
-        for c in CANDIDATE_MODELS_POOL:
-            # Si le modèle a déjà été traité, on peut le garder en base
-            if c["slug"] in self.state.get("processed_models", []):
-                active_guides_map[c["slug"]] = self.process_model(c)
-
-        # Traitement des 2 nouveaux modèles
         newly_processed: List[Dict[str, Any]] = []
-        for candidate in selected_candidates:
-            guide = self.process_model(candidate)
-            active_guides_map[guide["slug"]] = guide
-            newly_processed.append(guide)
-            
-            # Enregistrement dans la liste des modèles traités
-            if guide["slug"] not in self.state["processed_models"]:
-                self.state["processed_models"].append(guide["slug"])
 
-        # Si le catalogue était vide au premier lancement, peuplons avec au moins les 8 premiers
-        if len(active_guides_map) < 4:
-            for c in CANDIDATE_MODELS_POOL[:6]:
-                if c["slug"] not in active_guides_map:
-                    g = self.process_model(c)
-                    active_guides_map[g["slug"]] = g
-                    if g["slug"] not in self.state["processed_models"]:
-                        self.state["processed_models"].append(g["slug"])
+        print(f"Modèles dans le pool de connaissances ({len(CANDIDATE_MODELS_POOL)}) :")
+        for candidate in CANDIDATE_MODELS_POOL:
+            slug = candidate["slug"]
+            is_new = slug not in self.state.get("processed_models", [])
+            guide = self.process_model(candidate)
+            active_guides_map[slug] = guide
+            if is_new:
+                newly_processed.append(guide)
+                self.state["processed_models"].append(slug)
+                print(f" + [NOUVEAU] [{guide['category_name']}] {guide['model_name']} ({slug})")
+            else:
+                print(f" * [INDEXE] [{guide['category_name']}] {guide['model_name']} ({slug})")
 
         all_guides = list(active_guides_map.values())
 
-        # Rendu des pages HTML des guides
+        # Rendu des pages HTML des guides (FR dans docs/guides/ et EN dans docs/en/guides/)
         for g in all_guides:
             self.render_and_save_guide(g)
 
-        # Rendu des pages globales, endpoints et llms.txt
+        # Rendu des pages globales, endpoints et llms.txt (FR et EN)
         self.render_global_pages(all_guides)
 
         # Mise à jour de l'état
@@ -1596,7 +2062,7 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :""")
         }
         self._save_state()
 
-        print(f"[OK] {len(all_guides)} guides générés avec succès dans docs/.")
+        print(f"[OK] {len(all_guides)} guides FR + {len(all_guides)} guides EN générés ({len(all_guides)*2} pages) dans docs/.")
         return newly_processed
 
 
@@ -1607,3 +2073,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

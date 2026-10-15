@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/index.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -19,91 +31,421 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms.txt</loc>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay-z-spa-miami-airjet.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay-z-spa-miami-airjet.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay-z-spa-miami-airjet.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay-z-spa-miami-airjet.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay-z-spa-miami-airjet.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k5-power-control-nettoyeur-hp.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k5-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k5-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k5-power-control-nettoyeur-hp.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k5-power-control-nettoyeur-hp.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k5-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k5-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k5-power-control-nettoyeur-hp.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3-aspirateur-eau-poussiere.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3-aspirateur-eau-poussiere.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3-aspirateur-eau-poussiere.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3-aspirateur-eau-poussiere.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3-aspirateur-eau-poussiere.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-ms-170-tronconneuse-thermique.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-ms-170-tronconneuse-thermique.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-ms-170-tronconneuse-thermique.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-ms-170-tronconneuse-thermique.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-ms-170-tronconneuse-thermique.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-ms-170-tronconneuse-thermique.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-ms-170-tronconneuse-thermique.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-ms-170-tronconneuse-thermique.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/husqvarna-automower-310-robot-tondeuse.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/husqvarna-automower-310-robot-tondeuse.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/husqvarna-automower-310-robot-tondeuse.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/husqvarna-automower-310-robot-tondeuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/husqvarna-automower-310-robot-tondeuse.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/somfy-keypop-keytis-rts-io-telecommande.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/somfy-keypop-keytis-rts-io-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/somfy-keypop-keytis-rts-io-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/somfy-keypop-keytis-rts-io-telecommande.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/somfy-keypop-keytis-rts-io-telecommande.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/somfy-keypop-keytis-rts-io-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/somfy-keypop-keytis-rts-io-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/somfy-keypop-keytis-rts-io-telecommande.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/came-top-432ee-telecommande-portail.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/came-top-432ee-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/came-top-432ee-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/came-top-432ee-telecommande-portail.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/came-top-432ee-telecommande-portail.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/came-top-432ee-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/came-top-432ee-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/came-top-432ee-telecommande-portail.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/apc-back-ups-batterie-plomb-etanche-12v.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/apc-back-ups-batterie-plomb-etanche-12v.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/apc-back-ups-batterie-plomb-etanche-12v.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/apc-back-ups-batterie-plomb-etanche-12v.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/apc-back-ups-batterie-plomb-etanche-12v.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/apc-back-ups-batterie-plomb-etanche-12v.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/apc-back-ups-batterie-plomb-etanche-12v.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/apc-back-ups-batterie-plomb-etanche-12v.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/makita-dbo180z-ponceuse-excentrique-18v.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/makita-dbo180z-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo180z-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo180z-ponceuse-excentrique-18v.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo180z-ponceuse-excentrique-18v.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo180z-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/makita-dbo180z-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo180z-ponceuse-excentrique-18v.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bosch-professional-gex-125-1-ae-ponceuse.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bosch-professional-gex-125-1-ae-ponceuse.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bosch-professional-gex-125-1-ae-ponceuse.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bosch-professional-gex-125-1-ae-ponceuse.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bosch-professional-gex-125-1-ae-ponceuse.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bosch-professional-gex-125-1-ae-ponceuse.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bosch-professional-gex-125-1-ae-ponceuse.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bosch-professional-gex-125-1-ae-ponceuse.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-gta-26-scie-elagueuse-batterie.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-gta-26-scie-elagueuse-batterie.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-gta-26-scie-elagueuse-batterie.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-gta-26-scie-elagueuse-batterie.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-gta-26-scie-elagueuse-batterie.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-gta-26-scie-elagueuse-batterie.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/stihl-gta-26-scie-elagueuse-batterie.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/stihl-gta-26-scie-elagueuse-batterie.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k4-power-control-nettoyeur-hp.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k4-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-power-control-nettoyeur-hp.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-power-control-nettoyeur-hp.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-k4-power-control-nettoyeur-hp.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-power-control-nettoyeur-hp.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/nice-flo2re-era-flor-telecommande.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/nice-flo2re-era-flor-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/nice-flo2re-era-flor-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/nice-flo2re-era-flor-telecommande.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/nice-flo2re-era-flor-telecommande.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/nice-flo2re-era-flor-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/nice-flo2re-era-flor-telecommande.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/nice-flo2re-era-flor-telecommande.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bft-mitto-b-rcb02-telecommande-portail.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bft-mitto-b-rcb02-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bft-mitto-b-rcb02-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bft-mitto-b-rcb02-telecommande-portail.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bft-mitto-b-rcb02-telecommande-portail.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bft-mitto-b-rcb02-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bft-mitto-b-rcb02-telecommande-portail.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bft-mitto-b-rcb02-telecommande-portail.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dewalt-dcw210n-ponceuse-excentrique-18v.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/einhell-power-x-change-18v-batteries.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/einhell-power-x-change-18v-batteries.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/einhell-power-x-change-18v-batteries.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/einhell-power-x-change-18v-batteries.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/einhell-power-x-change-18v-batteries.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/einhell-power-x-change-18v-batteries.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/einhell-power-x-change-18v-batteries.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/einhell-power-x-change-18v-batteries.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/chamberlain-liftmaster-893max-remote.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/chamberlain-liftmaster-893max-remote.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/chamberlain-liftmaster-893max-remote.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/chamberlain-liftmaster-893max-remote.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/chamberlain-liftmaster-893max-remote.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/chamberlain-liftmaster-893max-remote.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/chamberlain-liftmaster-893max-remote.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/chamberlain-liftmaster-893max-remote.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/polaris-280-pressure-pool-cleaner.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/polaris-280-pressure-pool-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/polaris-280-pressure-pool-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/polaris-280-pressure-pool-cleaner.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/polaris-280-pressure-pool-cleaner.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/polaris-280-pressure-pool-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/polaris-280-pressure-pool-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/polaris-280-pressure-pool-cleaner.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/milwaukee-m18-redlithium-battery-pack.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/milwaukee-m18-redlithium-battery-pack.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/milwaukee-m18-redlithium-battery-pack.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/milwaukee-m18-redlithium-battery-pack.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/milwaukee-m18-redlithium-battery-pack.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/milwaukee-m18-redlithium-battery-pack.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/milwaukee-m18-redlithium-battery-pack.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/milwaukee-m18-redlithium-battery-pack.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/hayward-poolvac-xl-navigator-cleaner.html</loc>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/hayward-poolvac-xl-navigator-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/hayward-poolvac-xl-navigator-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/hayward-poolvac-xl-navigator-cleaner.html"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/hayward-poolvac-xl-navigator-cleaner.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/hayward-poolvac-xl-navigator-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/hayward-poolvac-xl-navigator-cleaner.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/hayward-poolvac-xl-navigator-cleaner.html"/>
     <lastmod>2026-10-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>

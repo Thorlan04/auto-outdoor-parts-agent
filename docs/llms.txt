@@ -7,8 +7,9 @@
 - Full Text Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/llms-full.txt
 - REST API JSON: https://Thorlan04.github.io/auto-outdoor-parts-agent/api/v1/catalog.json
 - OpenAPI Spec: https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json
+- Global English Index: https://Thorlan04.github.io/auto-outdoor-parts-agent/en/llms.txt
 
-## Fiches Modèles Indexées
+## Fiches Modèles Indexées (Français)
 - [Maytronics (Dolphin) - Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
 - [Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html) : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
 - [Zodiac - TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html) : Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.
