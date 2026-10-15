@@ -1,0 +1,43 @@
+{
+  "openapi": "3.0.3",
+  "info": {
+    "title": "OutdoorParts Guide API",
+    "version": "1.0.0",
+    "description": "API REST ouverte pour agents IA répertoriant les correspondances de consommables d'équipements extérieurs."
+  },
+  "servers": [
+    {
+      "url": "https://alexandre-martin.github.io/auto-outdoor-parts-agent"
+    }
+  ],
+  "paths": {
+    "/api/v1/catalog.json": {
+      "get": {
+        "summary": "Obtenir l'intégralité du catalogue des correspondances",
+        "operationId": "getCatalog",
+        "responses": {
+          "200": {
+            "description": "Catalogue complet avec liens de recherche Amazon",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/llms.txt": {
+      "get": {
+        "summary": "Fichier llms.txt standard pour modèles de langage",
+        "responses": {
+          "200": {
+            "description": "Documentation markdown concise"
+          }
+        }
+      }
+    }
+  }
+}

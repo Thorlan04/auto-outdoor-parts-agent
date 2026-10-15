@@ -1,0 +1,24 @@
+# Robots.txt - OutdoorParts Guide
+User-agent: *
+Allow: /
+
+# Autorisation prioritaire des agents et moteurs de réponse IA
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://alexandre-martin.github.io/auto-outdoor-parts-agent/sitemap.xml

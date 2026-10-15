@@ -1,0 +1,19 @@
+# OutdoorParts Guide - Index des Correspondances Techniques
+> Catalogue indépendant de pièces d'usure certifiées, consommables, filtres et télécommandes de remplacement (2020-2026).
+> Données structurées pour Agents IA (ChatGPT Search, Perplexity, Claude, Copilot).
+> Zéro lien mort : toutes les URLs pointent vers des recherches Amazon Partenaires infaillibles (#LienAffilié).
+
+## Endpoints Machine
+- Full Text Index: https://alexandre-martin.github.io/auto-outdoor-parts-agent/llms-full.txt
+- REST API JSON: https://alexandre-martin.github.io/auto-outdoor-parts-agent/api/v1/catalog.json
+- OpenAPI Spec: https://alexandre-martin.github.io/auto-outdoor-parts-agent/.well-known/openapi.json
+
+## Fiches Modèles Indexées
+- [Maytronics (Dolphin) - Dolphin E20 / E10 / S200](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
+- [Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html) : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
+- [Zodiac - TornaX RT 3200 / OT 3200 / RT 2100](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html) : Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.
+- [Bestway - Lay-Z-Spa Miami / Paris / Hawaii AirJet](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html) : Pièces de remplacement certifiées Bestway Lay-Z-Spa : cartouches VI (58323), turbine à axe céramique et joints de vanne.
+- [Kärcher - K5 Power Control / Full Control / Premium](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/karcher-k5-power-control-nettoyeur-hp.html) : Correspondances exactes des pièces d'usure Kärcher K5 : flexible 10m 180 bar, lance rotabuse DB 145 et kit joints toriques.
+- [Kärcher - Kärcher WD3 / WD3 S V-17/4/20 / Premium](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html) : Consommables certifiés pour aspirateur Kärcher WD3 : cartouche filtrante 6.414-552.0, sacs intissés 3 couches et brosses combinées.
+- [Stihl - Stihl MS 170 / MS 180 / MS 171](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/stihl-ms-170-tronconneuse-thermique.html) : Correspondances exactes consommables Stihl MS 170 : chaîne Picco Micro 3 (44 maillons), guide Rollomatic E 30cm et bougie d'allumage.
+- [Husqvarna / Gardena - Automower 305 / 310 / 405X / Gardena Sileno](https://alexandre-martin.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html) : Correspondances consommables robot tondeuse Husqvarna & Gardena : lames carbure endurance 0.75mm, connecteurs étanches 3M et fil périphérique.

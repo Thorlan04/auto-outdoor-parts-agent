@@ -1,0 +1,418 @@
+{% extends "base.html" %}
+
+{% block title %}{{ guide.title }} | Correspondances Pièces & Références Exactes{% endblock %}
+{% block description %}{{ guide.meta_description }}{% endblock %}
+{% block canonical %}guides/{{ guide.slug }}.html{% endblock %}
+{% block og_title %}{{ guide.title }}{% endblock %}
+{% block og_description %}{{ guide.meta_description }}{% endblock %}
+{% block og_url %}{{ site_base_url }}/guides/{{ guide.slug }}.html{% endblock %}
+
+{% block extra_head %}
+<!-- Données structurées Schema.org pour GEO / IA (ChatGPT Search, Perplexity, Google) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "TechArticle",
+      "@id": "{{ site_base_url }}/guides/{{ guide.slug }}.html#article",
+      "headline": {{ guide.title | tojson }},
+      "description": {{ guide.meta_description | tojson }},
+      "inLanguage": "fr-FR",
+      "mainEntityOfPage": "{{ site_base_url }}/guides/{{ guide.slug }}.html",
+      "datePublished": "{{ guide.date_published }}",
+      "dateModified": "{{ guide.date_modified }}",
+      "author": {
+        "@type": "Organization",
+        "name": "OutdoorParts Guide",
+        "url": "{{ site_base_url }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "OutdoorParts Guide",
+        "url": "{{ site_base_url }}"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Accueil",
+          "item": "{{ site_base_url }}/index.html"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": {{ guide.category_name | tojson }},
+          "item": "{{ site_base_url }}/index.html#{{ guide.category_id }}"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": {{ guide.model_name | tojson }},
+          "item": "{{ site_base_url }}/guides/{{ guide.slug }}.html"
+        }
+      ]
+    }
+    {% if guide.procedure_steps %}
+    ,
+    {
+      "@type": "HowTo",
+      "name": {{ ("Procédure d'installation et entretien externe : " ~ guide.model_name) | tojson }},
+      "description": "Étapes sûres pour remplacer les consommables d'usure ou appairer les télécommandes sans risque électrique.",
+      "step": [
+        {% for step in guide.procedure_steps %}
+        {
+          "@type": "HowToStep",
+          "position": {{ loop.index }},
+          "name": {{ step.title | tojson }},
+          "text": {{ step.description | tojson }}
+        }{% if not loop.last %},{% endif %}
+        {% endfor %}
+      ]
+    }
+    {% endif %}
+  ]
+}
+</script>
+
+<style>
+  .guide-header {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .breadcrumbs {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    align-items: center;
+  }
+  .breadcrumbs a {
+    color: var(--primary);
+    text-decoration: none;
+  }
+  .category-pill {
+    display: inline-block;
+    background: #e0f2fe;
+    color: #0369a1;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 0.25rem 0.65rem;
+    border-radius: 9999px;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 0.75rem;
+  }
+  .guide-title {
+    font-size: 1.85rem;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.25;
+    margin-bottom: 0.75rem;
+  }
+  .guide-subtitle {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    margin-bottom: 1.25rem;
+  }
+  .guide-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    font-size: 0.82rem;
+    color: #64748b;
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+  }
+  
+  .tech-specs-card {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 1.25rem;
+    margin: 1.5rem 0;
+  }
+  .tech-specs-card h3 {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #334155;
+    margin-bottom: 0.75rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  .specs-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+  .spec-item {
+    background: #ffffff;
+    padding: 0.75rem;
+    border-radius: 6px;
+    border: 1px solid #edf2f7;
+  }
+  .spec-label {
+    font-size: 0.75rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #94a3b8;
+    margin-bottom: 0.2rem;
+  }
+  .spec-value {
+    font-weight: 700;
+    color: #0f172a;
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+  }
+
+  .content-section {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .content-section h2 {
+    font-size: 1.35rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--primary-light);
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+  }
+  
+  .procedure-list {
+    list-style: none;
+    counter-reset: proc-counter;
+    margin: 1.5rem 0;
+  }
+  .procedure-item {
+    counter-increment: proc-counter;
+    position: relative;
+    padding-left: 3rem;
+    margin-bottom: 1.5rem;
+  }
+  .procedure-item::before {
+    content: counter(proc-counter);
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 2.2rem;
+    height: 2.2rem;
+    background: var(--primary);
+    color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    font-size: 0.9rem;
+  }
+  .procedure-item h4 {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+  }
+  .procedure-item p {
+    color: #475569;
+    font-size: 0.92rem;
+  }
+
+  .faq-accordion details {
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 0.75rem;
+    background: #fff;
+    padding: 0.75rem 1rem;
+  }
+  .faq-accordion summary {
+    font-weight: 600;
+    cursor: pointer;
+    color: #1e293b;
+    outline: none;
+  }
+  .faq-accordion details[open] summary {
+    color: var(--primary);
+    margin-bottom: 0.5rem;
+  }
+  .faq-accordion p {
+    font-size: 0.9rem;
+    color: #475569;
+  }
+
+  .badge-spec {
+    display: inline-block;
+    background: #f1f5f9;
+    color: #475569;
+    font-family: var(--font-mono);
+    font-size: 0.8rem;
+    padding: 0.2rem 0.5rem;
+    border-radius: 4px;
+    border: 1px solid #cbd5e1;
+    font-weight: 600;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<article>
+  <!-- En-tête de la fiche technique -->
+  <header class="guide-header">
+    <nav class="breadcrumbs" aria-label="Fil d'Ariane">
+      <a href="{{ site_base_url }}/index.html">Accueil</a>
+      <span>&rsaquo;</span>
+      <a href="{{ site_base_url }}/index.html#{{ guide.category_id }}">{{ guide.category_name }}</a>
+      <span>&rsaquo;</span>
+      <span>{{ guide.model_name }}</span>
+    </nav>
+
+    <span class="category-pill">{{ guide.category_name }}</span>
+    <h1 class="guide-title">{{ guide.title }}</h1>
+    <p class="guide-subtitle">{{ guide.summary }}</p>
+
+    <!-- Fiche caractéristiques rapides -->
+    <div class="tech-specs-card">
+      <h3>
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v20M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        Fiche d'identification constructeur & Compatibilité
+      </h3>
+      <div class="specs-grid">
+        <div class="spec-item">
+          <div class="spec-label">Marque / Fabricant</div>
+          <div class="spec-value">{{ guide.brand }}</div>
+        </div>
+        <div class="spec-item">
+          <div class="spec-label">Modèle(s) / Séries</div>
+          <div class="spec-value">{{ guide.model_name }}</div>
+        </div>
+        <div class="spec-item">
+          <div class="spec-label">Millésimes Couverts</div>
+          <div class="spec-value">{{ guide.years_range }}</div>
+        </div>
+        <div class="spec-item">
+          <div class="spec-label">Niveau d'intervention</div>
+          <div class="spec-value" style="color: var(--success);">100% Externe (Sécurisé)</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="guide-meta">
+      <div>📅 Mis à jour : <time datetime="{{ guide.date_modified }}">{{ guide.date_modified_fr }}</time></div>
+      <div>🛡️ Protocole de sécurité : Conforme directive machines & zéro démontage HT</div>
+      <div>🔗 Vérification Amazon : Requête sans 404 (#LienAffilié)</div>
+    </div>
+  </header>
+
+  <!-- TABLEAU MAÎTRE DES CORRESPONDANCES EXACTES -->
+  <section class="content-section" id="tableau-pieces">
+    <h2>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/><line x1="12" y1="22.08" x2="12" y2="12"/></svg>
+      Tableau de Correspondance des Pièces d'Usure & Consommables
+    </h2>
+    <p style="color: #475569; margin-bottom: 1rem; font-size: 0.95rem;">
+      Toutes les pièces ci-dessous correspondent aux spécifications d'origine. Les liens redirigent directement vers les résultats certifiés sur Amazon.fr pour éviter toute erreur de modèle ou rupture d'inventaire.
+    </p>
+
+    <div class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th>Type de Pièce / Consommable</th>
+            <th>Référence OEM / Cotes Exactes</th>
+            <th>Symptôme d'usure & Fréquence</th>
+            <th>Recherche Infaillible Amazon</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for part in guide.parts %}
+          <tr>
+            <td>
+              <strong>{{ part.name }}</strong>
+              {% if part.tag %}
+              <br><small style="color: var(--primary); font-weight: 600;">{{ part.tag }}</small>
+              {% endif %}
+            </td>
+            <td>
+              <span class="badge-spec">{{ part.oem_or_dimension }}</span>
+              {% if part.technical_detail %}
+              <div style="font-size: 0.8rem; color: #64748b; margin-top: 0.25rem;">{{ part.technical_detail }}</div>
+              {% endif %}
+            </td>
+            <td>
+              <div style="font-size: 0.85rem; color: #334155;">{{ part.wear_symptom }}</div>
+              <small style="color: #64748b;">🔄 Rythme : {{ part.replacement_interval }}</small>
+            </td>
+            <td>
+              <a href="{{ part.affiliate_url }}" class="btn-amazon" rel="nofollow sponsored" target="_blank" title="Trouver {{ part.name }} sur Amazon.fr">
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg>
+                Voir sur Amazon
+              </a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- PROCÉDURE D'INSTALLATION & APPAIRAGE SÉCURISÉE -->
+  {% if guide.procedure_steps %}
+  <section class="content-section" id="procedure">
+    <h2>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/><polyline points="10 9 9 9 8 9"/></svg>
+      Procédure Pas-à-Pas (100% Sans Démontage Haute Tension)
+    </h2>
+    <div class="procedure-list">
+      {% for step in guide.procedure_steps %}
+      <div class="procedure-item">
+        <h4>{{ step.title }}</h4>
+        <p>{{ step.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- FOIRE AUX QUESTIONS TECHNIQUES (OPTIMISÉE RECHERCHE IA) -->
+  {% if guide.faqs %}
+  <section class="content-section" id="faq">
+    <h2>
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      Questions Fréquentes & Conseils de Compatibilité
+    </h2>
+    <div class="faq-accordion">
+      {% for faq in guide.faqs %}
+      <details>
+        <summary>{{ faq.question }}</summary>
+        <p>{{ faq.answer }}</p>
+      </details>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
+
+  <!-- NAVIGATION RAPIDE CATALOGUE -->
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem; flex-wrap: wrap; gap: 1rem;">
+    <a href="{{ site_base_url }}/index.html" class="btn-outline">
+      &larr; Retour au catalogue complet
+    </a>
+    <a href="{{ site_base_url }}/llms.txt" class="badge-ia">
+      Consulter la fiche machine au format llms.txt &rarr;
+    </a>
+  </div>
+</article>
+{% endblock %}

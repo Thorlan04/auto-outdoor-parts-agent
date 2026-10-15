@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="fr" class="h-full">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% block title %}OutdoorParts Guide | Correspondances Pièces & Consommables Extérieurs{% endblock %}</title>
+  <meta name="description" content="{% block description %}Guide technique indépendant de correspondances exactes pour pièces d'usure, consommables, filtres et télécommandes de remplacement (Jardin, Piscine, Domotique, Outillage).{% endblock %}">
+  <link rel="canonical" href="{{ site_base_url }}/{% block canonical %}{% endblock %}">
+  
+  <!-- Open Graph / Meta IA -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{% block og_title %}OutdoorParts Guide - Références Exactes & Consommables{% endblock %}">
+  <meta property="og:description" content="{% block og_description %}Trouvez en 1 clic les correspondances certifiées de pièces d'usure et consommables sans erreur 404.{% endblock %}">
+  <meta property="og:url" content="{{ site_base_url }}/{% block og_url %}{% endblock %}">
+  <meta property="og:site_name" content="OutdoorParts Guide">
+  
+  <!-- Flux RSS & Endpoints IA -->
+  <link rel="alternate" type="application/rss+xml" title="OutdoorParts RSS Feed" href="{{ site_base_url }}/feed.xml">
+  <link rel="help" type="text/plain" title="Documentation LLMs" href="{{ site_base_url }}/llms.txt">
+  
+  <style>
+    :root {
+      --primary: #0f766e;
+      --primary-hover: #115e59;
+      --primary-light: #f0fdfa;
+      --accent: #d97706;
+      --accent-hover: #b45309;
+      --amazon-orange: #ff9900;
+      --amazon-dark: #131921;
+      --text: #1e293b;
+      --text-muted: #64748b;
+      --bg: #f8fafc;
+      --card-bg: #ffffff;
+      --border: #e2e8f0;
+      --success: #15803d;
+      --warning-bg: #fffbeb;
+      --warning-border: #fde68a;
+      --warning-text: #92400e;
+      --font-sans: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    }
+    
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    
+    body {
+      font-family: var(--font-sans);
+      background-color: var(--bg);
+      color: var(--text);
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    
+    /* Bannière de transparence obligatoire DGCCRF / Amazon Partenaire */
+    .affiliate-disclosure-banner {
+      background-color: #1e293b;
+      color: #e2e8f0;
+      font-size: 0.8rem;
+      padding: 0.5rem 1rem;
+      text-align: center;
+      border-bottom: 2px solid var(--amazon-orange);
+    }
+    .affiliate-disclosure-banner strong {
+      color: var(--amazon-orange);
+    }
+    .affiliate-disclosure-banner a {
+      color: #38bdf8;
+      text-decoration: underline;
+    }
+
+    header {
+      background: var(--card-bg);
+      border-bottom: 1px solid var(--border);
+      position: sticky;
+      top: 0;
+      z-index: 50;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+    }
+    
+    .nav-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0.85rem 1.5rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+    }
+    
+    .brand-logo {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 800;
+      font-size: 1.25rem;
+    }
+    .brand-logo span.tag {
+      background: var(--primary);
+      color: #fff;
+      font-size: 0.7rem;
+      font-weight: 700;
+      padding: 0.2rem 0.5rem;
+      border-radius: 9999px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    
+    .nav-links {
+      display: flex;
+      gap: 1.25rem;
+      list-style: none;
+      align-items: center;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    .nav-links a {
+      text-decoration: none;
+      color: var(--text-muted);
+      transition: color 0.15s;
+    }
+    .nav-links a:hover {
+      color: var(--primary);
+    }
+    .nav-links a.active {
+      color: var(--primary);
+      font-weight: 600;
+    }
+    .badge-ia {
+      background: #eff6ff;
+      border: 1px solid #bfdbfe;
+      color: #1d4ed8;
+      padding: 0.2rem 0.5rem;
+      border-radius: 6px;
+      font-family: var(--font-mono);
+      font-size: 0.75rem;
+      text-decoration: none;
+    }
+
+    main {
+      flex: 1;
+      max-width: 1200px;
+      width: 100%;
+      margin: 0 auto;
+      padding: 2rem 1.5rem;
+    }
+    
+    /* Alerte Sécurité Normalisée */
+    .safety-notice {
+      background: #fef2f2;
+      border-left: 4px solid #ef4444;
+      padding: 1rem 1.25rem;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 2rem;
+      font-size: 0.9rem;
+      color: #991b1b;
+      display: flex;
+      align-items: flex-start;
+      gap: 0.75rem;
+    }
+    .safety-notice strong {
+      display: block;
+      color: #7f1d1d;
+      margin-bottom: 0.2rem;
+    }
+    
+    /* Tableaux techniques */
+    .table-container {
+      overflow-x: auto;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+      margin: 1.5rem 0;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      text-align: left;
+      font-size: 0.92rem;
+    }
+    th {
+      background: #f1f5f9;
+      color: #334155;
+      font-weight: 700;
+      padding: 0.85rem 1rem;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    td {
+      padding: 0.9rem 1rem;
+      border-bottom: 1px solid var(--border);
+      vertical-align: middle;
+    }
+    tr:last-child td {
+      border-bottom: none;
+    }
+    tr:hover td {
+      background-color: #f8fafc;
+    }
+    
+    /* Boutons Amazon Partenaire */
+    .btn-amazon {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background-color: var(--amazon-orange);
+      color: #111827;
+      font-weight: 700;
+      font-size: 0.85rem;
+      padding: 0.5rem 0.85rem;
+      border-radius: 6px;
+      text-decoration: none;
+      box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+      transition: all 0.15s ease;
+      white-space: nowrap;
+      border: 1px solid #d97706;
+    }
+    .btn-amazon:hover {
+      background-color: #f59e0b;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+      transform: translateY(-1px);
+      color: #000;
+    }
+    
+    .btn-outline {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: #fff;
+      color: var(--primary);
+      border: 1px solid var(--primary);
+      font-weight: 600;
+      font-size: 0.85rem;
+      padding: 0.5rem 0.85rem;
+      border-radius: 6px;
+      text-decoration: none;
+      transition: all 0.15s ease;
+    }
+    .btn-outline:hover {
+      background: var(--primary-light);
+    }
+
+    footer {
+      background: #0f172a;
+      color: #94a3b8;
+      font-size: 0.85rem;
+      margin-top: auto;
+      border-top: 1px solid #1e293b;
+    }
+    .footer-container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 1.5rem;
+    }
+    .footer-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 2rem;
+      margin-bottom: 2rem;
+    }
+    .footer-col h4 {
+      color: #f8fafc;
+      font-size: 0.95rem;
+      margin-bottom: 0.75rem;
+      font-weight: 700;
+    }
+    .footer-col ul {
+      list-style: none;
+    }
+    .footer-col ul li {
+      margin-bottom: 0.4rem;
+    }
+    .footer-col a {
+      color: #94a3b8;
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+    .footer-col a:hover {
+      color: #38bdf8;
+    }
+    .footer-bottom {
+      border-top: 1px solid #334155;
+      padding-top: 1.25rem;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 1rem;
+      font-size: 0.8rem;
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .nav-container {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+      .nav-links {
+        flex-wrap: wrap;
+        gap: 0.75rem;
+      }
+      .footer-bottom {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+  {% block extra_head %}{% endblock %}
+</head>
+<body>
+
+  <!-- DIVULGATION OFFICIELLE DGCCRF / PROGRAMME AMAZON PARTENAIRES -->
+  <aside class="affiliate-disclosure-banner" role="complementary" aria-label="Transparence d'affiliation">
+    ℹ️ <strong>Transparence légale :</strong> En tant que Partenaire Amazon, ce site réalise un bénéfice sur les achats remplissant les conditions requises. Nos liens de recherche ciblent exclusivement les pièces d'usure compatibles testées (<strong>#LienAffilié</strong>). Zéro surcoût pour vous.
+  </aside>
+
+  <header>
+    <div class="nav-container">
+      <a href="{{ site_base_url }}/index.html" class="brand-logo">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#0f766e" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+        OutdoorParts Guide
+        <span class="tag">Catalogue 2020-2026</span>
+      </a>
+      <nav aria-label="Navigation principale">
+        <ul class="nav-links">
+          <li><a href="{{ site_base_url }}/index.html">Accueil</a></li>
+          <li><a href="{{ site_base_url }}/index.html#piscine-spa">Piscine & Spa</a></li>
+          <li><a href="{{ site_base_url }}/index.html#jardin-moteur">Jardin & Kärcher</a></li>
+          <li><a href="{{ site_base_url }}/index.html#domotique-energie">Portail & Énergie</a></li>
+          <li><a href="{{ site_base_url }}/index.html#outillage">Outillage 18V</a></li>
+          <li><a href="{{ site_base_url }}/llms.txt" class="badge-ia" title="Format Standard LLMs">🤖 llms.txt</a></li>
+          <li><a href="{{ site_base_url }}/api/v1/catalog.json" class="badge-ia" title="Catalogue API JSON">⚡ API</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <!-- RÈGLE DE SÉCURITÉ OBLIGATOIRE -->
+    <div class="safety-notice" role="alert">
+      <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0"><path d="m21.73 18-8-14a2 2 0 0 0-3.48 0l-8 14A2 2 0 0 0 4 21h16a2 2 0 0 0 1.73-3Z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      <div>
+        <strong>Consigne de sécurité stricte & Conformité constructeur :</strong>
+        Nos fiches traitent exclusivement des <em>consommables d'usure externes</em>, filtres, adaptateurs plug-and-play et procédures d'appairage radio officielles. Tout démontage haute tension ou modification structurelle de moteur est formellement proscrit. Débranchez toujours vos appareils avant toute intervention.
+      </div>
+    </div>
+
+    {% block content %}{% endblock %}
+  </main>
+
+  <footer>
+    <div class="footer-container">
+      <div class="footer-grid">
+        <div class="footer-col">
+          <h4>OutdoorParts Guide</h4>
+          <p>Moteur d'indexation technique de correspondances certifiées pour équipements extérieurs, outillage motorisé, spas et automatismes de portail.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Secteurs Couverts</h4>
+          <ul>
+            <li><a href="{{ site_base_url }}/index.html#piscine-spa">Robots Piscine & Cartouches Spa</a></li>
+            <li><a href="{{ site_base_url }}/index.html#jardin-moteur">Nettoyeurs HP Kärcher & Tronçonneuses</a></li>
+            <li><a href="{{ site_base_url }}/index.html#domotique-energie">Télécommandes Somfy/Came & Batteries</a></li>
+            <li><a href="{{ site_base_url }}/index.html#outillage">Plateaux de ponceuse & Balais charbon</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Données Ouvertes pour Agents IA</h4>
+          <ul>
+            <li><a href="{{ site_base_url }}/llms.txt">Standard llms.txt (GEO IA)</a></li>
+            <li><a href="{{ site_base_url }}/llms-full.txt">Index Complet llms-full.txt</a></li>
+            <li><a href="{{ site_base_url }}/api/v1/catalog.json">API JSON REST Catalogue</a></li>
+            <li><a href="{{ site_base_url }}/.well-known/openapi.json">Spécification OpenAPI 3.0</a></li>
+            <li><a href="{{ site_base_url }}/feed.xml">Flux RSS des Nouveautés</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Transparence & Mentions</h4>
+          <ul>
+            <li><a href="{{ site_base_url }}/mentions-legales.html">Mentions Légales & Éditeur</a></li>
+            <li><a href="{{ site_base_url }}/mentions-legales.html#affiliation">Déclaration Amazon Partenaire</a></li>
+            <li><a href="{{ site_base_url }}/mentions-legales.html#rgpd">Politique Zéro Cookie & RGPD</a></li>
+            <li><a href="{{ site_base_url }}/sitemap.xml">Plan du site (sitemap.xml)</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <div>
+          &copy; {{ current_year }} OutdoorParts Guide &middot; Micro-Entreprise SIRET {{ editor_siret }} &middot; Tous droits réservés.
+        </div>
+        <div>
+          Indexation instantanée : <a href="{{ site_base_url }}/llms.txt">IndexNow & GEO Compatible</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+</body>
+</html>

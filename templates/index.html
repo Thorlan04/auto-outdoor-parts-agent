@@ -1,0 +1,274 @@
+{% extends "base.html" %}
+
+{% block title %}OutdoorParts Guide | Base Technique de Correspondances de Pièces d'Usure (2020-2026){% endblock %}
+{% block description %}Catalogue technique de correspondances certifiées de consommables, filtres, lames, courroies et télécommandes pour l'extérieur, la piscine et l'outillage.{% endblock %}
+{% block canonical %}index.html{% endblock %}
+{% block og_title %}OutdoorParts Guide - Références Exactes de Consommables Extérieurs{% endblock %}
+{% block og_description %}Trouvez en 1 clic les correspondances certifiées sans erreur 404 pour Kärcher, Dolphin, Intex, Somfy, Came, Makita, Stihl, Husqvarna.{% endblock %}
+{% block og_url %}{{ site_base_url }}/index.html{% endblock %}
+
+{% block extra_head %}
+<style>
+  .hero {
+    background: linear-gradient(135deg, #0f766e 0%, #134e4a 100%);
+    color: #ffffff;
+    border-radius: 16px;
+    padding: 3rem 2rem;
+    margin-bottom: 2.5rem;
+    box-shadow: 0 10px 25px -5px rgba(15, 118, 110, 0.2);
+    text-align: center;
+  }
+  .hero h1 {
+    font-size: 2.3rem;
+    font-weight: 800;
+    line-height: 1.2;
+    margin-bottom: 1rem;
+    letter-spacing: -0.02em;
+  }
+  .hero p {
+    font-size: 1.1rem;
+    color: #ccfbf1;
+    max-width: 800px;
+    margin: 0 auto 1.5rem;
+  }
+  .hero-stats {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    flex-wrap: wrap;
+    margin-top: 1.5rem;
+    border-top: 1px solid rgba(255,255,255,0.15);
+    padding-top: 1.5rem;
+  }
+  .hero-stat-item {
+    text-align: center;
+  }
+  .hero-stat-val {
+    font-size: 1.6rem;
+    font-weight: 800;
+    color: #fef08a;
+    font-family: var(--font-mono);
+  }
+  .hero-stat-lbl {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #99f6e4;
+  }
+
+  .sector-section {
+    margin-bottom: 3rem;
+  }
+  .sector-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 2px solid var(--border);
+    padding-bottom: 0.75rem;
+    margin-bottom: 1.5rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+  .sector-title {
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #0f172a;
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+  .sector-badge {
+    background: #f1f5f9;
+    color: #475569;
+    font-size: 0.75rem;
+    padding: 0.25rem 0.6rem;
+    border-radius: 9999px;
+    font-weight: 600;
+  }
+
+  .guides-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
+  }
+  .guide-card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  }
+  .guide-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px -4px rgba(0,0,0,0.08);
+    border-color: var(--primary);
+  }
+  .guide-card h3 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: #0f172a;
+    margin-bottom: 0.5rem;
+  }
+  .guide-card h3 a {
+    color: inherit;
+    text-decoration: none;
+  }
+  .guide-card h3 a:hover {
+    color: var(--primary);
+  }
+  .guide-card p {
+    font-size: 0.88rem;
+    color: var(--text-muted);
+    margin-bottom: 1rem;
+    flex-grow: 1;
+  }
+  .guide-card-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid #f1f5f9;
+    padding-top: 0.85rem;
+    font-size: 0.8rem;
+  }
+  .parts-count {
+    color: var(--primary);
+    font-weight: 600;
+  }
+</style>
+{% endblock %}
+
+{% block content %}
+<section class="hero">
+  <h1>Catalogue Technique de Correspondances Exactes</h1>
+  <p>Consommables certifiés, pièces d'usure plug-and-play, filtres de rechange et télécommandes de remplacement (2020-2026). Zéro lien mort, zéro erreur 404.</p>
+  <div class="hero-stats">
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">{{ stats.total_guides }}</div>
+      <div class="hero-stat-lbl">Guides Modèles</div>
+    </div>
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">{{ stats.total_parts_indexed }}</div>
+      <div class="hero-stat-lbl">Références Validées</div>
+    </div>
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">4 / 4</div>
+      <div class="hero-stat-lbl">Secteurs Spécialisés</div>
+    </div>
+    <div class="hero-stat-item">
+      <div class="hero-stat-val">100%</div>
+      <div class="hero-stat-lbl">Zéro Démontage HT</div>
+    </div>
+  </div>
+</section>
+
+<!-- SECTEUR 1 : PISCINE & SPA -->
+<section class="sector-section" id="piscine-spa">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>🏊</span> Piscine, Spa & Robots Nettoyeurs
+    </h2>
+    <span class="sector-badge">Dolphin, Intex, Zodiac, Bestway</span>
+  </div>
+  <div class="guides-grid">
+    {% for guide in categories.piscine_spa %}
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #0284c7; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
+        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <p>{{ guide.summary }}</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
+        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+      </div>
+    </div>
+    {% else %}
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- SECTEUR 2 : JARDIN & NETTOYEURS HAUTE PRESSION -->
+<section class="sector-section" id="jardin-moteur">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>🌿</span> Jardin Motorisé & Nettoyeurs Haute Pression
+    </h2>
+    <span class="sector-badge">Kärcher, Stihl, Husqvarna, Ryobi</span>
+  </div>
+  <div class="guides-grid">
+    {% for guide in categories.jardin_moteur %}
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #16a34a; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
+        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <p>{{ guide.summary }}</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
+        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+      </div>
+    </div>
+    {% else %}
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- SECTEUR 3 : DOMOTIQUE PORTAIL & ÉNERGIE DE SECOURS -->
+<section class="sector-section" id="domotique-energie">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>⚡</span> Domotique Portail, Garage & Énergie de Secours
+    </h2>
+    <span class="sector-badge">Somfy, Came, Nice, APC, Eaton</span>
+  </div>
+  <div class="guides-grid">
+    {% for guide in categories.domotique_energie %}
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #d97706; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
+        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <p>{{ guide.summary }}</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
+        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+      </div>
+    </div>
+    {% else %}
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    {% endfor %}
+  </div>
+</section>
+
+<!-- SECTEUR 4 : OUTILLAGE ÉLECTROPORTATIF -->
+<section class="sector-section" id="outillage">
+  <div class="sector-header">
+    <h2 class="sector-title">
+      <span>🛠️</span> Outillage Électroportatif 18V
+    </h2>
+    <span class="sector-badge">Makita, Bosch Pro, DeWalt, Einhell</span>
+  </div>
+  <div class="guides-grid">
+    {% for guide in categories.outillage %}
+    <div class="guide-card">
+      <div>
+        <div style="font-size: 0.75rem; color: #4f46e5; font-weight: 700; text-transform: uppercase; margin-bottom: 0.25rem;">{{ guide.brand }}</div>
+        <h3><a href="{{ site_base_url }}/guides/{{ guide.slug }}.html">{{ guide.model_name }}</a></h3>
+        <p>{{ guide.summary }}</p>
+      </div>
+      <div class="guide-card-footer">
+        <span class="parts-count">{{ guide.parts|length }} pièces référencées</span>
+        <a href="{{ site_base_url }}/guides/{{ guide.slug }}.html" class="btn-outline">Consulter &rarr;</a>
+      </div>
+    </div>
+    {% else %}
+    <p style="color: var(--text-muted); font-size: 0.9rem;">Génération en cours des guides du secteur...</p>
+    {% endfor %}
+  </div>
+</section>
+{% endblock %}

@@ -1,0 +1,82 @@
+name: OutdoorParts Autopilot
+
+on:
+  schedule:
+    # Exécution autonome toutes les 6 heures
+    - cron: '0 */6 * * *'
+  workflow_dispatch: # Déclenchement manuel possible depuis l'interface GitHub Actions
+  push:
+    branches:
+      - main
+    paths:
+      - 'templates/**'
+      - 'src/**'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "autopilot"
+  cancel-in-progress: false
+
+jobs:
+  run-agent:
+    name: Cycle d'Indexation & Diffusion IA
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupération du code source
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Configuration de Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+          cache: 'pip'
+
+      - name: Installation des dépendances
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Exécution de l'Agent d'Indexation (Gemini 2.5 Flash)
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG || 'outdoorparts-21' }}
+          SITE_BASE_URL: ${{ secrets.SITE_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+          EDITOR_NAME: ${{ secrets.EDITOR_NAME || 'Alexandre Martin' }}
+          EDITOR_SIRET: ${{ secrets.EDITOR_SIRET || '91234567800012' }}
+          EDITOR_ADDRESS: ${{ secrets.EDITOR_ADDRESS || '12 rue de la Paix, 75002 Paris, France' }}
+          EDITOR_EMAIL: ${{ secrets.EDITOR_EMAIL || 'contact@outdoorparts-guide.fr' }}
+        run: |
+          python src/agent_engine.py
+
+      - name: Diffusion Multicanale IA (Telegra.ph, README, IndexNow, Archive.org)
+        env:
+          AMAZON_PARTNER_TAG: ${{ secrets.AMAZON_PARTNER_TAG || 'outdoorparts-21' }}
+          SITE_BASE_URL: ${{ secrets.SITE_BASE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+        run: |
+          python src/ai_broadcaster.py
+
+      - name: Mise à jour du Tableau de Bord Fiscal & Livre de Recettes
+        run: |
+          python src/compta_manager.py
+
+      - name: Commit et Push des Mises à Jour
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Ajout des fichiers modifiés
+          git add docs/ data/catalog_state.json README.md compta_impots/tableau_de_bord_fiscal.html
+          
+          # Vérification s'il y a des changements avant de commiter
+          if git diff --staged --quiet; then
+            echo "Aucune modification à commiter pour ce cycle."
+          else
+            git commit -m "chore(autopilot): indexation 2 nouveaux modèles & mise à jour llms.txt [skip ci]"
+            git push origin main
+          fi

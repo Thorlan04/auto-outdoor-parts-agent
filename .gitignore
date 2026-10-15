@@ -1,0 +1,15 @@
+# Environnements virtuels
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+
+# Variables d'environnement & Secrets
+.env
+*.local.env
+
+# Données temporaires ou d'exécution
+.DS_Store
+Thumbs.db
+*.log
