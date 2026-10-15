@@ -13,19 +13,19 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
 - PIÈCE : Panier Filtrant Ultra-Fin 50 microns (Panneaux Printemps)
   REF OEM / COTES : OEM 9991467-ASSY / 50 microns
   USURE & RYTHME : Déchirure du maillage, colmatage persistant, eau trouble (1 à 2 saisons selon turbidité de l'eau)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
 - PIÈCE : Chenille d'Entraînement Crantée Haute Adhérence
   REF OEM / COTES : OEM 9985006 / Longueur 370mm crantée
   USURE & RYTHME : Patinage sur liner, détricotage des crans, robot qui bloque (Tous les 2 à 3 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
 - PIÈCE : Brosse Active PVC Lamelles Grise
   REF OEM / COTES : OEM 9995546-ASSY / Double vitesse
   USURE & RYTHME : Lamelles usées à plat, perte d'efficacité brossage ligne d'eau (Tous les 2 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
 - PIÈCE : Clapet Anti-Retour Évacuation Panier
   REF OEM / COTES : OEM 9995541 / Membrane silicone souple
   USURE & RYTHME : Saletés qui retombent dans le bassin à la sortie de l'eau (Contrôle annuel)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
 
 ================================================================================
 MODÈLE : Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440) (Piscine, Spa & Robots Nettoyeurs)
@@ -163,21 +163,29 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
 MODÈLE : Kärcher - Kärcher WD3 / WD3 S V-17/4/20 / Premium (Jardin Motorisé & Nettoyeurs Haute Pression)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/karcher-wd3-aspirateur-eau-poussiere.html
 MILLÉSIMES : 2020-2026
-RÉSUMÉ : Consommables certifiés pour aspirateur Kärcher WD3 : cartouche filtrante 6.414-552.0, sacs intissés 3 couches et brosses combinées.
+RÉSUMÉ : Optimisez la performance et la longévité de votre aspirateur Kärcher WD3 grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance simple et efficace.
 
 TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
-- PIÈCE : Filtre Cartouche Cylindrique Lavable Eau & Poussière
-  REF OEM / COTES : OEM 6.414-552.0 / Avec vis de verrouillage
-  USURE & RYTHME : Colmatage, odeur de poussière, surchauffe moteur, débit d'aspiration faible (Nettoyage régulier, remplacement tous les 12 mois)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=outdoorparts-21
-- PIÈCE : Sacs Filtrants Intissés Microfibres 3 Couches (Lot de 5)
-  REF OEM / COTES : OEM 2.863-314.0 / Résistance au déchirement
-  USURE & RYTHME : Sac plein, perte de force d'aspiration (À saturation)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=outdoorparts-21
-- PIÈCE : Buse Combinée Sol Eau et Poussière avec Clips Caoutchouc
-  REF OEM / COTES : OEM 2.863-000.0 / Diamètre 35mm
-  USURE & RYTHME : Bandes caoutchouc usées, roulettes bloquées (Tous les 3 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=outdoorparts-21
+- PIÈCE : Filtre cartouche plissé
+  REF OEM / COTES : Kärcher 2.863-314.0 (compatible WD3, WD3 S, WD3 Premium)
+  USURE & RYTHME : Perte significative de puissance d'aspiration, odeur de poussière, filtre visiblement encrassé ou déchiré. (Tous les 6 à 12 mois en usage régulier, ou dès que la performance diminue.)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=Filtre+cartouche+K%C3%A4rcher+WD3+2.863-314.0&tag=autoconsom-21
+- PIÈCE : Sacs filtrants polaire (non tissé)
+  REF OEM / COTES : Kärcher 2.863-314.0 (pack de sacs polaire) ou 2.863-006.0 (pack de sacs papier)
+  USURE & RYTHME : Sac plein, perte de puissance d'aspiration, risque de déchirure si trop rempli. (Dès que le sac est plein ou que la puissance d'aspiration diminue.)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=Sacs+filtrants+K%C3%A4rcher+WD3+polaire+2.863-314.0&tag=autoconsom-21
+- PIÈCE : Flexible d'aspiration complet
+  REF OEM / COTES : Kärcher 2.863-001.0 (1.7m, Ø35mm) ou compatible
+  USURE & RYTHME : Fissures, perforations, perte d'étanchéité, réduction de la puissance d'aspiration, difficulté à manipuler. (Selon l'état d'usure, généralement tous les 2 à 5 ans en usage intensif.)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=Flexible+aspiration+K%C3%A4rcher+WD3+1.7m+35mm&tag=autoconsom-21
+- PIÈCE : Buse de sol (suceur)
+  REF OEM / COTES : Kärcher 2.863-000.0 (buse sol clipsable) ou compatible Ø35mm
+  USURE & RYTHME : Brosses ou raclettes usées, fissures dans le corps de la buse, perte d'efficacité d'aspiration sur certaines surfaces. (Selon l'état d'usure, les raclettes peuvent être remplacées séparément si disponibles.)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=Buse+sol+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
+- PIÈCE : Filtre mousse
+  REF OEM / COTES : Kärcher 6.414-849.0 (pour aspiration humide)
+  USURE & RYTHME : Déchirure, encrassement excessif, odeur désagréable, perte de performance en aspiration humide. (Tous les 12 à 24 mois, ou dès qu'il est endommagé ou trop encrassé.)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=Filtre+mousse+K%C3%A4rcher+WD3+6.414-849.0&tag=autoconsom-21
 
 ================================================================================
 MODÈLE : Stihl - Stihl MS 170 / MS 180 / MS 171 (Jardin Motorisé & Nettoyeurs Haute Pression)
@@ -257,15 +265,15 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
 - PIÈCE : Télécommande 2 Canaux Compatible Somfy RTS (433.42 MHz)
   REF OEM / COTES : Fréquence 433.42 MHz RTS / Compatible moteurs Axovia, SGS, Elixo
   USURE & RYTHME : Boutons enfoncés, portée radio tombée à moins de 2 mètres, boîtier cassé (Remplacement en cas de perte ou défaillance)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21
 - PIÈCE : Piles Bouton Lithium CR2430 3V Haute Capacité (Lot de 5)
   REF OEM / COTES : CR2430 / Tension 3 Volts / Capacité 300mAh
   USURE & RYTHME : Voyant LED faible ou clignotement saccadé à l'appui (Tous les 2 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21
 - PIÈCE : Piles Bouton Lithium CR2032 3V (Pour modèles Keypop récents)
   REF OEM / COTES : CR2032 / Diamètre 20mm x Épaisseur 3.2mm
   USURE & RYTHME : Non-réponse du portail (Tous les 2 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21
 
 ================================================================================
 MODÈLE : Came - TOP 432EE / TOP 432NA / TOP 432EV (Domotique Portail, Garage & Énergie de Secours)
@@ -277,11 +285,11 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
 - PIÈCE : Télécommande 2 Canaux 433.92 MHz Came TOP 432EE
   REF OEM / COTES : OEM 001TOP-432EE / 433.92 MHz Code Fixe
   USURE & RYTHME : Boîtier fissuré, touches usées, perte de portée (En cas de perte ou défaillance mécanique)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
 - PIÈCE : Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)
   REF OEM / COTES : CR2016 / 3V x 2 piles superposées = 6 Volts
   USURE & RYTHME : LED rouge qui faiblit à l'appui (Tous les 2 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
 
 ================================================================================
 MODÈLE : APC (Schneider) / Eaton - Back-UPS ES / Pro / BX1400U / Ellipse ECO (Domotique Portail, Garage & Énergie de Secours)
@@ -293,11 +301,11 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
 - PIÈCE : Batterie Plomb Étanche AGM 12V 7.2Ah / 7.5Ah (Cosses Faston F2)
   REF OEM / COTES : 12V 7.2Ah / Dimensions 151 x 65 x 94 mm / Bornes F2 (6.35mm)
   USURE & RYTHME : Bip continu de l'onduleur, coupure instantanée en cas de coupure de courant (Tous les 3 à 5 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
 - PIÈCE : Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)
   REF OEM / COTES : 12V 9Ah / Dimensions identiques standard 151 x 65 x 94 mm / Cosses F2
   USURE & RYTHME : Perte d'autonomie progressive sur onduleurs 1400VA (BX1400U) (Tous les 3 à 5 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
 
 ================================================================================
 MODÈLE : Makita - Makita DBO180 / DBO180Z / BO5031 18V LXT (Outillage Électroportatif)
@@ -309,12 +317,28 @@ TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
 - PIÈCE : Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 3 Vis)
   REF OEM / COTES : Makita 743081-8 / Diamètre 125mm / 8 trous d'aspiration
   USURE & RYTHME : Disques abrasifs qui s'envolent pendant le ponçage (crochets velcro brûlés) (Dès perte d'adhérence du velcro)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
 - PIÈCE : Sac Récepteur de Poussière avec Support Plastique
   REF OEM / COTES : Makita 166078-4 / Verrouillage baïonnette
   USURE & RYTHME : Sac papier troué, poussière rejetée dans l'air (En cas de déchirement)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
 - PIÈCE : Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED
   REF OEM / COTES : Compatible BL1850B / 18V 5000mAh
   USURE & RYTHME : Perte rapide de charge, outil qui coupe sous charge (Tous les 3 à 5 ans)
-  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=outdoorparts-21
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
+
+================================================================================
+MODÈLE : Bosch Professional - GEX 125-1 AE / GEX 18V-125 Professional (Outillage Électroportatif)
+URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bosch-professional-gex-125-1-ae-ponceuse.html
+MILLÉSIMES : 2020-2026
+RÉSUMÉ : Correspondances d'usure Bosch Professional : plateau de ponçage 125mm 8 trous (2608000349), cartouche microfiltre et balais de charbon.
+
+TABLEAU DES PIÈCES D'USURE & LIENS AMAZON :
+- PIÈCE : Plateau de Ponçage Mi-Dur 125mm Auto-Agrippant (8 Trous)
+  REF OEM / COTES : Bosch 2608000349 / Diamètre 125mm / Dureté moyenne
+  USURE & RYTHME : Disques qui se décollent, bord du plateau ébréché (Dès altération de la surface velcro)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21
+- PIÈCE : Boîtier Microfiltre Réutilisable avec Filtre Plissé
+  REF OEM / COTES : Bosch 2605411225 / Raccord aspiration Click & Clean
+  USURE & RYTHME : Filtre cartonné saturé, poussière recrachée (Nettoyage par tapotement, renouvellement annuel)
+  RECHERCHE AMAZON : https://www.amazon.fr/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21
