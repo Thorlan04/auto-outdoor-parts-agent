@@ -1,10 +1,18 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-15T20:51:29.779763+00:00",
+  "updated_at": "2026-10-15T21:05:33.894736+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "autoconsom-21",
   "total_models": 23,
   "total_parts": 72,
+  "supported_languages": [
+    "fr",
+    "en",
+    "es",
+    "de",
+    "it",
+    "pt"
+  ],
   "supported_stores": [
     "fr",
     "us",
@@ -14,6 +22,8 @@
     "de",
     "es",
     "it",
+    "br",
+    "mx",
     "za"
   ],
   "models": [
@@ -44,7 +54,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21"
+          }
         },
         {
           "name": "Chenille d'Entraînement Crantée Haute Adhérence",
@@ -62,7 +87,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21"
+          }
         },
         {
           "name": "Brosse Active PVC Lamelles Grise",
@@ -80,7 +120,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21"
+          }
         },
         {
           "name": "Clapet Anti-Retour Évacuation Panier",
@@ -98,7 +153,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -156,7 +226,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21"
+          }
         },
         {
           "name": "Kit Joints Toriques Raccords Bloc Moteur",
@@ -174,7 +259,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21"
+          }
         },
         {
           "name": "Bouchon de Vidange avec Raccord Tuyau Arrosage",
@@ -192,7 +292,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21"
+          }
         },
         {
           "name": "Diffuseur Flottant de Chlore / Brome Régulé",
@@ -210,7 +325,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -268,7 +398,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21"
+          }
         },
         {
           "name": "Chenille de Traction Crantée (Unité)",
@@ -286,7 +431,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21"
+          }
         },
         {
           "name": "Brosse Avant à Lamelles Spéciale Liner / Carrelage",
@@ -304,7 +464,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -354,7 +529,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21"
+          }
         },
         {
           "name": "Rotor de Pompe avec Axe en Céramique Inoxydable",
@@ -372,7 +562,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21"
+          }
         },
         {
           "name": "Lot Joints d'Étanchéité Raccords Entrée / Sortie",
@@ -390,7 +595,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -440,7 +660,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k5+10m+quick+connect&tag=autoconsom-21"
+          }
         },
         {
           "name": "Lance Rotabuse Décapante Dirt Blaster DB 145",
@@ -458,7 +693,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=rotabuse+karcher+k5+db+145+2.643-244.0&tag=autoconsom-21"
+          }
         },
         {
           "name": "Kit de Joints Toriques de Rechange Haute Pression",
@@ -476,7 +726,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+joints+toriques+karcher+2.880-990.0&tag=autoconsom-21"
+          }
         },
         {
           "name": "Filtre à Eau Transparent Entrée d'Eau 3/4\"",
@@ -494,7 +759,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+eau+transparent+karcher+4.730-059.0&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -552,7 +832,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21"
+          }
         },
         {
           "name": "Sacs Filtrants Intissés Microfibres 3 Couches (Lot de 5)",
@@ -570,7 +865,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21"
+          }
         },
         {
           "name": "Buse Combinée Sol Eau et Poussière avec Clips Caoutchouc",
@@ -588,7 +898,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -638,7 +963,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=chaine+stihl+ms+170+3%2F8+1.1+44+maillons+3610-000-0044&tag=autoconsom-21"
+          }
         },
         {
           "name": "Guide-Chaîne Rollomatic E Mini 30cm (12 pouces)",
@@ -656,7 +996,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=guide+stihl+30cm+3005-000-3905+ms170&tag=autoconsom-21"
+          }
         },
         {
           "name": "Bougie d'Allumage NGK BPMR7A / Bosch WSR6F",
@@ -674,7 +1029,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=bougie+ngk+bpmr7a+stihl+ms+170&tag=autoconsom-21"
+          }
         },
         {
           "name": "Filtre à Air en Feutre Synthétique Rechange",
@@ -692,7 +1062,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+a+air+stihl+ms+170+1130-124-0800&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -742,7 +1127,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21"
+          }
         },
         {
           "name": "Connecteurs de Câble Étanches à Gel 3M Scotchlok 314",
@@ -760,7 +1160,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21"
+          }
         },
         {
           "name": "Bobine Câble Périphérique Cuivre Étamé Haute Conductivité (100m)",
@@ -778,7 +1193,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -828,7 +1258,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+compatible+somfy+rts+433.42+mhz+keypop&tag=autoconsom-21"
+          }
         },
         {
           "name": "Piles Bouton Lithium CR2430 3V Haute Capacité (Lot de 5)",
@@ -846,7 +1291,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2430+3v+lithium+somfy&tag=autoconsom-21"
+          }
         },
         {
           "name": "Piles Bouton Lithium CR2032 3V (Pour modèles Keypop récents)",
@@ -864,7 +1324,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2032+3v+energizer&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -914,7 +1389,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21"
+          }
         },
         {
           "name": "Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)",
@@ -932,7 +1422,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -982,7 +1487,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21"
+          }
         },
         {
           "name": "Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)",
@@ -1000,7 +1520,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1050,7 +1585,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21"
+          }
         },
         {
           "name": "Sac Récepteur de Poussière avec Support Plastique",
@@ -1068,7 +1618,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21"
+          }
         },
         {
           "name": "Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED",
@@ -1086,7 +1651,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1136,7 +1716,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+bosch+gex+125-1+ae+2608000349&tag=autoconsom-21"
+          }
         },
         {
           "name": "Boîtier Microfiltre Réutilisable avec Filtre Plissé",
@@ -1154,7 +1749,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=boitier+microfiltre+bosch+gex+125+2605411225&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1204,7 +1814,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=chaine+stihl+gta+26+71pm3+28+maillons+3670-000-0028&tag=autoconsom-21"
+          }
         },
         {
           "name": "Guide-Chaîne Rollomatic Light 10cm (4 pouces)",
@@ -1222,7 +1847,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=guide+stihl+gta+26+10cm+3007-003-0102&tag=autoconsom-21"
+          }
         },
         {
           "name": "Huile Adhésive Bio pour Chaîne et Guide Multioil Bio (50ml)",
@@ -1240,7 +1880,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=huile+chaine+stihl+multioil+bio+gta+26&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1290,7 +1945,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21"
+          }
         },
         {
           "name": "Lance Vario Power Jet Réglable VP 145",
@@ -1308,7 +1978,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21"
+          }
         },
         {
           "name": "Buse Débouche-Canalisations et Gouttières 15m",
@@ -1326,7 +2011,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1372,7 +2072,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+nice+era+flor+flo2re+433.92+mhz&tag=autoconsom-21"
+          }
         },
         {
           "name": "Pile Bouton Lithium CR2032 3V Longue Durée",
@@ -1390,7 +2105,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+cr2032+energizer+3v+lot&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1436,7 +2166,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21"
+          }
         },
         {
           "name": "Pile Alcaline Cylindrique 12V Type 23A (Lot de 5)",
@@ -1454,7 +2199,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1500,7 +2260,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+dewalt+dcw210n+125mm+n329079&tag=autoconsom-21"
+          }
         },
         {
           "name": "Sac à Poussière Textile avec Raccord Rapide AirLock",
@@ -1518,7 +2293,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+dewalt+dcw210+airlock+n273733&tag=autoconsom-21"
+          }
         },
         {
           "name": "Batterie Compatible 18V 5.0Ah Li-Ion XR avec Jauge LED",
@@ -1536,7 +2326,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+dewalt+18v+5ah+dcb184+compatible&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1586,7 +2391,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+einhell+18v+4ah+power+x+change+4511396&tag=autoconsom-21"
+          }
         },
         {
           "name": "Batterie Haute Densité 18V 5.2Ah Plus Power X-Change",
@@ -1604,7 +2424,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+einhell+18v+5.2ah+plus+power+x+change+4511437&tag=autoconsom-21"
+          }
         },
         {
           "name": "Chargeur Rapide Power-X-Boostcharger 6A",
@@ -1622,7 +2457,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=chargeur+rapide+einhell+power+x+boostcharger+6a&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1668,7 +2518,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+893max+remote+3+button+visor&tag=autoconsom-21"
+          }
         },
         {
           "name": "Pile Bouton Lithium 3V CR2032 Longue Durée (Lot Haute Fiabilité)",
@@ -1686,7 +2551,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=cr2032+lithium+battery+3v+pack&tag=autoconsom-21"
+          }
         },
         {
           "name": "Clip Pare-Soleil Métallique Ressort pour Télécommande Visière",
@@ -1704,7 +2584,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+visor+clip+893max&tag=autoconsom-21"
+          }
         },
         {
           "name": "Clavier Mural Extérieur Sans Fil à Code 877MAX / 878MAX",
@@ -1722,7 +2617,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=liftmaster+877max+wireless+keypad&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1780,7 +2690,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+tires+c10+pack&tag=autoconsom-21"
+          }
         },
         {
           "name": "Sac de Filtration Tout-Usage à Fermeture Éclair (Double Couture)",
@@ -1798,7 +2723,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+zippered+all+purpose+bag+k13&tag=autoconsom-21"
+          }
         },
         {
           "name": "Mousses d'Éponge pour Embout de Tuyau Balayeur Arrière (Lot de 10)",
@@ -1816,7 +2756,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+tail+scrubbers+9-100-3105+b5+pack&tag=autoconsom-21"
+          }
         },
         {
           "name": "Roulements à Billes Inox pour Roues de Déplacement (Lot de 8)",
@@ -1834,7 +2789,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=polaris+280+wheel+ball+bearing+c60+pack&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -1892,7 +2862,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+m18+battery+5.0ah+48-11-1850&tag=autoconsom-21"
+          }
         },
         {
           "name": "Chargeur Rapide Multi-Tension M12 - M18 (Double Baie)",
@@ -1910,7 +2895,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+rapid+charger+m12+m18+48-59-1812&tag=autoconsom-21"
+          }
         },
         {
           "name": "Crochet de Ceinture Inox avec Vis de Fixation (Lot de 2)",
@@ -1928,7 +2928,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+belt+clip+42-70-2653+m18+pack&tag=autoconsom-21"
+          }
         },
         {
           "name": "Coque de Protection Caoutchouc Amortisseur pour Batterie M18 XC",
@@ -1946,7 +2961,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=milwaukee+protective+boot+m18+battery+49-16-2767&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
@@ -2004,7 +3034,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+pool+vac+shoes+axv414p+axv417whp+4+pack&tag=autoconsom-21"
+          }
         },
         {
           "name": "Paire d'Ailettes Latérales Souples Gauche et Droite avec Fentes",
@@ -2022,7 +3067,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+wings+kit+axv055p+poolvac&tag=autoconsom-21"
+          }
         },
         {
           "name": "Cône Adaptateur Universel d'Aspiration Skimmer / Prise Balai",
@@ -2040,7 +3100,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+cone+adapter+axv099p+skimmer+vac&tag=autoconsom-21"
+          }
         },
         {
           "name": "Couronne / Bague d'Engrenage Central de Turbine V-Flex",
@@ -2058,7 +3133,22 @@
           "affiliate_url_de": "https://www.amazon.de/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
           "affiliate_url_es": "https://www.amazon.es/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
           "affiliate_url_it": "https://www.amazon.it/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21"
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=hayward+poolvac+pod+kit+axv413p+gear&tag=autoconsom-21"
+          }
         }
       ],
       "procedure_steps": [
