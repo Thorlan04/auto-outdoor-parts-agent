@@ -21,10 +21,10 @@
 - **OpenAPI 3.0 Spec :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json`](https://Thorlan04.github.io/auto-outdoor-parts-agent/.well-known/openapi.json)
 - **English RSS Feed :** [`https://Thorlan04.github.io/auto-outdoor-parts-agent/en/feed.xml`](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/feed.xml)
 
-### 📋 Global Technical Directory (23 models &middot; 75 indexed parts)
+### 📋 Global Technical Directory (23 models &middot; 72 indexed parts)
 | Brand | Equipment Model | Category | Key OEM Specs | Worldwide Amazon Search |
 |:---|:---|:---|:---|:---|
-| **Maytronics (Dolphin)** | [Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `Maytronics Dolphin Référence 9991432-R2` | [Search on Amazon US/Global](https://www.amazon.com/s?k=Dolphin+E20+E10+S200+cartouches+filtres+fines+9991432-R2&tag=autoconsom-21) |
+| **Maytronics (Dolphin)** | [Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM 9991467-ASSY / 50 microns` | [Search on Amazon US/Global](https://www.amazon.com/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21) |
 | **Intex** | [PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html) | `Piscine, Spa & Robots Nettoyeurs` | `Intex 29001E / H 7.3cm x D 10.8cm` | [Search on Amazon US/Global](https://www.amazon.com/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21) |
 | **Zodiac** | [TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/zodiac-tornax-rt3200-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM R0762900 / 100 microns rigide` | [Search on Amazon US/Global](https://www.amazon.com/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21) |
 | **Bestway** | [Lay-Z-Spa Miami / Paris / Hawaii AirJet](https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/bestway-lay-z-spa-miami-airjet.html) | `Piscine, Spa & Robots Nettoyeurs` | `Bestway 58323 / H 8.0cm x D 10.6cm` | [Search on Amazon US/Global](https://www.amazon.com/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21) |
@@ -78,7 +78,7 @@ Les agents autonomes (ChatGPT Search, Perplexity, Claude, Bing Copilot) peuvent 
 ## 📋 Répertoire Technique (France & International)
 | Marque | Modèle d'Équipement | Secteur | Réf. OEM / Cotes Clés | Recherche Sécurisée Multi-Pays |
 |:---|:---|:---|:---|:---|
-| **Maytronics (Dolphin)** | [Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `Maytronics Dolphin Référence 9991432-R2` | [Amazon.fr](https://www.amazon.fr/s?k=Dolphin+E20+E10+S200+cartouches+filtres+fines+9991432-R2&tag=autoconsom-21) &middot; [Amazon US/Global](https://www.amazon.com/s?k=Dolphin+E20+E10+S200+cartouches+filtres+fines+9991432-R2&tag=autoconsom-21) |
+| **Maytronics (Dolphin)** | [Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM 9991467-ASSY / 50 microns` | [Amazon.fr](https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21) &middot; [Amazon US/Global](https://www.amazon.com/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21) |
 | **Intex** | [PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/intex-purespa-bulles-spa-gonflable.html) | `Piscine, Spa & Robots Nettoyeurs` | `Intex 29001E / H 7.3cm x D 10.8cm` | [Amazon.fr](https://www.amazon.fr/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21) &middot; [Amazon US/Global](https://www.amazon.com/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21) |
 | **Zodiac** | [TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/zodiac-tornax-rt3200-robot-piscine.html) | `Piscine, Spa & Robots Nettoyeurs` | `OEM R0762900 / 100 microns rigide` | [Amazon.fr](https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21) &middot; [Amazon US/Global](https://www.amazon.com/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21) |
 | **Bestway** | [Lay-Z-Spa Miami / Paris / Hawaii AirJet](https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bestway-lay-z-spa-miami-airjet.html) | `Piscine, Spa & Robots Nettoyeurs` | `Bestway 58323 / H 8.0cm x D 10.6cm` | [Amazon.fr](https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21) &middot; [Amazon US/Global](https://www.amazon.com/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21) |
@@ -148,4 +148,4 @@ auto-outdoor-parts-agent/
 ├── templates/
 ```
 
-*Dernière synchronisation automatique : 2026-10-20 16:08 UTC*
+*Dernière synchronisation automatique : 2026-10-20 21:05 UTC*

@@ -11,7 +11,7 @@
 - Multilingual Sitemap: https://Thorlan04.github.io/auto-outdoor-parts-agent/sitemap.xml
 
 ## Model Guides Indexed (日本語)
-- [Maytronics (Dolphin) - Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/guides/dolphin-e20-maytronics-robot-piscine.html) : Guide d'entretien expert pour les robots nettoyeurs Dolphin E10, E20 et S200 (2020-2026). Identifiez et remplacez facilement les consommables et pièces d'usure externes pour maintenir votre robot performant et prolonger sa durée de vie, en toute sécurité.
+- [Maytronics (Dolphin) - Dolphin E20 / E10 / S200](https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/guides/dolphin-e20-maytronics-robot-piscine.html) : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
 - [Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440)](https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/guides/intex-purespa-bulles-spa-gonflable.html) : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
 - [Zodiac - TornaX RT 3200 / OT 3200 / RT 2100](https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/guides/zodiac-tornax-rt3200-robot-piscine.html) : Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.
 - [Bestway - Lay-Z-Spa Miami / Paris / Hawaii AirJet](https://Thorlan04.github.io/auto-outdoor-parts-agent/ja/guides/bestway-lay-z-spa-miami-airjet.html) : Pièces de remplacement certifiées Bestway Lay-Z-Spa : cartouches VI (58323), turbine à axe céramique et joints de vanne.
