@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-20T21:05:07.229822+00:00",
+  "updated_at": "2026-10-21T02:46:31.341084+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "autoconsom-21",
   "total_models": 23,
-  "total_parts": 72,
+  "total_parts": 73,
   "supported_languages": [
     "fr",
     "en",
@@ -39,185 +39,238 @@
       "model_name": "Dolphin E20 / E10 / S200",
       "years_range": "2020-2026",
       "title": "Dolphin E20 & S200 : Correspondances Filtres, Chenilles & Brosses",
-      "summary": "Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.",
-      "meta_description": "Pièces d'usure et consommables pour robot piscine Dolphin E20, E10, S200. Filtres ultra-fins, brosses et chenilles certifiées.",
+      "summary": "Optimisez la performance de votre robot Dolphin E20/E10/S200 : guide expert pour l'entretien et le remplacement des consommables essentiels.",
+      "meta_description": "Guide expert pour l'entretien des robots Dolphin E20, E10, S200 (2020-2026). Remplacement des filtres, chenilles, brosses et câble flottant. Sécurité garantie.",
       "parts": [
         {
-          "name": "Panier Filtrant Ultra-Fin 50 microns (Panneaux Printemps)",
-          "tag": "Filtration Fine Rechange",
-          "oem_or_dimension": "OEM 9991467-ASSY / 50 microns",
-          "wear_symptom": "Déchirure du maillage, colmatage persistant, eau trouble",
-          "replacement_interval": "1 à 2 saisons selon turbidité de l'eau",
-          "technical_detail": "Cadre rigide à 4 panneaux démontables sans outil, compatible panier standard Dolphin série E.",
-          "search_query": "filtre ultra fin dolphin e20 50 microns",
-          "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
+          "name": "Cartouches filtrantes fines (jeu de 2)",
+          "tag": "Filtration",
+          "oem_or_dimension": "Maytronics 9991432-ASSY (pour série E/S)",
+          "wear_symptom": "Eau de piscine trouble après nettoyage, débris non collectés, débit d'eau réduit, robot moins efficace.",
+          "replacement_interval": "Tous les 3-6 mois ou selon l'usage et la saleté de la piscine.",
+          "technical_detail": "Retient les particules fines et moyennes pour une eau claire. Se loge dans le panier filtrant.",
+          "search_query": "Dolphin E20 filtre fin, Maytronics 9991432-ASSY",
+          "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+filtre+fin%2C+Maytronics+9991432-ASSY&tag=autoconsom-21"
           }
         },
         {
-          "name": "Chenille d'Entraînement Crantée Haute Adhérence",
-          "tag": "Traction & Motricité",
-          "oem_or_dimension": "OEM 9985006 / Longueur 370mm crantée",
-          "wear_symptom": "Patinage sur liner, détricotage des crans, robot qui bloque",
-          "replacement_interval": "Tous les 2 à 3 ans",
-          "technical_detail": "Élastomère résistant au chlore et sel, clipsable directement sur les roues dentées sans vis.",
-          "search_query": "chenille dolphin e20 9985006",
-          "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
+          "name": "Cartouches filtrantes ultrafines (jeu de 2)",
+          "tag": "Filtration",
+          "oem_or_dimension": "Maytronics 9991433-ASSY (pour série E/S)",
+          "wear_symptom": "Poussière fine persistante au fond de la piscine, eau légèrement laiteuse, besoin d'une filtration supérieure.",
+          "replacement_interval": "Tous les 6-12 mois ou selon l'exigence de filtration et la finesse des débris.",
+          "technical_detail": "Offre une filtration supérieure pour les particules les plus petites (poussière, pollen).",
+          "search_query": "Dolphin E20 filtre ultrafin, Maytronics 9991433-ASSY",
+          "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+filtre+ultrafin%2C+Maytronics+9991433-ASSY&tag=autoconsom-21"
           }
         },
         {
-          "name": "Brosse Active PVC Lamelles Grise",
-          "tag": "Nettoyage Fond & Parois",
-          "oem_or_dimension": "OEM 9995546-ASSY / Double vitesse",
-          "wear_symptom": "Lamelles usées à plat, perte d'efficacité brossage ligne d'eau",
-          "replacement_interval": "Tous les 2 ans",
-          "technical_detail": "PVC souple spécial liners et coques polyester, montage clipsable sur axe central.",
-          "search_query": "brosse pvc active dolphin e20",
-          "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
+          "name": "Chenilles d'entraînement (jeu de 2)",
+          "tag": "Traction",
+          "oem_or_dimension": "Maytronics 9983114 (pour série E/S)",
+          "wear_symptom": "Le robot glisse, ne monte plus aux parois, avance de travers, traces d'usure visibles (fissures, étirement, perte d'adhérence).",
+          "replacement_interval": "Tous les 12-24 mois ou 500-1000 heures d'utilisation, selon l'état.",
+          "technical_detail": "Assurent la motricité, l'adhérence et la capacité du robot à grimper sur les parois.",
+          "search_query": "Dolphin E20 chenilles, Maytronics 9983114",
+          "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+chenilles%2C+Maytronics+9983114&tag=autoconsom-21"
           }
         },
         {
-          "name": "Clapet Anti-Retour Évacuation Panier",
-          "tag": "Étanchéité Panier",
-          "oem_or_dimension": "OEM 9995541 / Membrane silicone souple",
-          "wear_symptom": "Saletés qui retombent dans le bassin à la sortie de l'eau",
-          "replacement_interval": "Contrôle annuel",
-          "technical_detail": "Volet souple en élastomère transparent évitant le refoulement des débris.",
-          "search_query": "clapet anti retour dolphin e20",
-          "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
+          "name": "Brosses combinées (jeu de 2)",
+          "tag": "Nettoyage",
+          "oem_or_dimension": "Maytronics 9985006 (pour série E/S, si brosses combinées)",
+          "wear_symptom": "Parois et fond mal brossés, algues persistantes, brosses lisses, durcies ou endommagées.",
+          "replacement_interval": "Tous les 12-24 mois ou 500-1000 heures d'utilisation, selon l'état.",
+          "technical_detail": "Nettoient activement les surfaces de la piscine pour décoller les impuretés avant l'aspiration.",
+          "search_query": "Dolphin E20 brosses combinées, Maytronics 9985006",
+          "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+brosses+combin%C3%A9es%2C+Maytronics+9985006&tag=autoconsom-21"
+          }
+        },
+        {
+          "name": "Câble flottant avec Swivel (anti-torsion)",
+          "tag": "Alimentation & Connectivité",
+          "oem_or_dimension": "Maytronics 99958601-ASSY (longueur standard 15m pour série E/S)",
+          "wear_symptom": "Câble emmêlé de manière excessive, robot s'arrête de manière intermittente, faux contacts, gaine endommagée, swivel bloqué ou inefficace.",
+          "replacement_interval": "Tous les 3-5 ans ou si dommages visibles/dysfonctionnement du swivel.",
+          "technical_detail": "Câble basse tension flottant avec système anti-torsion intégré (Swivel) pour éviter les nœuds et assurer une couverture optimale.",
+          "search_query": "Dolphin E20 câble flottant swivel, Maytronics 99958601-ASSY",
+          "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+          "store_urls": {
+            "affiliate_url": "https://www.amazon.fr/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Dolphin+E20+c%C3%A2ble+flottant+swivel%2C+Maytronics+99958601-ASSY&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Mise hors tension du boîtier d'alimentation",
-          "description": "Débranchez toujours le bloc transformateur 230V de la prise secteur murale avant toute manipulation du robot."
+          "title": "Nettoyage du panier filtrant et des cartouches",
+          "description": "Débrancher impérativement le robot de son alimentation électrique. Ouvrir le capot supérieur du robot et retirer le panier filtrant. Vider les débris collectés. Rincer abondamment les cartouches filtrantes à l'eau claire (idéalement avec un jet d'eau) jusqu'à ce qu'elles soient propres. S'assurer qu'il ne reste aucun résidu. Replacer le panier filtrant dans le robot et refermer le capot."
         },
         {
-          "title": "Retrait et nettoyage du panier supérieur",
-          "description": "Pressez le loquet supérieur du capot, extrayez le panier verticalement et rincez les 4 panneaux sous un jet d'eau claire sans brosse métallique."
+          "title": "Remplacement des cartouches filtrantes",
+          "description": "Après avoir retiré et vidé le panier filtrant (voir étape précédente), déclipser délicatement les anciennes cartouches filtrantes du panier. Insérer les nouvelles cartouches en s'assurant qu'elles sont correctement positionnées et bien clipsées dans les logements prévus. Replacer le panier filtrant complet dans le robot."
         },
         {
-          "title": "Remplacement sans outil de la chenille",
-          "description": "Placez le robot sur la tranche. Faites glisser l'ancienne chenille hors de la gorge des galets de guidage, puis emboîtez la nouvelle chenille en tournant la roue à la main."
+          "title": "Remplacement des chenilles d'entraînement",
+          "description": "Débrancher le robot de son alimentation. Retourner le robot sur une surface stable. Retirer les caches latéraux des blocs moteurs (généralement clipsés ou fixés par de petites vis non électriques). Dégager les anciennes chenilles des roues motrices et des galets. Positionner les nouvelles chenilles en les tendant autour des roues et galets, en s'assurant qu'elles sont bien centrées. Remettre les caches latéraux en place."
+        },
+        {
+          "title": "Remplacement des brosses",
+          "description": "Débrancher le robot. Retourner le robot. Les brosses sont généralement clipsées ou fixées par de petites vis non électriques sur les axes. Retirer les anciennes brosses usées. Installer les nouvelles brosses en s'assurant de leur bon alignement et de leur fixation sécurisée sur les axes."
+        },
+        {
+          "title": "Vérification et nettoyage du Swivel du câble flottant",
+          "description": "Débrancher le robot. Examiner attentivement le Swivel (la pièce rotative située sur le câble, près de la connexion au robot). S'assurer qu'il tourne librement sur 360 degrés. Nettoyer toute accumulation de saleté, de cheveux ou de débris qui pourrait entraver sa rotation. Si le Swivel est bloqué ou ne tourne pas librement après nettoyage, un remplacement du câble flottant complet est souvent nécessaire pour éviter les torsions."
         }
       ],
       "faqs": [
         {
-          "question": "Quelle est la différence entre les filtres 100 microns et 50 microns sur Dolphin ?",
-          "answer": "Le filtre 100µ (fourni d'origine) est idéal pour l'ouverture de bassin au printemps contre les feuilles et gros débris. Les panneaux 50µ ultra-fins retiennent les poussières fines, algues mortes et pollens en pleine saison."
+          "question": "Mon robot Dolphin ne monte plus aux parois, que faire ?",
+          "answer": "Si votre robot Dolphin ne monte plus aux parois ou glisse, vérifiez l'état de vos chenilles et brosses. Des chenilles lisses, craquelées ou des brosses usées n'offrent plus l'adhérence nécessaire. Un remplacement de ces pièces est souvent la solution. Assurez-vous également que le panier filtrant n'est pas encrassé, car une filtration obstruée peut réduire la puissance d'aspiration et affecter la capacité d'adhérence."
         },
         {
-          "question": "Faut-il démonter le moteur pour changer les chenilles du Dolphin E20 ?",
-          "answer": "Absolument pas. Les chenilles et brosses sont 100% externes et se remplacent à la main sans dévisser le bloc moteur étanche."
+          "question": "L'eau de ma piscine reste trouble après le passage du robot, pourquoi ?",
+          "answer": "Une eau trouble après le nettoyage indique généralement un problème de filtration. Vérifiez que vos cartouches filtrantes ne sont pas saturées de débris ou endommagées. Nettoyez-les minutieusement après chaque cycle. Si elles sont anciennes, déchirées ou si le problème persiste, remplacez-les par des cartouches neuves, éventuellement des modèles ultrafins pour une meilleure capture des particules les plus fines."
+        },
+        {
+          "question": "Comment prolonger la durée de vie de mon robot nettoyeur Dolphin ?",
+          "answer": "Un entretien régulier est crucial. Nettoyez le panier filtrant après chaque cycle d'utilisation. Rincez le robot à l'eau claire après chaque utilisation pour éliminer les résidus de chlore et autres produits chimiques. Vérifiez régulièrement l'état des chenilles et brosses et remplacez-les dès les premiers signes d'usure. Stockez toujours le robot à l'abri du soleil direct et du gel."
+        },
+        {
+          "question": "Mon câble flottant s'emmêle constamment, est-ce normal ?",
+          "answer": "Non, ce n'est pas normal. Le câble flottant de votre robot Dolphin est équipé d'un système anti-torsion (Swivel) conçu pour éviter les emmêlements. Si le câble s'emmêle, le Swivel est probablement bloqué ou défectueux. Vérifiez qu'il tourne librement et nettoyez-le de tout débris. Si le problème persiste après nettoyage, le remplacement du câble flottant complet est recommandé."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "intex-purespa-bulles-spa-gonflable",
@@ -403,9 +456,9 @@
           "answer": "Non, la pression et les lessives détruisent la trame en dacron. Rincez-la au jet d'eau sous pression ou remplacez-la."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "zodiac-tornax-rt3200-robot-piscine",
@@ -546,9 +599,9 @@
           "answer": "Lorsque la chenille commence à se détendre ou si les crans intérieurs sont lisses, le robot patine sur les pentes du bassin."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "bestway-lay-z-spa-miami-airjet",
@@ -689,9 +742,9 @@
           "answer": "L'axe en plastique d'origine a tendance à s'user et vibrer sous l'effet de la chaleur et du calcaire, déclenchant l'erreur E02. L'axe céramique est inusable."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "karcher-k5-power-control-nettoyeur-hp",
@@ -877,9 +930,9 @@
           "answer": "Un calcaire déposé dans la chambre de la bille rotative ou un grain de sable bloque le vortex. Un trempage dans du vinaigre blanc suffit souvent, sinon le remplacement de la rotabuse DB 145 est nécessaire."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "karcher-wd3-aspirateur-eau-poussiere",
@@ -1020,9 +1073,9 @@
           "answer": "Oui, le matériau filtrant spécifique est imputrescible. Veillez simplement à retirer le sac en papier ou microfibre lors de l'aspiration de liquides."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "stihl-ms-170-tronconneuse-thermique",
@@ -1200,9 +1253,9 @@
           "answer": "La Stihl MS 170 d'origine utilise exclusivement la jauge ultra-fine 1.1mm (Picco Micro Mini 3). Monter une chaîne 1.3mm bloque dans le guide d'origine et endommage la machine."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "husqvarna-automower-310-robot-tondeuse",
@@ -1343,9 +1396,9 @@
           "answer": "La rotation libre permet à la lame de s'escamoter en cas de contact avec une pomme de pin ou un caillou, évitant de tordre le plateau ou d'éjecter un éclat métallique."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "somfy-keypop-keytis-rts-io-telecommande",
@@ -1486,9 +1539,9 @@
           "answer": "Oui, la fonction 'Prog' radio permet de cloner l'autorisation depuis une télécommande en fonctionnement en moins de 10 secondes."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "came-top-432ee-telecommande-portail",
@@ -1592,9 +1645,9 @@
           "answer": "Oui, la TOP 432EE remplace directement la TOP 432NA et la TOP 432EV grâce à son protocole bicanal 433.92 MHz rétrocompatible."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "apc-back-ups-batterie-plomb-etanche-12v",
@@ -1698,9 +1751,9 @@
           "answer": "La borne F1 mesure 4.75mm de large, tandis que la borne F2 mesure 6.35mm. Les onduleurs APC et Eaton utilisent quasi-exclusivement des bornes larges F2."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "makita-dbo180z-ponceuse-excentrique-18v",
@@ -1841,9 +1894,9 @@
           "answer": "Une pression excessive ou un ponçage à sec prolongé fait fondre les micro-crochets en nylon du plateau velcro. Remplacer le plateau 743081-8 résout instantanément le problème."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "bosch-professional-gex-125-1-ae-ponceuse",
@@ -1947,9 +2000,9 @@
           "answer": "Oui, Bosch propose des plateaux souples (courbes et finitions fines) et des plateaux mi-durs (standards universels 2608000349)."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "stihl-gta-26-scie-elagueuse-batterie",
@@ -2090,9 +2143,9 @@
           "answer": "La GTA 26 ne possède pas de pompe à huile automatique pour rester ultra-légère. Déposez quelques gouttes de Multioil Bio directement sur la rainure du guide avant chaque utilisation."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "karcher-k4-power-control-nettoyeur-hp",
@@ -2229,9 +2282,9 @@
           "answer": "Les deux utilisent le raccord Quick Connect jaune. Le flexible du K4 mesure 8m (130 bar) alors que celui du K5 mesure 10m (180 bar). Les deux sont interchangeables."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "nice-flo2re-era-flor-telecommande",
@@ -2331,9 +2384,9 @@
           "answer": "La série Flo utilise des micro-interrupteurs (DIP switchs) à code fixe. La série Flor (FLO2RE) utilise le rolling code sécurisé. Elles ne sont pas compatibles entre elles."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "bft-mitto-b-rcb02-telecommande-portail",
@@ -2343,99 +2396,125 @@
       "model_name": "BFT Mitto B RCB02 / Mitto 2M / 4M",
       "years_range": "2020-2026",
       "title": "Télécommandes BFT Mitto B RCB02 : Fréquence 433.92 MHz & Piles 12V",
-      "summary": "Correspondances télécommandes BFT Mitto : protocole Rolling Code 433.92 MHz, alimentation pile 12V 23A et procédure de programmation à distance.",
-      "meta_description": "Télécommandes BFT Mitto B RCB02 433.92 MHz Rolling Code, piles 12V type 23A. Procédure d'appairage radio sans contact direct carte électronique.",
+      "summary": "Optimisez la fiabilité de votre système BFT Mitto avec une maintenance préventive simple et sécurisée de vos télécommandes.",
+      "meta_description": "Maintenance préventive pour télécommandes BFT Mitto B RCB02, 2M, 4M (2020-2026). Remplacement sécurisé des piles et vérification des boîtiers.",
       "parts": [
         {
-          "name": "Télécommande 2 Boutons BFT Mitto B RCB02 R1 (433.92 MHz)",
-          "tag": "Émetteur Portes & Portails",
-          "oem_or_dimension": "BFT D111904 / 433.92 MHz Rolling Code",
-          "wear_symptom": "Portée dégradée, coque ouverte ou boutons écrasés",
-          "replacement_interval": "En cas de remplacement ou télécommande supplémentaire",
-          "technical_detail": "Protocole BFT Clonix avec système de codage à saut de fréquence sécurisé.",
-          "search_query": "telecommande bft mitto b rcb02 433.92 mhz",
-          "affiliate_url": "https://www.amazon.fr/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
+          "name": "Pile bouton Lithium 3V",
+          "tag": "Consommable Électronique",
+          "oem_or_dimension": "CR2032",
+          "wear_symptom": "Portée réduite de la télécommande, clignotement faible ou absence de la LED, télécommande inopérante par intermittence ou totalement.",
+          "replacement_interval": "Tous les 2-3 ans ou dès les premiers signes de faiblesse.",
+          "technical_detail": "Pile au lithium de type bouton, 3 Volts, diamètre 20mm, épaisseur 3.2mm. Non rechargeable.",
+          "search_query": "Pile CR2032 BFT Mitto",
+          "safety_note": "Ne pas tenter de recharger. Respecter la polarité lors de l'insertion.",
+          "affiliate_url": "https://www.amazon.fr/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Pile+CR2032+BFT+Mitto&tag=autoconsom-21"
           }
         },
         {
-          "name": "Pile Alcaline Cylindrique 12V Type 23A (Lot de 5)",
-          "tag": "Alimentation Haute Tension",
-          "oem_or_dimension": "Format 23A / V23GA / MN21 / 12 Volts",
-          "wear_symptom": "LED qui ne s'allume plus lors de la pression",
-          "replacement_interval": "Tous les 2 ans",
-          "technical_detail": "Assure la puissance radio nécessaire pour une portée maximale jusqu'à 50 mètres.",
-          "search_query": "pile 12v 23a energizer v23ga",
-          "affiliate_url": "https://www.amazon.fr/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
+          "name": "Télécommande BFT Mitto B RCB02 / Mitto 2M / 4M",
+          "tag": "Pièce d'usure externe / Radio",
+          "oem_or_dimension": "BFT Mitto B RCB02 (ou 2M, 4M selon le modèle exact)",
+          "wear_symptom": "Boutons bloqués, usés, cassés ou non réactifs; boîtier fissuré ou endommagé; perte de signal malgré une pile neuve.",
+          "replacement_interval": "Selon l'état d'usure ou de dommage physique.",
+          "technical_detail": "Émetteur radio 433.92 MHz, codage Rolling Code. Nécessite un appairage avec le récepteur existant de votre automatisme BFT.",
+          "search_query": "Télécommande BFT Mitto B RCB02",
+          "safety_note": "Le remplacement de la télécommande implique un appairage, consultez le manuel de votre automatisme BFT pour la procédure.",
+          "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Procédure d'enregistrement par appui simultané",
-          "description": "À côté du récepteur, appuyez simultanément sur les 2 boutons supérieurs de la télécommande en service jusqu'à allumage fixe de sa LED, puis appuyez sur la touche programmée. Appuyez ensuite sur les 2 boutons de la nouvelle télécommande puis sur la touche choisie pour valider."
+          "title": "Vérification de l'état général de la télécommande",
+          "description": "Examinez visuellement le boîtier de la télécommande pour détecter toute fissure, cassure ou dommage. Vérifiez que les boutons ne sont pas bloqués, enfoncés ou excessivement usés. Assurez-vous que la LED (si présente) s'allume correctement et avec une intensité normale lors de l'appui sur un bouton."
+        },
+        {
+          "title": "Remplacement sécurisé de la pile (CR2032)",
+          "description": "À l'aide d'un petit tournevis plat ou d'un outil d'ouverture en plastique, ouvrez délicatement le boîtier de la télécommande en suivant les encoches prévues (généralement sur le côté ou à l'arrière). Repérez la pile bouton (CR2032). Retirez l'ancienne pile en la déclipsant et insérez la nouvelle pile en respectant scrupuleusement la polarité (+ vers le haut). Refermez soigneusement le boîtier jusqu'à entendre un clic."
+        },
+        {
+          "title": "Test de fonctionnement après remplacement de la pile",
+          "description": "Après avoir remplacé la pile et refermé le boîtier, testez la télécommande à une distance raisonnable du portail ou de la porte de garage pour confirmer son bon fonctionnement et la portée du signal. Si le problème persiste, envisagez un appairage ou le remplacement de la télécommande complète."
+        },
+        {
+          "title": "Appairage d'une nouvelle télécommande (si nécessaire)",
+          "description": "Si vous remplacez la télécommande complète, suivez la procédure d'appairage spécifique à votre système BFT. Cette procédure implique généralement d'accéder au récepteur (souvent situé dans le boîtier du moteur ou du tableau de commande) et d'appuyer sur un bouton de programmation, puis sur le bouton de la nouvelle télécommande. Consultez impérativement le manuel de votre automatisme BFT pour les instructions précises. Cette étape ne doit en aucun cas impliquer le démontage de composants électriques haute tension."
         }
       ],
       "faqs": [
         {
-          "question": "Comment savoir si ma télécommande BFT utilise une pile 12V 23A ou une pile bouton ?",
-          "answer": "Les modèles BFT Mitto 2M utilisent une petite pile cylindrique 12V (23A). Les modèles récents extra-plats Mitto B RCB utilisent une pile bouton CR2032. Vérifiez le compartiment arrière."
+          "question": "Ma télécommande ne fonctionne plus, est-ce forcément la pile ?",
+          "answer": "La pile est la cause la plus fréquente d'un dysfonctionnement. Commencez toujours par la remplacer par une pile CR2032 neuve et de qualité. Si le problème persiste, vérifiez l'état physique de la télécommande (boutons, boîtier) et assurez-vous qu'elle est correctement appairée à votre récepteur BFT."
+        },
+        {
+          "question": "Comment savoir si ma télécommande BFT Mitto est un modèle 2M ou 4M ?",
+          "answer": "Le '2M' ou '4M' dans la désignation de la télécommande BFT Mitto indique le nombre de boutons programmables. Un modèle 2M aura deux boutons, tandis qu'un 4M en aura quatre. Le modèle B RCB02 est une désignation technique qui peut correspondre à une version spécifique de ces télécommandes."
+        },
+        {
+          "question": "Puis-je programmer moi-même une nouvelle télécommande BFT Mitto ?",
+          "answer": "Oui, l'appairage d'une nouvelle télécommande BFT Mitto est généralement une procédure simple et sécurisée qui ne nécessite pas d'outils spécifiques ni de compétences électriques avancées. Il faut accéder au récepteur de votre automatisme (souvent un petit boîtier ou une carte dans le moteur) et suivre les instructions de programmation détaillées dans le manuel de votre automatisme BFT."
+        },
+        {
+          "question": "Quelle est la durée de vie typique d'une pile de télécommande BFT Mitto ?",
+          "answer": "La durée de vie typique d'une pile CR2032 dans une télécommande BFT Mitto est d'environ 2 à 3 ans, en fonction de la fréquence d'utilisation. Une utilisation très intensive ou des températures extrêmes (très froides ou très chaudes) peuvent réduire cette durée de vie."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "dewalt-dcw210n-ponceuse-excentrique-18v",
@@ -2576,9 +2655,9 @@
           "answer": "Oui, la sortie arrière intègre le système standard DeWalt AirLock qui permet de brancher directement les tuyaux d'aspirateur sans adaptateur supplémentaire."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "einhell-power-x-change-18v-batteries",
@@ -2715,9 +2794,9 @@
           "answer": "Oui, 100% des outils Einhell portant le logo Power X-Change (jardin, bricolage, nettoyage) partagent exactement les mêmes batteries et chargeurs."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "chamberlain-liftmaster-893max-remote",
@@ -2903,9 +2982,9 @@
           "answer": "Insérez une lame fine de tournevis plat ou une pièce de monnaie dans la fente située sur le côté inférieur droit du boîtier et faites levier avec douceur pour déclipser les deux coques."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "polaris-280-pressure-pool-cleaner",
@@ -3091,9 +3170,9 @@
           "answer": "Vérifiez le flotteur de tête (OEM A40) situé sur le tuyau d'arrivée d'eau : s'il est gorgé d'eau, le robot perd son équilibre vertical. Remplacez le flotteur s'il n'est plus étanche."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "milwaukee-m18-redlithium-battery-pack",
@@ -3279,9 +3358,9 @@
           "answer": "Cela indique un accu endommagé ou trop chaud/froid. Laissez la batterie revenir à température ambiante (15°C à 25°C) pendant 20 minutes avant de réinsérer."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     },
     {
       "slug": "hayward-poolvac-xl-navigator-cleaner",
@@ -3467,9 +3546,9 @@
           "answer": "Vérifiez que le panier de préfiltre de pompe et le filtre à sable/cartouche sont propres. Nettoyez également le cône d'aspiration pour éliminer les feuilles qui réduiraient le débit."
         }
       ],
-      "date_published": "2026-10-20",
-      "date_modified": "2026-10-20",
-      "date_modified_fr": "20/10/2026"
+      "date_published": "2026-10-21",
+      "date_modified": "2026-10-21",
+      "date_modified_fr": "21/10/2026"
     }
   ]
 }
