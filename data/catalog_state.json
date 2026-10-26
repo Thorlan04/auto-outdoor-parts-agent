@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T02:35:14.669006+00:00",
+  "last_updated": "2026-10-26T12:00:46.365532+00:00",
   "telegra_ph_token": "b5fa29b2babee7ffd0369695ecd7b5c04ed03d9870cc4c578d7afb06ba87",
   "indexnow_key": "4a7f9b8c2e1d0f5a8b7c6d5e4f3a2b1c",
   "processed_models": [
@@ -29,6 +29,6 @@
   ],
   "stats": {
     "total_guides": 23,
-    "total_parts_indexed": 74
+    "total_parts_indexed": 73
   }
 }
