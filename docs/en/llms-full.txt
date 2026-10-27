@@ -7,116 +7,107 @@ Base URL: https://Thorlan04.github.io/auto-outdoor-parts-agent/en/
 MODEL : Maytronics (Dolphin) - Dolphin E20 / E10 / S200 (Piscine, Spa & Robots Nettoyeurs)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/dolphin-e20-maytronics-robot-piscine.html
 YEARS : 2020-2026
-SUMMARY : Optimisez la longévité et la performance de votre robot nettoyeur Dolphin E10, E20 ou S200 grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance sûre et efficace.
+SUMMARY : Optimisez la performance et la longévité de votre robot nettoyeur Dolphin E20/E10/S200 avec notre guide expert des consommables et pièces d'usure, garantissant une maintenance sûre et efficace.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Panier filtrant ultrafin (ou Cartouches filtrantes)
-  OEM REF / SPECS : Maytronics 9991432-ASSY (panier unique) ou 9991432-R2 (kit 2 cartouches)
-  WEAR & INTERVAL : Diminution du débit d'eau, eau de piscine trouble malgré le nettoyage, déchirures ou déformations du média filtrant, difficulté à retenir les fines particules. (Tous les 1 à 2 ans, ou dès l'apparition de signes d'usure ou de dégradation des performances de filtration.)
-  AMAZON (US) : https://www.amazon.com/s?k=Panier+filtre+Dolphin+E20%2C+Cartouches+filtrantes+Dolphin+S200%2C+Filtre+fin+Dolphin+E10&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Panier+filtre+Dolphin+E20%2C+Cartouches+filtrantes+Dolphin+S200%2C+Filtre+fin+Dolphin+E10&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Panier+filtre+Dolphin+E20%2C+Cartouches+filtrantes+Dolphin+S200%2C+Filtre+fin+Dolphin+E10&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Panier+filtre+Dolphin+E20%2C+Cartouches+filtrantes+Dolphin+S200%2C+Filtre+fin+Dolphin+E10&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Panier+filtre+Dolphin+E20%2C+Cartouches+filtrantes+Dolphin+S200%2C+Filtre+fin+Dolphin+E10&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Panier+filtre+Dolphin+E20%2C+Cartouches+filtrantes+Dolphin+S200%2C+Filtre+fin+Dolphin+E10&tag=autoconsom-21
-- PART : Chenilles d'entraînement (Kit de 2)
-  OEM REF / SPECS : Maytronics 9983112
-  WEAR & INTERVAL : Glissement du robot sur les parois ou le fond, déplacement irrégulier ou lent, traces d'usure visibles (fissures, craquelures, allongement) sur les bandes de caoutchouc. (Tous les 2 à 3 ans, ou dès que le robot présente des difficultés de déplacement ou d'adhérence.)
-  AMAZON (US) : https://www.amazon.com/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+S200%2C+Kit+chenilles+Dolphin+E10&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+S200%2C+Kit+chenilles+Dolphin+E10&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+S200%2C+Kit+chenilles+Dolphin+E10&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+S200%2C+Kit+chenilles+Dolphin+E10&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+S200%2C+Kit+chenilles+Dolphin+E10&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+S200%2C+Kit+chenilles+Dolphin+E10&tag=autoconsom-21
-- PART : Brosses de nettoyage (Kit de 2 PVC ou Combinées)
-  OEM REF / SPECS : Maytronics 9985006 (PVC) ou 9985007 (Combinées)
-  WEAR & INTERVAL : Efficacité de brossage réduite, présence d'algues ou de dépôts persistants, poils des brosses écrasés, manquants ou excessivement usés, traces sur le revêtement après le passage du robot. (Tous les 1 à 2 ans, ou dès que l'efficacité de nettoyage diminue visiblement.)
-  AMAZON (US) : https://www.amazon.com/s?k=Brosses+Dolphin+E20%2C+Brosses+PVC+Dolphin+S200%2C+Brosses+combin%C3%A9es+Dolphin+E10&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Brosses+Dolphin+E20%2C+Brosses+PVC+Dolphin+S200%2C+Brosses+combin%C3%A9es+Dolphin+E10&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Brosses+Dolphin+E20%2C+Brosses+PVC+Dolphin+S200%2C+Brosses+combin%C3%A9es+Dolphin+E10&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Brosses+Dolphin+E20%2C+Brosses+PVC+Dolphin+S200%2C+Brosses+combin%C3%A9es+Dolphin+E10&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Brosses+Dolphin+E20%2C+Brosses+PVC+Dolphin+S200%2C+Brosses+combin%C3%A9es+Dolphin+E10&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Brosses+Dolphin+E20%2C+Brosses+PVC+Dolphin+S200%2C+Brosses+combin%C3%A9es+Dolphin+E10&tag=autoconsom-21
-- PART : Hélice de pompe (Turbine)
-  OEM REF / SPECS : Maytronics 9982260 (Kit hélice)
-  WEAR & INTERVAL : Aspiration faible ou nulle, débris non ramassés, bruit anormal ou claquement provenant de la pompe, présence d'objets bloquant l'hélice. (Tous les 3 à 5 ans, ou si endommagée (choc, corps étranger) ou si l'aspiration est compromise.)
-  AMAZON (US) : https://www.amazon.com/s?k=H%C3%A9lice+Dolphin+E20%2C+Turbine+Dolphin+S200%2C+Kit+h%C3%A9lice+Dolphin+E10&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=H%C3%A9lice+Dolphin+E20%2C+Turbine+Dolphin+S200%2C+Kit+h%C3%A9lice+Dolphin+E10&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=H%C3%A9lice+Dolphin+E20%2C+Turbine+Dolphin+S200%2C+Kit+h%C3%A9lice+Dolphin+E10&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=H%C3%A9lice+Dolphin+E20%2C+Turbine+Dolphin+S200%2C+Kit+h%C3%A9lice+Dolphin+E10&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=H%C3%A9lice+Dolphin+E20%2C+Turbine+Dolphin+S200%2C+Kit+h%C3%A9lice+Dolphin+E10&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=H%C3%A9lice+Dolphin+E20%2C+Turbine+Dolphin+S200%2C+Kit+h%C3%A9lice+Dolphin+E10&tag=autoconsom-21
-- PART : Câble flottant (Basse tension)
-  OEM REF / SPECS : Maytronics 9995862-DIY (15m, pour E20/S200)
-  WEAR & INTERVAL : Fissures, coupures ou abrasions visibles sur l'isolant du câble, flottabilité réduite, robot ne s'allume pas (après vérification du bloc d'alimentation), faux contacts. (Tous les 4 à 6 ans, ou immédiatement si des dommages physiques sont constatés.)
-  AMAZON (US) : https://www.amazon.com/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+alimentation+Dolphin+S200%2C+C%C3%A2ble+robot+Dolphin+E10&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+alimentation+Dolphin+S200%2C+C%C3%A2ble+robot+Dolphin+E10&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+alimentation+Dolphin+S200%2C+C%C3%A2ble+robot+Dolphin+E10&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+alimentation+Dolphin+S200%2C+C%C3%A2ble+robot+Dolphin+E10&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+alimentation+Dolphin+S200%2C+C%C3%A2ble+robot+Dolphin+E10&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+alimentation+Dolphin+S200%2C+C%C3%A2ble+robot+Dolphin+E10&tag=autoconsom-21
+- PART : Panier filtrant (Fine ou Ultra-fine)
+  OEM REF / SPECS : Maytronics 9991432-ASSY (Fine) / 9991432-ASSY-ULTRA (Ultra-fine)
+  WEAR & INTERVAL : Diminution de l'efficacité de nettoyage, eau trouble, encrassement rapide du panier, déchirures ou déformations. (Nettoyage après chaque cycle. Remplacement tous les 1-2 ans ou si endommagé.)
+  AMAZON (US) : https://www.amazon.com/s?k=panier+filtre+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=panier+filtre+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=panier+filtre+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=panier+filtre+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=panier+filtre+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=panier+filtre+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+- PART : Brosses (PVC ou Combinées)
+  OEM REF / SPECS : Maytronics 9985006 (PVC) / 9985007 (Combinées)
+  WEAR & INTERVAL : Brosses lisses, usées, déchirées ou déformées. Traces de saleté résiduelles sur les parois et le fond de la piscine. (Tous les 12-24 mois selon l'utilisation et le type de revêtement de piscine.)
+  AMAZON (US) : https://www.amazon.com/s?k=brosses+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=brosses+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=brosses+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=brosses+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=brosses+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=brosses+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+- PART : Chenilles d'entraînement (Kit)
+  OEM REF / SPECS : Maytronics 9985008 (Kit de 2 chenilles)
+  WEAR & INTERVAL : Robot se déplace lentement, patine, ne monte plus les parois, chenilles craquelées, détendues ou cassées. (Tous les 24-36 mois ou dès les premiers signes d'usure visible.)
+  AMAZON (US) : https://www.amazon.com/s?k=chenilles+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=chenilles+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=chenilles+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=chenilles+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=chenilles+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=chenilles+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+- PART : Roues motrices (Poulies)
+  OEM REF / SPECS : Maytronics 9985009 (Kit de 2 roues)
+  WEAR & INTERVAL : Dents usées ou cassées sur les roues, la chenille glisse, bruit anormal lors du déplacement du robot. (Tous les 24-36 mois ou si endommagées physiquement.)
+  AMAZON (US) : https://www.amazon.com/s?k=roues+motrices+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=roues+motrices+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=roues+motrices+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=roues+motrices+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=roues+motrices+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=roues+motrices+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+- PART : Câble flottant avec Swivel (côté robot)
+  OEM REF / SPECS : Maytronics 9995860-DIY (15m) / 9995861-DIY (18m)
+  WEAR & INTERVAL : Câble emmêlé de manière irréversible, gaine endommagée, faux contacts, robot ne s'allume plus ou s'arrête de manière intermittente. (Si endommagé ou si le système anti-torsion (swivel) ne fonctionne plus correctement.)
+  AMAZON (US) : https://www.amazon.com/s?k=c%C3%A2ble+flottant+swivel+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=c%C3%A2ble+flottant+swivel+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=c%C3%A2ble+flottant+swivel+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=c%C3%A2ble+flottant+swivel+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=c%C3%A2ble+flottant+swivel+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=c%C3%A2ble+flottant+swivel+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+- PART : Flotteur / Poignée
+  OEM REF / SPECS : Maytronics 9985010 (Poignée complète)
+  WEAR & INTERVAL : Flotteur endommagé, fissuré, ne permettant plus au robot de flotter correctement ou de le manipuler en toute sécurité. (Si endommagé physiquement.)
+  AMAZON (US) : https://www.amazon.com/s?k=poign%C3%A9e+flotteur+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=poign%C3%A9e+flotteur+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=poign%C3%A9e+flotteur+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=poign%C3%A9e+flotteur+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=poign%C3%A9e+flotteur+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=poign%C3%A9e+flotteur+dolphin+e20+e10+s200+maytronics&tag=autoconsom-21
 
 ================================================================================
 MODEL : Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440) (Piscine, Spa & Robots Nettoyeurs)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/intex-purespa-bulles-spa-gonflable.html
 YEARS : 2020-2026
-SUMMARY : Maintenance simplifiée et prolongée pour votre PureSpa Intex : identifiez et remplacez facilement les consommables essentiels pour une performance optimale et une eau cristalline.
+SUMMARY : Correspondances certifiées pour spas Intex : cartouches Type S1, joints d'étanchéité raccords 11004 et adaptateurs 32/38mm.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Cartouche de filtration Type S1
-  OEM REF / SPECS : Intex réf. 29001
-  WEAR & INTERVAL : Diminution du débit de filtration, eau trouble, encrassement visible, odeur désagréable. (Toutes les 2 à 4 semaines (selon usage et nettoyage hebdomadaire).)
-  AMAZON (US) : https://www.amazon.com/s?k=Cartouche+filtre+Intex+PureSpa+S1+29001&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Cartouche+filtre+Intex+PureSpa+S1+29001&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Cartouche+filtre+Intex+PureSpa+S1+29001&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Cartouche+filtre+Intex+PureSpa+S1+29001&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Cartouche+filtre+Intex+PureSpa+S1+29001&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Cartouche+filtre+Intex+PureSpa+S1+29001&tag=autoconsom-21
-- PART : Grille de support de cartouche de filtration
-  OEM REF / SPECS : Intex réf. 11956
-  WEAR & INTERVAL : Fissures, déformation, rupture des ailettes, difficulté à visser/dévisser la cartouche. (Tous les 1 à 2 ans ou si endommagé visiblement.)
-  AMAZON (US) : https://www.amazon.com/s?k=Grille+support+filtre+Intex+PureSpa+11956&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Grille+support+filtre+Intex+PureSpa+11956&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Grille+support+filtre+Intex+PureSpa+11956&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Grille+support+filtre+Intex+PureSpa+11956&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Grille+support+filtre+Intex+PureSpa+11956&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Grille+support+filtre+Intex+PureSpa+11956&tag=autoconsom-21
-- PART : Tuyau de gonflage avec manomètre
-  OEM REF / SPECS : Intex réf. 10202 (tuyau) + 10203 (manomètre)
-  WEAR & INTERVAL : Fuites d'air au niveau du tuyau ou des raccords, manomètre défectueux (aiguille bloquée ou lecture fausse). (Si endommagé, fuite ou manomètre imprécis.)
-  AMAZON (US) : https://www.amazon.com/s?k=Tuyau+gonflage+manom%C3%A8tre+Intex+PureSpa+10202+10203&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Tuyau+gonflage+manom%C3%A8tre+Intex+PureSpa+10202+10203&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Tuyau+gonflage+manom%C3%A8tre+Intex+PureSpa+10202+10203&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Tuyau+gonflage+manom%C3%A8tre+Intex+PureSpa+10202+10203&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Tuyau+gonflage+manom%C3%A8tre+Intex+PureSpa+10202+10203&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Tuyau+gonflage+manom%C3%A8tre+Intex+PureSpa+10202+10203&tag=autoconsom-21
-- PART : Bouchon de vidange externe
-  OEM REF / SPECS : Intex réf. 10201
-  WEAR & INTERVAL : Fuites d'eau au niveau du bouchon, joint torique usé ou manquant, filetage endommagé. (Si fuite ou endommagé.)
-  AMAZON (US) : https://www.amazon.com/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21
-- PART : Jeu de boucles de verrouillage de couverture
-  OEM REF / SPECS : Intex réf. 11957 (lot de 4)
-  WEAR & INTERVAL : Boucles cassées, fissurées, ne se clipsent plus correctement, sangles usées ou dégradées par les UV. (Si endommagé pour maintenir la sécurité, l'isolation et la propreté du spa.)
-  AMAZON (US) : https://www.amazon.com/s?k=Boucles+couverture+Intex+PureSpa+11957&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Boucles+couverture+Intex+PureSpa+11957&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Boucles+couverture+Intex+PureSpa+11957&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Boucles+couverture+Intex+PureSpa+11957&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Boucles+couverture+Intex+PureSpa+11957&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Boucles+couverture+Intex+PureSpa+11957&tag=autoconsom-21
-- PART : Kit de réparation (rustines)
-  OEM REF / SPECS : Intex réf. 10300
-  WEAR & INTERVAL : Petites perforations, déchirures ou micro-fuites sur la structure gonflable du spa. (À avoir en stock préventivement pour toute réparation d'urgence.)
-  AMAZON (US) : https://www.amazon.com/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21
+- PART : Cartouches de Filtration Type S1 (Lot Haute Densité)
+  OEM REF / SPECS : Intex 29001E / H 7.3cm x D 10.8cm
+  WEAR & INTERVAL : Débit d'eau réduit, code erreur E90, cartouche saturée (Toutes les 2 à 3 semaines en saison)
+  AMAZON (US) : https://www.amazon.com/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=cartouche+type+s1+intex+purespa&tag=autoconsom-21
+- PART : Kit Joints Toriques Raccords Bloc Moteur
+  OEM REF / SPECS : Intex OEM 11004 / 11005 / Diamètre 38mm
+  WEAR & INTERVAL : Goutte à goutte entre le spa et le bloc technique, perte de pression (Remplacement annuel ou à chaque remise en eau)
+  AMAZON (US) : https://www.amazon.com/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=joint+torique+intex+11004+purespa&tag=autoconsom-21
+- PART : Bouchon de Vidange avec Raccord Tuyau Arrosage
+  OEM REF / SPECS : Intex 10201 / Filetage standard 3/4"
+  WEAR & INTERVAL : Fuite par la vanne de vidange inférieure ou filetage foiré (En cas de casse ou fissure)
+  AMAZON (US) : https://www.amazon.com/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=bouchon+vidange+intex+purespa+adaptateur&tag=autoconsom-21
+- PART : Diffuseur Flottant de Chlore / Brome Régulé
+  OEM REF / SPECS : Intex 29044 / Galets 20g (1 pouce)
+  WEAR & INTERVAL : Pastilles dissoutes trop vite ou blocage de la bague de dosage (Tous les 2 ans)
+  AMAZON (US) : https://www.amazon.com/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=diffuseur+flottant+brome+spa+intex+20g&tag=autoconsom-21
 
 ================================================================================
 MODEL : Zodiac - TornaX RT 3200 / OT 3200 / RT 2100 (Piscine, Spa & Robots Nettoyeurs)
@@ -236,54 +227,36 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : Kärcher - Kärcher WD3 / WD3 S V-17/4/20 / Premium (Jardin Motorisé & Nettoyeurs Haute Pression)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-wd3-aspirateur-eau-poussiere.html
 YEARS : 2020-2026
-SUMMARY : Optimisez la longévité et la performance de votre Kärcher WD3/WD3 S grâce à un entretien simple et sécurisé des consommables et pièces d'usure externes, garantissant une aspiration constante et efficace.
+SUMMARY : Consommables certifiés pour aspirateur Kärcher WD3 : cartouche filtrante 6.414-552.0, sacs intissés 3 couches et brosses combinées.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Filtre à cartouche plissé
-  OEM REF / SPECS : Kärcher 2.863-005.0 (ou compatible pour WD3/WD3 S)
-  WEAR & INTERVAL : Perte significative de puissance d'aspiration, dégagement de poussière fine à l'échappement, filtre visiblement encrassé ou déchiré. (Tous les 6 à 12 mois en usage régulier, ou dès que les symptômes apparaissent.)
-  AMAZON (US) : https://www.amazon.com/s?k=filtre+cartouche+K%C3%A4rcher+WD3%2C+filtre+pliss%C3%A9+K%C3%A4rcher+2.863-005.0&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=filtre+cartouche+K%C3%A4rcher+WD3%2C+filtre+pliss%C3%A9+K%C3%A4rcher+2.863-005.0&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=filtre+cartouche+K%C3%A4rcher+WD3%2C+filtre+pliss%C3%A9+K%C3%A4rcher+2.863-005.0&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=filtre+cartouche+K%C3%A4rcher+WD3%2C+filtre+pliss%C3%A9+K%C3%A4rcher+2.863-005.0&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=filtre+cartouche+K%C3%A4rcher+WD3%2C+filtre+pliss%C3%A9+K%C3%A4rcher+2.863-005.0&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=filtre+cartouche+K%C3%A4rcher+WD3%2C+filtre+pliss%C3%A9+K%C3%A4rcher+2.863-005.0&tag=autoconsom-21
-- PART : Sacs filtrants en non-tissé (polaire)
-  OEM REF / SPECS : Kärcher 2.863-314.0 (ou compatible pour WD3/WD3 S, 3-5 sacs)
-  WEAR & INTERVAL : Sac plein, diminution de la puissance d'aspiration, risque de déchirure si trop rempli, odeurs désagréables. (Dès que le sac est plein ou que la puissance d'aspiration diminue.)
-  AMAZON (US) : https://www.amazon.com/s?k=sacs+filtre+K%C3%A4rcher+WD3%2C+sacs+polaire+K%C3%A4rcher+2.863-314.0&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=sacs+filtre+K%C3%A4rcher+WD3%2C+sacs+polaire+K%C3%A4rcher+2.863-314.0&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=sacs+filtre+K%C3%A4rcher+WD3%2C+sacs+polaire+K%C3%A4rcher+2.863-314.0&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=sacs+filtre+K%C3%A4rcher+WD3%2C+sacs+polaire+K%C3%A4rcher+2.863-314.0&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=sacs+filtre+K%C3%A4rcher+WD3%2C+sacs+polaire+K%C3%A4rcher+2.863-314.0&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=sacs+filtre+K%C3%A4rcher+WD3%2C+sacs+polaire+K%C3%A4rcher+2.863-314.0&tag=autoconsom-21
-- PART : Flexible d'aspiration complet
-  OEM REF / SPECS : Kärcher 2.863-001.0 (ou compatible, Ø 35mm, longueur 2m)
-  WEAR & INTERVAL : Fissures, perforations, perte d'étanchéité entraînant une baisse d'aspiration, déformation permanente. (Selon l'état d'usure, généralement tous les 2 à 5 ans en usage normal.)
-  AMAZON (US) : https://www.amazon.com/s?k=flexible+aspiration+K%C3%A4rcher+WD3%2C+tuyau+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=flexible+aspiration+K%C3%A4rcher+WD3%2C+tuyau+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=flexible+aspiration+K%C3%A4rcher+WD3%2C+tuyau+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=flexible+aspiration+K%C3%A4rcher+WD3%2C+tuyau+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=flexible+aspiration+K%C3%A4rcher+WD3%2C+tuyau+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=flexible+aspiration+K%C3%A4rcher+WD3%2C+tuyau+K%C3%A4rcher+WD3+35mm&tag=autoconsom-21
-- PART : Buse de sol clipsable (pour sec et humide)
-  OEM REF / SPECS : Kärcher 2.863-000.0 (ou compatible, avec bandes racleuses/brosses)
-  WEAR & INTERVAL : Bandes racleuses ou brosses usées/manquantes, corps de buse fissuré, perte d'efficacité de ramassage des débris. (Selon l'état d'usure, généralement tous les 1 à 3 ans en usage régulier.)
-  AMAZON (US) : https://www.amazon.com/s?k=buse+sol+K%C3%A4rcher+WD3%2C+embout+sol+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=buse+sol+K%C3%A4rcher+WD3%2C+embout+sol+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=buse+sol+K%C3%A4rcher+WD3%2C+embout+sol+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=buse+sol+K%C3%A4rcher+WD3%2C+embout+sol+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=buse+sol+K%C3%A4rcher+WD3%2C+embout+sol+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=buse+sol+K%C3%A4rcher+WD3%2C+embout+sol+K%C3%A4rcher+WD3&tag=autoconsom-21
-- PART : Roulettes pivotantes
-  OEM REF / SPECS : Kärcher 2.863-002.0 (ou compatible, lot de 4)
-  WEAR & INTERVAL : Roulettes bloquées, cassées, difficiles à faire pivoter, appareil instable ou difficile à déplacer. (Selon l'état d'usure, généralement tous les 3 à 7 ans.)
-  AMAZON (US) : https://www.amazon.com/s?k=roulettes+K%C3%A4rcher+WD3%2C+roues+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=roulettes+K%C3%A4rcher+WD3%2C+roues+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=roulettes+K%C3%A4rcher+WD3%2C+roues+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=roulettes+K%C3%A4rcher+WD3%2C+roues+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=roulettes+K%C3%A4rcher+WD3%2C+roues+K%C3%A4rcher+WD3&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=roulettes+K%C3%A4rcher+WD3%2C+roues+K%C3%A4rcher+WD3&tag=autoconsom-21
+- PART : Filtre Cartouche Cylindrique Lavable Eau & Poussière
+  OEM REF / SPECS : OEM 6.414-552.0 / Avec vis de verrouillage
+  WEAR & INTERVAL : Colmatage, odeur de poussière, surchauffe moteur, débit d'aspiration faible (Nettoyage régulier, remplacement tous les 12 mois)
+  AMAZON (US) : https://www.amazon.com/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=filtre+cartouche+karcher+wd3+6.414-552.0&tag=autoconsom-21
+- PART : Sacs Filtrants Intissés Microfibres 3 Couches (Lot de 5)
+  OEM REF / SPECS : OEM 2.863-314.0 / Résistance au déchirement
+  WEAR & INTERVAL : Sac plein, perte de force d'aspiration (À saturation)
+  AMAZON (US) : https://www.amazon.com/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=sac+intisse+karcher+wd3+2.863-314.0&tag=autoconsom-21
+- PART : Buse Combinée Sol Eau et Poussière avec Clips Caoutchouc
+  OEM REF / SPECS : OEM 2.863-000.0 / Diamètre 35mm
+  WEAR & INTERVAL : Bandes caoutchouc usées, roulettes bloquées (Tous les 3 ans)
+  AMAZON (US) : https://www.amazon.com/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=buse+sol+karcher+wd3+eau+poussiere+35mm&tag=autoconsom-21
 
 ================================================================================
 MODEL : Stihl - Stihl MS 170 / MS 180 / MS 171 (Jardin Motorisé & Nettoyeurs Haute Pression)
@@ -455,36 +428,36 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : Makita - Makita DBO180 / DBO180Z / BO5031 18V LXT (Outillage Électroportatif)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/makita-dbo180z-ponceuse-excentrique-18v.html
 YEARS : 2020-2026
-SUMMARY : Correspondances consommables pour ponceuse Makita DBO180Z : plateau auto-agrippant 125mm 8 trous (743081-8), sac à poussière et disques abrasifs.
+SUMMARY : Guide complet d'entretien et de remplacement des consommables essentiels pour les ponceuses orbitales Makita DBO180, DBO180Z et BO5031 18V LXT, assurant performance et longévité en toute sécurité.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 3 Vis)
-  OEM REF / SPECS : Makita 743081-8 / Diamètre 125mm / 8 trous d'aspiration
-  WEAR & INTERVAL : Disques abrasifs qui s'envolent pendant le ponçage (crochets velcro brûlés) (Dès perte d'adhérence du velcro)
-  AMAZON (US) : https://www.amazon.com/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21
-- PART : Sac Récepteur de Poussière avec Support Plastique
-  OEM REF / SPECS : Makita 166078-4 / Verrouillage baïonnette
-  WEAR & INTERVAL : Sac papier troué, poussière rejetée dans l'air (En cas de déchirement)
-  AMAZON (US) : https://www.amazon.com/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21
-- PART : Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED
-  OEM REF / SPECS : Compatible BL1850B / 18V 5000mAh
-  WEAR & INTERVAL : Perte rapide de charge, outil qui coupe sous charge (Tous les 3 à 5 ans)
-  AMAZON (US) : https://www.amazon.com/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21
+- PART : Plateau de ponçage 125mm (8 trous)
+  OEM REF / SPECS : Makita 197314-7 (125mm, 8 trous, auto-agrippant)
+  WEAR & INTERVAL : Diminution de l'adhérence des disques abrasifs, vibrations excessives, marques circulaires sur la surface poncée, déformation du plateau. (Tous les 6 à 12 mois en usage intensif, ou dès les premiers signes de perte d'adhérence.)
+  AMAZON (US) : https://www.amazon.com/s?k=Makita+197314-7+plateau+pon%C3%A7age+125mm+DBO180+BO5031&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Makita+197314-7+plateau+pon%C3%A7age+125mm+DBO180+BO5031&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Makita+197314-7+plateau+pon%C3%A7age+125mm+DBO180+BO5031&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Makita+197314-7+plateau+pon%C3%A7age+125mm+DBO180+BO5031&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Makita+197314-7+plateau+pon%C3%A7age+125mm+DBO180+BO5031&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Makita+197314-7+plateau+pon%C3%A7age+125mm+DBO180+BO5031&tag=autoconsom-21
+- PART : Sac à poussière complet
+  OEM REF / SPECS : Makita 135246-0
+  WEAR & INTERVAL : Réduction significative de l'efficacité d'aspiration, déchirures visibles, colmatage irréversible du tissu, difficulté à vider les poussières. (Tous les 3 à 6 mois en usage régulier, ou dès détérioration physique ou perte d'efficacité.)
+  AMAZON (US) : https://www.amazon.com/s?k=Makita+135246-0+sac+poussi%C3%A8re+DBO180+BO5031&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Makita+135246-0+sac+poussi%C3%A8re+DBO180+BO5031&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Makita+135246-0+sac+poussi%C3%A8re+DBO180+BO5031&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Makita+135246-0+sac+poussi%C3%A8re+DBO180+BO5031&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Makita+135246-0+sac+poussi%C3%A8re+DBO180+BO5031&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Makita+135246-0+sac+poussi%C3%A8re+DBO180+BO5031&tag=autoconsom-21
+- PART : Batterie Li-Ion 18V LXT
+  OEM REF / SPECS : Makita BL1830B, BL1840B, BL1850B, BL1860B (18V LXT)
+  WEAR & INTERVAL : Diminution drastique de l'autonomie, temps de charge anormalement long ou court, non-démarrage de l'outil malgré une charge indiquée, surchauffe excessive. (Tous les 2 à 3 ans en usage régulier, ou après 500-1000 cycles de charge/décharge, selon l'intensité d'utilisation.)
+  AMAZON (US) : https://www.amazon.com/s?k=Batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21
 
 ================================================================================
 MODEL : Bosch Professional - GEX 125-1 AE / GEX 18V-125 Professional (Outillage Électroportatif)
@@ -551,63 +524,36 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : Kärcher - Kärcher K4 Power Control / K4 Compact (Jardin Motorisé & Nettoyeurs Haute Pression)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/en/guides/karcher-k4-power-control-nettoyeur-hp.html
 YEARS : 2020-2026
-SUMMARY : Optimisez la durée de vie et les performances de votre nettoyeur haute pression Kärcher K4 Power Control / K4 Compact grâce à une maintenance préventive ciblée sur les consommables et pièces d'usure externes, garantissant sécurité et efficacité.
+SUMMARY : Consommables et pièces d'usure certifiés Kärcher K4 : flexible 8m Quick Connect, lance Vario Power VP 145 et joints toriques.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Flexible Haute Pression Quick Connect
-  OEM REF / SPECS : Kärcher Quick Connect, longueur 6m à 10m (ex: 2.641-710.0 pour 8m)
-  WEAR & INTERVAL : Fuites visibles, craquelures, rigidité excessive, perte de pression au niveau du flexible. (Tous les 3 à 5 ans ou dès les premiers signes d'usure/fuite.)
-  AMAZON (US) : https://www.amazon.com/s?k=flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-- PART : Filtre à Eau d'Entrée
-  OEM REF / SPECS : Kärcher 4.730-059.0 (filtre fin)
-  WEAR & INTERVAL : Débit d'eau réduit, colmatage visible par des impuretés, baisse de pression générale de l'appareil. (Annuel ou dès que le filtre est visiblement encrassé et ne peut plus être nettoyé efficacement.)
-  AMAZON (US) : https://www.amazon.com/s?k=filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21
-- PART : Kit de Joints Toriques pour Raccords
-  OEM REF / SPECS : Kärcher 2.640-729.0 (kit universel pour raccords)
-  WEAR & INTERVAL : Fuites d'eau aux points de connexion (flexible, pistolet, raccord d'arrivée d'eau). (Dès l'apparition de fuites ou tous les 2 ans en maintenance préventive.)
-  AMAZON (US) : https://www.amazon.com/s?k=kit+joints+toriques+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=kit+joints+toriques+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=kit+joints+toriques+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=kit+joints+toriques+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=kit+joints+toriques+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=kit+joints+toriques+K%C3%A4rcher+K4&tag=autoconsom-21
-- PART : Buse Vario Power
-  OEM REF / SPECS : Kärcher 4.760-545.0 (pour K4)
-  WEAR & INTERVAL : Jet d'eau irrégulier, perte de puissance du jet, impossibilité de régler la pression ou la forme du jet. (Tous les 2 à 4 ans selon l'usage ou si la performance du jet est altérée.)
-  AMAZON (US) : https://www.amazon.com/s?k=buse+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=buse+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=buse+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=buse+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=buse+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=buse+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21
-- PART : Buse Rotative (Turbo)
-  OEM REF / SPECS : Kärcher 4.760-548.0 (pour K4)
-  WEAR & INTERVAL : Jet rotatif irrégulier ou inexistant, perte significative de puissance de nettoyage. (Tous les 2 à 4 ans selon l'usage ou si la fonction rotative est défaillante.)
-  AMAZON (US) : https://www.amazon.com/s?k=buse+rotative+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=buse+rotative+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=buse+rotative+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=buse+rotative+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=buse+rotative+K%C3%A4rcher+K4&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=buse+rotative+K%C3%A4rcher+K4&tag=autoconsom-21
-- PART : Pistolet Haute Pression (Poignée-Pistolet)
-  OEM REF / SPECS : Kärcher G 160 Q Quick Connect (ex: 2.642-172.0)
-  WEAR & INTERVAL : Fuites externes au niveau de la gâchette ou du raccord, gâchette bloquée ou dure, raccord Quick Connect endommagé. (Tous les 5 à 7 ans ou si défaillance mécanique externe irréparable.)
-  AMAZON (US) : https://www.amazon.com/s?k=pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21
+- PART : Flexible Haute Pression 8m Quick Connect (130-160 bar)
+  OEM REF / SPECS : OEM 6.396-525.0 / Raccord rapide jaune deux côtés
+  WEAR & INTERVAL : Gaine extérieure râpée sur le béton, fuite au raccord pistolet (Tous les 3 à 4 ans)
+  AMAZON (US) : https://www.amazon.com/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21
+- PART : Lance Vario Power Jet Réglable VP 145
+  OEM REF / SPECS : OEM 2.642-725.0 / Réglage continu Soft/Medium/Hard
+  WEAR & INTERVAL : Bague rotative bloquée par le calcaire, jet qui ne monte plus en pression (En cas d'entartrage interne)
+  AMAZON (US) : https://www.amazon.com/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21
+- PART : Buse Débouche-Canalisations et Gouttières 15m
+  OEM REF / SPECS : OEM 2.637-767.0 / 3 jets rétro-propulseurs
+  WEAR & INTERVAL : Buses obstruées par le calcaire ou flexible pincé (Accessoire longue durée)
+  AMAZON (US) : https://www.amazon.com/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21
 
 ================================================================================
 MODEL : Nice - Nice Era Flor FLO2RE / ON2E / Flo2R-S (Domotique Portail, Garage & Énergie de Secours)
