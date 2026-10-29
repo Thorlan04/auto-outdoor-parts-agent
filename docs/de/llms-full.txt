@@ -1,5 +1,5 @@
 # OutdoorParts Guide (Deutsch) - Full Knowledge Base
-Version: 1.0.0 | Updated: 2026-10-28
+Version: 1.0.0 | Updated: 2026-10-29
 Base URL: https://Thorlan04.github.io/auto-outdoor-parts-agent/de/
 
 
@@ -7,54 +7,45 @@ Base URL: https://Thorlan04.github.io/auto-outdoor-parts-agent/de/
 MODEL : Maytronics (Dolphin) - Dolphin E20 / E10 / S200 (Piscine, Spa & Robots Nettoyeurs)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/de/guides/dolphin-e20-maytronics-robot-piscine.html
 YEARS : 2020-2026
-SUMMARY : Optimisez la longévité et la performance de votre robot nettoyeur Dolphin E20, E10 ou S200 (2020-2026) grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant un entretien sûr et efficace.
+SUMMARY : Guide technique des pièces d'usure externes : paniers filtrants 100µ/50µ, brosses actives PVC et chenilles crantées.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Cartouches Filtrantes Fines / Ultra-Fines
-  OEM REF / SPECS : Maytronics 9991432-ASSY (pour E20/S200/E10)
-  WEAR & INTERVAL : Diminution de l'aspiration, eau trouble après nettoyage, encrassement visible, déchirures ou déformations du média filtrant. (Tous les 12-24 mois ou selon l'état et l'intensité d'utilisation.)
-  AMAZON (DE) : https://www.amazon.de/s?k=Cartouche+filtre+Dolphin+E20%2C+Filtre+Maytronics+9991432-ASSY%2C+Cartouche+Dolphin+S200&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Cartouche+filtre+Dolphin+E20%2C+Filtre+Maytronics+9991432-ASSY%2C+Cartouche+Dolphin+S200&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Cartouche+filtre+Dolphin+E20%2C+Filtre+Maytronics+9991432-ASSY%2C+Cartouche+Dolphin+S200&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Cartouche+filtre+Dolphin+E20%2C+Filtre+Maytronics+9991432-ASSY%2C+Cartouche+Dolphin+S200&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Cartouche+filtre+Dolphin+E20%2C+Filtre+Maytronics+9991432-ASSY%2C+Cartouche+Dolphin+S200&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Cartouche+filtre+Dolphin+E20%2C+Filtre+Maytronics+9991432-ASSY%2C+Cartouche+Dolphin+S200&tag=autoconsom-21
-- PART : Chenilles d'Entraînement
-  OEM REF / SPECS : Maytronics 9985006 (pour E20/S200/E10)
-  WEAR & INTERVAL : Glissement du robot, déplacement irrégulier, incapacité à monter aux parois, usure visible, fissures ou rupture du caoutchouc. (Tous les 24-36 mois ou si signes d'usure prononcée affectant la motricité.)
-  AMAZON (DE) : https://www.amazon.de/s?k=Chenille+Dolphin+E20%2C+Courroie+Dolphin+S200%2C+Chenille+Maytronics+9985006&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Chenille+Dolphin+E20%2C+Courroie+Dolphin+S200%2C+Chenille+Maytronics+9985006&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Chenille+Dolphin+E20%2C+Courroie+Dolphin+S200%2C+Chenille+Maytronics+9985006&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Chenille+Dolphin+E20%2C+Courroie+Dolphin+S200%2C+Chenille+Maytronics+9985006&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Chenille+Dolphin+E20%2C+Courroie+Dolphin+S200%2C+Chenille+Maytronics+9985006&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Chenille+Dolphin+E20%2C+Courroie+Dolphin+S200%2C+Chenille+Maytronics+9985006&tag=autoconsom-21
-- PART : Brosses PVC (ou Wonder Brushes)
-  OEM REF / SPECS : Maytronics 9985007 (PVC) / 9985009 (Wonder Brush)
-  WEAR & INTERVAL : Efficacité de nettoyage réduite, poils écrasés, manquants ou durcis, usure visible de la surface de brossage. (Tous les 12-24 mois ou si l'efficacité de brossage diminue significativement.)
-  AMAZON (DE) : https://www.amazon.de/s?k=Brosse+Dolphin+E20%2C+Brosse+PVC+Maytronics%2C+Wonder+Brush+Dolphin+S200&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Brosse+Dolphin+E20%2C+Brosse+PVC+Maytronics%2C+Wonder+Brush+Dolphin+S200&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Brosse+Dolphin+E20%2C+Brosse+PVC+Maytronics%2C+Wonder+Brush+Dolphin+S200&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Brosse+Dolphin+E20%2C+Brosse+PVC+Maytronics%2C+Wonder+Brush+Dolphin+S200&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Brosse+Dolphin+E20%2C+Brosse+PVC+Maytronics%2C+Wonder+Brush+Dolphin+S200&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Brosse+Dolphin+E20%2C+Brosse+PVC+Maytronics%2C+Wonder+Brush+Dolphin+S200&tag=autoconsom-21
-- PART : Câble Flottant avec Swivel
-  OEM REF / SPECS : Maytronics 99958604-DIY (15m pour E20/S200/E10)
-  WEAR & INTERVAL : Entortillement excessif du câble, coupures ou abrasions visibles sur la gaine, faux contacts, robot ne démarre pas ou s'arrête de manière intermittente. (Selon l'état et l'exposition aux UV/produits chimiques, généralement 3-5 ans ou si dommages irréparables.)
-  AMAZON (DE) : https://www.amazon.de/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+robot+piscine+Maytronics%2C+C%C3%A2ble+Dolphin+S200+15m&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+robot+piscine+Maytronics%2C+C%C3%A2ble+Dolphin+S200+15m&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+robot+piscine+Maytronics%2C+C%C3%A2ble+Dolphin+S200+15m&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+robot+piscine+Maytronics%2C+C%C3%A2ble+Dolphin+S200+15m&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+robot+piscine+Maytronics%2C+C%C3%A2ble+Dolphin+S200+15m&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+robot+piscine+Maytronics%2C+C%C3%A2ble+Dolphin+S200+15m&tag=autoconsom-21
-- PART : Bloc d'Alimentation (Transformateur)
-  OEM REF / SPECS : Maytronics 9995670-ASSY (pour E20/S200/E10)
-  WEAR & INTERVAL : Robot ne s'allume pas, voyant d'alimentation éteint ou clignotant anormalement, odeur de brûlé, surchauffe excessive du boîtier, absence de tension en sortie. (Selon la panne, durée de vie variable. Remplacement immédiat en cas de dysfonctionnement.)
-  AMAZON (DE) : https://www.amazon.de/s?k=Transformateur+Dolphin+E20%2C+Alimentation+Maytronics+S200%2C+Bloc+alimentation+Dolphin+E10&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Transformateur+Dolphin+E20%2C+Alimentation+Maytronics+S200%2C+Bloc+alimentation+Dolphin+E10&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Transformateur+Dolphin+E20%2C+Alimentation+Maytronics+S200%2C+Bloc+alimentation+Dolphin+E10&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Transformateur+Dolphin+E20%2C+Alimentation+Maytronics+S200%2C+Bloc+alimentation+Dolphin+E10&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Transformateur+Dolphin+E20%2C+Alimentation+Maytronics+S200%2C+Bloc+alimentation+Dolphin+E10&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Transformateur+Dolphin+E20%2C+Alimentation+Maytronics+S200%2C+Bloc+alimentation+Dolphin+E10&tag=autoconsom-21
+- PART : Panier Filtrant Ultra-Fin 50 microns (Panneaux Printemps)
+  OEM REF / SPECS : OEM 9991467-ASSY / 50 microns
+  WEAR & INTERVAL : Déchirure du maillage, colmatage persistant, eau trouble (1 à 2 saisons selon turbidité de l'eau)
+  AMAZON (DE) : https://www.amazon.de/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=filtre+ultra+fin+dolphin+e20+50+microns&tag=autoconsom-21
+- PART : Chenille d'Entraînement Crantée Haute Adhérence
+  OEM REF / SPECS : OEM 9985006 / Longueur 370mm crantée
+  WEAR & INTERVAL : Patinage sur liner, détricotage des crans, robot qui bloque (Tous les 2 à 3 ans)
+  AMAZON (DE) : https://www.amazon.de/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=chenille+dolphin+e20+9985006&tag=autoconsom-21
+- PART : Brosse Active PVC Lamelles Grise
+  OEM REF / SPECS : OEM 9995546-ASSY / Double vitesse
+  WEAR & INTERVAL : Lamelles usées à plat, perte d'efficacité brossage ligne d'eau (Tous les 2 ans)
+  AMAZON (DE) : https://www.amazon.de/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=brosse+pvc+active+dolphin+e20&tag=autoconsom-21
+- PART : Clapet Anti-Retour Évacuation Panier
+  OEM REF / SPECS : OEM 9995541 / Membrane silicone souple
+  WEAR & INTERVAL : Saletés qui retombent dans le bassin à la sortie de l'eau (Contrôle annuel)
+  AMAZON (DE) : https://www.amazon.de/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=clapet+anti+retour+dolphin+e20&tag=autoconsom-21
 
 ================================================================================
 MODEL : Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440) (Piscine, Spa & Robots Nettoyeurs)
@@ -367,36 +358,27 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : Came - TOP 432EE / TOP 432NA / TOP 432EV (Domotique Portail, Garage & Énergie de Secours)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/de/guides/came-top-432ee-telecommande-portail.html
 YEARS : 2020-2026
-SUMMARY : Guide expert pour la maintenance des télécommandes CAME TOP 432EE/NA/EV (2020-2026), incluant le remplacement des piles, des coques et la programmation, pour une fiabilité optimale de vos automatismes de portail et garage.
+SUMMARY : Correspondances officielles télécommandes Came TOP 432EE / 432NA : fréquence 433.92 MHz code fixe, piles CR2016 et méthode d'auto-apprentissage.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Pile Lithium CR2032 3V
-  OEM REF / SPECS : CR2032 (3V, diamètre 20mm, épaisseur 3.2mm)
-  WEAR & INTERVAL : Réduction significative de la portée de la télécommande, fonctionnement intermittent, LED témoin ne s'allumant plus ou très faiblement, nécessité d'appuyer plusieurs fois. (Tous les 2 à 5 ans en moyenne, ou dès les premiers signes de faiblesse. L'intervalle varie selon la fréquence d'utilisation et les conditions environnementales.)
-  AMAZON (DE) : https://www.amazon.de/s?k=Pile+CR2032+Came+TOP+432&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Pile+CR2032+Came+TOP+432&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Pile+CR2032+Came+TOP+432&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Pile+CR2032+Came+TOP+432&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Pile+CR2032+Came+TOP+432&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Pile+CR2032+Came+TOP+432&tag=autoconsom-21
-- PART : Kit Coque de remplacement et boutons
-  OEM REF / SPECS : Spécifique CAME TOP 432EE/NA/EV (vérifier compatibilité modèle et couleur)
-  WEAR & INTERVAL : Boutons en caoutchouc craquelés, déchirés, enfoncés ou devenus rigides. Coque plastique fissurée, cassée, décolorée ou présentant des marques d'usure importantes altérant la prise en main. (Selon l'usure visuelle et fonctionnelle, généralement après 5 à 10 ans d'utilisation intensive ou en cas de chute/choc.)
-  AMAZON (DE) : https://www.amazon.de/s?k=Coque+Came+TOP+432+remplacement&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Coque+Came+TOP+432+remplacement&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Coque+Came+TOP+432+remplacement&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Coque+Came+TOP+432+remplacement&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Coque+Came+TOP+432+remplacement&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Coque+Came+TOP+432+remplacement&tag=autoconsom-21
-- PART : Télécommande radio CAME TOP 432EE / TOP 432NA / TOP 432EV
-  OEM REF / SPECS : CAME TOP 432EE (433.92 MHz, 2 canaux, code fixe) ou CAME TOP 432EV (auto-apprentissage) ou CAME TOP 432NA (code fixe, ancienne génération). Vérifier le modèle exact.
-  WEAR & INTERVAL : Dysfonctionnement électronique interne irréparable (même avec pile neuve), impossibilité de programmer ou de copier le code, perte de portée inexpliquée, dommages physiques majeurs rendant l'appareil inutilisable. (En cas de panne électronique avérée, de perte, de vol ou de dommages physiques irréparables.)
-  AMAZON (DE) : https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+CAME+TOP+432EE+neuve&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+CAME+TOP+432EE+neuve&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+CAME+TOP+432EE+neuve&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+CAME+TOP+432EE+neuve&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+CAME+TOP+432EE+neuve&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+CAME+TOP+432EE+neuve&tag=autoconsom-21
+- PART : Télécommande 2 Canaux 433.92 MHz Came TOP 432EE
+  OEM REF / SPECS : OEM 001TOP-432EE / 433.92 MHz Code Fixe
+  WEAR & INTERVAL : Boîtier fissuré, touches usées, perte de portée (En cas de perte ou défaillance mécanique)
+  AMAZON (DE) : https://www.amazon.de/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
+- PART : Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)
+  OEM REF / SPECS : CR2016 / 3V x 2 piles superposées = 6 Volts
+  WEAR & INTERVAL : LED rouge qui faiblit à l'appui (Tous les 2 ans)
+  AMAZON (DE) : https://www.amazon.de/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
 
 ================================================================================
 MODEL : APC (Schneider) / Eaton - Back-UPS ES / Pro / BX1400U / Ellipse ECO (Domotique Portail, Garage & Énergie de Secours)
