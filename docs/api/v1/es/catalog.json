@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-29T03:45:52.945852+00:00",
+  "updated_at": "2026-10-29T12:03:17.367338+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "autoconsom-21",
   "total_models": 23,
-  "total_parts": 72,
+  "total_parts": 71,
   "supported_languages": [
     "fr",
     "en",
@@ -1604,98 +1604,85 @@
       "model_name": "Back-UPS ES / Pro / BX1400U / Ellipse ECO",
       "years_range": "2020-2026",
       "title": "Onduleurs APC & Centrales Alarme : Batteries Plomb AGM 12V 7Ah / 9Ah",
-      "summary": "Correspondances exactes des cartouches de batterie plomb étanches pour onduleurs APC et automatismes de secours : 12V 7.2Ah et 12V 9Ah cosses Faston F2.",
-      "meta_description": "Batteries plomb étanche 12V 7.2Ah et 12V 9Ah pour onduleurs APC Back-UPS, Eaton et centrales alarme. Cosses Faston F2 6.35mm sans erreur 404.",
+      "summary": "Guide expert pour l'entretien sécurisé des onduleurs APC/Eaton Back-UPS ES/Pro/BX1400U/Ellipse ECO (2020-2026), essentiels pour la domotique et l'énergie de secours. Concentrez-vous sur le remplacement des batteries 12V et la maintenance externe pour une fiabilité maximale.",
+      "meta_description": "Maintenance onduleurs APC/Eaton Back-UPS ES/Pro/BX1400U/Ellipse ECO (2020-2026). Remplacement sécurisé des batteries 12V pour domotique et énergie de secours.",
       "parts": [
         {
-          "name": "Batterie Plomb Étanche AGM 12V 7.2Ah / 7.5Ah (Cosses Faston F2)",
-          "tag": "Énergie Onduleur Secours",
-          "oem_or_dimension": "12V 7.2Ah / Dimensions 151 x 65 x 94 mm / Bornes F2 (6.35mm)",
-          "wear_symptom": "Bip continu de l'onduleur, coupure instantanée en cas de coupure de courant",
-          "replacement_interval": "Tous les 3 à 5 ans",
-          "technical_detail": "Technologie AGM sans entretien, étanche, gaz recombine, homologuée floating secours.",
-          "search_query": "batterie 12v 7.2ah faston f2 onduleur apc",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
+          "name": "Cartouche Batterie de Remplacement (RBC)",
+          "tag": "Batterie",
+          "oem_or_dimension": "APC RBC17 (pour BX1400U et certains modèles ES/Pro), ou batterie plomb-acide scellée 12V 9Ah (dimensions typiques: 151x65x94mm)",
+          "wear_symptom": "Autonomie réduite de l'onduleur, alarmes sonores ou visuelles de batterie faible/défectueuse, voyant de remplacement batterie allumé, l'onduleur ne tient plus la charge lors d'une coupure.",
+          "replacement_interval": "3-5 ans (selon l'environnement, la fréquence des coupures et la température ambiante)",
+          "technical_detail": "Batterie plomb-acide scellée (SLA) sans entretien, conçue pour être remplaçable par l'utilisateur. Assure la continuité de l'alimentation des équipements connectés.",
+          "search_query": "APC RBC17 remplacement batterie, batterie 12V 9Ah onduleur, batterie de remplacement BX1400U, batterie Ellipse ECO",
+          "affiliate_url": "https://www.amazon.fr/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)",
-          "tag": "Autonomie Prolongée",
-          "oem_or_dimension": "12V 9Ah / Dimensions identiques standard 151 x 65 x 94 mm / Cosses F2",
-          "wear_symptom": "Perte d'autonomie progressive sur onduleurs 1400VA (BX1400U)",
-          "replacement_interval": "Tous les 3 à 5 ans",
-          "technical_detail": "Offre 25% d'autonomie supplémentaire dans le même encombrement que la 7Ah.",
-          "search_query": "batterie 12v 9ah faston f2 onduleur",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Mise hors tension et débranchement de la prise secteur",
-          "description": "Éteignez l'onduleur avec son bouton marche/arrêt et débranchez le cordon 230V de la prise murale."
+          "title": "Préparation Sécurisée et Mise Hors Tension",
+          "description": "Déconnectez impérativement l'onduleur de toute prise murale. Éteignez l'onduleur en appuyant sur le bouton d'alimentation jusqu'à ce qu'il s'éteigne complètement. Débranchez tous les équipements connectés à l'onduleur. Laissez l'appareil refroidir si nécessaire avant toute manipulation."
         },
         {
-          "title": "Remplacement sécurisé de la cartouche de batterie",
-          "description": "Ouvrez la trappe inférieure sous l'onduleur. Déconnectez d'abord la cosse NOIRE (-), puis la cosse ROUGE (+). Insérez la batterie neuve et reconnectez Rouge (+) puis Noir (-). Une petite étincelle au rebranchement est normale (charge des condensateurs)."
+          "title": "Accès au Compartiment Batterie",
+          "description": "Localisez le compartiment de la batterie, généralement situé à l'avant ou sous l'onduleur. Ouvrez le couvercle ou retirez le panneau d'accès en suivant les instructions du manuel d'utilisation spécifique à votre modèle (souvent une vis unique ou un système de clips)."
+        },
+        {
+          "title": "Remplacement de la Cartouche Batterie",
+          "description": "Tirez délicatement sur la languette ou la sangle de la batterie pour la faire glisser hors de son logement. Déconnectez les câbles de la batterie (généralement des connecteurs à glissière rouge et noir) en tirant sur les connecteurs eux-mêmes, *jamais sur les fils*. Insérez la nouvelle cartouche batterie en vous assurant que les polarités sont respectées (rouge sur rouge, noir sur noir) et que les connecteurs sont bien enclenchés. Poussez la batterie fermement dans son logement."
+        },
+        {
+          "title": "Remontage et Test Initial",
+          "description": "Replacez le couvercle ou le panneau d'accès du compartiment batterie et fixez-le. Reconnectez l'onduleur à la prise murale et rallumez-le. Laissez l'onduleur charger la nouvelle batterie pendant au moins 24 heures avant de le solliciter pleinement avec les équipements connectés."
+        },
+        {
+          "title": "Nettoyage Externe des Ventilations",
+          "description": "À l'aide d'un chiffon sec et doux ou d'une bombe d'air comprimé, nettoyez délicatement les grilles de ventilation externes pour éliminer la poussière accumulée. Cette opération doit être effectuée sans ouvrir le boîtier de l'onduleur et uniquement sur les surfaces externes pour assurer une bonne circulation de l'air et éviter la surchauffe."
         }
       ],
       "faqs": [
         {
-          "question": "Quelle est la différence entre cosses Faston F1 et Faston F2 ?",
-          "answer": "La borne F1 mesure 4.75mm de large, tandis que la borne F2 mesure 6.35mm. Les onduleurs APC et Eaton utilisent quasi-exclusivement des bornes larges F2."
+          "question": "Quand dois-je remplacer la batterie de mon onduleur APC/Eaton ?",
+          "answer": "La durée de vie typique d'une batterie d'onduleur est de 3 à 5 ans. Des signes comme une autonomie réduite, des alarmes de batterie faible, ou un voyant de remplacement de batterie allumé indiquent qu'il est temps de la changer pour maintenir la protection de vos équipements."
+        },
+        {
+          "question": "Puis-je remplacer la batterie moi-même en toute sécurité ?",
+          "answer": "Oui, le remplacement de la batterie est une opération de maintenance standard conçue pour être effectuée par l'utilisateur sur la plupart des modèles Back-UPS ES/Pro/BX1400U/Ellipse ECO. Il est impératif de débrancher l'onduleur du secteur et d'éteindre l'appareil avant toute intervention pour éviter tout risque électrique."
+        },
+        {
+          "question": "Que faire de l'ancienne batterie de l'onduleur ?",
+          "answer": "Les batteries d'onduleur contiennent des matériaux recyclables et potentiellement dangereux. Ne les jetez pas avec les ordures ménagères. Déposez-les dans un point de collecte agréé pour le recyclage des batteries (déchèterie, magasins spécialisés en électronique ou centres de service)."
+        },
+        {
+          "question": "Le remplacement de la batterie par l'utilisateur annule-t-il la garantie de l'onduleur ?",
+          "answer": "Non, le remplacement de la batterie est une opération de maintenance courante et ne devrait pas annuler la garantie de l'onduleur, à condition d'utiliser une batterie compatible et de suivre scrupuleusement les instructions du fabricant. Vérifiez toujours les termes spécifiques de votre garantie pour confirmation."
         }
       ],
       "date_published": "2026-10-29",

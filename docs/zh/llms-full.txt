@@ -384,27 +384,18 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : APC (Schneider) / Eaton - Back-UPS ES / Pro / BX1400U / Ellipse ECO (Domotique Portail, Garage & Énergie de Secours)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/zh/guides/apc-back-ups-batterie-plomb-etanche-12v.html
 YEARS : 2020-2026
-SUMMARY : Correspondances exactes des cartouches de batterie plomb étanches pour onduleurs APC et automatismes de secours : 12V 7.2Ah et 12V 9Ah cosses Faston F2.
+SUMMARY : Guide expert pour l'entretien sécurisé des onduleurs APC/Eaton Back-UPS ES/Pro/BX1400U/Ellipse ECO (2020-2026), essentiels pour la domotique et l'énergie de secours. Concentrez-vous sur le remplacement des batteries 12V et la maintenance externe pour une fiabilité maximale.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Batterie Plomb Étanche AGM 12V 7.2Ah / 7.5Ah (Cosses Faston F2)
-  OEM REF / SPECS : 12V 7.2Ah / Dimensions 151 x 65 x 94 mm / Bornes F2 (6.35mm)
-  WEAR & INTERVAL : Bip continu de l'onduleur, coupure instantanée en cas de coupure de courant (Tous les 3 à 5 ans)
-  AMAZON (SG) : https://www.amazon.sg/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=batterie+12v+7.2ah+faston+f2+onduleur+apc&tag=autoconsom-21
-- PART : Batterie Plomb Étanche AGM Haute Densité 12V 9Ah (Cosses Faston F2)
-  OEM REF / SPECS : 12V 9Ah / Dimensions identiques standard 151 x 65 x 94 mm / Cosses F2
-  WEAR & INTERVAL : Perte d'autonomie progressive sur onduleurs 1400VA (BX1400U) (Tous les 3 à 5 ans)
-  AMAZON (SG) : https://www.amazon.sg/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=batterie+12v+9ah+faston+f2+onduleur&tag=autoconsom-21
+- PART : Cartouche Batterie de Remplacement (RBC)
+  OEM REF / SPECS : APC RBC17 (pour BX1400U et certains modèles ES/Pro), ou batterie plomb-acide scellée 12V 9Ah (dimensions typiques: 151x65x94mm)
+  WEAR & INTERVAL : Autonomie réduite de l'onduleur, alarmes sonores ou visuelles de batterie faible/défectueuse, voyant de remplacement batterie allumé, l'onduleur ne tient plus la charge lors d'une coupure. (3-5 ans (selon l'environnement, la fréquence des coupures et la température ambiante))
+  AMAZON (SG) : https://www.amazon.sg/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=APC+RBC17+remplacement+batterie%2C+batterie+12V+9Ah+onduleur%2C+batterie+de+remplacement+BX1400U%2C+batterie+Ellipse+ECO&tag=autoconsom-21
 
 ================================================================================
 MODEL : Makita - Makita DBO180 / DBO180Z / BO5031 18V LXT (Outillage Électroportatif)
