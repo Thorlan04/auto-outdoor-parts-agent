@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-10-30T21:53:02.454481+00:00",
+  "updated_at": "2026-10-31T03:32:04.679049+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "autoconsom-21",
   "total_models": 23,
-  "total_parts": 78,
+  "total_parts": 71,
   "supported_languages": [
     "fr",
     "en",
@@ -39,156 +39,164 @@
       "model_name": "Dolphin E20 / E10 / S200",
       "years_range": "2020-2026",
       "title": "Dolphin E20 & S200 : Correspondances Filtres, Chenilles & Brosses",
-      "summary": "Optimisez la performance et la longévité de votre robot nettoyeur Dolphin E10, E20 ou S200 grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance sûre et efficace.",
-      "meta_description": "Guide expert pour l'entretien des robots Dolphin E10, E20, S200 (2020-2026). Identifiez et remplacez filtres, chenilles, brosses pour une piscine impeccable. Maintenance sûre.",
+      "summary": "Optimisez la performance et prolongez la durée de vie de votre robot nettoyeur Dolphin E20, E10 ou S200 grâce à une maintenance préventive et le remplacement des pièces d'usure essentielles.",
+      "meta_description": "Maintenance préventive et curative pour robots Dolphin E20, E10, S200 (2020-2026). Trouvez filtres, chenilles, brosses. Prolongez la vie de votre nettoyeur de piscine.",
       "parts": [
         {
-          "name": "Panier Filtrant Ultra-fin ou Cartouches Filtrantes",
+          "name": "Cartouches filtrantes (jeu de 2)",
           "tag": "Filtration",
-          "oem_or_dimension": "Maytronics 9991432-ASSY (Panier) ou 9991432-R1 (Cartouches) - Vérifier la compatibilité exacte du modèle",
-          "wear_symptom": "Diminution de l'efficacité de nettoyage, eau trouble, débris non collectés, colmatage rapide, déchirures du média filtrant.",
-          "replacement_interval": "Tous les 1-2 ans ou dès l'apparition de déchirures/dommages irréparables. Nettoyage après chaque cycle.",
-          "technical_detail": "Composé d'un cadre plastique et d'un média filtrant (filet ou cartouches plissées) retenant les fines particules et débris.",
-          "search_query": "Panier filtrant Dolphin E10 E20 S200, Cartouches filtrantes Dolphin E10 E20 S200 Maytronics",
-          "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
+          "oem_or_dimension": "Maytronics 9991432-ASSY (filtre fin) / 9991433-ASSY (filtre ultra-fin)",
+          "wear_symptom": "Baisse de performance de nettoyage, eau trouble persistante, colmatage visible des cartouches, débit d'eau réduit en sortie.",
+          "replacement_interval": "Tous les 6-12 mois ou si endommagé/irrécupérable après nettoyage.",
+          "technical_detail": "Jeu de deux cartouches. Différentes finesses de filtration disponibles (fin, ultra-fin) pour s'adapter aux besoins de nettoyage. Facilement accessibles par le dessus du robot.",
+          "search_query": "Filtre Dolphin E20 E10 S200 Maytronics",
+          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtrant+Dolphin+E10+E20+S200%2C+Cartouches+filtrantes+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Filtre+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21"
           }
         },
         {
-          "name": "Chenilles d'entraînement",
-          "tag": "Traction",
-          "oem_or_dimension": "Maytronics 9983114 (souvent vendues par paire)",
-          "wear_symptom": "Glissement du robot, déplacements erratiques, difficulté à monter les parois, usure visible (craquelures, déchirements, allongement).",
-          "replacement_interval": "Tous les 2-3 ans ou dès l'apparition de signes d'usure majeurs affectant la mobilité.",
-          "technical_detail": "Bandes de caoutchouc crantées assurant la propulsion et l'adhérence du robot sur les surfaces de la piscine.",
-          "search_query": "Chenilles Dolphin E10 E20 S200, Courroies Dolphin E10 E20 S200 Maytronics",
-          "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
+          "name": "Chenilles d'entraînement (jeu de 2)",
+          "tag": "Motricité",
+          "oem_or_dimension": "Maytronics 9983110 (pour E10/E20/S200)",
+          "wear_symptom": "Glissement du robot, déplacement irrégulier ou bloqué, usure visible du caoutchouc (fissures, déchirures, aplatissement des crampons).",
+          "replacement_interval": "Tous les 12-24 mois ou si usure visible affectant la motricité.",
+          "technical_detail": "Fabriquées en caoutchouc renforcé, elles assurent l'adhérence et la propulsion du robot sur les parois et le fond de la piscine. Remplacement par simple déclipsage/reclipsage.",
+          "search_query": "Chenilles Dolphin E20 E10 S200 Maytronics",
+          "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Dolphin+E10+E20+S200%2C+Courroies+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21"
           }
         },
         {
-          "name": "Brosses de Nettoyage (PVC ou Combinées)",
+          "name": "Brosses de nettoyage (jeu de 2)",
           "tag": "Nettoyage",
-          "oem_or_dimension": "Maytronics 9985006 (Brosses PVC) ou 9985007 (Brosses Combinées) - Vérifier le type de brosse d'origine",
-          "wear_symptom": "Efficacité de brossage réduite, algues ou saletés persistantes, poils des brosses écrasés, durcis ou manquants.",
-          "replacement_interval": "Tous les 1-2 ans ou dès que l'efficacité de brossage diminue visiblement.",
-          "technical_detail": "Rouleaux brosseurs situés sous le robot, conçus pour décoller les impuretés des surfaces de la piscine avant leur aspiration.",
-          "search_query": "Brosses Dolphin E10 E20 S200, Rouleaux brosses Dolphin E10 E20 S200 Maytronics",
-          "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
+          "oem_or_dimension": "Maytronics 9985006 (brosses PVC) / 9985007 (brosses combinées)",
+          "wear_symptom": "Efficacité de brossage réduite, algues persistantes sur les surfaces, usure visible des picots ou des lamelles des brosses.",
+          "replacement_interval": "Tous les 12-24 mois ou si usure visible affectant le nettoyage.",
+          "technical_detail": "Disponibles en PVC (pour liner, polyester) ou combinées (pour carrelage, béton). Fixation par clips sur l'axe du robot, permettant un remplacement aisé sans outil spécifique.",
+          "search_query": "Brosses Dolphin E20 E10 S200 Maytronics",
+          "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Dolphin+E10+E20+S200%2C+Rouleaux+brosses+Dolphin+E10+E20+S200+Maytronics&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Dolphin+E20+E10+S200+Maytronics&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Nettoyage Régulier du Panier Filtrant",
-          "description": "Après chaque cycle de nettoyage, retirez le robot de l'eau. Ouvrez le capot supérieur, sortez le panier filtrant. Videz les débris et rincez abondamment le panier à l'eau claire (jet d'eau) pour éliminer toutes les fines particules. Assurez-vous qu'il est parfaitement propre avant de le remettre en place."
+          "title": "Préparation et Sécurité",
+          "description": "Avant toute intervention, débranchez impérativement le bloc d'alimentation du robot de la prise secteur. Assurez-vous que le robot est hors de l'eau et sur une surface stable et propre."
         },
         {
-          "title": "Remplacement des Chenilles d'entraînement Usées",
-          "description": "Éteignez et débranchez le robot de son alimentation électrique. Retournez le robot. Pour chaque chenille, dégagez délicatement l'ancienne chenille de ses logements sur les roues motrices et les galets. Installez la nouvelle chenille en la tendant autour des roues et des galets, en vous assurant qu'elle est bien centrée et qu'elle tourne librement. Répétez l'opération pour l'autre chenille si nécessaire."
+          "title": "Nettoyage et Vérification des Filtres",
+          "description": "Ouvrez le capot supérieur du robot et retirez le panier filtrant. Séparez les cartouches filtrantes et rincez-les abondamment à l'eau claire (jet d'eau) pour éliminer tous les débris. Inspectez l'état des mailles : si elles sont déchirées, déformées ou excessivement encrassées malgré le nettoyage, remplacez le jeu de cartouches."
         },
         {
-          "title": "Remplacement des Brosses de Nettoyage",
-          "description": "Éteignez et débranchez le robot de son alimentation électrique. Retournez le robot. Les brosses sont généralement clipsées ou montées sur des axes. Dégagez les extrémités des brosses de leurs supports (souvent par simple traction ou en déclipsant un loquet). Insérez les nouvelles brosses en vous assurant qu'elles sont correctement alignées et bien fixées dans leurs logements."
+          "title": "Inspection et Remplacement des Chenilles",
+          "description": "Retournez délicatement le robot. Examinez l'état des deux chenilles d'entraînement. Recherchez des fissures, des déchirures, un aplatissement des crampons ou un relâchement excessif. Pour les remplacer, déclipsez les anciennes chenilles des roues motrices et des galets, puis installez les nouvelles en veillant à ce qu'elles soient bien tendues et alignées."
+        },
+        {
+          "title": "Inspection et Remplacement des Brosses",
+          "description": "Vérifiez l'usure des brosses situées sous le robot. Si les picots en PVC sont courts, cassés, ou si les lamelles des brosses combinées sont usées, il est temps de les remplacer. Les brosses se déclipsent généralement des axes de fixation. Installez les nouvelles brosses en vous assurant de leur bon positionnement."
+        },
+        {
+          "title": "Vérification Finale et Remise en Service",
+          "description": "Une fois toutes les pièces remplacées et le robot remonté, assurez-vous que le panier filtrant est correctement inséré et que le capot est bien fermé. Rebranchez le bloc d'alimentation et mettez le robot à l'eau pour tester son fonctionnement."
         }
       ],
       "faqs": [
         {
-          "question": "À quelle fréquence dois-je nettoyer le panier filtrant de mon Dolphin E10/E20/S200 ?",
-          "answer": "Il est impératif de nettoyer le panier filtrant après chaque cycle de nettoyage. Un filtre encrassé réduit drastiquement l'efficacité du robot et peut surcharger le moteur, diminuant sa durée de vie."
+          "question": "À quelle fréquence dois-je nettoyer les filtres de mon Dolphin E20/E10/S200 ?",
+          "answer": "Il est recommandé de nettoyer les filtres après chaque cycle de nettoyage. Un nettoyage régulier prévient le colmatage et maintient l'efficacité de filtration et la performance du robot."
         },
         {
-          "question": "Mon robot Dolphin E20 glisse et ne monte plus les parois, que faire ?",
-          "answer": "Ce symptôme indique très probablement une usure des chenilles d'entraînement. Vérifiez leur état : si elles sont craquelées, détendues ou lisses, il est temps de les remplacer pour retrouver une adhérence et une mobilité optimales."
+          "question": "Mon robot glisse ou ne monte plus aux parois, que faire ?",
+          "answer": "Ce symptôme indique souvent une usure des chenilles d'entraînement. Vérifiez leur état et remplacez-les si elles présentent des fissures, des déchirures ou un aplatissement des crampons. Assurez-vous également que les brosses ne sont pas excessivement usées."
         },
         {
-          "question": "Quelle est la durée de vie moyenne des brosses de mon Dolphin S200 ?",
-          "answer": "La durée de vie des brosses varie selon l'utilisation et le type de revêtement de votre piscine, mais elle est généralement de 1 à 2 ans. Inspectez-les régulièrement ; si les poils sont écrasés, durcis ou manquants, leur efficacité de nettoyage est compromise et un remplacement est recommandé."
+          "question": "Puis-je utiliser des pièces non-OEM pour mon robot Dolphin ?",
+          "answer": "Pour garantir la performance, la durabilité et la compatibilité de votre robot, il est fortement recommandé d'utiliser des pièces de rechange d'origine Maytronics (OEM) ou des pièces compatibles de haute qualité spécifiquement conçues pour votre modèle."
         },
         {
-          "question": "Puis-je remplacer moi-même le câble flottant ou le moteur de mon robot Dolphin ?",
-          "answer": "Non, pour des raisons de sécurité électrique et pour préserver la garantie de votre appareil, toute intervention sur les composants électriques internes (moteur, carte mère) ou le câble flottant (qui implique des connexions électriques internes) doit être effectuée par un professionnel agréé Maytronics. Concentrez-vous uniquement sur les pièces d'usure externes et les filtres."
+          "question": "Comment prolonger la durée de vie de mon robot nettoyeur ?",
+          "answer": "Un entretien régulier (nettoyage des filtres, inspection des pièces d'usure), le stockage du robot à l'abri du soleil et des intempéries lorsqu'il n'est pas utilisé, et le respect des consignes du fabricant sont essentiels pour maximiser sa durée de vie."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "intex-purespa-bulles-spa-gonflable",
@@ -374,9 +382,9 @@
           "answer": "Non, la pression et les lessives détruisent la trame en dacron. Rincez-la au jet d'eau sous pression ou remplacez-la."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "zodiac-tornax-rt3200-robot-piscine",
@@ -386,234 +394,140 @@
       "model_name": "TornaX RT 3200 / OT 3200 / RT 2100",
       "years_range": "2020-2026",
       "title": "Zodiac TornaX RT 3200 : Bac Filtrant, Chenilles & Brosse Lamelles",
-      "summary": "Optimisez la longévité et la performance de votre robot nettoyeur Zodiac TornaX RT/OT 3200 & RT 2100 grâce à notre guide expert des consommables et pièces d'usure essentielles.",
-      "meta_description": "Guide complet pour l'entretien de votre robot Zodiac TornaX RT/OT 3200 & RT 2100. Pièces d'usure, filtres, chenilles, brosses et procédures de remplacement sécurisées.",
+      "summary": "Correspondances officielles Zodiac TornaX : bacs filtrants 100µ/200µ, chenilles d'entraînement et brosses à lamelles.",
+      "meta_description": "Pièces d'usure certifiées pour Zodiac TornaX RT 3200 et OT 3200. Filtres 100 microns et chenilles crantées sans erreur 404.",
       "parts": [
         {
-          "name": "Panier filtrant (100µ ou 60µ)",
-          "tag": "Filtration",
-          "oem_or_dimension": "Zodiac R0701400 (100µ) ou R0701500 (60µ)",
-          "wear_symptom": "Diminution du débit d'eau, eau de piscine trouble malgré le nettoyage, débris non collectés, panier déchiré ou déformé.",
-          "replacement_interval": "Tous les 1 à 2 ans ou selon l'état et la fréquence d'utilisation. Nettoyage après chaque cycle.",
-          "technical_detail": "Composant essentiel pour la rétention des débris fins et gros. Différentes finesses de filtration disponibles pour s'adapter aux besoins de la piscine.",
-          "search_query": "Panier filtrant Zodiac TornaX RT 3200",
-          "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
+          "name": "Bac Filtrant Débris Fins 100 microns",
+          "tag": "Filtration Fine",
+          "oem_or_dimension": "OEM R0762900 / 100 microns rigide",
+          "wear_symptom": "Perte d'aspiration, tamis fendu, particules rejetées dans l'eau",
+          "replacement_interval": "Tous les 2 ans",
+          "technical_detail": "Bac rigide à poignée ergonomique pour extraction rapide par le dessus du robot.",
+          "search_query": "filtre bac zodiac tornax rt3200 r0762900",
+          "affiliate_url": "https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtrant+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=filtre+bac+zodiac+tornax+rt3200+r0762900&tag=autoconsom-21"
           }
         },
         {
-          "name": "Chenilles d'entraînement",
-          "tag": "Traction",
-          "oem_or_dimension": "Zodiac R0701600 (lot de 2)",
-          "wear_symptom": "Robot se déplace lentement, patine, ne monte plus les parois correctement, traces d'usure visibles (fissures, déchirements, détérioration du caoutchouc).",
-          "replacement_interval": "Tous les 2 à 3 ans ou dès apparition de signes d'usure importants.",
-          "technical_detail": "Assurent la motricité et l'adhérence du robot sur les surfaces de la piscine. Fabriquées en caoutchouc résistant au chlore et aux UV.",
-          "search_query": "Chenilles Zodiac TornaX RT 3200",
-          "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
+          "name": "Chenille de Traction Crantée (Unité)",
+          "tag": "Motricité Parois",
+          "oem_or_dimension": "OEM R0763000 / Profil cranté Zodiac",
+          "wear_symptom": "Robot qui ne monte plus aux parois ou qui dérive sur le fond",
+          "replacement_interval": "Tous les 2 à 3 ans",
+          "technical_detail": "Caoutchouc résistant aux UV et aux traitements au sel.",
+          "search_query": "chenille zodiac tornax rt3200 r0763000",
+          "affiliate_url": "https://www.amazon.fr/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=chenille+zodiac+tornax+rt3200+r0763000&tag=autoconsom-21"
           }
         },
         {
-          "name": "Brosses de nettoyage",
-          "tag": "Nettoyage",
-          "oem_or_dimension": "Zodiac R0701700 (lot de 2, brosses à picots)",
-          "wear_symptom": "Efficacité de nettoyage réduite, algues ou dépôts persistants, poils des brosses usés, écrasés ou absents, brosses déformées.",
-          "replacement_interval": "Tous les 1 à 2 ans ou lorsque l'usure est visible et impacte la performance.",
-          "technical_detail": "Raclent les surfaces pour décoller les impuretés avant qu'elles ne soient aspirées. Disponibles en version picots (pour carrelage/coque) ou mousse (pour liner).",
-          "search_query": "Brosses Zodiac TornaX RT 3200",
-          "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
+          "name": "Brosse Avant à Lamelles Spéciale Liner / Carrelage",
+          "tag": "Frottement & Décollement",
+          "oem_or_dimension": "OEM R0762800 / Largeur utile 25cm",
+          "wear_symptom": "Lamelles arasées, algues non décollées sur les angles",
+          "replacement_interval": "Tous les 2 ans",
+          "technical_detail": "Assemblage par clipsage sécurisé sur l'axe d'entraînement avant.",
+          "search_query": "brosse zodiac tornax rt3200 r0762800",
+          "affiliate_url": "https://www.amazon.fr/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Câble flottant",
-          "tag": "Connectivité",
-          "oem_or_dimension": "Zodiac R0701800 (14m) ou R0701900 (17m) - à vérifier selon la longueur d'origine",
-          "wear_symptom": "Robot s'arrête de fonctionner de manière intermittente, faux contacts, gaine du câble endommagée (coupures, pincements, effilochages), flottabilité réduite, câble emmêlé de manière irréversible.",
-          "replacement_interval": "Tous les 3 à 5 ans ou dès détection de dommages physiques ou de dysfonctionnements électriques.",
-          "technical_detail": "Assure l'alimentation électrique du robot depuis le boîtier de commande. Sa conception flottante et sa résistance aux produits chimiques sont cruciales pour son bon fonctionnement.",
-          "search_query": "Câble flottant Zodiac TornaX RT 3200",
-          "affiliate_url": "https://www.amazon.fr/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=C%C3%A2ble+flottant+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Télécommande radio (si applicable)",
-          "tag": "Contrôle",
-          "oem_or_dimension": "Zodiac R0702000 (référence indicative, vérifier compatibilité)",
-          "wear_symptom": "Robot ne répond plus aux commandes, portée réduite, boutons défectueux, écran illisible, boîtier endommagé.",
-          "replacement_interval": "Selon besoin, si dysfonctionnement non lié aux piles ou à l'appairage.",
-          "technical_detail": "Permet de diriger manuellement le robot ou de lancer des cycles spécifiques à distance. Fonctionne sur piles (généralement AAA ou AA, non incluses).",
-          "search_query": "Télécommande Zodiac TornaX RT 3200",
-          "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=T%C3%A9l%C3%A9commande+Zodiac+TornaX+RT+3200&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=brosse+zodiac+tornax+rt3200+r0762800&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Nettoyage du Panier Filtrant",
-          "description": "Après chaque cycle de nettoyage, débranchez impérativement le robot de son alimentation électrique. Ouvrez le capot supérieur du robot, retirez le panier filtrant. Videz les débris et rincez abondamment le panier à l'eau claire (jet d'eau) pour éliminer toutes les impuretés. Pour un nettoyage en profondeur, utilisez une brosse douce. Réinsérez le panier propre et sec, puis refermez le capot."
+          "title": "Coupure de l'alimentation secteur",
+          "description": "Déconnectez le boîtier de commande Zodiac du réseau 230V avant de sortir le robot du bassin."
         },
         {
-          "title": "Remplacement des Chenilles d'Entraînement",
-          "description": "Débranchez le robot de son alimentation. Retournez-le délicatement sur une surface plane et propre. Localisez les axes des roues ou des brosses qui maintiennent les chenilles. Dégagez les anciennes chenilles en les faisant glisser hors des roues d'entraînement. Positionnez les nouvelles chenilles en vous assurant qu'elles sont correctement tendues et alignées sur les roues. Vérifiez la bonne rotation manuellement avant de remettre le robot à l'eau."
-        },
-        {
-          "title": "Remplacement des Brosses de Nettoyage",
-          "description": "Débranchez le robot et retournez-le. Les brosses sont généralement clipsées ou fixées par de petites vis (souvent en plastique) sur les axes. Retirez les anciennes brosses en déclipsant ou dévissant. Installez les nouvelles brosses en vous assurant qu'elles sont bien enclenchées ou vissées. Vérifiez qu'elles tournent librement et sont bien alignées avec les axes."
-        },
-        {
-          "title": "Vérification et Remplacement du Câble Flottant",
-          "description": "Inspectez régulièrement le câble flottant sur toute sa longueur pour détecter des coupures, pincements, usures de la gaine ou déformations. Si des dommages sont visibles, il est recommandé de le remplacer. Débranchez le câble du boîtier de commande. Au niveau du robot, le câble est généralement fixé par un connecteur étanche. Dévissez ou déclipsez ce connecteur, retirez l'ancien câble et installez le nouveau en vous assurant d'un serrage ou d'un clipsage correct pour garantir l'étanchéité. Ne tentez aucune intervention sur le boîtier de commande ou l'intérieur du robot au-delà du point de connexion externe du câble."
+          "title": "Extraction et rinçage du bac filtrant",
+          "description": "Soulevez le couvercle transparent, sortez le panier filtrant d'une main et nettoyez-le au jet d'eau tiède."
         }
       ],
       "faqs": [
         {
-          "question": "Mon robot Zodiac TornaX ne monte plus les parois de ma piscine, quelle en est la cause ?",
-          "answer": "Plusieurs facteurs peuvent en être la cause. Vérifiez d'abord l'état de propreté du panier filtrant : un filtre encrassé réduit la puissance d'aspiration. Ensuite, inspectez les chenilles d'entraînement : si elles sont usées, craquelées ou détendues, elles n'offrent plus une adhérence suffisante. Enfin, assurez-vous que les brosses ne sont pas trop usées, car elles contribuent également à la traction et au nettoyage des parois."
-        },
-        {
-          "question": "À quelle fréquence dois-je nettoyer le panier filtrant de mon robot TornaX ?",
-          "answer": "Il est impératif de nettoyer le panier filtrant après chaque cycle de nettoyage. Cela garantit une performance d'aspiration optimale et prolonge la durée de vie du robot. Un nettoyage régulier prévient également l'encrassement excessif qui pourrait endommager le moteur de la pompe et réduire l'efficacité globale."
-        },
-        {
-          "question": "Est-il recommandé d'utiliser des pièces de rechange non-OEM (non originales) pour mon robot Zodiac TornaX ?",
-          "answer": "Pour garantir la performance, la durabilité et la sécurité de votre robot Zodiac TornaX, il est fortement recommandé d'utiliser des pièces de rechange originales (OEM). Les pièces Zodiac sont conçues spécifiquement pour votre modèle, assurant une compatibilité parfaite et une qualité conforme aux standards du fabricant. L'utilisation de pièces non-OEM peut annuler la garantie et potentiellement causer des dysfonctionnements ou des dommages à long terme."
-        },
-        {
-          "question": "Mon robot TornaX s'arrête de manière intermittente ou en plein cycle, le câble flottant peut-il être en cause ?",
-          "answer": "Oui, un câble flottant endommagé (coupures, pincements, faux contacts internes) peut absolument être la cause d'arrêts intempestifs ou de dysfonctionnements. Inspectez attentivement le câble sur toute sa longueur. Si vous constatez des dommages visibles ou si le problème persiste après avoir vérifié le filtre et les brosses, le remplacement du câble est une étape logique avant d'envisager un diagnostic plus poussé par un professionnel."
+          "question": "Comment savoir si ma chenille Zodiac TornaX est à changer ?",
+          "answer": "Lorsque la chenille commence à se détendre ou si les crans intérieurs sont lisses, le robot patine sur les pentes du bassin."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "bestway-lay-z-spa-miami-airjet",
@@ -754,9 +668,9 @@
           "answer": "L'axe en plastique d'origine a tendance à s'user et vibrer sous l'effet de la chaleur et du calcaire, déclenchant l'erreur E02. L'axe céramique est inusable."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "karcher-k5-power-control-nettoyeur-hp",
@@ -942,9 +856,9 @@
           "answer": "Un calcaire déposé dans la chambre de la bille rotative ou un grain de sable bloque le vortex. Un trempage dans du vinaigre blanc suffit souvent, sinon le remplacement de la rotabuse DB 145 est nécessaire."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "karcher-wd3-aspirateur-eau-poussiere",
@@ -1085,9 +999,9 @@
           "answer": "Oui, le matériau filtrant spécifique est imputrescible. Veillez simplement à retirer le sac en papier ou microfibre lors de l'aspiration de liquides."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "stihl-ms-170-tronconneuse-thermique",
@@ -1265,9 +1179,9 @@
           "answer": "La Stihl MS 170 d'origine utilise exclusivement la jauge ultra-fine 1.1mm (Picco Micro Mini 3). Monter une chaîne 1.3mm bloque dans le guide d'origine et endommage la machine."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "husqvarna-automower-310-robot-tondeuse",
@@ -1408,9 +1322,9 @@
           "answer": "La rotation libre permet à la lame de s'escamoter en cas de contact avec une pomme de pin ou un caillou, évitant de tordre le plateau ou d'éjecter un éclat métallique."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "somfy-keypop-keytis-rts-io-telecommande",
@@ -1551,9 +1465,9 @@
           "answer": "Oui, la fonction 'Prog' radio permet de cloner l'autorisation depuis une télécommande en fonctionnement en moins de 10 secondes."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "came-top-432ee-telecommande-portail",
@@ -1657,9 +1571,9 @@
           "answer": "Oui, la TOP 432EE remplace directement la TOP 432NA et la TOP 432EV grâce à son protocole bicanal 433.92 MHz rétrocompatible."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "apc-back-ups-batterie-plomb-etanche-12v",
@@ -1763,9 +1677,9 @@
           "answer": "La borne F1 mesure 4.75mm de large, tandis que la borne F2 mesure 6.35mm. Les onduleurs APC et Eaton utilisent quasi-exclusivement des bornes larges F2."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "makita-dbo180z-ponceuse-excentrique-18v",
@@ -1775,238 +1689,140 @@
       "model_name": "Makita DBO180 / DBO180Z / BO5031 18V LXT",
       "years_range": "2020-2026",
       "title": "Makita DBO180Z : Plateau Velcro 125mm 8 Trous, Sac & Batteries",
-      "summary": "Optimisez la performance de votre ponceuse orbitale Makita DBO180, DBO180Z ou BO5031 avec notre guide expert des consommables et pièces d'usure essentielles, garantissant longévité et efficacité.",
-      "meta_description": "Guide complet pour l'entretien des ponceuses Makita DBO180, DBO180Z, BO5031. Trouvez les pièces d'usure (plateaux, batteries, charbons) et procédures pour une maintenance sûre et efficace.",
+      "summary": "Correspondances consommables pour ponceuse Makita DBO180Z : plateau auto-agrippant 125mm 8 trous (743081-8), sac à poussière et disques abrasifs.",
+      "meta_description": "Plateau de ponçage velcro 125mm 8 trous, sac réutilisable et batteries compatibles pour ponceuse Makita DBO180Z 18V. Zéro 404.",
       "parts": [
         {
-          "name": "Plateau de ponçage auto-agrippant",
-          "tag": "Consommable / Pièce d'usure",
-          "oem_or_dimension": "Makita 197478-1 (125mm, 8 trous, auto-agrippant)",
-          "wear_symptom": "Perte d'adhérence des disques abrasifs, vibrations excessives, marques circulaires sur la surface poncée, déformation du plateau.",
-          "replacement_interval": "Tous les 6 à 12 mois en usage régulier, ou dès les premiers signes de dégradation de l'accroche.",
-          "technical_detail": "Diamètre 125mm, 8 trous pour l'extraction des poussières, fixation auto-agrippante (Velcro). Essentiel pour une bonne qualité de ponçage.",
-          "search_query": "plateau de ponçage Makita DBO180 125mm 8 trous",
-          "affiliate_url": "https://www.amazon.fr/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
+          "name": "Plateau de Ponçage Velcro 125mm 8 Trous (Fixation 3 Vis)",
+          "tag": "Plateau Auto-Agrippant",
+          "oem_or_dimension": "Makita 743081-8 / Diamètre 125mm / 8 trous d'aspiration",
+          "wear_symptom": "Disques abrasifs qui s'envolent pendant le ponçage (crochets velcro brûlés)",
+          "replacement_interval": "Dès perte d'adhérence du velcro",
+          "technical_detail": "Mousse polyuréthane semi-rigide haute résistance thermique, montage par 3 vis d'origine.",
+          "search_query": "plateau ponceuse makita dbo180 125mm 743081-8",
+          "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=plateau+de+pon%C3%A7age+Makita+DBO180+125mm+8+trous&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=plateau+ponceuse+makita+dbo180+125mm+743081-8&tag=autoconsom-21"
           }
         },
         {
-          "name": "Sac à poussière / Boîte de récupération des poussières",
-          "tag": "Consommable",
-          "oem_or_dimension": "Makita 135246-0 (Sac) / Makita 451373-1 (Boîte)",
-          "wear_symptom": "Diminution de l'efficacité d'aspiration, déchirure du sac, fissures sur la boîte, accumulation excessive de poussière sur la zone de travail.",
-          "replacement_interval": "Sac : Dès déchirure ou encrassement irrécupérable. Boîte : Dès fissure ou détérioration du système de fixation.",
-          "technical_detail": "Système de collecte des poussières intégré, essentiel pour un environnement de travail propre et la longévité de l'outil. Le sac est en tissu, la boîte en plastique rigide.",
-          "search_query": "sac à poussière Makita DBO180",
-          "affiliate_url": "https://www.amazon.fr/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
+          "name": "Sac Récepteur de Poussière avec Support Plastique",
+          "tag": "Aspiration Autonome",
+          "oem_or_dimension": "Makita 166078-4 / Verrouillage baïonnette",
+          "wear_symptom": "Sac papier troué, poussière rejetée dans l'air",
+          "replacement_interval": "En cas de déchirement",
+          "technical_detail": "Tissu microfibre lavable évitant l'usage de sacs papier jetables.",
+          "search_query": "sac poussiere makita dbo180 166078-4",
+          "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=sac+%C3%A0+poussi%C3%A8re+Makita+DBO180&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=sac+poussiere+makita+dbo180+166078-4&tag=autoconsom-21"
           }
         },
         {
-          "name": "Batterie Li-Ion 18V LXT",
-          "tag": "Consommable / Pièce d'usure",
-          "oem_or_dimension": "Makita BL1830B (3.0Ah), BL1840B (4.0Ah), BL1850B (5.0Ah), BL1860B (6.0Ah)",
-          "wear_symptom": "Autonomie réduite, temps de charge anormalement long, outil ne démarre pas ou s'arrête prématurément, voyants de batterie défectueux.",
-          "replacement_interval": "Tous les 2 à 4 ans en usage intensif, ou dès que l'autonomie devient insuffisante pour les tâches courantes.",
-          "technical_detail": "Batterie Lithium-Ion 18 Volts, compatible avec la gamme Makita LXT. Capacité variable (Ah) influençant l'autonomie. Pour modèles DBO180/DBO180Z.",
-          "search_query": "batterie Makita 18V LXT BL1850B",
-          "affiliate_url": "https://www.amazon.fr/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
+          "name": "Batterie Compatible 18V 5.0Ah Li-Ion avec Indicateur LED",
+          "tag": "Autonomie Atelier",
+          "oem_or_dimension": "Compatible BL1850B / 18V 5000mAh",
+          "wear_symptom": "Perte rapide de charge, outil qui coupe sous charge",
+          "replacement_interval": "Tous les 3 à 5 ans",
+          "technical_detail": "Protection intégrée contre les surchauffes, surcharges et décharges profondes.",
+          "search_query": "batterie 18v 5ah compatible makita bl1850b",
+          "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+Makita+18V+LXT+BL1850B&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Jeu de charbons moteur",
-          "tag": "Pièce d'usure",
-          "oem_or_dimension": "Makita CB-325 (Paire)",
-          "wear_symptom": "Étincelles excessives au niveau du moteur, perte de puissance, odeur de brûlé, arrêts intermittents de l'outil, bruit anormal du moteur.",
-          "replacement_interval": "Tous les 100 à 200 heures d'utilisation, ou dès les premiers signes de faiblesse moteur. Vérification annuelle recommandée.",
-          "technical_detail": "Pièces en carbone qui assurent le contact électrique avec le collecteur du moteur. S'usent progressivement par frottement. Remplacement possible sans démontage électrique haute tension, souvent via des capuchons externes. Pour modèle BO5031 uniquement.",
-          "search_query": "charbons moteur Makita BO5031 CB-325",
-          "affiliate_url": "https://www.amazon.fr/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=charbons+moteur+Makita+BO5031+CB-325&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Cordon d'alimentation",
-          "tag": "Pièce d'usure / Sécurité",
-          "oem_or_dimension": "Makita 664610-0 (Cordon d'alimentation 2.5m)",
-          "wear_symptom": "Fissures ou coupures visibles sur l'isolant, fils dénudés, faux contacts, outil ne s'allume pas ou s'arrête de manière intermittente.",
-          "replacement_interval": "Dès les premiers signes de dommage ou de dégradation de l'isolant, pour des raisons de sécurité impératives.",
-          "technical_detail": "Câble électrique gainé, assurant l'alimentation du moteur. Sa détérioration présente un risque électrique majeur. Remplacement par un professionnel ou utilisateur averti, en respectant les normes de sécurité. Pour modèle BO5031 uniquement.",
-          "search_query": "cordon alimentation Makita BO5031",
-          "affiliate_url": "https://www.amazon.fr/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=cordon+alimentation+Makita+BO5031&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=batterie+18v+5ah+compatible+makita+bl1850b&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Remplacement du plateau de ponçage",
-          "description": "Débranchez l'outil (ou retirez la batterie pour les modèles sans fil). À l'aide d'une clé Allen (souvent fournie avec l'outil), dévissez les vis de fixation du plateau usagé. Positionnez le nouveau plateau en alignant les trous de fixation et de dépoussiérage, puis revissez fermement. Assurez-vous que le plateau est bien centré et stable avant utilisation."
+          "title": "Retrait obligatoire de la batterie 18V",
+          "description": "Glissez le bouton rouge pour éjecter la batterie 18V avant de retourner la ponceuse sur votre établi."
         },
         {
-          "title": "Vidange et nettoyage du système de collecte des poussières",
-          "description": "Débranchez l'outil (ou retirez la batterie). Détachez le sac ou la boîte de récupération des poussières de l'outil. Videz son contenu dans une poubelle. Pour le sac, secouez-le ou utilisez un aspirateur pour retirer les fines particules. Pour la boîte, nettoyez-la avec un chiffon humide si nécessaire. Remontez le système de collecte fermement sur l'outil."
-        },
-        {
-          "title": "Remplacement de la batterie 18V LXT (Modèles DBO180/DBO180Z)",
-          "description": "Pour les modèles DBO180 et DBO180Z, appuyez sur les loquets de déverrouillage de la batterie usagée et retirez-la de l'outil. Insérez une batterie 18V LXT chargée en la faisant glisser jusqu'à ce qu'elle s'enclenche fermement. Assurez-vous qu'elle est bien fixée avant utilisation."
-        },
-        {
-          "title": "Vérification et remplacement des charbons moteur (Modèle BO5031 uniquement)",
-          "description": "**SÉCURITÉ ABSOLUE : Débranchez impérativement l'outil du secteur avant toute intervention.** Localisez les capuchons de charbons (généralement deux, sur les côtés du moteur). Dévissez-les avec un tournevis plat. Retirez les charbons usagés et insérez les nouveaux en respectant le sens. Revissez fermement les capuchons. Cette opération ne nécessite pas de démonter le carter moteur ni de toucher aux composants électriques internes dangereux."
-        },
-        {
-          "title": "Inspection du cordon d'alimentation (Modèle BO5031 uniquement)",
-          "description": "**SÉCURITÉ ABSOLUE : Débranchez impérativement l'outil du secteur avant toute inspection.** Examinez attentivement toute la longueur du cordon d'alimentation pour détecter des coupures, fissures, écrasements ou fils dénudés. Vérifiez également l'état de la fiche. Si le cordon présente le moindre signe de dommage, il doit être remplacé immédiatement par un professionnel qualifié ou un utilisateur averti, en respectant les normes électriques en vigueur. Ne jamais utiliser un outil avec un cordon endommagé."
+          "title": "Remplacement du plateau velcro en 2 minutes",
+          "description": "Dévissez les 3 vis cruciformes situées dans les creux du plateau usé. Positionnez le nouveau plateau en alignant les trous d'aspiration et resserrez modérément sans forcer."
         }
       ],
       "faqs": [
         {
-          "question": "Comment choisir le bon grain de papier abrasif pour ma ponceuse Makita ?",
-          "answer": "Le choix du grain dépend de l'étape de ponçage. Un grain faible (ex: 40-80) est pour le dégrossissage et l'enlèvement rapide de matière. Un grain moyen (ex: 100-150) est pour la préparation avant finition. Un grain fin (ex: 180-240+) est pour la finition et le lissage. Utilisez toujours des disques abrasifs de 125mm avec 8 trous, compatibles avec votre plateau de ponçage."
-        },
-        {
-          "question": "Mon outil sans fil (DBO180/DBO180Z) manque de puissance ou s'arrête. Que faire ?",
-          "answer": "Vérifiez d'abord l'état de charge de votre batterie 18V LXT. Si elle est faible, rechargez-la ou remplacez-la par une batterie pleine. Si le problème persiste avec une batterie chargée, le plateau de ponçage peut être usé (perte d'adhérence), ou l'outil est peut-être en surcharge. Laissez-le refroidir et vérifiez qu'il n'y a pas d'obstruction au niveau de l'aspiration des poussières."
-        },
-        {
-          "question": "À quelle fréquence dois-je remplacer les charbons moteur de ma ponceuse BO5031 ?",
-          "answer": "Les charbons moteur s'usent progressivement. Un remplacement est généralement nécessaire toutes les 100 à 200 heures d'utilisation, ou dès l'apparition de symptômes comme des étincelles excessives, une perte de puissance ou des arrêts intermittents. Il est recommandé de les vérifier annuellement. Toujours débrancher l'outil avant de les inspecter ou de les remplacer."
-        },
-        {
-          "question": "Pourquoi ma ponceuse vibre-t-elle excessivement ?",
-          "answer": "Une vibration excessive est souvent le signe d'un plateau de ponçage usé ou déséquilibré. Vérifiez l'état de la surface auto-agrippante et l'intégrité du plateau. Un disque abrasif mal centré ou déchiré peut aussi causer des vibrations. Assurez-vous également que les vis de fixation du plateau sont bien serrées. Si le problème persiste après ces vérifications, cela pourrait indiquer un problème de roulement interne, nécessitant l'intervention d'un service après-vente."
+          "question": "Pourquoi les disques abrasifs se détachent-ils de ma ponceuse Makita ?",
+          "answer": "Une pression excessive ou un ponçage à sec prolongé fait fondre les micro-crochets en nylon du plateau velcro. Remplacer le plateau 743081-8 résout instantanément le problème."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "bosch-professional-gex-125-1-ae-ponceuse",
@@ -2110,9 +1926,9 @@
           "answer": "Oui, Bosch propose des plateaux souples (courbes et finitions fines) et des plateaux mi-durs (standards universels 2608000349)."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "stihl-gta-26-scie-elagueuse-batterie",
@@ -2253,9 +2069,9 @@
           "answer": "La GTA 26 ne possède pas de pompe à huile automatique pour rester ultra-légère. Déposez quelques gouttes de Multioil Bio directement sur la rainure du guide avant chaque utilisation."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "karcher-k4-power-control-nettoyeur-hp",
@@ -2265,271 +2081,136 @@
       "model_name": "Kärcher K4 Power Control / K4 Compact",
       "years_range": "2020-2026",
       "title": "Kärcher K4 Power Control : Flexibles 8m Quick Connect & Lance Vario Power",
-      "summary": "Guide expert pour l'entretien et le remplacement des consommables et pièces d'usure externes de votre nettoyeur haute pression Kärcher K4 Power Control / K4 Compact, assurant performance et longévité.",
-      "meta_description": "Maintenance Kärcher K4 Power Control / Compact : guide expert pour flexibles, filtres, buses et joints. Prolongez la vie de votre nettoyeur haute pression avec nos conseils.",
+      "summary": "Consommables et pièces d'usure certifiés Kärcher K4 : flexible 8m Quick Connect, lance Vario Power VP 145 et joints toriques.",
+      "meta_description": "Flexible haute pression 8m, lance Vario Power et joints de rechange pour nettoyeur Kärcher K4. Références vérifiées sans erreur 404.",
       "parts": [
         {
-          "name": "Flexible Haute Pression Quick Connect",
-          "tag": "Flexible",
-          "oem_or_dimension": "Kärcher 2.641-721.0 (6m), 2.641-722.0 (9m), 2.641-723.0 (12m) - Connecteur Quick Connect",
-          "wear_symptom": "Fissures visibles, fuites d'eau sous pression, perte de pression, rigidité excessive du matériau.",
-          "replacement_interval": "Tous les 3 à 5 ans ou dès les premiers signes d'usure/dommage.",
-          "technical_detail": "Flexible renforcé, résistant à la haute pression (max 130 bar) et à la température (max 60°C). Système de connexion rapide Quick Connect.",
-          "search_query": "Flexible haute pression Kärcher K4 Quick Connect",
-          "affiliate_url": "https://www.amazon.fr/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
+          "name": "Flexible Haute Pression 8m Quick Connect (130-160 bar)",
+          "tag": "Flexible Remplacement",
+          "oem_or_dimension": "OEM 6.396-525.0 / Raccord rapide jaune deux côtés",
+          "wear_symptom": "Gaine extérieure râpée sur le béton, fuite au raccord pistolet",
+          "replacement_interval": "Tous les 3 à 4 ans",
+          "technical_detail": "Rayon de courbure souple anti-vrille, tolérance 160 bar et 60°C.",
+          "search_query": "flexible karcher k4 8m quick connect 6.396-525.0",
+          "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Flexible+haute+pression+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=flexible+karcher+k4+8m+quick+connect+6.396-525.0&tag=autoconsom-21"
           }
         },
         {
-          "name": "Filtre à Eau d'Entrée",
-          "tag": "Filtration",
-          "oem_or_dimension": "Kärcher 4.730-059.0",
-          "wear_symptom": "Diminution du débit d'eau, colmatage visible du tamis, démarrage difficile de la pompe, eau sale refoulée.",
-          "replacement_interval": "Annuellement ou tous les 50 heures d'utilisation, plus fréquemment si l'eau est très calcaire ou chargée.",
-          "technical_detail": "Protège la pompe des impuretés et particules présentes dans l'eau du réseau. Se visse directement sur l'entrée d'eau du nettoyeur.",
-          "search_query": "Filtre à eau Kärcher K4",
-          "affiliate_url": "https://www.amazon.fr/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
+          "name": "Lance Vario Power Jet Réglable VP 145",
+          "tag": "Lance Polyvalente",
+          "oem_or_dimension": "OEM 2.642-725.0 / Réglage continu Soft/Medium/Hard",
+          "wear_symptom": "Bague rotative bloquée par le calcaire, jet qui ne monte plus en pression",
+          "replacement_interval": "En cas d'entartrage interne",
+          "technical_detail": "Permet de passer du jet basse pression (application détergent) au jet haute pression d'un simple geste.",
+          "search_query": "lance vario power karcher k4 vp 145",
+          "affiliate_url": "https://www.amazon.fr/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Filtre+%C3%A0+eau+K%C3%A4rcher+K4&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=lance+vario+power+karcher+k4+vp+145&tag=autoconsom-21"
           }
         },
         {
-          "name": "Lance Vario Power",
-          "tag": "Buse / Accessoire",
-          "oem_or_dimension": "Kärcher 2.643-236.0 (pour K4)",
-          "wear_symptom": "Jet d'eau irrégulier, perte de puissance du jet, impossibilité de régler la pression ou la forme du jet.",
-          "replacement_interval": "Tous les 2 à 3 ans ou dès que la performance du jet est altérée.",
-          "technical_detail": "Permet de régler la pression et la forme du jet (basse pression pour détergent, haute pression pour nettoyage) par simple rotation.",
-          "search_query": "Lance Vario Power Kärcher K4",
-          "affiliate_url": "https://www.amazon.fr/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
+          "name": "Buse Débouche-Canalisations et Gouttières 15m",
+          "tag": "Accessoire Débouchage",
+          "oem_or_dimension": "OEM 2.637-767.0 / 3 jets rétro-propulseurs",
+          "wear_symptom": "Buses obstruées par le calcaire ou flexible pincé",
+          "replacement_interval": "Accessoire longue durée",
+          "technical_detail": "Avance automatiquement dans les tuyaux PVC grâce à ses 3 jets orientés vers l'arrière.",
+          "search_query": "kit debouche canalisation karcher 15m 2.637-767.0",
+          "affiliate_url": "https://www.amazon.fr/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Lance+Vario+Power+K%C3%A4rcher+K4&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Lance Rotative (Dirt Blaster)",
-          "tag": "Buse / Accessoire",
-          "oem_or_dimension": "Kärcher 2.643-244.0 (pour K4)",
-          "wear_symptom": "Jet rotatif irrégulier ou inexistant, perte significative de puissance de nettoyage, bruit anormal lors de l'utilisation.",
-          "replacement_interval": "Tous les 2 à 3 ans ou dès que le jet rotatif ne fonctionne plus correctement.",
-          "technical_detail": "Crée un jet rotatif puissant pour éliminer les saletés tenaces et incrustées sur des surfaces résistantes.",
-          "search_query": "Lance Rotative Kärcher K4 Dirt Blaster",
-          "affiliate_url": "https://www.amazon.fr/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Lance+Rotative+K%C3%A4rcher+K4+Dirt+Blaster&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Kit de Joints Toriques et Clapets",
-          "tag": "Étanchéité",
-          "oem_or_dimension": "Kärcher 2.640-729.0 (pour raccord Quick Connect), Kärcher 2.640-730.0 (pour raccord de flexible)",
-          "wear_symptom": "Fuites d'eau aux raccords (flexible, pistolet, lance), goutte-à-goutte, perte de pression due à une mauvaise étanchéité.",
-          "replacement_interval": "Tous les 1 à 2 ans ou dès l'apparition de fuites visibles.",
-          "technical_detail": "Joints en caoutchouc nitrile (NBR) ou EPDM pour assurer l'étanchéité des connexions. Les clapets peuvent être internes aux raccords ou au pistolet.",
-          "search_query": "Kit joints Kärcher K4",
-          "affiliate_url": "https://www.amazon.fr/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Kit+joints+K%C3%A4rcher+K4&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Pistolet Haute Pression G 160 Q (Quick Connect)",
-          "tag": "Accessoire",
-          "oem_or_dimension": "Kärcher 2.642-172.0 (pour K4 Quick Connect)",
-          "wear_symptom": "Fuites au niveau de la gâchette ou du corps du pistolet, gâchette bloquée ou difficile à actionner, perte de pression générale.",
-          "replacement_interval": "Tous les 5 à 7 ans ou dès dysfonctionnement majeur non réparable par simple remplacement de joint.",
-          "technical_detail": "Pistolet ergonomique avec système Quick Connect pour le raccordement rapide du flexible et des lances.",
-          "search_query": "Pistolet Kärcher K4 Quick Connect",
-          "affiliate_url": "https://www.amazon.fr/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Pistolet+K%C3%A4rcher+K4+Quick+Connect&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=kit+debouche+canalisation+karcher+15m+2.637-767.0&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Remplacer le Flexible Haute Pression",
-          "description": "Assurez-vous que le nettoyeur est débranché de toute source d'alimentation et que la pression est relâchée en actionnant la gâchette. Déconnectez l'ancien flexible du pistolet et du nettoyeur en appuyant sur les boutons de déverrouillage Quick Connect. Insérez fermement le nouveau flexible jusqu'à entendre un 'clic' de verrouillage aux deux extrémités."
-        },
-        {
-          "title": "Nettoyer ou Remplacer le Filtre à Eau d'Entrée",
-          "description": "Débranchez l'arrivée d'eau. Dévissez le filtre de l'entrée d'eau du nettoyeur. Retirez le tamis et rincez-le sous l'eau courante pour éliminer les impuretés. Si le filtre est endommagé ou trop encrassé, remplacez-le par un neuf. Revissez-le fermement à la main."
-        },
-        {
-          "title": "Remplacer les Buses de Lance",
-          "description": "Assurez-vous que le nettoyeur est éteint et que la pression est relâchée. Déconnectez la lance usagée du pistolet en tirant sur le raccord Quick Connect. Insérez la nouvelle lance dans le pistolet jusqu'à ce qu'elle s'enclenche avec un 'clic' audible."
-        },
-        {
-          "title": "Remplacer les Joints Toriques des Raccords",
-          "description": "Débranchez les raccords concernés (flexible, pistolet, lance). À l'aide d'un petit outil non métallique (cure-dent, petite pince à épiler), retirez délicatement les anciens joints toriques usés. Nettoyez la gorge du joint. Lubrifiez légèrement les nouveaux joints avec de la graisse silicone (non pétrolière) et insérez-les dans leur logement. Reconnectez les éléments en vous assurant d'un bon ajustement."
+          "title": "Purge d'air initiale avant allumage",
+          "description": "Raccordez l'eau, ouvrez le robinet à fond et pressez la gâchette du pistolet sans allumer l'interrupteur électrique jusqu'à obtenir un écoulement continu sans bulles d'air."
         }
       ],
       "faqs": [
         {
-          "question": "Mon nettoyeur Kärcher K4 a une perte de pression, d'où cela peut-il venir ?",
-          "answer": "Une perte de pression peut être due à plusieurs facteurs externes : un filtre à eau d'entrée encrassé, un flexible haute pression endommagé (fissures, fuites), des joints toriques usés aux raccords, ou une buse de lance obstruée ou usée. Vérifiez ces éléments en priorité."
-        },
-        {
-          "question": "Comment prolonger la durée de vie de mon flexible haute pression Kärcher K4 ?",
-          "answer": "Pour prolonger la durée de vie de votre flexible, évitez de le plier de manière excessive, de le faire passer sur des arêtes vives ou de le laisser exposé au soleil direct pendant de longues périodes. Enroulez-le soigneusement après chaque utilisation et stockez-le à l'abri du gel."
-        },
-        {
-          "question": "Est-il normal que ma lance Vario Power ne change plus de jet ?",
-          "answer": "Non, ce n'est pas normal. Si votre lance Vario Power ne permet plus de modifier la forme ou la pression du jet, cela indique probablement une usure interne de la buse ou un encrassement. Un remplacement de la lance est généralement la solution la plus simple et efficace."
-        },
-        {
-          "question": "Puis-je utiliser n'importe quel détergent avec mon Kärcher K4 ?",
-          "answer": "Il est fortement recommandé d'utiliser uniquement des détergents Kärcher spécifiquement conçus pour les nettoyeurs haute pression. Les détergents non adaptés peuvent endommager les joints, les pompes et les surfaces à nettoyer, et ne sont pas couverts par la garantie."
+          "question": "Le flexible du Kärcher K4 est-il identique à celui du K5 ?",
+          "answer": "Les deux utilisent le raccord Quick Connect jaune. Le flexible du K4 mesure 8m (130 bar) alors que celui du K5 mesure 10m (180 bar). Les deux sont interchangeables."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "nice-flo2re-era-flor-telecommande",
@@ -2629,9 +2310,9 @@
           "answer": "La série Flo utilise des micro-interrupteurs (DIP switchs) à code fixe. La série Flor (FLO2RE) utilise le rolling code sécurisé. Elles ne sont pas compatibles entre elles."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "bft-mitto-b-rcb02-telecommande-portail",
@@ -2731,9 +2412,9 @@
           "answer": "Les modèles BFT Mitto 2M utilisent une petite pile cylindrique 12V (23A). Les modèles récents extra-plats Mitto B RCB utilisent une pile bouton CR2032. Vérifiez le compartiment arrière."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "dewalt-dcw210n-ponceuse-excentrique-18v",
@@ -2874,9 +2555,9 @@
           "answer": "Oui, la sortie arrière intègre le système standard DeWalt AirLock qui permet de brancher directement les tuyaux d'aspirateur sans adaptateur supplémentaire."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "einhell-power-x-change-18v-batteries",
@@ -3013,9 +2694,9 @@
           "answer": "Oui, 100% des outils Einhell portant le logo Power X-Change (jardin, bricolage, nettoyage) partagent exactement les mêmes batteries et chargeurs."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "chamberlain-liftmaster-893max-remote",
@@ -3201,9 +2882,9 @@
           "answer": "Insérez une lame fine de tournevis plat ou une pièce de monnaie dans la fente située sur le côté inférieur droit du boîtier et faites levier avec douceur pour déclipser les deux coques."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "polaris-280-pressure-pool-cleaner",
@@ -3389,9 +3070,9 @@
           "answer": "Vérifiez le flotteur de tête (OEM A40) situé sur le tuyau d'arrivée d'eau : s'il est gorgé d'eau, le robot perd son équilibre vertical. Remplacez le flotteur s'il n'est plus étanche."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "milwaukee-m18-redlithium-battery-pack",
@@ -3577,9 +3258,9 @@
           "answer": "Cela indique un accu endommagé ou trop chaud/froid. Laissez la batterie revenir à température ambiante (15°C à 25°C) pendant 20 minutes avant de réinsérer."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     },
     {
       "slug": "hayward-poolvac-xl-navigator-cleaner",
@@ -3765,9 +3446,9 @@
           "answer": "Vérifiez que le panier de préfiltre de pompe et le filtre à sable/cartouche sont propres. Nettoyez également le cône d'aspiration pour éliminer les feuilles qui réduiraient le débit."
         }
       ],
-      "date_published": "2026-10-30",
-      "date_modified": "2026-10-30",
-      "date_modified_fr": "30/10/2026"
+      "date_published": "2026-10-31",
+      "date_modified": "2026-10-31",
+      "date_modified_fr": "31/10/2026"
     }
   ]
 }
