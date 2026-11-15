@@ -7,54 +7,63 @@ Base URL: https://Thorlan04.github.io/auto-outdoor-parts-agent/
 MODEL : Maytronics (Dolphin) - Dolphin E20 / E10 / S200 (Piscine, Spa & Robots Nettoyeurs)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/dolphin-e20-maytronics-robot-piscine.html
 YEARS : 2020-2026
-SUMMARY : Optimisez la longévité et la performance de votre robot nettoyeur Dolphin E10, E20 ou S200 grâce à ce guide expert des consommables et pièces d'usure essentielles, garantissant une maintenance sécurisée et efficace.
+SUMMARY : Optimisez la longévité et la performance de votre robot nettoyeur Dolphin E20, E10 ou S200 grâce à une maintenance préventive ciblée sur les consommables et pièces d'usure essentielles, garantissant une piscine impeccable en toute sécurité.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Panier filtrant fin (Kit)
-  OEM REF / SPECS : Maytronics 9991432-ASSY (ou équivalent pour E10/E20/S200)
-  WEAR & INTERVAL : Diminution du débit d'eau, eau trouble après nettoyage, accumulation de débris fins dans le panier malgré un nettoyage régulier, déchirures du média filtrant. (Annuel ou tous les 200 cycles de nettoyage, selon l'état et l'usage.)
-  AMAZON (FR) : https://www.amazon.com/s?k=panier+filtre+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=panier+filtre+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=panier+filtre+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=panier+filtre+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=panier+filtre+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=panier+filtre+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-- PART : Panier filtrant ultra-fin (Kit)
-  OEM REF / SPECS : Maytronics 9991432-ASSY (avec cartouches ultra-fines)
-  WEAR & INTERVAL : Même symptômes que le filtre fin, mais spécifiquement pour les particules microscopiques. Déchirures ou déformations des cartouches ultra-fines. (Annuel ou tous les 200 cycles de nettoyage, selon l'état et l'usage.)
-  AMAZON (FR) : https://www.amazon.com/s?k=panier+filtre+ultra+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=panier+filtre+ultra+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=panier+filtre+ultra+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=panier+filtre+ultra+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=panier+filtre+ultra+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=panier+filtre+ultra+fin+dolphin+e10+e20+s200+maytronics+9991432-ASSY&tag=autoconsom-21
-- PART : Chenilles d'entraînement (Kit de 2)
-  OEM REF / SPECS : Maytronics 9985006 (pour E10/E20/S200)
-  WEAR & INTERVAL : Le robot se déplace lentement, patine, ne monte plus les parois correctement, traces d'usure visibles (fissures, étirements, déchirures) sur les chenilles. (Tous les 1 à 2 ans ou tous les 300-500 cycles, selon l'intensité d'utilisation et la rugosité du revêtement.)
-  AMAZON (FR) : https://www.amazon.com/s?k=chenilles+dolphin+e10+e20+s200+maytronics+9985006&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=chenilles+dolphin+e10+e20+s200+maytronics+9985006&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=chenilles+dolphin+e10+e20+s200+maytronics+9985006&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=chenilles+dolphin+e10+e20+s200+maytronics+9985006&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=chenilles+dolphin+e10+e20+s200+maytronics+9985006&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=chenilles+dolphin+e10+e20+s200+maytronics+9985006&tag=autoconsom-21
-- PART : Brosses combinées (Kit de 2)
-  OEM REF / SPECS : Maytronics 9985007 (pour E10/E20/S200)
-  WEAR & INTERVAL : Efficacité de nettoyage réduite, algues ou saletés persistantes sur les surfaces, poils des brosses écrasés, usés ou manquants. (Tous les 1 à 2 ans ou tous les 300-500 cycles, selon l'intensité d'utilisation.)
-  AMAZON (FR) : https://www.amazon.com/s?k=brosses+combin%C3%A9es+dolphin+e10+e20+s200+maytronics+9985007&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=brosses+combin%C3%A9es+dolphin+e10+e20+s200+maytronics+9985007&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=brosses+combin%C3%A9es+dolphin+e10+e20+s200+maytronics+9985007&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=brosses+combin%C3%A9es+dolphin+e10+e20+s200+maytronics+9985007&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=brosses+combin%C3%A9es+dolphin+e10+e20+s200+maytronics+9985007&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=brosses+combin%C3%A9es+dolphin+e10+e20+s200+maytronics+9985007&tag=autoconsom-21
-- PART : Brosses mousse (Kit de 2) (pour liner)
-  OEM REF / SPECS : Maytronics 9985009 (pour E10/E20/S200, spécifiquement liner)
-  WEAR & INTERVAL : Même symptômes que les brosses combinées, mais spécifiquement pour les piscines liner où une adhérence optimale est cruciale. Mousse déchirée ou compactée. (Tous les 1 à 2 ans ou tous les 300-500 cycles, selon l'intensité d'utilisation.)
-  AMAZON (FR) : https://www.amazon.com/s?k=brosses+mousse+dolphin+e10+e20+s200+maytronics+9985009&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=brosses+mousse+dolphin+e10+e20+s200+maytronics+9985009&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=brosses+mousse+dolphin+e10+e20+s200+maytronics+9985009&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=brosses+mousse+dolphin+e10+e20+s200+maytronics+9985009&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=brosses+mousse+dolphin+e10+e20+s200+maytronics+9985009&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=brosses+mousse+dolphin+e10+e20+s200+maytronics+9985009&tag=autoconsom-21
+- PART : Panneaux filtrants (fins ou ultra-fins)
+  OEM REF / SPECS : Maytronics 9991432-ASSY (pour panier filtrant complet) ou références spécifiques aux panneaux (ex: 9991432-R1 pour fin, 9991432-R4 pour ultra-fin)
+  WEAR & INTERVAL : Diminution de la capacité de filtration, eau trouble persistante, encrassement rapide du panier, déchirures ou déformations des mailles. (Tous les 1 à 2 ans, ou dès l'apparition de signes d'usure ou de dégradation des performances.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Dolphin+E20+filtre+fin%2C+Dolphin+S200+panneaux+ultra-fins%2C+Maytronics+9991432-ASSY&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Dolphin+E20+filtre+fin%2C+Dolphin+S200+panneaux+ultra-fins%2C+Maytronics+9991432-ASSY&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Dolphin+E20+filtre+fin%2C+Dolphin+S200+panneaux+ultra-fins%2C+Maytronics+9991432-ASSY&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Dolphin+E20+filtre+fin%2C+Dolphin+S200+panneaux+ultra-fins%2C+Maytronics+9991432-ASSY&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Dolphin+E20+filtre+fin%2C+Dolphin+S200+panneaux+ultra-fins%2C+Maytronics+9991432-ASSY&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Dolphin+E20+filtre+fin%2C+Dolphin+S200+panneaux+ultra-fins%2C+Maytronics+9991432-ASSY&tag=autoconsom-21
+- PART : Chenilles d'entraînement (bandes de roulement)
+  OEM REF / SPECS : Maytronics 9983116 (lot de 2 chenilles)
+  WEAR & INTERVAL : Glissement du robot, déplacement irrégulier ou ralenti, marques d'usure visibles, craquelures, déchirements ou perte d'adhérence sur les parois. (Tous les 2 à 3 ans, ou dès que le robot montre des signes de difficulté à se déplacer ou à monter aux parois.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Dolphin+E20+chenilles%2C+Dolphin+S200+bandes+de+roulement%2C+Maytronics+9983116&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Dolphin+E20+chenilles%2C+Dolphin+S200+bandes+de+roulement%2C+Maytronics+9983116&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Dolphin+E20+chenilles%2C+Dolphin+S200+bandes+de+roulement%2C+Maytronics+9983116&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Dolphin+E20+chenilles%2C+Dolphin+S200+bandes+de+roulement%2C+Maytronics+9983116&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Dolphin+E20+chenilles%2C+Dolphin+S200+bandes+de+roulement%2C+Maytronics+9983116&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Dolphin+E20+chenilles%2C+Dolphin+S200+bandes+de+roulement%2C+Maytronics+9983116&tag=autoconsom-21
+- PART : Brosses de nettoyage (PVC ou combinées)
+  OEM REF / SPECS : Maytronics 9985006 (brosses PVC), Maytronics 9985007 (brosses Wonder Brush pour liner/carrelage)
+  WEAR & INTERVAL : Efficacité de nettoyage réduite, présence d'algues ou de dépôts persistants, poils écrasés, manquants ou durcis, traces sur le revêtement après le passage du robot. (Tous les 1 à 2 ans, ou si l'efficacité de brossage diminue visiblement.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Dolphin+E20+brosses+PVC%2C+Dolphin+S200+brosses+Wonder+Brush%2C+Maytronics+9985006&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Dolphin+E20+brosses+PVC%2C+Dolphin+S200+brosses+Wonder+Brush%2C+Maytronics+9985006&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Dolphin+E20+brosses+PVC%2C+Dolphin+S200+brosses+Wonder+Brush%2C+Maytronics+9985006&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Dolphin+E20+brosses+PVC%2C+Dolphin+S200+brosses+Wonder+Brush%2C+Maytronics+9985006&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Dolphin+E20+brosses+PVC%2C+Dolphin+S200+brosses+Wonder+Brush%2C+Maytronics+9985006&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Dolphin+E20+brosses+PVC%2C+Dolphin+S200+brosses+Wonder+Brush%2C+Maytronics+9985006&tag=autoconsom-21
+- PART : Hélice de pompe (turbine)
+  OEM REF / SPECS : Maytronics 9981412
+  WEAR & INTERVAL : Diminution significative de la puissance d'aspiration, débris non ramassés, bruit anormal provenant de la pompe, blocage par des cheveux ou petits objets. (Tous les 3 à 5 ans, ou en cas de bruit excessif ou de perte d'aspiration inexpliquée après nettoyage.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Dolphin+E20+h%C3%A9lice%2C+Dolphin+S200+turbine%2C+Maytronics+9981412&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Dolphin+E20+h%C3%A9lice%2C+Dolphin+S200+turbine%2C+Maytronics+9981412&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Dolphin+E20+h%C3%A9lice%2C+Dolphin+S200+turbine%2C+Maytronics+9981412&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Dolphin+E20+h%C3%A9lice%2C+Dolphin+S200+turbine%2C+Maytronics+9981412&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Dolphin+E20+h%C3%A9lice%2C+Dolphin+S200+turbine%2C+Maytronics+9981412&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Dolphin+E20+h%C3%A9lice%2C+Dolphin+S200+turbine%2C+Maytronics+9981412&tag=autoconsom-21
+- PART : Câble flottant avec Swivel (anti-torsion)
+  OEM REF / SPECS : Maytronics 9995860-ASSY (longueur 15m, pour E20/S200)
+  WEAR & INTERVAL : Câble qui s'emmêle systématiquement, robot qui ne se déplace plus librement, faux contacts, coupures intermittentes de l'alimentation, dommages visibles sur l'isolant du câble. (Tous les 3 à 5 ans, ou dès l'apparition de problèmes d'emmêlement persistants ou de dommages physiques.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Dolphin+E20+c%C3%A2ble+flottant%2C+Dolphin+S200+c%C3%A2ble+swivel%2C+Maytronics+9995860-ASSY&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Dolphin+E20+c%C3%A2ble+flottant%2C+Dolphin+S200+c%C3%A2ble+swivel%2C+Maytronics+9995860-ASSY&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Dolphin+E20+c%C3%A2ble+flottant%2C+Dolphin+S200+c%C3%A2ble+swivel%2C+Maytronics+9995860-ASSY&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Dolphin+E20+c%C3%A2ble+flottant%2C+Dolphin+S200+c%C3%A2ble+swivel%2C+Maytronics+9995860-ASSY&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Dolphin+E20+c%C3%A2ble+flottant%2C+Dolphin+S200+c%C3%A2ble+swivel%2C+Maytronics+9995860-ASSY&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Dolphin+E20+c%C3%A2ble+flottant%2C+Dolphin+S200+c%C3%A2ble+swivel%2C+Maytronics+9995860-ASSY&tag=autoconsom-21
+- PART : Bloc d'alimentation (Transformateur)
+  OEM REF / SPECS : Maytronics 9995670-ASSY-EU (pour E/S series, sortie 24V DC)
+  WEAR & INTERVAL : Robot ne démarre pas, voyant du bloc d'alimentation éteint ou clignotant anormalement, fonctionnement intermittent du robot, odeur de brûlé. (Tous les 5 à 7 ans, ou en cas de panne avérée du bloc d'alimentation.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Dolphin+E20+bloc+alimentation%2C+Dolphin+S200+transformateur%2C+Maytronics+9995670-ASSY-EU&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Dolphin+E20+bloc+alimentation%2C+Dolphin+S200+transformateur%2C+Maytronics+9995670-ASSY-EU&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Dolphin+E20+bloc+alimentation%2C+Dolphin+S200+transformateur%2C+Maytronics+9995670-ASSY-EU&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Dolphin+E20+bloc+alimentation%2C+Dolphin+S200+transformateur%2C+Maytronics+9995670-ASSY-EU&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Dolphin+E20+bloc+alimentation%2C+Dolphin+S200+transformateur%2C+Maytronics+9995670-ASSY-EU&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Dolphin+E20+bloc+alimentation%2C+Dolphin+S200+transformateur%2C+Maytronics+9995670-ASSY-EU&tag=autoconsom-21
 
 ================================================================================
 MODEL : Intex - PureSpa Bulles & Jets (28426 / 28428 / 28440) (Piscine, Spa & Robots Nettoyeurs)
@@ -297,54 +306,36 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : Husqvarna / Gardena - Automower 305 / 310 / 405X / Gardena Sileno (Jardin Motorisé & Nettoyeurs Haute Pression)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/husqvarna-automower-310-robot-tondeuse.html
 YEARS : 2020-2026
-SUMMARY : Optimisez la performance et la longévité de vos robots tondeuses Husqvarna Automower 305/310/405X et Gardena Sileno grâce à ce guide expert. Identifiez et remplacez facilement les consommables et pièces d'usure essentielles pour une tonte impeccable et une autonomie maximale, en toute sécurité.
+SUMMARY : Correspondances consommables robot tondeuse Husqvarna & Gardena : lames carbure endurance 0.75mm, connecteurs étanches 3M et fil périphérique.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Lames de rechange (Kit de 3 ou 9)
-  OEM REF / SPECS : Husqvarna 590 87 09-01 (Endurance) / Gardena 4087-20 (Standard). Épaisseur 0.75mm, Poids 3g/lame.
-  WEAR & INTERVAL : Herbe mal coupée, brins effilochés, bruit de frottement anormal, lames émoussées ou cassées. (Toutes les 2 à 4 semaines en saison de tonte active, ou dès que la qualité de coupe diminue.)
-  AMAZON (FR) : https://www.amazon.com/s?k=Lames+de+rechange+Husqvarna+Automower+305+310+405X+Gardena+Sileno&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Lames+de+rechange+Husqvarna+Automower+305+310+405X+Gardena+Sileno&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Lames+de+rechange+Husqvarna+Automower+305+310+405X+Gardena+Sileno&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Lames+de+rechange+Husqvarna+Automower+305+310+405X+Gardena+Sileno&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Lames+de+rechange+Husqvarna+Automower+305+310+405X+Gardena+Sileno&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Lames+de+rechange+Husqvarna+Automower+305+310+405X+Gardena+Sileno&tag=autoconsom-21
-- PART : Batterie Li-Ion 18V
-  OEM REF / SPECS : Husqvarna 584 82 23-01 (18V 2.0Ah) / Husqvarna 584 82 23-02 (18V 2.1Ah) / Gardena 584 82 23-01 (compatible).
-  WEAR & INTERVAL : Autonomie de tonte significativement réduite, temps de charge excessif, robot n'atteignant pas la station de charge, incapacité à démarrer un cycle. (Tous les 2 à 4 ans, en fonction de l'intensité d'utilisation et des conditions de stockage hivernal.)
-  AMAZON (FR) : https://www.amazon.com/s?k=Batterie+Husqvarna+Automower+305+310+405X+18V+Gardena+Sileno&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Batterie+Husqvarna+Automower+305+310+405X+18V+Gardena+Sileno&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Batterie+Husqvarna+Automower+305+310+405X+18V+Gardena+Sileno&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Batterie+Husqvarna+Automower+305+310+405X+18V+Gardena+Sileno&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Batterie+Husqvarna+Automower+305+310+405X+18V+Gardena+Sileno&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Batterie+Husqvarna+Automower+305+310+405X+18V+Gardena+Sileno&tag=autoconsom-21
-- PART : Connecteurs de câble périphérique/guide
-  OEM REF / SPECS : Husqvarna 501 98 02-03 (Connecteurs d'origine) / Gardena 04082-20 (Connecteurs).
-  WEAR & INTERVAL : Message d'erreur 'Aucun signal de boucle', robot ne détectant plus le fil, zones non tondues, corrosion visible sur les connecteurs existants. (Au besoin, lors de l'installation, de la réparation d'une rupture de câble ou d'une extension de zone. Vérification annuelle recommandée.)
-  AMAZON (FR) : https://www.amazon.com/s?k=Connecteurs+c%C3%A2ble+p%C3%A9riph%C3%A9rique+guide+Automower+Sileno&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Connecteurs+c%C3%A2ble+p%C3%A9riph%C3%A9rique+guide+Automower+Sileno&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Connecteurs+c%C3%A2ble+p%C3%A9riph%C3%A9rique+guide+Automower+Sileno&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Connecteurs+c%C3%A2ble+p%C3%A9riph%C3%A9rique+guide+Automower+Sileno&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Connecteurs+c%C3%A2ble+p%C3%A9riph%C3%A9rique+guide+Automower+Sileno&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Connecteurs+c%C3%A2ble+p%C3%A9riph%C3%A9rique+guide+Automower+Sileno&tag=autoconsom-21
-- PART : Brosses de roues (Kit)
-  OEM REF / SPECS : Gardena 04088-20 (Kit de 2 brosses pour certains modèles Sileno).
-  WEAR & INTERVAL : Accumulation excessive d'herbe et de saleté sur les roues, perte de traction, traces d'herbe sur la pelouse, brosses visiblement usées ou manquantes. (Vérification mensuelle, remplacement annuel ou si usure prononcée/dommage.)
-  AMAZON (FR) : https://www.amazon.com/s?k=Brosses+de+roues+Gardena+Sileno+Automower&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Brosses+de+roues+Gardena+Sileno+Automower&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Brosses+de+roues+Gardena+Sileno+Automower&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Brosses+de+roues+Gardena+Sileno+Automower&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Brosses+de+roues+Gardena+Sileno+Automower&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Brosses+de+roues+Gardena+Sileno+Automower&tag=autoconsom-21
-- PART : Roues motrices complètes / Pneus
-  OEM REF / SPECS : Husqvarna 587 91 19-01 (Roue complète pour certains modèles). Dimensions spécifiques au modèle si pneus seuls disponibles.
-  WEAR & INTERVAL : Perte d'adhérence fréquente, patinage excessif sur terrain humide ou en pente, usure visible des crampons, fissures ou déformations du pneu. (Tous les 3 à 5 ans, ou si usure prononcée affectant la motricité du robot.)
-  AMAZON (FR) : https://www.amazon.com/s?k=Roues+motrices+Husqvarna+Automower+305+310+405X+Pneus+Gardena+Sileno&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=Roues+motrices+Husqvarna+Automower+305+310+405X+Pneus+Gardena+Sileno&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=Roues+motrices+Husqvarna+Automower+305+310+405X+Pneus+Gardena+Sileno&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=Roues+motrices+Husqvarna+Automower+305+310+405X+Pneus+Gardena+Sileno&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=Roues+motrices+Husqvarna+Automower+305+310+405X+Pneus+Gardena+Sileno&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=Roues+motrices+Husqvarna+Automower+305+310+405X+Pneus+Gardena+Sileno&tag=autoconsom-21
+- PART : Lames Carbure Titane Endurance 0.75mm avec Vis Inox (Lot de 30)
+  OEM REF / SPECS : OEM 595 08 44-01 / Épaisseur 0.75mm / Vis revêtues frein filet
+  WEAR & INTERVAL : Herbe jaunie aux pointes (effilochée et non tranchée nette) (Toutes les 4 à 6 semaines en saison active)
+  AMAZON (FR) : https://www.amazon.com/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=lames+titane+husqvarna+automower+0.75mm&tag=autoconsom-21
+- PART : Connecteurs de Câble Étanches à Gel 3M Scotchlok 314
+  OEM REF / SPECS : 3M Scotchlok 314 / Remplissage gel hydrofuge
+  WEAR & INTERVAL : Voyant bleu clignotant sur la station de charge (signal boucle coupé) (À chaque coupure de câble accidentelle)
+  AMAZON (FR) : https://www.amazon.com/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=connecteurs+3m+scotchlok+314+robot+tondeuse&tag=autoconsom-21
+- PART : Bobine Câble Périphérique Cuivre Étamé Haute Conductivité (100m)
+  OEM REF / SPECS : Diamètre 2.7mm / Gaine PE résistante aux UV et rongeurs
+  WEAR & INTERVAL : Section de câble par bêchage ou écrasement (En cas de modification du périmètre de tonte)
+  AMAZON (FR) : https://www.amazon.com/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=cable+peripherique+2.7mm+robot+tondeuse+husqvarna&tag=autoconsom-21
 
 ================================================================================
 MODEL : Somfy - Keypop 2 RTS / Keytis 4 RTS / io (Domotique Portail, Garage & Énergie de Secours)
@@ -385,27 +376,36 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : Came - TOP 432EE / TOP 432NA / TOP 432EV (Domotique Portail, Garage & Énergie de Secours)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/came-top-432ee-telecommande-portail.html
 YEARS : 2020-2026
-SUMMARY : Correspondances officielles télécommandes Came TOP 432EE / 432NA : fréquence 433.92 MHz code fixe, piles CR2016 et méthode d'auto-apprentissage.
+SUMMARY : Maintenance simplifiée pour télécommandes Came TOP 432 : prolongez la vie de vos accès portail et garage.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Télécommande 2 Canaux 433.92 MHz Came TOP 432EE
-  OEM REF / SPECS : OEM 001TOP-432EE / 433.92 MHz Code Fixe
-  WEAR & INTERVAL : Boîtier fissuré, touches usées, perte de portée (En cas de perte ou défaillance mécanique)
-  AMAZON (FR) : https://www.amazon.com/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=telecommande+came+top+432ee+433.92+mhz&tag=autoconsom-21
-- PART : Lot de Piles Bouton CR2016 3V (Alimentation 6V Came)
-  OEM REF / SPECS : CR2016 / 3V x 2 piles superposées = 6 Volts
-  WEAR & INTERVAL : LED rouge qui faiblit à l'appui (Tous les 2 ans)
-  AMAZON (FR) : https://www.amazon.com/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=pile+cr2016+lot+3v+energizer+came&tag=autoconsom-21
+- PART : Pile bouton Lithium
+  OEM REF / SPECS : CR2032 (3V Lithium)
+  WEAR & INTERVAL : Portée réduite de la télécommande, clignotement faible ou inexistant de la LED, non-réponse intermittente ou totale de l'émetteur. (Tous les 1 à 2 ans, ou dès les premiers signes de faiblesse.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Pile+CR2032+3V+pour+t%C3%A9l%C3%A9commande+Came+TOP+432&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Pile+CR2032+3V+pour+t%C3%A9l%C3%A9commande+Came+TOP+432&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Pile+CR2032+3V+pour+t%C3%A9l%C3%A9commande+Came+TOP+432&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Pile+CR2032+3V+pour+t%C3%A9l%C3%A9commande+Came+TOP+432&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Pile+CR2032+3V+pour+t%C3%A9l%C3%A9commande+Came+TOP+432&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Pile+CR2032+3V+pour+t%C3%A9l%C3%A9commande+Came+TOP+432&tag=autoconsom-21
+- PART : Coque de remplacement / Boîtier
+  OEM REF / SPECS : Spécifique Came TOP 432EE/NA/EV (vérifier compatibilité des boutons et du design)
+  WEAR & INTERVAL : Boutons usés, effacés ou bloqués, coque fissurée, cassée ou décolorée, perte d'étanchéité visible. (Selon l'état d'usure visuel et fonctionnel, généralement après plusieurs années d'utilisation intensive.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Coque+t%C3%A9l%C3%A9commande+Came+TOP+432+remplacement&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Coque+t%C3%A9l%C3%A9commande+Came+TOP+432+remplacement&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Coque+t%C3%A9l%C3%A9commande+Came+TOP+432+remplacement&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Coque+t%C3%A9l%C3%A9commande+Came+TOP+432+remplacement&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Coque+t%C3%A9l%C3%A9commande+Came+TOP+432+remplacement&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Coque+t%C3%A9l%C3%A9commande+Came+TOP+432+remplacement&tag=autoconsom-21
+- PART : Télécommande radio complète
+  OEM REF / SPECS : Came TOP 432EE / TOP 432NA / TOP 432EV (selon le modèle d'origine et le type de code)
+  WEAR & INTERVAL : Dysfonctionnement électronique interne irréparable, perte ou destruction totale de la télécommande, impossibilité de reprogrammer ou de fonctionner même avec une pile neuve. (En cas de perte, de dommage irréparable ou de défaillance électronique non liée à la pile.)
+  AMAZON (FR) : https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+Came+TOP+432EE+neuve&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+Came+TOP+432EE+neuve&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+Came+TOP+432EE+neuve&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+Came+TOP+432EE+neuve&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+Came+TOP+432EE+neuve&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+Came+TOP+432EE+neuve&tag=autoconsom-21
 
 ================================================================================
 MODEL : APC (Schneider) / Eaton - Back-UPS ES / Pro / BX1400U / Ellipse ECO (Domotique Portail, Garage & Énergie de Secours)
@@ -594,27 +594,45 @@ CROSS-REFERENCE PARTS & AMAZON STORES :
 MODEL : BFT - BFT Mitto B RCB02 / Mitto 2M / 4M (Domotique Portail, Garage & Énergie de Secours)
 URL : https://Thorlan04.github.io/auto-outdoor-parts-agent/guides/bft-mitto-b-rcb02-telecommande-portail.html
 YEARS : 2020-2026
-SUMMARY : Correspondances télécommandes BFT Mitto : protocole Rolling Code 433.92 MHz, alimentation pile 12V 23A et procédure de programmation à distance.
+SUMMARY : Guide complet pour l'entretien et le remplacement des consommables et pièces d'usure de votre télécommande BFT Mitto B RCB02, Mitto 2M ou 4M, ainsi que des composants externes associés à votre système de portail ou garage BFT, en toute sécurité.
 
 CROSS-REFERENCE PARTS & AMAZON STORES :
-- PART : Télécommande 2 Boutons BFT Mitto B RCB02 R1 (433.92 MHz)
-  OEM REF / SPECS : BFT D111904 / 433.92 MHz Rolling Code
-  WEAR & INTERVAL : Portée dégradée, coque ouverte ou boutons écrasés (En cas de remplacement ou télécommande supplémentaire)
-  AMAZON (FR) : https://www.amazon.com/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=telecommande+bft+mitto+b+rcb02+433.92+mhz&tag=autoconsom-21
-- PART : Pile Alcaline Cylindrique 12V Type 23A (Lot de 5)
-  OEM REF / SPECS : Format 23A / V23GA / MN21 / 12 Volts
-  WEAR & INTERVAL : LED qui ne s'allume plus lors de la pression (Tous les 2 ans)
-  AMAZON (FR) : https://www.amazon.com/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
-  AMAZON US : https://www.amazon.com/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
-  AMAZON DE : https://www.amazon.de/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
-  AMAZON ES : https://www.amazon.es/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
-  AMAZON IT : https://www.amazon.it/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
-  AMAZON BR : https://www.amazon.com.br/s?k=pile+12v+23a+energizer+v23ga&tag=autoconsom-21
+- PART : Pile Lithium CR2032
+  OEM REF / SPECS : CR2032 (standardisée)
+  WEAR & INTERVAL : Portée de la télécommande réduite, LED de la télécommande faible ou absente, télécommande ne répond plus du tout. (Tous les 2 à 3 ans, ou dès les premiers signes de faiblesse.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Pile+CR2032+pour+t%C3%A9l%C3%A9commande+BFT+Mitto&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Pile+CR2032+pour+t%C3%A9l%C3%A9commande+BFT+Mitto&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Pile+CR2032+pour+t%C3%A9l%C3%A9commande+BFT+Mitto&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Pile+CR2032+pour+t%C3%A9l%C3%A9commande+BFT+Mitto&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Pile+CR2032+pour+t%C3%A9l%C3%A9commande+BFT+Mitto&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Pile+CR2032+pour+t%C3%A9l%C3%A9commande+BFT+Mitto&tag=autoconsom-21
+- PART : Télécommande BFT Mitto B RCB02 / Mitto 2M / 4M
+  OEM REF / SPECS : BFT Mitto B RCB02 (ou 2M/4M selon le modèle exact d'origine)
+  WEAR & INTERVAL : Boutons bloqués ou endommagés, boîtier cassé ou fissuré, dysfonctionnement persistant malgré le remplacement de la pile, perte de la télécommande. (Selon besoin, en cas de dommage irréparable, de perte ou de panne électronique.)
+  AMAZON (FR) : https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02+433MHz&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02+433MHz&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02+433MHz&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02+433MHz&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02+433MHz&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=T%C3%A9l%C3%A9commande+BFT+Mitto+B+RCB02+433MHz&tag=autoconsom-21
+- PART : Batterie de secours 12V pour motorisation de portail BFT
+  OEM REF / SPECS : Ex: BFT BT BAT 12V 7Ah (vérifier la référence exacte ou les dimensions/ampérage de la batterie existante)
+  WEAR & INTERVAL : Le portail ne fonctionne plus en cas de coupure de courant, ou l'autonomie de secours est très faible et ne permet que quelques cycles d'ouverture/fermeture. (Tous les 3 à 5 ans, ou dès que l'autonomie de secours diminue significativement.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Batterie+12V+BFT+motorisation+portail&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Batterie+12V+BFT+motorisation+portail&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Batterie+12V+BFT+motorisation+portail&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Batterie+12V+BFT+motorisation+portail&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Batterie+12V+BFT+motorisation+portail&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Batterie+12V+BFT+motorisation+portail&tag=autoconsom-21
+- PART : Coque de protection en silicone pour télécommande BFT Mitto
+  OEM REF / SPECS : Spécifique pour BFT Mitto B RCB02 / Mitto 2M / 4M
+  WEAR & INTERVAL : Coque existante usée, déchirée, salie, ou désir de protéger une nouvelle télécommande des chocs et de l'humidité. (Selon besoin, pour maintenir la protection ou l'esthétique de la télécommande.)
+  AMAZON (FR) : https://www.amazon.com/s?k=Coque+silicone+BFT+Mitto&tag=autoconsom-21
+  AMAZON US : https://www.amazon.com/s?k=Coque+silicone+BFT+Mitto&tag=autoconsom-21
+  AMAZON DE : https://www.amazon.de/s?k=Coque+silicone+BFT+Mitto&tag=autoconsom-21
+  AMAZON ES : https://www.amazon.es/s?k=Coque+silicone+BFT+Mitto&tag=autoconsom-21
+  AMAZON IT : https://www.amazon.it/s?k=Coque+silicone+BFT+Mitto&tag=autoconsom-21
+  AMAZON BR : https://www.amazon.com.br/s?k=Coque+silicone+BFT+Mitto&tag=autoconsom-21
 
 ================================================================================
 MODEL : DeWalt - DeWalt DCW210 / DCW210N / DCW210NT 18V XR (Outillage Électroportatif)
