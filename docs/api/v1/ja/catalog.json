@@ -1,10 +1,10 @@
 {
   "version": "1.0.0",
-  "updated_at": "2026-11-19T15:00:55.267352+00:00",
+  "updated_at": "2026-11-20T00:07:45.972570+00:00",
   "site_base_url": "https://Thorlan04.github.io/auto-outdoor-parts-agent",
   "partner_tag": "autoconsom-21",
   "total_models": 23,
-  "total_parts": 78,
+  "total_parts": 74,
   "supported_languages": [
     "fr",
     "en",
@@ -39,201 +39,156 @@
       "model_name": "Dolphin E20 / E10 / S200",
       "years_range": "2020-2026",
       "title": "Dolphin E20 & S200 : Correspondances Filtres, Chenilles & Brosses",
-      "summary": "Optimisez la longévité et la performance de votre robot nettoyeur Dolphin E20/E10/S200 avec notre guide expert des consommables et pièces d'usure essentielles.",
-      "meta_description": "Maintenance préventive Dolphin E20, E10, S200 (2020-2026). Trouvez filtres, chenilles, brosses et pièces d'usure pour une piscine impeccable. Guide expert et sécurisé.",
+      "summary": "Maintenance simplifiée pour robots Dolphin E10, E20, S200 : guide expert des consommables et pièces d'usure essentielles pour une piscine impeccable.",
+      "meta_description": "Guide technique expert pour l'entretien des robots nettoyeurs Dolphin E10, E20, S200 (2020-2026). Pièces d'usure, filtres, chenilles, brosses et procédures de remplacement sécurisées.",
       "parts": [
         {
-          "name": "Panier filtrant combiné (fin/ultra-fin)",
+          "name": "Cartouches filtrantes fines (ou ultra-fines)",
           "tag": "Filtration",
-          "oem_or_dimension": "Maytronics 9991432-ASSY (pour E20/S200), 9991432-R1 (pour E10)",
-          "wear_symptom": "Eau de piscine trouble, débris non ramassés, diminution de l'efficacité de nettoyage, panier déchiré ou encrassé de manière irréversible.",
-          "replacement_interval": "Tous les 3 à 6 mois ou selon l'intensité d'utilisation et la qualité de l'eau. Nettoyage après chaque cycle.",
-          "technical_detail": "Retient les particules fines et ultra-fines. Un filtre propre est crucial pour la performance hydraulique du robot.",
-          "search_query": "Panier filtrant Dolphin E20, Filtre Dolphin E10, Panier Dolphin S200",
-          "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
+          "oem_or_dimension": "Maytronics 9991432-ASSY (lot de 2)",
+          "wear_symptom": "Diminution de l'efficacité de nettoyage, eau trouble, encrassement visible, déchirures ou déformations du média filtrant.",
+          "replacement_interval": "Nettoyage après chaque cycle. Remplacement tous les 1 à 2 ans selon l'intensité d'utilisation et la qualité de l'eau.",
+          "technical_detail": "Retiennent les débris fins et les particules. Différentes finesses de filtration (standard ou ultra-fines) sont disponibles pour s'adapter aux besoins.",
+          "search_query": "Cartouche filtre Dolphin E10 E20 S200 Maytronics 9991432-ASSY",
+          "affiliate_url": "https://www.amazon.fr/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtrant+Dolphin+E20%2C+Filtre+Dolphin+E10%2C+Panier+Dolphin+S200&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Cartouche+filtre+Dolphin+E10+E20+S200+Maytronics+9991432-ASSY&tag=autoconsom-21"
           }
         },
         {
           "name": "Chenilles d'entraînement",
-          "tag": "Traction",
-          "oem_or_dimension": "Maytronics 9983115",
-          "wear_symptom": "Le robot glisse, ne monte plus correctement aux parois, se déplace lentement ou de manière erratique, fissures ou usure visible sur le caoutchouc.",
-          "replacement_interval": "Tous les 12 à 24 mois ou dès l'apparition de signes d'usure prononcée.",
-          "technical_detail": "Assurent la mobilité, l'adhérence et la capacité du robot à grimper aux parois et à franchir les obstacles.",
-          "search_query": "Chenilles Dolphin E20, Courroies Dolphin E10, Chenilles Dolphin S200",
-          "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
+          "tag": "Motricité",
+          "oem_or_dimension": "Maytronics 9983112 (lot de 2)",
+          "wear_symptom": "Robot se déplace mal, patine, ne monte plus les parois, craquelures, déchirements ou allongement visible des chenilles.",
+          "replacement_interval": "Tous les 2 à 3 ans ou dès les premiers signes d'usure prononcée.",
+          "technical_detail": "Fabriquées en caoutchouc ou matériau similaire, elles assurent la traction et le déplacement du robot sur le fond et les parois de la piscine.",
+          "search_query": "Chenille Dolphin E10 E20 S200 Maytronics 9983112",
+          "affiliate_url": "https://www.amazon.fr/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenilles+Dolphin+E20%2C+Courroies+Dolphin+E10%2C+Chenilles+Dolphin+S200&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Chenille+Dolphin+E10+E20+S200+Maytronics+9983112&tag=autoconsom-21"
           }
         },
         {
-          "name": "Brosses combinées (PVC/Mousse)",
+          "name": "Brosses PVC (ou combinées)",
           "tag": "Nettoyage",
-          "oem_or_dimension": "Maytronics 9985006",
-          "wear_symptom": "Parois et fond de piscine mal nettoyés, algues persistantes, usure visible des picots ou de la mousse, brosses durcies ou déformées.",
-          "replacement_interval": "Tous les 12 à 24 mois ou dès l'apparition de signes d'inefficacité de nettoyage.",
-          "technical_detail": "Décollent les impuretés et les algues des surfaces de la piscine avant qu'elles ne soient aspirées par le système de filtration.",
-          "search_query": "Brosses Dolphin E20, Brosses combinées Dolphin E10, Brosses Dolphin S200",
-          "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
+          "oem_or_dimension": "Maytronics 9985006 (PVC) ou 9985007 (Combinée)",
+          "wear_symptom": "Efficacité de brossage réduite, algues persistantes, brosses lisses, usées, déchirées ou durcies.",
+          "replacement_interval": "Tous les 1 à 2 ans ou dès les premiers signes d'usure visible.",
+          "technical_detail": "Détachent les saletés et algues des surfaces de la piscine avant leur aspiration. Les brosses PVC sont standard, les combinées (PVC + mousse) offrent une meilleure adhérence sur certains revêtements.",
+          "search_query": "Brosse Dolphin E10 E20 S200 Maytronics 9985006",
+          "affiliate_url": "https://www.amazon.fr/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosses+Dolphin+E20%2C+Brosses+combin%C3%A9es+Dolphin+E10%2C+Brosses+Dolphin+S200&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Câble flottant (avec ou sans Swivel)",
-          "tag": "Connectivité",
-          "oem_or_dimension": "Maytronics 99958601-ASSY (avec Swivel, pour E20/S200), 99958603-ASSY (sans Swivel, pour E10)",
-          "wear_symptom": "Le robot s'emmêle fréquemment, faux contacts, coupures de courant intermittentes, gaine du câble abîmée, craquelée ou dénudée.",
-          "replacement_interval": "Vérification annuelle, remplacement si usure visible ou dysfonctionnement.",
-          "technical_detail": "Alimente le robot en courant basse tension et permet sa mobilité dans la piscine. Le Swivel (pivot) prévient l'emmêlement du câble.",
-          "search_query": "Câble flottant Dolphin E20, Câble Dolphin E10, Câble Dolphin S200 Swivel",
-          "affiliate_url": "https://www.amazon.fr/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=C%C3%A2ble+flottant+Dolphin+E20%2C+C%C3%A2ble+Dolphin+E10%2C+C%C3%A2ble+Dolphin+S200+Swivel&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Brosse+Dolphin+E10+E20+S200+Maytronics+9985006&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Nettoyage Régulier du Panier Filtrant",
-          "description": "Débrancher impérativement le robot de son alimentation électrique. Ouvrir le capot supérieur du robot et retirer le panier filtrant. Vider les débris grossiers et rincer abondamment le panier à l'eau claire (idéalement au jet d'eau) pour éliminer les fines particules. Laisser sécher à l'air libre avant de le remettre en place dans le robot."
+          "title": "Nettoyage régulier des cartouches filtrantes",
+          "description": "Après chaque cycle de nettoyage, débranchez impérativement le robot de son alimentation électrique. Ouvrez le couvercle supérieur du robot, retirez le panier filtrant ou les cartouches. Videz les débris grossiers et rincez abondamment les filtres à l'eau claire (avec un jet d'eau) pour éliminer toutes les particules fines. Assurez-vous qu'ils sont parfaitement propres avant de les réinsérer dans le robot."
         },
         {
-          "title": "Inspection et Nettoyage des Chenilles et Brosses",
-          "description": "Débrancher le robot de son alimentation. Retourner délicatement le robot et inspecter visuellement l'état des chenilles et des brosses. Retirer manuellement les cheveux, feuilles, fils ou autres débris qui pourraient être enroulés autour des axes ou coincés dans les brosses. Vérifier l'absence de fissures, de coupures ou d'usure excessive sur les chenilles et les picots des brosses."
+          "title": "Remplacement des chenilles d'entraînement usées",
+          "description": "Débranchez le robot de son alimentation. Retournez-le délicatement sur une surface plane et propre. Localisez les axes des roues motrices. Retirez les anciennes chenilles en les faisant glisser hors des roues et des galets. Nettoyez les rainures des roues si nécessaire. Installez les nouvelles chenilles en vous assurant qu'elles sont correctement tendues et alignées sur les roues et les galets, sans forcer."
         },
         {
-          "title": "Vérification du Câble Flottant",
-          "description": "Débrancher le robot. Dérouler entièrement le câble flottant sur une surface plane et inspecter minutieusement toute sa longueur. Rechercher des signes de coupures, de pincements, de zones dénudées, de craquelures ou de déformations permanentes. Si votre modèle est équipé d'un Swivel (pivot anti-torsion), s'assurer qu'il tourne librement sans point dur."
-        },
-        {
-          "title": "Remplacement des Chenilles d'Entraînement",
-          "description": "Débrancher le robot. Retourner le robot. Selon le modèle exact (E10/E20/S200), la procédure peut varier légèrement, mais elle implique généralement de retirer les caches latéraux ou les axes des brosses pour libérer les chenilles. Faire glisser les anciennes chenilles hors des roues d'entraînement et des brosses. Installer les nouvelles chenilles en s'assurant qu'elles sont correctement tendues et centrées sur les roues et les brosses. Remonter les caches ou axes si nécessaire."
-        },
-        {
-          "title": "Remplacement des Brosses de Nettoyage",
-          "description": "Débrancher le robot. Retourner le robot. Les brosses sont généralement fixées sur des axes ou des supports. Retirer les anciennes brosses en les faisant glisser ou en déclipsant leurs fixations (opération purement mécanique). Installer les nouvelles brosses en respectant le sens de montage et en s'assurant qu'elles sont bien enclenchées ou fixées."
+          "title": "Remplacement des brosses de nettoyage",
+          "description": "Débranchez le robot. Retournez-le. Les brosses sont généralement clipsées ou fixées par de petites vis (souvent en plastique). Déclipsez ou dévissez les anciennes brosses. Nettoyez la zone de fixation pour enlever tout résidu. Installez les nouvelles brosses en vous assurant qu'elles sont bien en place et sécurisées, sans exercer de pression excessive sur les fixations."
         }
       ],
       "faqs": [
         {
-          "question": "Mon robot Dolphin ne monte plus aux parois ou glisse, que dois-je vérifier ?",
-          "answer": "Vérifiez en premier lieu l'état de vos chenilles d'entraînement : sont-elles usées, craquelées ou durcies ? Nettoyez-les et remplacez-les si nécessaire. Un panier filtrant saturé peut également alourdir le robot et affecter sa capacité à grimper. Assurez-vous qu'il est propre."
+          "question": "Mon robot Dolphin ne monte plus les parois, que faire ?",
+          "answer": "Vérifiez l'état des chenilles d'entraînement et des brosses. Des chenilles usées, craquelées ou des brosses lisses réduisent considérablement l'adhérence. Nettoyez également les filtres : un filtre encrassé peut alourdir le robot et nuire à sa capacité à adhérer aux parois. Si le problème persiste, assurez-vous que la qualité de l'eau (pH, alcalinité) est équilibrée."
         },
         {
-          "question": "L'eau de ma piscine reste trouble après le passage du robot. Que faire ?",
-          "answer": "Le panier filtrant est probablement saturé de fines particules ou endommagé. Nettoyez-le minutieusement après chaque cycle. Si le problème persiste, envisagez de le remplacer par un panier neuf, éventuellement un filtre ultra-fin si votre modèle le permet, pour capturer les particules les plus petites."
+          "question": "L'eau de ma piscine reste trouble après le passage du robot. Quelle en est la cause ?",
+          "answer": "La cause la plus fréquente est un problème de filtration. Nettoyez ou remplacez les cartouches filtrantes. Si elles sont très fines (ultra-fines), elles peuvent se colmater rapidement. Assurez-vous que les filtres sont correctement installés et qu'il n'y a pas de déchirures permettant aux débris de passer à travers."
         },
         {
-          "question": "Le câble de mon robot s'emmêle constamment, est-ce normal ?",
-          "answer": "Non, un emmêlement excessif n'est pas normal. Vérifiez l'état du Swivel (pivot anti-torsion) si votre modèle en est équipé ; il pourrait être bloqué. Après chaque utilisation, déroulez entièrement le câble et laissez-le sécher au soleil pour qu'il retrouve sa souplesse. Un câble très ancien peut perdre sa mémoire de forme et nécessiter un remplacement."
+          "question": "À quelle fréquence dois-je nettoyer les filtres de mon Dolphin E20/E10/S200 ?",
+          "answer": "Il est fortement recommandé de nettoyer les filtres après chaque cycle de nettoyage. Cela garantit une performance optimale du robot, prolonge la durée de vie des filtres et maintient une eau de piscine plus propre."
         },
         {
-          "question": "À quelle fréquence dois-je nettoyer le panier filtrant de mon Dolphin ?",
-          "answer": "Idéalement, le panier filtrant doit être nettoyé après chaque cycle de nettoyage, surtout si la piscine est très sale ou si le robot a ramassé beaucoup de débris. Un nettoyage régulier est essentiel pour maintenir l'efficacité de filtration et prolonger la durée de vie du filtre."
+          "question": "Puis-je utiliser mon robot Dolphin avec un traitement choc ou une eau très chlorée ?",
+          "answer": "Il est préférable d'attendre que les niveaux de produits chimiques (chlore, pH) soient revenus à la normale avant d'utiliser le robot. Des concentrations extrêmes peuvent endommager les composants en plastique et en caoutchouc du robot à long terme, réduisant ainsi sa durée de vie."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "intex-purespa-bulles-spa-gonflable",
@@ -243,308 +198,316 @@
       "model_name": "PureSpa Bulles & Jets (28426 / 28428 / 28440)",
       "years_range": "2020-2026",
       "title": "Intex PureSpa : Cartouches S1, Joints Toriques & Crépines Exactes",
-      "summary": "Guide expert pour l'entretien et le remplacement des consommables et pièces d'usure externes de votre spa gonflable Intex PureSpa Bulles & Jets (28426 / 28428 / 28440) millésimes 2020-2026, garantissant performance et longévité.",
-      "meta_description": "Maintenance Intex PureSpa Bulles & Jets (28426/28428/28440) : filtres, tuyaux, joints, couvercle. Guide expert pour pièces d'usure externes et consommables.",
+      "summary": "Optimisez la durée de vie de votre Intex PureSpa Bulles & Jets grâce à un entretien régulier et le remplacement préventif des consommables essentiels, garantissant une expérience de détente inégalée et sécurisée.",
+      "meta_description": "Guide expert pour l'entretien de votre Intex PureSpa (28426/28428/28440). Remplacement des filtres, réparation, vidange et conseils pour une longévité maximale.",
       "parts": [
         {
           "name": "Cartouche de filtration Type S1",
           "tag": "Filtration",
-          "oem_or_dimension": "Intex 29001 (ou équivalent Type S1)",
-          "wear_symptom": "Débit de filtration réduit, eau trouble, encrassement visible, alerte 'FL' sur le panneau de contrôle.",
-          "replacement_interval": "Toutes les 2 à 4 semaines en usage régulier, ou dès saturation.",
-          "technical_detail": "Filtre plissé en Dacron, essentiel pour retenir les impuretés et maintenir la clarté de l'eau. Nettoyable à l'eau claire entre deux remplacements.",
-          "search_query": "cartouche filtre spa intex s1",
-          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
+          "oem_or_dimension": "Intex 29001 (ou 29001E) - Diamètre extérieur 10.8cm, Hauteur 7.3cm",
+          "wear_symptom": "Diminution du débit de filtration, eau trouble, encrassement visible, dégradation du média filtrant.",
+          "replacement_interval": "Toutes les 1 à 2 semaines (nettoyage quotidien), remplacement mensuel.",
+          "technical_detail": "Média filtrant en Dacron plissé, retient les impuretés fines jusqu'à 5 microns. Essentiel pour la qualité de l'eau.",
+          "search_query": "Cartouche filtre Intex S1 PureSpa",
+          "affiliate_url": "https://www.amazon.fr/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=cartouche+filtre+spa+intex+s1&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Cartouche+filtre+Intex+S1+PureSpa&tag=autoconsom-21"
           }
         },
         {
-          "name": "Tuyau de gonflage et dégonflage",
-          "tag": "Connectique",
-          "oem_or_dimension": "Intex 11412 (ou compatible)",
-          "wear_symptom": "Fissures, perforations, fuites d'air lors du gonflage, difficulté à maintenir la pression du spa.",
-          "replacement_interval": "Selon l'état, généralement tous les 2 à 3 ans ou si endommagé.",
-          "technical_detail": "Tuyau flexible avec raccord à visser pour la pompe et embout pour la valve du spa, permettant le gonflage et le dégonflage rapide.",
-          "search_query": "tuyau gonflage spa intex purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
+          "name": "Grille de support de cartouche (Panier de filtre)",
+          "tag": "Filtration",
+          "oem_or_dimension": "Intex 11776 (pour modèles 28426/28428/28440)",
+          "wear_symptom": "Fissures, déformation, difficulté à maintenir la cartouche en place, casse des ailettes.",
+          "replacement_interval": "Selon l'usure, inspection annuelle ou biannuelle.",
+          "technical_detail": "Composant en plastique ABS résistant au chlore, assure le maintien et la protection de la cartouche filtrante dans le boîtier.",
+          "search_query": "Panier filtre Intex PureSpa 11776",
+          "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=tuyau+gonflage+spa+intex+purespa&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Panier+filtre+Intex+PureSpa+11776&tag=autoconsom-21"
           }
         },
         {
-          "name": "Bouchon de vidange externe",
-          "tag": "Connectique",
-          "oem_or_dimension": "Intex 10201 (ou compatible)",
-          "wear_symptom": "Fuites d'eau au niveau de la bonde de vidange, difficulté à visser/dévisser, joint usé ou manquant.",
-          "replacement_interval": "Selon l'état, si fuite ou dégradation du joint.",
-          "technical_detail": "Bouchon à visser sur la sortie de vidange externe du spa, assurant l'étanchéité lors de l'utilisation et permettant une vidange contrôlée.",
-          "search_query": "bouchon vidange spa intex",
-          "affiliate_url": "https://www.amazon.fr/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
+          "name": "Couverture isolante du Spa",
+          "tag": "Protection & Isolation",
+          "oem_or_dimension": "Intex 12437 (pour 28426/28428/28440, vérifier le diamètre exact du spa)",
+          "wear_symptom": "Déchirures, décoloration, perte d'isolation, accumulation d'eau sur le dessus, dégradation des sangles.",
+          "replacement_interval": "Tous les 2 à 5 ans selon l'exposition aux UV et l'entretien.",
+          "technical_detail": "PVC laminé renforcé avec isolation thermique interne en mousse PE, sangles de sécurité à clip pour la fixation.",
+          "search_query": "Couverture Intex PureSpa 28426",
+          "affiliate_url": "https://www.amazon.fr/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=bouchon+vidange+spa+intex&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Couverture+Intex+PureSpa+28426&tag=autoconsom-21"
           }
         },
         {
-          "name": "Couvercle isolant et de protection",
-          "tag": "Protection",
-          "oem_or_dimension": "Référence spécifique au diamètre du modèle (ex: 28426, 28428, 28440)",
-          "wear_symptom": "Déchirures, décoloration excessive, perte d'isolation thermique, sangles de fixation endommagées, accumulation d'eau sur le dessus.",
-          "replacement_interval": "Tous les 3 à 5 ans, ou si l'isolation et la protection sont compromises.",
-          "technical_detail": "Couvercle en PVC laminé avec couche isolante, équipé de sangles de sécurité. Protège l'eau des débris et réduit la déperdition de chaleur.",
-          "search_query": "couvercle spa intex purespa 28426",
-          "affiliate_url": "https://www.amazon.fr/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
+          "name": "Tuyau de gonflage",
+          "tag": "Gonflage",
+          "oem_or_dimension": "Intex 10202 (compatible PureSpa)",
+          "wear_symptom": "Fissures, fuites d'air, difficulté à connecter, durcissement du matériau.",
+          "replacement_interval": "Selon l'usure, inspection avant chaque gonflage ou dégonflage.",
+          "technical_detail": "Flexible en PVC avec raccord à vis pour la pompe du spa et embout spécifique pour la valve de gonflage du bassin.",
+          "search_query": "Tuyau gonflage Intex PureSpa 10202",
+          "affiliate_url": "https://www.amazon.fr/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=couvercle+spa+intex+purespa+28426&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Tuyau+gonflage+Intex+PureSpa+10202&tag=autoconsom-21"
           }
         },
         {
-          "name": "Tapis de sol thermique",
-          "tag": "Protection",
-          "oem_or_dimension": "Intex 28502 (ou compatible)",
-          "wear_symptom": "Déchirures, perforations, usure excessive, perte de capacité isolante.",
-          "replacement_interval": "Selon l'état, si endommagé ou si l'isolation du sol est insuffisante.",
-          "technical_detail": "Tapis en mousse ou matériau isolant à placer sous le spa pour protéger le fond et améliorer l'isolation thermique par le sol.",
-          "search_query": "tapis de sol spa intex",
-          "affiliate_url": "https://www.amazon.fr/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
+          "name": "Bouchon de vidange",
+          "tag": "Vidange",
+          "oem_or_dimension": "Intex 10201 (compatible PureSpa)",
+          "wear_symptom": "Fuites d'eau, joint torique usé ou craqué, difficulté à visser/dévisser, casse du filetage.",
+          "replacement_interval": "Selon l'usure, inspection annuelle avant et après la saison d'utilisation.",
+          "technical_detail": "Bouchon en plastique résistant avec joint torique en caoutchouc pour assurer l'étanchéité du raccord de vidange externe.",
+          "search_query": "Bouchon vidange Intex PureSpa 10201",
+          "affiliate_url": "https://www.amazon.fr/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=tapis+de+sol+spa+intex&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Bouchon+vidange+Intex+PureSpa+10201&tag=autoconsom-21"
           }
         },
         {
-          "name": "Joints toriques de raccordement (pompe/filtration)",
-          "tag": "Étanchéité",
-          "oem_or_dimension": "Dimensions spécifiques (ex: Ø intérieur 40mm, épaisseur 3mm)",
-          "wear_symptom": "Fuites d'eau au niveau des raccords de la pompe ou du bloc technique, durcissement ou fissuration du joint.",
-          "replacement_interval": "Tous les 1 à 2 ans, ou dès l'apparition de fuites.",
-          "technical_detail": "Petits joints en caoutchouc assurant l'étanchéité des connexions entre le bassin et le bloc technique (filtration, chauffage, bulles).",
-          "search_query": "joints toriques spa intex purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
+          "name": "Manomètre de gonflage",
+          "tag": "Gonflage",
+          "oem_or_dimension": "Intex 10203 (compatible PureSpa)",
+          "wear_symptom": "Lecture imprécise, aiguille bloquée, fissures sur le cadran, perte d'étanchéité.",
+          "replacement_interval": "Selon l'usure ou la précision, inspection avant chaque gonflage.",
+          "technical_detail": "Petit manomètre à cadran pour contrôler la pression d'air du spa (plage recommandée 0.08-0.12 bar / 1.2-1.8 PSI).",
+          "search_query": "Manomètre gonflage Intex PureSpa 10203",
+          "affiliate_url": "https://www.amazon.fr/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=joints+toriques+spa+intex+purespa&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Manom%C3%A8tre+gonflage+Intex+PureSpa+10203&tag=autoconsom-21"
           }
         },
         {
-          "name": "Télécommande radio (si fournie)",
-          "tag": "Contrôle",
-          "oem_or_dimension": "Intex 12470 (ou compatible avec le modèle)",
-          "wear_symptom": "Dysfonctionnement des boutons, portée réduite, non-réponse du spa aux commandes, boîtier endommagé.",
-          "replacement_interval": "Selon l'état, si défaillance ou perte.",
-          "technical_detail": "Télécommande sans fil (radiofréquence) permettant de contrôler les fonctions du spa (bulles, jets, chauffage, filtration) à distance. Fonctionne avec piles (non incluses).",
-          "search_query": "télécommande spa intex purespa",
-          "affiliate_url": "https://www.amazon.fr/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
+          "name": "Kit de réparation (rustines)",
+          "tag": "Réparation",
+          "oem_or_dimension": "Intex 10300 (Kit de réparation vinyle)",
+          "wear_symptom": "Absence ou épuisement du kit, rustines séchées, colle périmée.",
+          "replacement_interval": "À avoir toujours à disposition, vérifier la fraîcheur de la colle tous les 2 ans.",
+          "technical_detail": "Comprend des patchs en PVC transparent et de la colle spéciale pour réparer les petites perforations et déchirures du liner.",
+          "search_query": "Kit réparation Intex PureSpa 10300",
+          "affiliate_url": "https://www.amazon.fr/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=t%C3%A9l%C3%A9commande+spa+intex+purespa&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=Kit+r%C3%A9paration+Intex+PureSpa+10300&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Remplacement de la cartouche de filtration",
-          "description": "Assurez-vous que le spa est éteint. Dévissez le couvercle du compartiment de filtration à l'intérieur du spa. Retirez l'ancienne cartouche. Nettoyez le compartiment si nécessaire. Insérez la nouvelle cartouche de filtration Type S1 et revissez fermement le couvercle. Redémarrez le spa."
+          "title": "Nettoyage et remplacement de la cartouche de filtration",
+          "description": "Débranchez le spa de l'alimentation électrique. Dévissez le couvercle du boîtier de filtration, retirez la cartouche usagée. Rincez-la abondamment à l'eau claire sous pression ou remplacez-la par une neuve. Replacez la cartouche et revissez fermement le couvercle. Rebranchez le spa."
         },
         {
-          "title": "Vidange et nettoyage complet du spa",
-          "description": "Éteignez le spa et débranchez-le. Connectez le tuyau d'arrosage à l'adaptateur de vidange externe et ouvrez le bouchon de vidange interne. Laissez l'eau s'écouler complètement. Une fois vide, nettoyez l'intérieur du spa avec une éponge douce et un produit nettoyant spécifique pour spa (non abrasif). Rincez abondamment à l'eau claire avant de refermer le bouchon de vidange."
+          "title": "Vidange complète et nettoyage de la cuve du Spa",
+          "description": "Débranchez le spa. Connectez le tuyau de vidange au raccord externe et ouvrez le bouchon de vidange interne. Laissez l'eau s'écouler entièrement. Une fois vide, nettoyez l'intérieur de la cuve avec une éponge douce et un nettoyant spécifique pour spa (non abrasif). Rincez abondamment et séchez avant de regonfler ou de ranger."
         },
         {
-          "title": "Vérification et remplacement des joints d'étanchéité",
-          "description": "Avec le spa vide et débranché, inspectez visuellement tous les raccords externes du bloc technique (entrée/sortie d'eau). Si vous constatez des fuites ou si les joints toriques sont durcis, fissurés ou déformés, retirez-les délicatement et remplacez-les par des neufs de mêmes dimensions. Assurez-vous qu'ils sont correctement positionnés avant de resserrer les raccords."
+          "title": "Détection et réparation des fuites mineures",
+          "description": "Localisez la fuite en appliquant de l'eau savonneuse sur la surface du spa gonflé (des bulles indiqueront la fuite). Nettoyez et séchez soigneusement la zone. Appliquez une rustine du kit de réparation Intex en suivant les instructions du fabricant, en veillant à bien presser pour éliminer les bulles d'air. Laissez sécher complètement avant de regonfler."
         },
         {
-          "title": "Gonflage et dégonflage du spa",
-          "description": "Pour le gonflage, connectez le tuyau de gonflage à la valve du spa et à la sortie de gonflage du bloc technique. Activez la fonction de gonflage jusqu'à ce que le spa soit ferme mais non sur-gonflé. Pour le dégonflage, connectez le tuyau à la valve et à la sortie de dégonflage du bloc technique, puis activez la fonction de dégonflage. Assurez-vous que le spa est complètement dégonflé avant de le plier pour le rangement."
+          "title": "Gonflage et ajustement de la pression du Spa",
+          "description": "Connectez le tuyau de gonflage à la valve du spa et à la pompe intégrée. Utilisez le manomètre fourni pour surveiller la pression. Gonflez jusqu'à la pression recommandée (généralement entre 0.08 et 0.12 bar). Ne surgonflez jamais le spa pour éviter d'endommager la structure et le liner."
+        },
+        {
+          "title": "Entretien et protection de la couverture isolante",
+          "description": "Nettoyez régulièrement la surface de la couverture avec de l'eau savonneuse douce et une brosse souple pour éliminer les débris et les salissures. Rincez et séchez. Vérifiez l'état des sangles et des clips. En cas de déchirure mineure, utilisez un kit de réparation vinyle. Appliquez un protecteur UV pour prolonger sa durée de vie et son efficacité isolante."
         }
       ],
       "faqs": [
         {
-          "question": "À quelle fréquence dois-je nettoyer ma cartouche de filtration ?",
-          "answer": "Il est recommandé de rincer votre cartouche de filtration à l'eau claire tous les 2 à 3 jours d'utilisation, ou plus fréquemment si l'usage est intensif ou l'eau très chargée. Un nettoyage régulier prolonge sa durée de vie et maintient l'efficacité de la filtration."
+          "question": "Quelle est la fréquence idéale pour nettoyer et remplacer la cartouche filtrante de mon PureSpa ?",
+          "answer": "La cartouche doit être rincée à l'eau claire après chaque utilisation ou au minimum tous les jours. Un remplacement est recommandé toutes les 1 à 2 semaines, selon la fréquence d'utilisation et la qualité de l'eau, pour maintenir une filtration optimale et la propreté de l'eau."
         },
         {
-          "question": "Mon spa perd de la pression, que dois-je vérifier ?",
-          "answer": "Vérifiez d'abord que le bouchon de la valve de gonflage est bien serré. Inspectez le tuyau de gonflage pour détecter d'éventuelles fissures. Examinez également le corps du spa pour toute perforation visible. Une légère perte de pression est normale avec les variations de température, mais une perte rapide indique une fuite."
+          "question": "Comment puis-je vider mon Intex PureSpa en toute sécurité ?",
+          "answer": "Pour vider votre spa, débranchez-le de l'alimentation électrique. Connectez le tuyau de vidange fourni au raccord externe et ouvrez le bouchon de vidange interne. Dirigez le tuyau vers un drain approprié. Ne jamais tenter de vider le spa en le basculant ou en le déplaçant lorsqu'il est plein d'eau."
         },
         {
-          "question": "Comment prolonger la durée de vie de mon couvercle de spa ?",
-          "answer": "Nettoyez régulièrement le couvercle avec de l'eau savonneuse douce et rincez bien. Appliquez un protecteur UV spécifique pour PVC pour prévenir la décoloration et le craquement dû au soleil. Évitez de poser des objets lourds dessus et assurez-vous que les sangles sont toujours attachées pour éviter qu'il ne s'envole."
+          "question": "Mon PureSpa a une petite fuite d'air, comment la réparer sans risque ?",
+          "answer": "Localisez la fuite en appliquant de l'eau savonneuse sur la surface gonflée; des bulles indiqueront la fuite. Une fois identifiée, nettoyez et séchez la zone. Utilisez le kit de réparation Intex (rustines et colle) en suivant scrupuleusement les instructions pour appliquer un patch. Assurez-vous que le spa est dégonflé avant la réparation et laissez sécher complètement."
         },
         {
-          "question": "L'eau de mon spa reste trouble malgré le changement de filtre, que faire ?",
-          "answer": "Si l'eau reste trouble après le remplacement du filtre, vérifiez l'équilibre chimique de l'eau (pH, alcalinité, désinfectant). Un déséquilibre peut empêcher le filtre de fonctionner efficacement. Un nettoyage complet du spa et un traitement choc peuvent être nécessaires, suivi d'une nouvelle filtration."
+          "question": "Quelle est la pression de gonflage correcte pour mon Intex PureSpa ?",
+          "answer": "La pression de gonflage recommandée pour les Intex PureSpa est généralement indiquée sur le manomètre fourni, entre 0.08 et 0.12 bar (ou 1.2 à 1.8 PSI). Il est crucial de ne pas dépasser cette pression pour éviter d'endommager la structure du spa et le liner."
+        },
+        {
+          "question": "Comment préparer mon Intex PureSpa pour un stockage hivernal prolongé ?",
+          "answer": "Après avoir vidé et nettoyé entièrement le spa, assurez-vous qu'il est parfaitement sec pour éviter la moisissure. Dégonflez-le complètement, pliez-le soigneusement et rangez-le dans un endroit sec, à l'abri du gel et des rongeurs. N'oubliez pas de nettoyer et de ranger également tous les accessoires."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "zodiac-tornax-rt3200-robot-piscine",
@@ -685,9 +648,9 @@
           "answer": "Lorsque la chenille commence à se détendre ou si les crans intérieurs sont lisses, le robot patine sur les pentes du bassin."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "bestway-lay-z-spa-miami-airjet",
@@ -697,279 +660,140 @@
       "model_name": "Lay-Z-Spa Miami / Paris / Hawaii AirJet",
       "years_range": "2020-2026",
       "title": "Bestway Lay-Z-Spa : Cartouches Type VI, Rotor Céramique & Joints",
-      "summary": "Guide expert pour l'entretien et le remplacement des consommables et pièces d'usure externes des spas gonflables Lay-Z-Spa AirJet (Miami, Paris, Hawaii) Bestway, millésimes 2020-2026. Optimisez la durée de vie et la performance de votre spa en toute sécurité, sans intervention électrique haute tension.",
-      "meta_description": "Maintenance Lay-Z-Spa AirJet (Miami, Paris, Hawaii) 2020-2026 : filtres, kits réparation, tuyaux, couvercles. Guide expert pour l'entretien des pièces d'usure externes.",
+      "summary": "Pièces de remplacement certifiées Bestway Lay-Z-Spa : cartouches VI (58323), turbine à axe céramique et joints de vanne.",
+      "meta_description": "Filtres Type VI, rotor de pompe et joints d'étanchéité pour spa Bestway Lay-Z-Spa. Guides et pièces compatibles sans erreur 404.",
       "parts": [
         {
-          "name": "Cartouche de filtration Type VI",
-          "tag": "Filtration",
-          "oem_or_dimension": "Bestway Type VI (58323)",
-          "wear_symptom": "Diminution du débit de filtration, eau trouble, encrassement visible, odeur désagréable de l'eau.",
-          "replacement_interval": "Toutes les 1 à 2 semaines (selon utilisation et qualité de l'eau).",
-          "technical_detail": "Filtre plissé en Dacron, retient les impuretés fines. Diamètre extérieur ~10.6 cm, hauteur ~8 cm.",
-          "search_query": "Bestway filtre Type VI Lay-Z-Spa",
-          "affiliate_url": "https://www.amazon.fr/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
+          "name": "Cartouches de Filtration Type VI (58323)",
+          "tag": "Filtration Officielle",
+          "oem_or_dimension": "Bestway 58323 / H 8.0cm x D 10.6cm",
+          "wear_symptom": "Erreur E02 (débit d'eau insuffisant), encrassement",
+          "replacement_interval": "Toutes les 2 semaines",
+          "technical_detail": "Filtre en tissu plissé haute densité, trou central 5.2cm.",
+          "search_query": "cartouche type vi bestway lay-z-spa 58323",
+          "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Bestway+filtre+Type+VI+Lay-Z-Spa&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=cartouche+type+vi+bestway+lay-z-spa+58323&tag=autoconsom-21"
           }
         },
         {
-          "name": "Kit de réparation pour liner",
-          "tag": "Réparation",
-          "oem_or_dimension": "Bestway Flowclear Repair Patch (62068) ou équivalent PVC/vinyle",
-          "wear_symptom": "Fuite d'air ou d'eau visible sur le liner ou la couverture gonflable du spa.",
-          "replacement_interval": "Selon besoin (ponctuel en cas de perforation).",
-          "technical_detail": "Patchs adhésifs en PVC résistant à l'eau, conçus pour réparer les petites perforations et déchirures.",
-          "search_query": "Kit réparation Lay-Z-Spa Bestway",
-          "affiliate_url": "https://www.amazon.fr/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
+          "name": "Rotor de Pompe avec Axe en Céramique Inoxydable",
+          "tag": "Turbine de Débit",
+          "oem_or_dimension": "OEM P05332 / P05333 / Axe céramique 65mm",
+          "wear_symptom": "Bruit de claquement, erreur E02 persistante avec filtre propre",
+          "replacement_interval": "Tous les 2 à 4 ans",
+          "technical_detail": "Axe en céramique technique inaltérable par le chlore et l'eau calcaire, aubes magnétiques néodyme.",
+          "search_query": "rotor axe ceramique pompe bestway lay z spa e02",
+          "affiliate_url": "https://www.amazon.fr/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Kit+r%C3%A9paration+Lay-Z-Spa+Bestway&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=rotor+axe+ceramique+pompe+bestway+lay+z+spa+e02&tag=autoconsom-21"
           }
         },
         {
-          "name": "Tuyau de gonflage avec adaptateur",
-          "tag": "Gonflage",
-          "oem_or_dimension": "Bestway P61750 ou compatible Lay-Z-Spa AirJet",
-          "wear_symptom": "Fissures, fuites d'air lors du gonflage, difficulté à connecter l'adaptateur à la valve.",
-          "replacement_interval": "Selon besoin (usure visible ou dommage).",
-          "technical_detail": "Flexible en PVC avec raccord à vis pour la pompe et valve Boston pour le spa.",
-          "search_query": "Tuyau gonflage Lay-Z-Spa AirJet",
-          "affiliate_url": "https://www.amazon.fr/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
+          "name": "Lot Joints d'Étanchéité Raccords Entrée / Sortie",
+          "tag": "Étanchéité Raccords A/B/C",
+          "oem_or_dimension": "Joints toriques silicone P61755 / P6575",
+          "wear_symptom": "Suintement d'eau au niveau des raccords filetés du bloc",
+          "replacement_interval": "Tous les ans",
+          "technical_detail": "Silicone souple résistant aux températures jusqu'à 50°C.",
+          "search_query": "joint etancheite raccord bestway lay z spa",
+          "affiliate_url": "https://www.amazon.fr/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_us": "https://www.amazon.com/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_ca": "https://www.amazon.ca/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_au": "https://www.amazon.com.au/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_de": "https://www.amazon.de/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_es": "https://www.amazon.es/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_it": "https://www.amazon.it/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_br": "https://www.amazon.com.br/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+          "affiliate_url_sg": "https://www.amazon.sg/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
           "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Tuyau+gonflage+Lay-Z-Spa+AirJet&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Bouchon de vidange externe",
-          "tag": "Vidange",
-          "oem_or_dimension": "Bestway P61751 ou compatible Lay-Z-Spa",
-          "wear_symptom": "Fuite d'eau par le raccord de vidange, bouchon manquant, fissuré ou joint endommagé.",
-          "replacement_interval": "Selon besoin (perte ou dommage).",
-          "technical_detail": "Bouchon à vis en plastique avec joint torique pour l'orifice de vidange externe du liner du spa.",
-          "search_query": "Bouchon vidange Lay-Z-Spa",
-          "affiliate_url": "https://www.amazon.fr/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Bouchon+vidange+Lay-Z-Spa&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Couvercle gonflable isolant",
-          "tag": "Isolation / Protection",
-          "oem_or_dimension": "Spécifique au modèle (ex: Miami 54112, Paris 54148, Hawaii 54154)",
-          "wear_symptom": "Perte de pression d'air, déchirures, décoloration due aux UV, perte d'efficacité thermique.",
-          "replacement_interval": "Tous les 2 à 4 ans (selon exposition et entretien).",
-          "technical_detail": "Vessie gonflable en PVC, s'insère sous la couverture extérieure du spa pour l'isolation thermique.",
-          "search_query": "Couvercle gonflable Lay-Z-Spa [Modèle]",
-          "affiliate_url": "https://www.amazon.fr/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Couvercle+gonflable+Lay-Z-Spa+%5BMod%C3%A8le%5D&tag=autoconsom-21"
-          }
-        },
-        {
-          "name": "Diffuseur de produits chimiques flottant",
-          "tag": "Traitement de l'eau",
-          "oem_or_dimension": "Bestway Flowclear Chemical Floater (58210) ou compatible",
-          "wear_symptom": "Fissures, décoloration, difficulté à ouvrir/fermer, perte de flottabilité, accumulation de résidus.",
-          "replacement_interval": "Tous les 1 à 2 ans.",
-          "technical_detail": "Distributeur flottant en plastique pour pastilles de chlore/brome, avec bague de réglage du débit de diffusion.",
-          "search_query": "Diffuseur chlore flottant Lay-Z-Spa",
-          "affiliate_url": "https://www.amazon.fr/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_us": "https://www.amazon.com/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_ca": "https://www.amazon.ca/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_au": "https://www.amazon.com.au/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_de": "https://www.amazon.de/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_es": "https://www.amazon.es/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_it": "https://www.amazon.it/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_br": "https://www.amazon.com.br/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_za": "https://www.amazon.co.za/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "affiliate_url_sg": "https://www.amazon.sg/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-          "store_urls": {
-            "affiliate_url": "https://www.amazon.fr/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_us": "https://www.amazon.com/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_ca": "https://www.amazon.ca/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_au": "https://www.amazon.com.au/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_de": "https://www.amazon.de/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_es": "https://www.amazon.es/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_it": "https://www.amazon.it/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_br": "https://www.amazon.com.br/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_za": "https://www.amazon.co.za/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21",
-            "affiliate_url_sg": "https://www.amazon.sg/s?k=Diffuseur+chlore+flottant+Lay-Z-Spa&tag=autoconsom-21"
+            "affiliate_url": "https://www.amazon.fr/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_us": "https://www.amazon.com/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_ca": "https://www.amazon.ca/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_uk": "https://www.amazon.co.uk/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_au": "https://www.amazon.com.au/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_de": "https://www.amazon.de/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_es": "https://www.amazon.es/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_it": "https://www.amazon.it/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_br": "https://www.amazon.com.br/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_mx": "https://www.amazon.com.mx/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_za": "https://www.amazon.co.za/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_jp": "https://www.amazon.co.jp/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21",
+            "affiliate_url_sg": "https://www.amazon.sg/s?k=joint+etancheite+raccord+bestway+lay+z+spa&tag=autoconsom-21"
           }
         }
       ],
       "procedure_steps": [
         {
-          "title": "Remplacement de la cartouche de filtration",
-          "description": "Assurez-vous que la pompe de filtration est éteinte et débranchée. Dévissez le couvercle de la cartouche à l'intérieur du spa. Retirez l'ancienne cartouche, rincez le compartiment et insérez une nouvelle cartouche. Revissez fermement le couvercle."
+          "title": "Résolution de l'erreur E02 Bestway",
+          "description": "Éteignez le bloc, placez les bouchons obturateurs intérieurs, retirez la cartouche Type VI et inspectez les ailettes de la crépine."
         },
         {
-          "title": "Réparation d'une fuite sur le liner ou la couverture",
-          "description": "Localisez précisément la fuite. Nettoyez et séchez soigneusement la zone à réparer. Appliquez un patch de réparation auto-adhésif en PVC, en veillant à bien lisser pour éliminer les bulles d'air. Laissez sécher au moins 30 minutes avant de regonfler ou de remplir."
-        },
-        {
-          "title": "Vidange complète du spa",
-          "description": "Éteignez et débranchez l'unité de contrôle. Connectez l'adaptateur de tuyau d'arrosage au bouchon de vidange externe situé en bas du liner. Dirigez le tuyau vers un endroit approprié pour l'évacuation de l'eau. Ouvrez le bouchon de vidange interne et laissez l'eau s'écouler complètement."
-        },
-        {
-          "title": "Gonflage du spa et de la couverture",
-          "description": "Connectez le tuyau de gonflage à la sortie d'air de l'unité de contrôle et à la valve du spa ou de la couverture. Allumez la fonction de gonflage de l'unité de contrôle. Gonflez jusqu'à ce que le spa soit ferme au toucher, sans sur-gonfler. Déconnectez le tuyau et refermez les valves."
-        },
-        {
-          "title": "Nettoyage du diffuseur de produits chimiques",
-          "description": "Retirez le diffuseur de l'eau du spa. Ouvrez-le et videz les résidus de pastilles. Rincez-le abondamment à l'eau claire pour éliminer les dépôts et les algues. Vérifiez l'intégrité du plastique avant de le remettre en service avec de nouvelles pastilles."
+          "title": "Nettoyage ou changement de cartouche",
+          "description": "Rincez abondamment ou insérez une cartouche Type VI neuve avant de redémarrer le cycle de chauffe."
         }
       ],
       "faqs": [
         {
-          "question": "Pourquoi l'eau de mon Lay-Z-Spa devient-elle trouble ou verte rapidement ?",
-          "answer": "Une eau trouble ou verte indique souvent un problème de filtration ou de traitement chimique. Vérifiez et nettoyez ou remplacez la cartouche de filtration. Testez l'équilibre de l'eau (pH, chlore/brome) et ajustez les niveaux si nécessaire. Assurez-vous que la pompe de filtration fonctionne suffisamment d'heures par jour."
-        },
-        {
-          "question": "À quelle fréquence dois-je remplacer la cartouche de filtration ?",
-          "answer": "Il est recommandé de rincer la cartouche après chaque utilisation et de la remplacer toutes les 1 à 2 semaines, selon la fréquence d'utilisation du spa et la propreté de l'eau. Une cartouche encrassée réduit l'efficacité de la filtration et peut endommager la pompe."
-        },
-        {
-          "question": "Mon spa perd de la pression d'air, comment trouver et réparer une fuite ?",
-          "answer": "Pour localiser une fuite, gonflez le spa et appliquez de l'eau savonneuse sur les parois : des bulles indiqueront la fuite. Pour les petites perforations, utilisez un kit de réparation de liner en PVC. Nettoyez et séchez la zone avant d'appliquer le patch adhésif. Pour les fuites au niveau des valves, vérifiez le serrage et l'état des joints."
-        },
-        {
-          "question": "Puis-je utiliser des produits chimiques de piscine traditionnels dans mon Lay-Z-Spa ?",
-          "answer": "Non, il est fortement déconseillé d'utiliser des produits chimiques de piscine traditionnels. Les spas nécessitent des produits spécifiques (chlore ou brome pour spa) qui sont formulés pour des volumes d'eau plus petits et des températures plus élevées, afin de ne pas endommager le liner et les composants internes du spa."
-        },
-        {
-          "question": "Comment prolonger la durée de vie de la couverture de mon spa ?",
-          "answer": "Pour prolonger la durée de vie de votre couverture, nettoyez-la régulièrement avec de l'eau douce et un savon doux. Évitez l'exposition prolongée au soleil direct en utilisant une housse de protection externe si possible. Vérifiez et réparez rapidement toute petite déchirure ou perforation pour maintenir son isolation et sa flottabilité."
+          "question": "Pourquoi remplacer l'axe en plastique du rotor Bestway par un axe céramique ?",
+          "answer": "L'axe en plastique d'origine a tendance à s'user et vibrer sous l'effet de la chaleur et du calcaire, déclenchant l'erreur E02. L'axe céramique est inusable."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "karcher-k5-power-control-nettoyeur-hp",
@@ -1155,9 +979,9 @@
           "answer": "Un calcaire déposé dans la chambre de la bille rotative ou un grain de sable bloque le vortex. Un trempage dans du vinaigre blanc suffit souvent, sinon le remplacement de la rotabuse DB 145 est nécessaire."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "karcher-wd3-aspirateur-eau-poussiere",
@@ -1298,9 +1122,9 @@
           "answer": "Oui, le matériau filtrant spécifique est imputrescible. Veillez simplement à retirer le sac en papier ou microfibre lors de l'aspiration de liquides."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "stihl-ms-170-tronconneuse-thermique",
@@ -1478,9 +1302,9 @@
           "answer": "La Stihl MS 170 d'origine utilise exclusivement la jauge ultra-fine 1.1mm (Picco Micro Mini 3). Monter une chaîne 1.3mm bloque dans le guide d'origine et endommage la machine."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "husqvarna-automower-310-robot-tondeuse",
@@ -1621,9 +1445,9 @@
           "answer": "La rotation libre permet à la lame de s'escamoter en cas de contact avec une pomme de pin ou un caillou, évitant de tordre le plateau ou d'éjecter un éclat métallique."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "somfy-keypop-keytis-rts-io-telecommande",
@@ -1764,9 +1588,9 @@
           "answer": "Oui, la fonction 'Prog' radio permet de cloner l'autorisation depuis une télécommande en fonctionnement en moins de 10 secondes."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "came-top-432ee-telecommande-portail",
@@ -1870,9 +1694,9 @@
           "answer": "Oui, la TOP 432EE remplace directement la TOP 432NA et la TOP 432EV grâce à son protocole bicanal 433.92 MHz rétrocompatible."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "apc-back-ups-batterie-plomb-etanche-12v",
@@ -1976,9 +1800,9 @@
           "answer": "La borne F1 mesure 4.75mm de large, tandis que la borne F2 mesure 6.35mm. Les onduleurs APC et Eaton utilisent quasi-exclusivement des bornes larges F2."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "makita-dbo180z-ponceuse-excentrique-18v",
@@ -2119,9 +1943,9 @@
           "answer": "Une pression excessive ou un ponçage à sec prolongé fait fondre les micro-crochets en nylon du plateau velcro. Remplacer le plateau 743081-8 résout instantanément le problème."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "bosch-professional-gex-125-1-ae-ponceuse",
@@ -2225,9 +2049,9 @@
           "answer": "Oui, Bosch propose des plateaux souples (courbes et finitions fines) et des plateaux mi-durs (standards universels 2608000349)."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "stihl-gta-26-scie-elagueuse-batterie",
@@ -2368,9 +2192,9 @@
           "answer": "La GTA 26 ne possède pas de pompe à huile automatique pour rester ultra-légère. Déposez quelques gouttes de Multioil Bio directement sur la rainure du guide avant chaque utilisation."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "karcher-k4-power-control-nettoyeur-hp",
@@ -2507,9 +2331,9 @@
           "answer": "Les deux utilisent le raccord Quick Connect jaune. Le flexible du K4 mesure 8m (130 bar) alors que celui du K5 mesure 10m (180 bar). Les deux sont interchangeables."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "nice-flo2re-era-flor-telecommande",
@@ -2609,9 +2433,9 @@
           "answer": "La série Flo utilise des micro-interrupteurs (DIP switchs) à code fixe. La série Flor (FLO2RE) utilise le rolling code sécurisé. Elles ne sont pas compatibles entre elles."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "bft-mitto-b-rcb02-telecommande-portail",
@@ -2711,9 +2535,9 @@
           "answer": "Les modèles BFT Mitto 2M utilisent une petite pile cylindrique 12V (23A). Les modèles récents extra-plats Mitto B RCB utilisent une pile bouton CR2032. Vérifiez le compartiment arrière."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "dewalt-dcw210n-ponceuse-excentrique-18v",
@@ -2854,9 +2678,9 @@
           "answer": "Oui, la sortie arrière intègre le système standard DeWalt AirLock qui permet de brancher directement les tuyaux d'aspirateur sans adaptateur supplémentaire."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "einhell-power-x-change-18v-batteries",
@@ -2993,9 +2817,9 @@
           "answer": "Oui, 100% des outils Einhell portant le logo Power X-Change (jardin, bricolage, nettoyage) partagent exactement les mêmes batteries et chargeurs."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "chamberlain-liftmaster-893max-remote",
@@ -3181,9 +3005,9 @@
           "answer": "Insérez une lame fine de tournevis plat ou une pièce de monnaie dans la fente située sur le côté inférieur droit du boîtier et faites levier avec douceur pour déclipser les deux coques."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "polaris-280-pressure-pool-cleaner",
@@ -3369,9 +3193,9 @@
           "answer": "Vérifiez le flotteur de tête (OEM A40) situé sur le tuyau d'arrivée d'eau : s'il est gorgé d'eau, le robot perd son équilibre vertical. Remplacez le flotteur s'il n'est plus étanche."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "milwaukee-m18-redlithium-battery-pack",
@@ -3557,9 +3381,9 @@
           "answer": "Cela indique un accu endommagé ou trop chaud/froid. Laissez la batterie revenir à température ambiante (15°C à 25°C) pendant 20 minutes avant de réinsérer."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     },
     {
       "slug": "hayward-poolvac-xl-navigator-cleaner",
@@ -3745,9 +3569,9 @@
           "answer": "Vérifiez que le panier de préfiltre de pompe et le filtre à sable/cartouche sont propres. Nettoyez également le cône d'aspiration pour éliminer les feuilles qui réduiraient le débit."
         }
       ],
-      "date_published": "2026-11-19",
-      "date_modified": "2026-11-19",
-      "date_modified_fr": "19/11/2026"
+      "date_published": "2026-11-20",
+      "date_modified": "2026-11-20",
+      "date_modified_fr": "20/11/2026"
     }
   ]
 }
